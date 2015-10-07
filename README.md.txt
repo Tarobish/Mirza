@@ -1,1 +1,1 @@
-# Mirza Font Project
+# Mirza Arabic Font Project
