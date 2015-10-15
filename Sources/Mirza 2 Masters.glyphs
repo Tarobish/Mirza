@@ -16300,7 +16300,7 @@ rightMetricsKey = "meem-ar.fina";
 },
 {
 glyphname = "lam_peh_meem-ar";
-lastChange = "2015-10-15 08:27:41 +0000";
+lastChange = "2015-10-15 08:36:24 +0000";
 layers = (
 {
 components = (
@@ -16324,9 +16324,11 @@ width = 1052;
 components = (
 {
 name = "lam-ar.init";
+transform = "{1, 0, 0, 1, 885, 0}";
 },
 {
 name = "peh-ar.medi";
+transform = "{1, 0, 0, 1, 600, 0}";
 },
 {
 name = "meem-ar.fina";
@@ -16334,7 +16336,7 @@ name = "meem-ar.fina";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 600;
+width = 1113;
 }
 );
 leftMetricsKey = "lam-ar.init";
@@ -18674,7 +18676,7 @@ rightMetricsKey = "yehHamzaabove-ar.fina";
 },
 {
 glyphname = "allah-ar";
-lastChange = "2015-10-15 08:27:41 +0000";
+lastChange = "2015-10-15 08:36:05 +0000";
 layers = (
 {
 components = (
@@ -18702,11 +18704,11 @@ width = 1166;
 components = (
 {
 name = "alef-ar";
-transform = "{1, 0, 0, 1, 1800, 0}";
+transform = "{1, 0, 0, 1, 1113, 0}";
 },
 {
 name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 1200, 0}";
+transform = "{1, 0, 0, 1, 885, 0}";
 },
 {
 name = "lam-ar.medi";
@@ -18718,7 +18720,7 @@ name = "heh-ar.fina";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 1955;
+width = 1268;
 }
 );
 leftMetricsKey = "alef-ar";
