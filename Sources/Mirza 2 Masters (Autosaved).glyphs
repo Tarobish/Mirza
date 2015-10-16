@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/theh-ar.init"
+"/dotlessbeh-ar.init/theh-ar.init/theh-ar/theh-ar  /theh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2328,7 +2328,7 @@ position = "{11, -17}";
 },
 {
 name = top;
-position = "{-11, 225}";
+position = "{-21, 281}";
 }
 );
 guideLines = (
@@ -3227,7 +3227,7 @@ unicode = FE9C;
 },
 {
 glyphname = "theh-ar.init";
-lastChange = "2015-10-16 06:12:21 +0000";
+lastChange = "2015-10-16 06:12:55 +0000";
 layers = (
 {
 components = (
@@ -3236,7 +3236,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, -9, -455}";
+transform = "{1, 0, 0, 1, -19, -399}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
