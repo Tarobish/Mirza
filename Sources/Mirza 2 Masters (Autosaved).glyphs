@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dad-ar.init"
+"/dadDotbelow-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -9510,7 +9510,7 @@ unicode = FEC0;
 },
 {
 glyphname = "dad-ar.init";
-lastChange = "2015-10-16 06:21:38 +0000";
+lastChange = "2015-10-16 06:22:00 +0000";
 layers = (
 {
 components = (
@@ -9533,6 +9533,7 @@ name = "sad-ar.init";
 },
 {
 name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 381, -241}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -9544,7 +9545,7 @@ unicode = FEBF;
 },
 {
 glyphname = "dadDotbelow-ar";
-lastChange = "2015-10-16 06:19:56 +0000";
+lastChange = "2015-10-16 06:22:04 +0000";
 layers = (
 {
 components = (
@@ -9567,6 +9568,7 @@ name = "dad-ar";
 },
 {
 name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, 295, -184}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -9578,7 +9580,7 @@ unicode = 06FB;
 },
 {
 glyphname = "dadDotbelow-ar.fina";
-lastChange = "2015-10-16 06:20:13 +0000";
+lastChange = "2015-10-16 06:22:07 +0000";
 layers = (
 {
 components = (
@@ -9601,6 +9603,7 @@ name = "dad-ar.fina";
 },
 {
 name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, 299, -188}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
