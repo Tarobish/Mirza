@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/noonghunna-ar/noon-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -14789,7 +14792,7 @@ unicode = FEE3;
 },
 {
 glyphname = "noon-ar";
-lastChange = "2015-10-15 23:10:25 +0000";
+lastChange = "2015-10-16 06:23:16 +0000";
 layers = (
 {
 components = (
@@ -14798,6 +14801,7 @@ name = "noonghunna-ar";
 },
 {
 name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 257, -646}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14923,9 +14927,19 @@ unicode = FEE7;
 },
 {
 glyphname = "noonghunna-ar";
-lastChange = "2015-10-09 20:58:59 +0000";
+lastChange = "2015-10-16 06:23:12 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{263, -219}";
+},
+{
+name = top;
+position = "{260, 19}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
