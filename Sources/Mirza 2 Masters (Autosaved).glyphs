@@ -7444,7 +7444,7 @@ unicode = 0633;
 },
 {
 glyphname = "seen-ar.fina";
-lastChange = "2015-10-16 06:04:21 +0000";
+lastChange = "2015-10-16 06:04:38 +0000";
 layers = (
 {
 anchors = (
@@ -7550,6 +7550,16 @@ nodes = (
 width = 879;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{294, -317}";
+},
+{
+name = top;
+position = "{650, 263}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
