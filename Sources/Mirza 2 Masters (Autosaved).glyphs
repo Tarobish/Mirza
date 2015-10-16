@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/sad-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -8716,17 +8713,17 @@ unicode = 0635;
 },
 {
 glyphname = "sad-ar.fina";
-lastChange = "2015-10-16 06:20:02 +0000";
+lastChange = "2015-10-16 06:20:12 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{300, 0}";
+position = "{-45, -310}";
 },
 {
 name = top;
-position = "{300, 500}";
+position = "{462, 352}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9389,7 +9386,7 @@ unicode = 0636;
 },
 {
 glyphname = "dad-ar.fina";
-lastChange = "2015-10-15 23:07:30 +0000";
+lastChange = "2015-10-16 06:20:13 +0000";
 layers = (
 {
 components = (
@@ -9398,6 +9395,7 @@ name = "sad-ar.fina";
 },
 {
 name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 459, -313}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9522,6 +9520,7 @@ unicode = 06FB;
 },
 {
 glyphname = "dadDotbelow-ar.fina";
+lastChange = "2015-10-16 06:20:13 +0000";
 layers = (
 {
 components = (
@@ -9530,6 +9529,7 @@ name = "dad-ar.fina";
 },
 {
 name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, -48, -149}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
