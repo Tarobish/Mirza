@@ -14792,7 +14792,7 @@ unicode = FEE3;
 },
 {
 glyphname = "noon-ar";
-lastChange = "2015-10-16 06:23:22 +0000";
+lastChange = "2015-10-16 06:23:33 +0000";
 layers = (
 {
 components = (
@@ -14815,7 +14815,7 @@ name = "noonghunna-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 300, -130}";
+transform = "{1, 0, 0, 1, 287, -597}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -14928,7 +14928,7 @@ unicode = FEE7;
 },
 {
 glyphname = "noonghunna-ar";
-lastChange = "2015-10-16 06:23:22 +0000";
+lastChange = "2015-10-16 06:23:35 +0000";
 layers = (
 {
 anchors = (
@@ -15002,11 +15002,11 @@ width = 537;
 anchors = (
 {
 name = bottom;
-position = "{292, -219}";
+position = "{294, -219}";
 },
 {
 name = top;
-position = "{299, 500}";
+position = "{286, 33}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
