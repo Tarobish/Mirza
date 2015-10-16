@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"/seen-ar.fina",
 "/seen-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -7445,7 +7444,7 @@ unicode = 0633;
 },
 {
 glyphname = "seen-ar.fina";
-lastChange = "2015-10-16 06:04:42 +0000";
+lastChange = "2015-10-16 06:04:52 +0000";
 layers = (
 {
 anchors = (
@@ -7558,7 +7557,7 @@ position = "{294, -317}";
 },
 {
 name = top;
-position = "{650, 263}";
+position = "{650, 283}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
