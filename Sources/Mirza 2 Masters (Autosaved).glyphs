@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotbelow-ar/dotlessbeh-ar.init/beh-ar.init/beh-ar/beh-ar  /beh-ar"
+"/beh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2665,7 +2665,7 @@ unicode = FB59;
 },
 {
 glyphname = "peh-ar.init";
-lastChange = "2015-10-16 01:00:15 +0000";
+lastChange = "2015-10-16 06:09:26 +0000";
 layers = (
 {
 components = (
@@ -2674,7 +2674,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 44, -28}";
+transform = "{1, 0, 0, 1, 16, -28}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -2805,7 +2805,7 @@ unicode = FB55;
 },
 {
 glyphname = "beeh-ar.init";
-lastChange = "2015-10-16 05:38:18 +0000";
+lastChange = "2015-10-16 06:09:26 +0000";
 layers = (
 {
 components = (
@@ -2814,7 +2814,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 36, 51}";
+transform = "{1, 0, 0, 1, 8, 51}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3622,7 +3622,7 @@ width = 894;
 },
 {
 glyphname = "behThreedotsupabove-ar.init";
-lastChange = "2015-10-16 05:19:20 +0000";
+lastChange = "2015-10-16 06:09:26 +0000";
 layers = (
 {
 components = (
@@ -3631,7 +3631,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 36, 144}";
+transform = "{1, 0, 0, 1, 8, 144}";
 },
 {
 name = "threedotsupabove-ar";
@@ -3775,7 +3775,7 @@ width = 894;
 },
 {
 glyphname = "behThreedotsupbelow-ar.init";
-lastChange = "2015-10-16 01:05:23 +0000";
+lastChange = "2015-10-16 06:09:26 +0000";
 layers = (
 {
 components = (
@@ -3784,7 +3784,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 41, 87}";
+transform = "{1, 0, 0, 1, 13, 87}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3928,7 +3928,7 @@ width = 894;
 },
 {
 glyphname = "tehThreedotsupbelow-ar.init";
-lastChange = "2015-10-16 05:40:45 +0000";
+lastChange = "2015-10-16 06:09:26 +0000";
 layers = (
 {
 components = (
@@ -3937,7 +3937,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 41, 87}";
+transform = "{1, 0, 0, 1, 13, 87}";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -4097,7 +4097,7 @@ width = 894;
 },
 {
 glyphname = "behTwodotsbelowDotabove-ar.init";
-lastChange = "2015-10-16 05:19:20 +0000";
+lastChange = "2015-10-16 06:09:26 +0000";
 layers = (
 {
 components = (
@@ -4106,7 +4106,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 41, 158}";
+transform = "{1, 0, 0, 1, 13, 158}";
 },
 {
 name = "dotabove-ar";
