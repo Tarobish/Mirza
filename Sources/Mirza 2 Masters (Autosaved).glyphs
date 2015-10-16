@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad-ar.fina"
+"/sad-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -8716,7 +8716,7 @@ unicode = 0635;
 },
 {
 glyphname = "sad-ar.fina";
-lastChange = "2015-10-16 06:20:25 +0000";
+lastChange = "2015-10-16 06:20:31 +0000";
 layers = (
 {
 anchors = (
@@ -8851,7 +8851,7 @@ position = "{298, -314}";
 },
 {
 name = top;
-position = "{511, 500}";
+position = "{772, 389}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
