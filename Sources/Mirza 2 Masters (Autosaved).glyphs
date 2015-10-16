@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dad-ar.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -9402,7 +9405,7 @@ unicode = FEBB;
 },
 {
 glyphname = "dad-ar";
-lastChange = "2015-10-16 06:19:56 +0000";
+lastChange = "2015-10-16 06:21:43 +0000";
 layers = (
 {
 components = (
@@ -9425,6 +9428,7 @@ name = "sad-ar";
 },
 {
 name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 786, -244}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -9436,7 +9440,7 @@ unicode = 0636;
 },
 {
 glyphname = "dad-ar.fina";
-lastChange = "2015-10-16 06:20:13 +0000";
+lastChange = "2015-10-16 06:21:46 +0000";
 layers = (
 {
 components = (
@@ -9459,6 +9463,7 @@ name = "sad-ar.fina";
 },
 {
 name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 773, -241}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
