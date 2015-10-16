@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dad-ar.medi"
+"/dad-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -9475,7 +9475,7 @@ unicode = FEBE;
 },
 {
 glyphname = "dad-ar.medi";
-lastChange = "2015-10-16 06:21:08 +0000";
+lastChange = "2015-10-16 06:21:51 +0000";
 layers = (
 {
 components = (
@@ -9498,6 +9498,7 @@ name = "sad-ar.medi";
 },
 {
 name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 396, -244}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
