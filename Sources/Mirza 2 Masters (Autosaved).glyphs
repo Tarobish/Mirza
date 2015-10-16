@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seen-ar.init"
+"/seenDotbelowDotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -7832,7 +7832,7 @@ unicode = FEB4;
 },
 {
 glyphname = "seen-ar.init";
-lastChange = "2015-10-16 06:05:50 +0000";
+lastChange = "2015-10-16 06:06:04 +0000";
 layers = (
 {
 anchors = (
@@ -7933,7 +7933,7 @@ position = "{269, -19}";
 },
 {
 name = top;
-position = "{268, 262}";
+position = "{265, 278}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -8021,7 +8021,7 @@ unicode = FEB3;
 },
 {
 glyphname = "seenDotbelowDotabove-ar";
-lastChange = "2015-10-16 06:03:59 +0000";
+lastChange = "2015-10-16 06:06:07 +0000";
 layers = (
 {
 components = (
@@ -8048,9 +8048,11 @@ name = "seen-ar";
 },
 {
 name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, 285, -190}";
 },
 {
 name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 609, -347}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -8102,6 +8104,7 @@ width = 896;
 },
 {
 glyphname = "seenDotbelowDotabove-ar.init";
+lastChange = "2015-10-16 06:06:05 +0000";
 layers = (
 {
 components = (
@@ -8110,9 +8113,11 @@ name = "seen-ar.init";
 },
 {
 name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, 265, 147}";
 },
 {
 name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 270, -445}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8246,6 +8251,7 @@ width = 896;
 },
 {
 glyphname = "seenThreedotsbelow-ar.init";
+lastChange = "2015-10-16 06:06:05 +0000";
 layers = (
 {
 components = (
@@ -8254,6 +8260,7 @@ name = "seen-ar.init";
 },
 {
 name = "threedotsdownbelow-ar";
+transform = "{1, 0, 0, 1, 273, -25}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8412,7 +8419,7 @@ unicode = FEB8;
 },
 {
 glyphname = "sheen-ar.init";
-lastChange = "2015-10-15 23:07:05 +0000";
+lastChange = "2015-10-16 06:06:05 +0000";
 layers = (
 {
 components = (
@@ -8421,6 +8428,7 @@ name = "seen-ar.init";
 },
 {
 name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, 275, -460}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
