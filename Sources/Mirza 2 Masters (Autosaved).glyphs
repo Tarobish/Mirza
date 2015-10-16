@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/theh-ar.init/alef-ar/dotlessbeh-ar.medi/theh-ar/alef-ar/theh-ar  /dotlessbeh-ar/theh-ar"
+"/beh-ar.init/peh-ar/peh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2635,7 +2635,7 @@ unicode = FB57;
 },
 {
 glyphname = "peh-ar.medi";
-lastChange = "2015-10-16 00:59:50 +0000";
+lastChange = "2015-10-16 06:16:59 +0000";
 layers = (
 {
 components = (
@@ -2658,7 +2658,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 36, -88}";
+transform = "{1, 0, 0, 1, -2, -88}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
