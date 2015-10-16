@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/seen-ar",
-"/seen-ar.medi"
+"/seen-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -7658,7 +7657,7 @@ unicode = FEB2;
 },
 {
 glyphname = "seen-ar.medi";
-lastChange = "2015-10-16 06:05:18 +0000";
+lastChange = "2015-10-16 06:05:24 +0000";
 layers = (
 {
 anchors = (
@@ -7833,9 +7832,19 @@ unicode = FEB4;
 },
 {
 glyphname = "seen-ar.init";
-lastChange = "2015-10-10 03:30:47 +0000";
+lastChange = "2015-10-16 06:05:31 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{250, 0}";
+},
+{
+name = top;
+position = "{250, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -8120,6 +8129,7 @@ width = 531;
 },
 {
 glyphname = "seenDotbelowDotabove-ar.medi";
+lastChange = "2015-10-16 06:05:28 +0000";
 layers = (
 {
 components = (
@@ -8128,9 +8138,11 @@ name = "seen-ar.medi";
 },
 {
 name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, 267, 148}";
 },
 {
 name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 274, -445}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8255,6 +8267,7 @@ width = 531;
 },
 {
 glyphname = "seenThreedotsbelow-ar.medi";
+lastChange = "2015-10-16 06:05:28 +0000";
 layers = (
 {
 components = (
@@ -8263,6 +8276,7 @@ name = "seen-ar.medi";
 },
 {
 name = "threedotsdownbelow-ar";
+transform = "{1, 0, 0, 1, 275, -24}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8354,7 +8368,7 @@ unicode = FEB6;
 },
 {
 glyphname = "sheen-ar.medi";
-lastChange = "2015-10-15 23:06:57 +0000";
+lastChange = "2015-10-16 06:05:28 +0000";
 layers = (
 {
 components = (
@@ -8363,6 +8377,7 @@ name = "seen-ar.medi";
 },
 {
 name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, 279, -460}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
