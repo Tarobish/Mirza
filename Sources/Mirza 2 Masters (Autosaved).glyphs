@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/seen-ar.fina"
+"/seen-ar.fina",
+"/seen-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -7444,7 +7445,7 @@ unicode = 0633;
 },
 {
 glyphname = "seen-ar.fina";
-lastChange = "2015-10-16 06:04:38 +0000";
+lastChange = "2015-10-16 06:04:42 +0000";
 layers = (
 {
 anchors = (
