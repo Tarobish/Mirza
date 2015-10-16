@@ -7832,7 +7832,7 @@ unicode = FEB4;
 },
 {
 glyphname = "seen-ar.init";
-lastChange = "2015-10-16 06:05:44 +0000";
+lastChange = "2015-10-16 06:05:50 +0000";
 layers = (
 {
 anchors = (
@@ -7929,11 +7929,11 @@ width = 500;
 anchors = (
 {
 name = bottom;
-position = "{266, 0}";
+position = "{269, -19}";
 },
 {
 name = top;
-position = "{266, 500}";
+position = "{268, 262}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
