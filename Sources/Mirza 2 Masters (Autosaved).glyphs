@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar.init"
+"/dotlessbeh-ar.init/beh-ar.init/dotlessbeh-ar.medi/beh-ar/beh-ar  /beh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2258,7 +2258,7 @@ width = 264;
 anchors = (
 {
 name = bottom;
-position = "{30, -16}";
+position = "{-8, -16}";
 },
 {
 name = top;
@@ -2313,7 +2313,7 @@ width = 285;
 },
 {
 glyphname = "dotlessbeh-ar.init";
-lastChange = "2015-10-16 06:09:21 +0000";
+lastChange = "2015-10-16 06:10:03 +0000";
 layers = (
 {
 anchors = (
@@ -2372,7 +2372,7 @@ width = 193;
 anchors = (
 {
 name = bottom;
-position = "{33, -15}";
+position = "{-2, -15}";
 },
 {
 name = top;
@@ -2490,7 +2490,7 @@ unicode = FE90;
 },
 {
 glyphname = "beh-ar.medi";
-lastChange = "2015-10-16 01:05:22 +0000";
+lastChange = "2015-10-16 06:10:10 +0000";
 layers = (
 {
 components = (
@@ -2513,7 +2513,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 31, 110}";
+transform = "{1, 0, 0, 1, -7, 110}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -2525,7 +2525,7 @@ unicode = FE92;
 },
 {
 glyphname = "beh-ar.init";
-lastChange = "2015-10-16 06:08:58 +0000";
+lastChange = "2015-10-16 06:10:03 +0000";
 layers = (
 {
 components = (
@@ -2548,7 +2548,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 34, 111}";
+transform = "{1, 0, 0, 1, -1, 111}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
