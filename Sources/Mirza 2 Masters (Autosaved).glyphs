@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh-ar.init/beh-ar.init/dotlessbeh-ar.medi/beh-ar/beh-ar  /beh-ar"
+"/teh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2197,7 +2197,7 @@ width = 894;
 },
 {
 glyphname = "dotlessbeh-ar.medi";
-lastChange = "2015-10-16 05:19:48 +0000";
+lastChange = "2015-10-16 06:10:23 +0000";
 layers = (
 {
 anchors = (
@@ -2263,6 +2263,11 @@ position = "{-8, -16}";
 {
 name = top;
 position = "{20, 283}";
+}
+);
+guideLines = (
+{
+position = "{-1221, 646}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
