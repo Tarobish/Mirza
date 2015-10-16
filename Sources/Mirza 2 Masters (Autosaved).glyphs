@@ -7832,17 +7832,17 @@ unicode = FEB4;
 },
 {
 glyphname = "seen-ar.init";
-lastChange = "2015-10-16 06:05:31 +0000";
+lastChange = "2015-10-16 06:05:44 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{250, 0}";
+position = "{268, -14}";
 },
 {
 name = top;
-position = "{250, 500}";
+position = "{273, 220}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -7926,6 +7926,16 @@ nodes = (
 width = 500;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{266, 0}";
+},
+{
+name = top;
+position = "{266, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
