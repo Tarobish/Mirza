@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/noonTwodotsbelow-ar.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -17904,7 +17907,7 @@ unicode = 0767;
 },
 {
 glyphname = "noonTwodotsbelow-ar.fina";
-lastChange = "2015-10-16 06:24:09 +0000";
+lastChange = "2015-10-16 06:24:31 +0000";
 layers = (
 {
 components = (
@@ -17927,6 +17930,7 @@ name = "noon-ar.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 292, -175}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -17971,7 +17975,7 @@ width = 224;
 },
 {
 glyphname = "noonTwodotsbelow-ar.medi";
-lastChange = "2015-10-16 05:52:21 +0000";
+lastChange = "2015-10-16 06:24:38 +0000";
 layers = (
 {
 components = (
@@ -17994,6 +17998,7 @@ name = "noon-ar.medi";
 },
 {
 name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, -5, 115}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
