@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh-ar.init/theh-ar.init/dotlessbeh-ar.medi/theh-ar/theh-ar  /theh-ar"
+"/dotlessbeh-ar.init/theh-ar.init/dotlessbeh-ar.medi/theh-ar/dotlessbeh-ar.fina/dotlessbeh-ar/theh-ar  /theh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2059,7 +2059,7 @@ unicode = 066E;
 },
 {
 glyphname = "dotlessbeh-ar.fina";
-lastChange = "2015-10-16 00:59:25 +0000";
+lastChange = "2015-10-16 06:12:11 +0000";
 layers = (
 {
 anchors = (
@@ -2069,7 +2069,7 @@ position = "{398, -36}";
 },
 {
 name = top;
-position = "{398, 242}";
+position = "{398, 219}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3157,7 +3157,7 @@ unicode = 062B;
 },
 {
 glyphname = "theh-ar.fina";
-lastChange = "2015-10-16 01:06:14 +0000";
+lastChange = "2015-10-16 06:12:16 +0000";
 layers = (
 {
 components = (
@@ -3166,7 +3166,7 @@ name = "dotlessbeh-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 400, -438}";
+transform = "{1, 0, 0, 1, 400, -461}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
