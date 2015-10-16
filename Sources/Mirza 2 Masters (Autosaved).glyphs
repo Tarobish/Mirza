@@ -8477,7 +8477,7 @@ unicode = FEB7;
 },
 {
 glyphname = "sad-ar";
-lastChange = "2015-10-16 06:19:37 +0000";
+lastChange = "2015-10-16 06:19:47 +0000";
 layers = (
 {
 anchors = (
@@ -8596,6 +8596,16 @@ nodes = (
 width = 947;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{294, -310}";
+},
+{
+name = top;
+position = "{796, 394}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
