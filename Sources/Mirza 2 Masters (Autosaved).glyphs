@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/seenTahTwodotshorizontalabove-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -17891,7 +17888,7 @@ width = 637;
 },
 {
 glyphname = "noonTwodotsbelow-ar.init";
-lastChange = "2015-10-16 06:22:23 +0000";
+lastChange = "2015-10-16 06:22:52 +0000";
 layers = (
 {
 components = (
@@ -17914,6 +17911,7 @@ name = "noon-ar.init";
 },
 {
 name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 1, 116}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -18245,7 +18243,7 @@ width = 531;
 },
 {
 glyphname = "seenTahTwodotshorizontalabove-ar.medi";
-lastChange = "2015-10-16 06:22:23 +0000";
+lastChange = "2015-10-16 06:22:46 +0000";
 layers = (
 {
 components = (
@@ -18272,10 +18270,11 @@ name = "seen-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, 286, -413}";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 519, 162}";
+transform = "{1, 0, 0, 1, 282, -251}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
