@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seenDotbelowDotabove-ar.medi"
+"/seenThreedotsbelow-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -8190,7 +8190,7 @@ width = 523;
 },
 {
 glyphname = "seenThreedotsbelow-ar";
-lastChange = "2015-10-16 06:03:59 +0000";
+lastChange = "2015-10-16 06:06:26 +0000";
 layers = (
 {
 components = (
@@ -8213,6 +8213,7 @@ name = "seen-ar";
 },
 {
 name = "threedotsdownbelow-ar";
+transform = "{1, 0, 0, 1, 290, -388}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -8224,7 +8225,7 @@ unicode = 069B;
 },
 {
 glyphname = "seenThreedotsbelow-ar.fina";
-lastChange = "2015-10-16 06:04:22 +0000";
+lastChange = "2015-10-16 06:06:31 +0000";
 layers = (
 {
 components = (
@@ -8247,6 +8248,7 @@ name = "seen-ar.fina";
 },
 {
 name = "threedotsdownbelow-ar";
+transform = "{1, 0, 0, 1, 300, -389}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -8257,7 +8259,7 @@ width = 896;
 },
 {
 glyphname = "seenThreedotsbelow-ar.init";
-lastChange = "2015-10-16 06:06:05 +0000";
+lastChange = "2015-10-16 06:06:34 +0000";
 layers = (
 {
 components = (
@@ -8280,6 +8282,7 @@ name = "seen-ar.init";
 },
 {
 name = "threedotsdownbelow-ar";
+transform = "{1, 0, 0, 1, 275, -91}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
