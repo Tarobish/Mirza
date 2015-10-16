@@ -14827,7 +14827,7 @@ unicode = 0646;
 },
 {
 glyphname = "noon-ar.fina";
-lastChange = "2015-10-16 06:23:51 +0000";
+lastChange = "2015-10-16 06:24:04 +0000";
 layers = (
 {
 components = (
@@ -14850,6 +14850,7 @@ name = "noonghunna-ar.fina";
 },
 {
 name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 289, -678}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -15072,7 +15073,7 @@ unicode = 06BA;
 },
 {
 glyphname = "noonghunna-ar.fina";
-lastChange = "2015-10-16 06:23:51 +0000";
+lastChange = "2015-10-16 06:24:00 +0000";
 layers = (
 {
 anchors = (
@@ -15150,6 +15151,16 @@ nodes = (
 width = 587;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{289, -306}";
+},
+{
+name = top;
+position = "{288, -48}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
