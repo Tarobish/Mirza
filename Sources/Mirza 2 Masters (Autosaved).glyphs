@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/noonghunna-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -17872,7 +17869,7 @@ width = 482;
 },
 {
 glyphname = "noonTwodotsbelow-ar";
-lastChange = "2015-10-16 06:23:36 +0000";
+lastChange = "2015-10-16 06:24:21 +0000";
 layers = (
 {
 components = (
@@ -17895,6 +17892,7 @@ name = "noon-ar";
 },
 {
 name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 297, -88}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
