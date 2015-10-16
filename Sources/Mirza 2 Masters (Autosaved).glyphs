@@ -7231,7 +7231,7 @@ unicode = FC5C;
 },
 {
 glyphname = "seen-ar";
-lastChange = "2015-10-16 06:03:33 +0000";
+lastChange = "2015-10-16 06:03:47 +0000";
 layers = (
 {
 anchors = (
@@ -7241,7 +7241,7 @@ position = "{197, -312}";
 },
 {
 name = top;
-position = "{549, 263}";
+position = "{537, 242}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -7337,6 +7337,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{294, -319}";
+},
+{
+name = top;
+position = "{448, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
