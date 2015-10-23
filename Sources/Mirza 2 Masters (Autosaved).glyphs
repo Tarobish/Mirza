@@ -31005,6 +31005,42 @@ leftMetricsKey = "dad-ar.init";
 rightMetricsKey = "yehHamzaabove-ar.fina";
 },
 {
+glyphname = "tah_alefMaksura-ar";
+layers = (
+{
+components = (
+{
+name = "tah-ar.init";
+transform = "{1, 0, 0, 1, 590, 0}";
+},
+{
+name = "alefMaksura-ar.fina";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 1025;
+},
+{
+components = (
+{
+name = "tah-ar.init";
+transform = "{1, 0, 0, 1, 660, 0}";
+},
+{
+name = "alefMaksura-ar.fina";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 1127;
+}
+);
+leftMetricsKey = "tah-ar.init";
+rightMetricsKey = "alefMaksura-ar.fina";
+unicode = FCF5;
+},
+{
 glyphname = "ain_meem-ar";
 layers = (
 {
