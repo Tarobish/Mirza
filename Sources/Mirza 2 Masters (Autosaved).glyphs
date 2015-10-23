@@ -24269,6 +24269,42 @@ leftMetricsKey = "lam-ar.init";
 rightMetricsKey = "alefWasla-ar.fina";
 },
 {
+glyphname = "sad_reh-ar";
+layers = (
+{
+components = (
+{
+name = "sad-ar.init";
+transform = "{1, 0, 0, 1, 255, 0}";
+},
+{
+name = "reh-ar.fina";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 833;
+},
+{
+components = (
+{
+name = "sad-ar.init";
+transform = "{1, 0, 0, 1, 286, 0}";
+},
+{
+name = "reh-ar.fina";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 885;
+}
+);
+leftMetricsKey = "sad-ar.init";
+rightMetricsKey = "reh-ar.fina";
+unicode = FD0F;
+},
+{
 glyphname = "lam_hah-ar";
 layers = (
 {
