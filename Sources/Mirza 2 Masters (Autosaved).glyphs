@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_heh-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -24417,31 +24414,9 @@ unicode = FCCC;
 },
 {
 glyphname = "lam_heh-ar.init";
-lastChange = "2015-10-23 07:07:39 +0000";
+lastChange = "2015-10-23 07:09:24 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom_1;
-position = "{260, 0}";
-},
-{
-name = bottom_2;
-position = "{87, 0}";
-},
-{
-name = caret_1;
-position = "{173.5, 0}";
-},
-{
-name = top_1;
-position = "{381, 516}";
-},
-{
-name = top_2;
-position = "{87, 500}";
-}
-);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -24551,18 +24526,113 @@ nodes = (
 width = 347;
 },
 {
-components = (
-{
-name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 358, 0}";
-},
-{
-name = "heh-ar.medi";
-}
-);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 586;
+paths = (
+{
+closed = 1;
+nodes = (
+"379 182 OFFCURVE",
+"367 211 OFFCURVE",
+"343 237 CURVE SMOOTH",
+"323 259 OFFCURVE",
+"298 275 OFFCURVE",
+"274 292 CURVE",
+"243 312 OFFCURVE",
+"221 329 OFFCURVE",
+"209 354 CURVE SMOOTH",
+"202 369 OFFCURVE",
+"192 402 OFFCURVE",
+"188 423 CURVE SMOOTH",
+"182 451 OFFCURVE",
+"198 468 OFFCURVE",
+"227 488 CURVE",
+"190 520 OFFCURVE",
+"165 558 OFFCURVE",
+"142 608 CURVE",
+"69 495 LINE",
+"92 437 OFFCURVE",
+"114 379 OFFCURVE",
+"127 319 CURVE",
+"92 308 OFFCURVE",
+"54 278 OFFCURVE",
+"30 232 CURVE SMOOTH",
+"14 200 OFFCURVE",
+"11 169 OFFCURVE",
+"21 139 CURVE",
+"-20 139 LINE SMOOTH",
+"-59 139 OFFCURVE",
+"-90 107 OFFCURVE",
+"-90 69 CURVE SMOOTH",
+"-90 29 OFFCURVE",
+"-59 0 OFFCURVE",
+"-20 0 CURVE SMOOTH",
+"29 0 LINE SMOOTH",
+"83 0 OFFCURVE",
+"126 15 OFFCURVE",
+"153 44 CURVE",
+"193 30 OFFCURVE",
+"225 16 OFFCURVE",
+"283 -12 CURVE",
+"302 8 OFFCURVE",
+"321 28 OFFCURVE",
+"340 48 CURVE SMOOTH",
+"364 74 OFFCURVE",
+"379 112 OFFCURVE",
+"379 149 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"183 188 OFFCURVE",
+"176 180 OFFCURVE",
+"167 173 CURVE SMOOTH",
+"157 167 OFFCURVE",
+"146 163 OFFCURVE",
+"136 163 CURVE SMOOTH",
+"126 163 OFFCURVE",
+"111 167 OFFCURVE",
+"98 173 CURVE SMOOTH",
+"86 179 OFFCURVE",
+"75 187 OFFCURVE",
+"71 196 CURVE",
+"73 203 OFFCURVE",
+"89 220 OFFCURVE",
+"106 234 CURVE SMOOTH",
+"120 245 OFFCURVE",
+"136 255 OFFCURVE",
+"146 255 CURVE SMOOTH",
+"154 255 OFFCURVE",
+"164 245 OFFCURVE",
+"171 233 CURVE SMOOTH",
+"178 220 OFFCURVE",
+"183 206 OFFCURVE",
+"183 198 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"284 127 OFFCURVE",
+"238 137 OFFCURVE",
+"214 143 CURVE",
+"224 159 OFFCURVE",
+"230 173 OFFCURVE",
+"232 188 CURVE SMOOTH",
+"233 202 OFFCURVE",
+"232 216 OFFCURVE",
+"229 233 CURVE",
+"248 222 OFFCURVE",
+"260 215 OFFCURVE",
+"281 202 CURVE SMOOTH",
+"306 186 OFFCURVE",
+"319 155 OFFCURVE",
+"305 122 CURVE"
+);
+}
+);
+width = 358;
 }
 );
 leftMetricsKey = "lam-ar.init";
