@@ -31655,6 +31655,42 @@ rightMetricsKey = "lam-ar.fina";
 unicode = FC81;
 },
 {
+glyphname = "kaf_lam-ar.medi";
+layers = (
+{
+components = (
+{
+name = "kaf-ar.medi";
+transform = "{1, 0, 0, 1, 274, 0}";
+},
+{
+name = "lam-ar.medi";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 625;
+},
+{
+components = (
+{
+name = "kaf-ar.medi";
+transform = "{1, 0, 0, 1, 285, 0}";
+},
+{
+name = "lam-ar.medi";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 647;
+}
+);
+leftMetricsKey = "kaf-ar.medi";
+rightMetricsKey = "lam-ar.medi";
+unicode = FCEB;
+},
+{
 glyphname = "kaf_alefMaksura-ar";
 lastChange = "2015-10-22 21:02:58 +0000";
 layers = (
