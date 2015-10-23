@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/sad_reh-ar"
+"/sad_reh-ar",
+"/yeh-farsi.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -24345,7 +24346,7 @@ unicode = FD2A;
 },
 {
 glyphname = "sad_reh-ar";
-lastChange = "2015-10-23 07:48:34 +0000";
+lastChange = "2015-10-23 07:51:08 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24451,24 +24452,14 @@ nodes = (
 );
 }
 );
-width = 747;
+width = 737;
 },
 {
-components = (
-{
-name = "sad-ar.init";
-transform = "{1, 0, 0, 1, 286, 0}";
-},
-{
-name = "reh-ar.fina";
-}
-);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 885;
+width = 286;
 }
 );
-leftMetricsKey = "sad-ar.init";
 unicode = FD0F;
 },
 {
