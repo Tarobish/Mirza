@@ -13675,7 +13675,7 @@ unicode = FEDC;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2015-10-19 00:34:03 +0000";
+lastChange = "2015-10-24 05:05:55 +0000";
 layers = (
 {
 anchors = (
@@ -13734,7 +13734,7 @@ nodes = (
 );
 }
 );
-width = 234;
+width = 244;
 },
 {
 anchors = (
@@ -13793,7 +13793,7 @@ nodes = (
 );
 }
 );
-width = 259;
+width = 279;
 }
 );
 unicode = FEDB;
