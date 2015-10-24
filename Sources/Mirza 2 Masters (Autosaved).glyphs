@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 "/reh-ar",
-"/seen_reh-ar"
+"/lam_heh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -28899,7 +28899,7 @@ unicode = FCCC;
 },
 {
 glyphname = "lam_heh-ar.init";
-lastChange = "2015-10-23 07:09:24 +0000";
+lastChange = "2015-10-24 05:21:31 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -29008,7 +29008,7 @@ nodes = (
 );
 }
 );
-width = 347;
+width = 418;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -29120,8 +29120,6 @@ nodes = (
 width = 358;
 }
 );
-leftMetricsKey = "lam-ar.init";
-rightMetricsKey = "heh-ar.medi";
 unicode = FCCD;
 },
 {
