@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/gaf-ar.init"
+"/gaf-ar.init",
+"/keheh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -14169,7 +14170,7 @@ unicode = FB91;
 },
 {
 glyphname = "keheh-ar.init";
-lastChange = "2015-10-24 05:06:00 +0000";
+lastChange = "2015-10-24 05:10:47 +0000";
 layers = (
 {
 components = (
@@ -14189,7 +14190,7 @@ name = "kaf-ar.init";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 259;
+width = 289;
 }
 );
 unicode = FB90;
@@ -14916,7 +14917,7 @@ unicode = FB95;
 },
 {
 glyphname = "gaf-ar.init";
-lastChange = "2015-10-14 19:49:46 +0000";
+lastChange = "2015-10-24 05:10:43 +0000";
 layers = (
 {
 components = (
@@ -14941,7 +14942,7 @@ nodes = (
 );
 }
 );
-width = 234;
+width = 244;
 },
 {
 components = (
