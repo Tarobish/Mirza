@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/keheh-ar.init"
+"/kashida-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -23516,7 +23516,7 @@ width = 590;
 },
 {
 glyphname = "kashida-ar";
-lastChange = "2015-10-08 00:36:25 +0000";
+lastChange = "2015-10-24 05:11:19 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23537,7 +23537,7 @@ nodes = (
 );
 }
 );
-width = 167;
+width = 187;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -29657,13 +29657,13 @@ unicode = FC53;
 },
 {
 glyphname = "allah-ar";
-lastChange = "2015-10-24 05:08:28 +0000";
+lastChange = "2015-10-24 05:11:14 +0000";
 layers = (
 {
 components = (
 {
 name = "alef-ar";
-transform = "{1, 0, 0, 1, 922, 0}";
+transform = "{1, 0, 0, 1, 932, 0}";
 },
 {
 name = "lam-ar.init";
@@ -29679,7 +29679,7 @@ name = "heh-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 1096;
+width = 1106;
 },
 {
 components = (
