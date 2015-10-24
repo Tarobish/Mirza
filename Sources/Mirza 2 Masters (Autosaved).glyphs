@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kafswash-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -16495,7 +16498,7 @@ width = 362;
 },
 {
 glyphname = "ng-ar";
-lastChange = "2015-10-22 21:06:29 +0000";
+lastChange = "2015-10-24 05:06:15 +0000";
 layers = (
 {
 components = (
@@ -16504,12 +16507,12 @@ name = "kaf-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 378, -544}";
+transform = "{1, 0, 0, 1, 398, -544}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 712;
+width = 762;
 },
 {
 components = (
@@ -16530,7 +16533,7 @@ unicode = 06AD;
 },
 {
 glyphname = "ng-ar.fina";
-lastChange = "2015-10-22 21:11:09 +0000";
+lastChange = "2015-10-24 05:06:15 +0000";
 layers = (
 {
 components = (
@@ -16539,12 +16542,12 @@ name = "kaf-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 373, -542}";
+transform = "{1, 0, 0, 1, 392, -542}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 794;
+width = 833;
 },
 {
 components = (
@@ -16600,7 +16603,7 @@ unicode = 06B3;
 },
 {
 glyphname = "gueh-ar.fina";
-lastChange = "2015-10-22 21:11:09 +0000";
+lastChange = "2015-10-24 05:06:15 +0000";
 layers = (
 {
 components = (
@@ -16609,7 +16612,7 @@ name = "gaf-ar.fina";
 },
 {
 name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 353, 48}";
+transform = "{1, 0, 0, 1, 373, 48}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
