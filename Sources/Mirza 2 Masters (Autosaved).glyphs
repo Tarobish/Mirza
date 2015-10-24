@@ -14802,7 +14802,7 @@ unicode = 06AF;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2015-10-24 05:10:03 +0000";
+lastChange = "2015-10-24 05:10:13 +0000";
 layers = (
 {
 components = (
@@ -14841,18 +14841,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"583 543 OFFCURVE",
-"642 578 OFFCURVE",
-"740 623 CURVE",
-"753 687 LINE",
-"666 648 OFFCURVE",
-"581 602 OFFCURVE",
-"503 553 CURVE",
-"491 481 LINE"
+"593 543 OFFCURVE",
+"652 578 OFFCURVE",
+"750 623 CURVE",
+"763 687 LINE",
+"676 648 OFFCURVE",
+"591 602 OFFCURVE",
+"513 553 CURVE",
+"501 481 LINE"
 );
 }
 );
-width = 852;
+width = 903;
 }
 );
 unicode = FB93;
