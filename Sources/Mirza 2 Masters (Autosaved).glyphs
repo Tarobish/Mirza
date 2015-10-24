@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/alef-ar.short"
+"/alef-ar.short",
+"/alefHamzabelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -1591,7 +1592,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2015-10-22 21:11:09 +0000";
+lastChange = "2015-10-24 04:51:28 +0000";
 layers = (
 {
 components = (
