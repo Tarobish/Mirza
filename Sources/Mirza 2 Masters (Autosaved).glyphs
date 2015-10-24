@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/beh-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1806,7 +1803,7 @@ unicode = FB51;
 },
 {
 glyphname = "dotlessbeh-ar";
-lastChange = "2015-10-24 04:41:46 +0000";
+lastChange = "2015-10-24 05:26:43 +0000";
 layers = (
 {
 anchors = (
@@ -1871,11 +1868,11 @@ width = 832;
 anchors = (
 {
 name = bottom;
-position = "{439, -34}";
+position = "{428, -34}";
 },
 {
 name = top;
-position = "{449, 264}";
+position = "{438, 264}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -1884,47 +1881,47 @@ paths = (
 {
 closed = 1;
 nodes = (
-"741 334 OFFCURVE",
-"710 287 OFFCURVE",
-"698 254 CURVE",
-"721 232 OFFCURVE",
-"738 212 OFFCURVE",
-"756 185 CURVE",
-"729 172 OFFCURVE",
-"683 156 OFFCURVE",
-"626 146 CURVE SMOOTH",
-"575 137 OFFCURVE",
-"513 132 OFFCURVE",
-"450 132 CURVE SMOOTH",
-"381 132 OFFCURVE",
-"315 138 OFFCURVE",
-"281 143 CURVE SMOOTH",
-"141 164 OFFCURVE",
-"144 240 OFFCURVE",
-"145 260 CURVE",
-"101 271 LINE",
-"94 247 OFFCURVE",
-"68 137 OFFCURVE",
-"139 62 CURVE SMOOTH",
-"171 28 OFFCURVE",
-"214 12 OFFCURVE",
-"274 1 CURVE SMOOTH",
-"307 -5 OFFCURVE",
-"355 -11 OFFCURVE",
-"422 -11 CURVE SMOOTH",
-"534 -11 OFFCURVE",
-"632 7 OFFCURVE",
-"703 36 CURVE SMOOTH",
-"792 73 OFFCURVE",
-"839 142 OFFCURVE",
-"840 213 CURVE SMOOTH",
-"840 264 OFFCURVE",
-"816 315 OFFCURVE",
-"765 356 CURVE"
+"730 334 OFFCURVE",
+"699 287 OFFCURVE",
+"687 254 CURVE",
+"710 232 OFFCURVE",
+"727 212 OFFCURVE",
+"745 185 CURVE",
+"718 172 OFFCURVE",
+"672 156 OFFCURVE",
+"615 146 CURVE SMOOTH",
+"564 137 OFFCURVE",
+"502 132 OFFCURVE",
+"439 132 CURVE SMOOTH",
+"370 132 OFFCURVE",
+"304 138 OFFCURVE",
+"270 143 CURVE SMOOTH",
+"130 164 OFFCURVE",
+"133 240 OFFCURVE",
+"134 260 CURVE",
+"90 271 LINE",
+"83 247 OFFCURVE",
+"57 137 OFFCURVE",
+"128 62 CURVE SMOOTH",
+"160 28 OFFCURVE",
+"203 12 OFFCURVE",
+"263 1 CURVE SMOOTH",
+"296 -5 OFFCURVE",
+"344 -11 OFFCURVE",
+"411 -11 CURVE SMOOTH",
+"523 -11 OFFCURVE",
+"621 7 OFFCURVE",
+"692 36 CURVE SMOOTH",
+"781 73 OFFCURVE",
+"828 142 OFFCURVE",
+"829 213 CURVE SMOOTH",
+"829 264 OFFCURVE",
+"805 315 OFFCURVE",
+"754 356 CURVE"
 );
 }
 );
-width = 919;
+width = 908;
 }
 );
 unicode = 066E;
@@ -2297,7 +2294,7 @@ width = 274;
 },
 {
 glyphname = "beh-ar";
-lastChange = "2015-10-24 05:25:41 +0000";
+lastChange = "2015-10-24 05:26:43 +0000";
 layers = (
 {
 components = (
@@ -2320,12 +2317,12 @@ name = "dotlessbeh-ar";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 440, 92}";
+transform = "{1, 0, 0, 1, 429, 92}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 919;
+width = 908;
 }
 );
 unicode = 0628;
