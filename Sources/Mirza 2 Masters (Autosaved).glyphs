@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/gaf-ar.medi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -14299,7 +14296,7 @@ width = 259;
 },
 {
 glyphname = "kehehTwodotshorizontalabove-ar.medi";
-lastChange = "2015-10-22 21:11:09 +0000";
+lastChange = "2015-10-24 04:50:05 +0000";
 layers = (
 {
 components = (
@@ -14313,7 +14310,7 @@ transform = "{1, 0, 0, 1, 109, -153}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 351;
+width = 371;
 },
 {
 components = (
@@ -14436,7 +14433,7 @@ width = 259;
 },
 {
 glyphname = "kehehThreedotsbelow-ar.medi";
-lastChange = "2015-10-22 21:11:09 +0000";
+lastChange = "2015-10-24 04:50:05 +0000";
 layers = (
 {
 components = (
@@ -14450,7 +14447,7 @@ transform = "{1, 0, 0, 1, 87, -35}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 351;
+width = 371;
 },
 {
 components = (
@@ -14573,7 +14570,7 @@ width = 259;
 },
 {
 glyphname = "kehehDotabove-ar.medi";
-lastChange = "2015-10-22 21:11:09 +0000";
+lastChange = "2015-10-24 04:50:05 +0000";
 layers = (
 {
 components = (
@@ -14587,7 +14584,7 @@ transform = "{1, 0, 0, 1, 104, -145}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 351;
+width = 371;
 },
 {
 components = (
@@ -14710,7 +14707,7 @@ width = 259;
 },
 {
 glyphname = "kehehThreedotsabove-ar.medi";
-lastChange = "2015-10-22 21:11:31 +0000";
+lastChange = "2015-10-24 04:50:05 +0000";
 layers = (
 {
 components = (
@@ -14724,7 +14721,7 @@ transform = "{1, 0, 0, 1, 109, -160}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 351;
+width = 371;
 },
 {
 components = (
