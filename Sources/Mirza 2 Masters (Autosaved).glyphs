@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alef-ar.short"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -29652,17 +29655,17 @@ unicode = FC53;
 },
 {
 glyphname = "allah-ar";
-lastChange = "2015-10-15 23:03:10 +0000";
+lastChange = "2015-10-24 04:51:13 +0000";
 layers = (
 {
 components = (
 {
 name = "alef-ar";
-transform = "{1, 0, 0, 1, 861, 0}";
+transform = "{1, 0, 0, 1, 881, 0}";
 },
 {
 name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 673, 0}";
+transform = "{1, 0, 0, 1, 693, 0}";
 },
 {
 name = "lam-ar.medi";
@@ -29674,7 +29677,7 @@ name = "heh-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 965;
+width = 985;
 },
 {
 components = (
