@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alef-ar.short"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1313,7 +1310,7 @@ unicode = FE8E;
 },
 {
 glyphname = "alef-ar.short";
-lastChange = "2015-10-24 04:44:12 +0000";
+lastChange = "2015-10-24 04:44:22 +0000";
 layers = (
 {
 anchors = (
@@ -1370,11 +1367,11 @@ width = 175;
 anchors = (
 {
 name = bottom;
-position = "{65, -15}";
+position = "{125, -15}";
 },
 {
 name = top;
-position = "{82, 711}";
+position = "{142, 711}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -1383,39 +1380,39 @@ paths = (
 {
 closed = 1;
 nodes = (
-"10 478 OFFCURVE",
-"14 430 OFFCURVE",
-"24 326 CURVE SMOOTH",
-"30 261 OFFCURVE",
-"36 220 OFFCURVE",
-"39 195 CURVE SMOOTH",
-"43 165 OFFCURVE",
-"46 131 OFFCURVE",
-"47 120 CURVE SMOOTH",
-"54 60 OFFCURVE",
-"45 0 OFFCURVE",
-"45 0 CURVE",
-"88 0 LINE",
-"88 0 OFFCURVE",
-"98 22 OFFCURVE",
-"107 67 CURVE SMOOTH",
-"122 142 OFFCURVE",
-"129 243 OFFCURVE",
-"113 387 CURVE",
-"112 403 OFFCURVE",
-"111 417 OFFCURVE",
-"110 444 CURVE",
-"106 506 OFFCURVE",
-"103 571 OFFCURVE",
-"103 571 CURVE SMOOTH",
-"68 571 LINE",
-"57 560 OFFCURVE",
-"31 523 OFFCURVE",
-"10 478 CURVE"
+"70 478 OFFCURVE",
+"74 430 OFFCURVE",
+"84 326 CURVE SMOOTH",
+"90 261 OFFCURVE",
+"96 220 OFFCURVE",
+"99 195 CURVE SMOOTH",
+"103 165 OFFCURVE",
+"106 131 OFFCURVE",
+"107 120 CURVE SMOOTH",
+"114 60 OFFCURVE",
+"105 0 OFFCURVE",
+"105 0 CURVE",
+"148 0 LINE",
+"148 0 OFFCURVE",
+"158 22 OFFCURVE",
+"167 67 CURVE SMOOTH",
+"182 142 OFFCURVE",
+"189 243 OFFCURVE",
+"173 387 CURVE",
+"172 403 OFFCURVE",
+"171 417 OFFCURVE",
+"170 444 CURVE",
+"166 506 OFFCURVE",
+"163 571 OFFCURVE",
+"163 571 CURVE SMOOTH",
+"128 571 LINE",
+"117 560 OFFCURVE",
+"91 523 OFFCURVE",
+"70 478 CURVE"
 );
 }
 );
-width = 160;
+width = 242;
 }
 );
 },
