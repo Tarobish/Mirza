@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/seen-ar/seenThreedotsbelow-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -7486,7 +7489,7 @@ unicode = FC5C;
 },
 {
 glyphname = "seen-ar";
-lastChange = "2015-10-16 06:03:57 +0000";
+lastChange = "2015-10-24 02:53:14 +0000";
 layers = (
 {
 anchors = (
@@ -7589,7 +7592,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 786;
 },
 {
 anchors = (
@@ -8455,7 +8458,7 @@ width = 523;
 },
 {
 glyphname = "seenThreedotsbelow-ar";
-lastChange = "2015-10-16 06:06:26 +0000";
+lastChange = "2015-10-24 02:53:14 +0000";
 layers = (
 {
 components = (
@@ -8469,7 +8472,7 @@ transform = "{1, 0, 0, 1, 202, -323}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+width = 786;
 },
 {
 components = (
