@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/sad_alefMaksura-ar"
+"/sad_reh-ar.fina",
+"/reh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -26822,7 +26823,7 @@ unicode = FD0F;
 },
 {
 glyphname = "sad_reh-ar.fina";
-lastChange = "2015-10-23 07:59:41 +0000";
+lastChange = "2015-10-24 05:16:00 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -26937,7 +26938,7 @@ nodes = (
 );
 }
 );
-width = 772;
+width = 792;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
