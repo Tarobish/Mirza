@@ -28776,7 +28776,7 @@ unicode = FC42;
 },
 {
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-10-23 19:00:52 +0000";
+lastChange = "2015-10-24 05:21:50 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28834,7 +28834,7 @@ nodes = (
 );
 }
 );
-width = 280;
+width = 310;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -28892,7 +28892,7 @@ nodes = (
 );
 }
 );
-width = 297;
+width = 347;
 }
 );
 unicode = FCCC;
