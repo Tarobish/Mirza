@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf-ar"
+"/kaf-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -15950,7 +15950,7 @@ width = 741;
 },
 {
 glyphname = "kafDotabove-ar";
-lastChange = "2015-10-22 21:11:24 +0000";
+lastChange = "2015-10-24 05:05:37 +0000";
 layers = (
 {
 components = (
@@ -15959,12 +15959,12 @@ name = "kaf-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 373, -529}";
+transform = "{1, 0, 0, 1, 393, -529}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 712;
+width = 762;
 },
 {
 components = (
@@ -16087,7 +16087,7 @@ width = 362;
 },
 {
 glyphname = "kafTwodotshorizontalabove-ar";
-lastChange = "2015-10-22 21:10:13 +0000";
+lastChange = "2015-10-24 05:05:37 +0000";
 layers = (
 {
 components = (
@@ -16096,12 +16096,12 @@ name = "kaf-ar";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 378, -537}";
+transform = "{1, 0, 0, 1, 398, -537}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 712;
+width = 762;
 },
 {
 components = (
