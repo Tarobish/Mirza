@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/dotlessfeh-ar.medi",
+"/dotlessbeh-ar.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -12340,7 +12344,7 @@ width = 944;
 },
 {
 glyphname = "dotlessfeh-ar.medi";
-lastChange = "2015-10-18 20:27:07 +0000";
+lastChange = "2015-10-24 04:40:26 +0000";
 layers = (
 {
 anchors = (
@@ -12411,7 +12415,7 @@ nodes = (
 );
 }
 );
-width = 343;
+width = 363;
 },
 {
 anchors = (
@@ -12482,7 +12486,7 @@ nodes = (
 );
 }
 );
-width = 364;
+width = 384;
 }
 );
 },
