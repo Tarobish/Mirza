@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/lam-ar.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -17035,7 +17038,7 @@ unicode = FEDE;
 },
 {
 glyphname = "lam-ar.medi";
-lastChange = "2015-10-19 00:37:27 +0000";
+lastChange = "2015-10-24 04:47:52 +0000";
 layers = (
 {
 anchors = (
@@ -17098,7 +17101,7 @@ nodes = (
 );
 }
 );
-width = 274;
+width = 294;
 },
 {
 anchors = (
@@ -17161,7 +17164,7 @@ nodes = (
 );
 }
 );
-width = 285;
+width = 315;
 }
 );
 unicode = FEE0;
