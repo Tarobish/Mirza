@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefWasla-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1591,7 +1588,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2015-10-24 04:51:55 +0000";
+lastChange = "2015-10-24 04:53:20 +0000";
 layers = (
 {
 components = (
