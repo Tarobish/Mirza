@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alef-ar/lam_heh-ar.init/ghain-ar/sad-ar/reh-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -8595,7 +8592,7 @@ width = 523;
 },
 {
 glyphname = "sheen-ar";
-lastChange = "2015-10-22 21:11:09 +0000";
+lastChange = "2015-10-24 02:52:50 +0000";
 layers = (
 {
 components = (
