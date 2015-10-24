@@ -2069,7 +2069,7 @@ width = 954;
 },
 {
 glyphname = "dotlessbeh-ar.medi";
-lastChange = "2015-10-16 06:16:06 +0000";
+lastChange = "2015-10-24 04:31:55 +0000";
 layers = (
 {
 anchors = (
@@ -2124,7 +2124,7 @@ nodes = (
 );
 }
 );
-width = 264;
+width = 284;
 },
 {
 anchors = (
