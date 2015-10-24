@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gaf-ar.medi"
+"/gaf-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -14859,7 +14859,7 @@ unicode = FB93;
 },
 {
 glyphname = "gaf-ar.medi";
-lastChange = "2015-10-24 05:10:19 +0000";
+lastChange = "2015-10-24 05:10:25 +0000";
 layers = (
 {
 components = (
@@ -14909,7 +14909,7 @@ nodes = (
 );
 }
 );
-width = 362;
+width = 402;
 }
 );
 unicode = FB95;
@@ -15078,7 +15078,7 @@ width = 259;
 },
 {
 glyphname = "gafThreedots-ar.medi";
-lastChange = "2015-10-19 01:59:40 +0000";
+lastChange = "2015-10-24 05:10:27 +0000";
 layers = (
 {
 components = (
@@ -15093,7 +15093,7 @@ transform = "{1, 0, 0, 1, 120, -97}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 351;
+width = 371;
 },
 {
 components = (
@@ -16465,7 +16465,7 @@ width = 259;
 },
 {
 glyphname = "gafTwodotsbelow-ar.medi";
-lastChange = "2015-10-22 21:06:29 +0000";
+lastChange = "2015-10-24 05:10:27 +0000";
 layers = (
 {
 components = (
@@ -16479,7 +16479,7 @@ transform = "{1, 0, 0, 1, 84, 151}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 351;
+width = 371;
 },
 {
 components = (
@@ -16639,7 +16639,7 @@ unicode = FB97;
 },
 {
 glyphname = "gueh-ar.medi";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:10:27 +0000";
 layers = (
 {
 components = (
@@ -16653,7 +16653,7 @@ transform = "{1, 0, 0, 1, 79, 44}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 351;
+width = 371;
 },
 {
 components = (
