@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem-ar/heh-ar/dal-ar/yeh-farsi  /qaf-ar.medi"
+"/meem-ar/heh-ar/dal-ar/beh-ar/reh-ar  /beh-ar/waw-ar/waw-ar/reh-ar/sad-ar/reh-ar/hah-ar/khah-ar  /beh-ar/reh-ar/zain-ar/khah-ar  /meem-ar/beh-ar/khah-ar  /reh-ar/khah-ar  /yeh-farsi  /qaf-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -5457,7 +5457,7 @@ unicode = FEA3;
 },
 {
 glyphname = "khah-ar";
-lastChange = "2015-10-24 04:54:32 +0000";
+lastChange = "2015-10-24 05:29:07 +0000";
 layers = (
 {
 components = (
@@ -13132,7 +13132,7 @@ unicode = FED6;
 },
 {
 glyphname = "qaf-ar.medi";
-lastChange = "2015-10-24 05:27:45 +0000";
+lastChange = "2015-10-24 05:27:59 +0000";
 layers = (
 {
 components = (
