@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/beh-ar/reh-ar  /meem-ar/alef-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -2402,7 +2399,7 @@ unicode = FE92;
 },
 {
 glyphname = "beh-ar.init";
-lastChange = "2015-10-24 04:44:28 +0000";
+lastChange = "2015-10-24 05:26:10 +0000";
 layers = (
 {
 components = (
@@ -2425,12 +2422,12 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 34, 111}";
+transform = "{1, 0, 0, 1, 44, 111}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 224;
+width = 274;
 }
 );
 unicode = FE91;
@@ -30451,7 +30448,7 @@ unicode = FD3F;
 },
 {
 glyphname = space;
-lastChange = "2015-10-24 05:25:57 +0000";
+lastChange = "2015-10-24 05:26:13 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -30461,7 +30458,7 @@ width = 400;
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 300;
+width = 410;
 }
 );
 unicode = 0020;
