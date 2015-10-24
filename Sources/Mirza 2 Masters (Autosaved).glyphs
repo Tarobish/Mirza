@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -17171,7 +17168,7 @@ unicode = FEE0;
 },
 {
 glyphname = "lam-ar.init";
-lastChange = "2015-10-24 05:08:41 +0000";
+lastChange = "2015-10-24 05:08:46 +0000";
 layers = (
 {
 anchors = (
@@ -17238,11 +17235,11 @@ width = 198;
 anchors = (
 {
 name = bottom;
-position = "{78, -14}";
+position = "{88, -14}";
 },
 {
 name = top;
-position = "{-9, 588}";
+position = "{1, 588}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -17251,49 +17248,49 @@ paths = (
 {
 closed = 1;
 nodes = (
-"145 523 OFFCURVE",
-"121 553 OFFCURVE",
-"100 608 CURVE",
-"25 493 LINE",
-"25 493 OFFCURVE",
-"39 453 OFFCURVE",
-"56 387 CURVE SMOOTH",
-"70 329 OFFCURVE",
-"87 265 OFFCURVE",
-"97 176 CURVE",
-"90 167 OFFCURVE",
-"66 139 OFFCURVE",
-"18 139 CURVE SMOOTH",
-"-20 139 LINE SMOOTH",
-"-66 139 OFFCURVE",
-"-90 98 OFFCURVE",
-"-90 70 CURVE SMOOTH",
-"-90 31 OFFCURVE",
-"-58 0 OFFCURVE",
-"-20 0 CURVE",
-"22 0 LINE",
-"44 0 OFFCURVE",
-"64 4 OFFCURVE",
-"83 11 CURVE SMOOTH",
-"102 19 OFFCURVE",
-"120 32 OFFCURVE",
-"134 48 CURVE SMOOTH",
-"161 78 OFFCURVE",
-"179 122 OFFCURVE",
-"179 176 CURVE SMOOTH",
-"179 204 OFFCURVE",
-"169 265 OFFCURVE",
-"161 324 CURVE SMOOTH",
-"158 346 OFFCURVE",
-"154 370 OFFCURVE",
-"150 398 CURVE SMOOTH",
-"140 457 OFFCURVE",
-"179 472 OFFCURVE",
-"188 479 CURVE"
+"155 523 OFFCURVE",
+"131 553 OFFCURVE",
+"110 608 CURVE",
+"35 493 LINE",
+"35 493 OFFCURVE",
+"49 453 OFFCURVE",
+"66 387 CURVE SMOOTH",
+"80 329 OFFCURVE",
+"97 265 OFFCURVE",
+"107 176 CURVE",
+"100 167 OFFCURVE",
+"76 139 OFFCURVE",
+"28 139 CURVE SMOOTH",
+"-10 139 LINE SMOOTH",
+"-56 139 OFFCURVE",
+"-80 98 OFFCURVE",
+"-80 70 CURVE SMOOTH",
+"-80 31 OFFCURVE",
+"-48 0 OFFCURVE",
+"-10 0 CURVE",
+"32 0 LINE",
+"54 0 OFFCURVE",
+"74 4 OFFCURVE",
+"93 11 CURVE SMOOTH",
+"112 19 OFFCURVE",
+"130 32 OFFCURVE",
+"144 48 CURVE SMOOTH",
+"171 78 OFFCURVE",
+"189 122 OFFCURVE",
+"189 176 CURVE SMOOTH",
+"189 204 OFFCURVE",
+"179 265 OFFCURVE",
+"171 324 CURVE SMOOTH",
+"168 346 OFFCURVE",
+"164 370 OFFCURVE",
+"160 398 CURVE SMOOTH",
+"150 457 OFFCURVE",
+"189 472 OFFCURVE",
+"198 479 CURVE"
 );
 }
 );
-width = 248;
+width = 258;
 }
 );
 unicode = FEDF;
@@ -17369,7 +17366,7 @@ width = 619;
 },
 {
 glyphname = "lamDotabove-ar.init";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:08:47 +0000";
 layers = (
 {
 components = (
@@ -17383,7 +17380,7 @@ transform = "{1, 0, 0, 1, 7, -117}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 188;
+width = 198;
 },
 {
 components = (
@@ -17506,7 +17503,7 @@ width = 619;
 },
 {
 glyphname = "lamThreedotsabove-ar.init";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:08:47 +0000";
 layers = (
 {
 components = (
@@ -17520,7 +17517,7 @@ transform = "{1, 0, 0, 1, 12, -132}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 188;
+width = 198;
 },
 {
 components = (
@@ -17643,7 +17640,7 @@ width = 619;
 },
 {
 glyphname = "lamThreedotsbelow-ar.init";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:08:47 +0000";
 layers = (
 {
 components = (
@@ -17657,7 +17654,7 @@ transform = "{1, 0, 0, 1, 46, -27}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 188;
+width = 198;
 },
 {
 components = (
