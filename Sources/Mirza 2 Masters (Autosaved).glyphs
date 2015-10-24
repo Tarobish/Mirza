@@ -22664,7 +22664,7 @@ unicode = 0765;
 },
 {
 glyphname = "meemDotabove-ar.fina";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 04:46:30 +0000";
 layers = (
 {
 components = (
@@ -22673,12 +22673,12 @@ name = "meem-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 251, -446}";
+transform = "{1, 0, 0, 1, 271, -446}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 447;
+width = 487;
 },
 {
 components = (
