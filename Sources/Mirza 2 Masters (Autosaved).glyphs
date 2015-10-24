@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/waw-ar.fina",
+"/waw-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -21157,7 +21161,7 @@ unicode = 0648;
 },
 {
 glyphname = "waw-ar.fina";
-lastChange = "2015-10-18 21:05:52 +0000";
+lastChange = "2015-10-24 05:01:36 +0000";
 layers = (
 {
 anchors = (
@@ -21247,7 +21251,7 @@ nodes = (
 );
 }
 );
-width = 316;
+width = 346;
 },
 {
 anchors = (
@@ -21380,7 +21384,7 @@ unicode = 0624;
 },
 {
 glyphname = "wawHamzaabove-ar.fina";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:01:39 +0000";
 layers = (
 {
 components = (
@@ -21394,7 +21398,7 @@ transform = "{1, 0, 0, 1, 140, -255}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 316;
+width = 346;
 },
 {
 components = (
