@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/gaf-ar",
+"/keheh-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -14741,7 +14745,7 @@ width = 362;
 },
 {
 glyphname = "gaf-ar";
-lastChange = "2015-10-19 00:35:50 +0000";
+lastChange = "2015-10-24 05:09:11 +0000";
 layers = (
 {
 components = (
@@ -14766,7 +14770,7 @@ nodes = (
 );
 }
 );
-width = 763;
+width = 773;
 },
 {
 components = (
