@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/tah-ar.medi"
+"/ain-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -10830,7 +10830,7 @@ unicode = FEC6;
 },
 {
 glyphname = "zah-ar.medi";
-lastChange = "2015-10-22 21:11:24 +0000";
+lastChange = "2015-10-24 04:49:16 +0000";
 layers = (
 {
 components = (
@@ -10844,7 +10844,7 @@ transform = "{1, 0, 0, 1, 265, -338}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 479;
+width = 499;
 },
 {
 components = (
@@ -11254,7 +11254,7 @@ unicode = FECA;
 },
 {
 glyphname = "ain-ar.medi";
-lastChange = "2015-10-18 20:25:05 +0000";
+lastChange = "2015-10-24 04:49:22 +0000";
 layers = (
 {
 anchors = (
@@ -11320,7 +11320,7 @@ nodes = (
 );
 }
 );
-width = 352;
+width = 372;
 },
 {
 anchors = (
