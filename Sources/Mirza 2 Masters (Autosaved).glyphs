@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem-ar/heh-ar/dal-ar/beh-ar/reh-ar  /beh-ar/waw-ar/waw-ar/beh-ar/hah-ar  /reh-ar/sad-ar/reh-ar/hah-ar  /khah-ar  /beh-ar/reh-ar/zain-ar/khah-ar  /meem-ar/beh-ar/khah-ar  /reh-ar/khah-ar  /yeh-farsi  /qaf-ar.medi",
+"/meem-ar/heh-ar/dal-ar/beh-ar/reh-ar  /beh-ar/waw-ar/waw-ar/beh-ar/hah-ar  /reh-ar/sad-ar/reh-ar/hah-ar  /beh-ar/khah-ar  /beh-ar/reh-ar/beh-ar/hah-ar  /zain-ar/khah-ar  /meem-ar/beh-ar/khah-ar  /reh-ar/khah-ar  /yeh-farsi  /qaf-ar.medi",
 "/hah-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -6834,7 +6834,7 @@ unicode = 0632;
 },
 {
 glyphname = "zain-ar.fina";
-lastChange = "2015-10-24 05:01:04 +0000";
+lastChange = "2015-10-24 05:31:30 +0000";
 layers = (
 {
 components = (
@@ -6857,12 +6857,12 @@ name = "reh-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 121, -379}";
+transform = "{1, 0, 0, 1, 141, -379}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 286;
+width = 336;
 }
 );
 unicode = FEB0;
