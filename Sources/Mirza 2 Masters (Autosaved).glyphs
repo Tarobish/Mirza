@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad-ar.fina"
+"/sad-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -9456,7 +9456,7 @@ unicode = FEBC;
 },
 {
 glyphname = "sad-ar.init";
-lastChange = "2015-10-16 06:21:37 +0000";
+lastChange = "2015-10-24 05:03:32 +0000";
 layers = (
 {
 anchors = (
@@ -9556,7 +9556,7 @@ nodes = (
 );
 }
 );
-width = 578;
+width = 608;
 },
 {
 anchors = (
@@ -9698,7 +9698,7 @@ unicode = 0636;
 },
 {
 glyphname = "dad-ar.fina";
-lastChange = "2015-10-22 21:10:58 +0000";
+lastChange = "2015-10-24 05:03:27 +0000";
 layers = (
 {
 components = (
@@ -9707,12 +9707,12 @@ name = "sad-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 767, -313}";
+transform = "{1, 0, 0, 1, 787, -313}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 982;
+width = 1022;
 },
 {
 components = (
@@ -9838,7 +9838,7 @@ unicode = 06FB;
 },
 {
 glyphname = "dadDotbelow-ar.fina";
-lastChange = "2015-10-22 21:11:32 +0000";
+lastChange = "2015-10-24 05:03:27 +0000";
 layers = (
 {
 components = (
@@ -9847,7 +9847,7 @@ name = "dad-ar.fina";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 260, -149}";
+transform = "{1, 0, 0, 1, 280, -149}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
