@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alef-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1107,7 +1104,7 @@ unicode = 0621;
 },
 {
 glyphname = "alef-ar";
-lastChange = "2015-10-24 04:51:50 +0000";
+lastChange = "2015-10-24 04:51:53 +0000";
 layers = (
 {
 anchors = (
@@ -1164,11 +1161,11 @@ width = 174;
 anchors = (
 {
 name = bottom;
-position = "{63, -15}";
+position = "{133, -15}";
 },
 {
 name = top;
-position = "{73, 613}";
+position = "{143, 613}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -1177,39 +1174,39 @@ paths = (
 {
 closed = 1;
 nodes = (
-"0 509 OFFCURVE",
-"0 453 OFFCURVE",
-"11 347 CURVE SMOOTH",
-"18 280 OFFCURVE",
-"23 242 OFFCURVE",
-"28 207 CURVE SMOOTH",
-"32 177 OFFCURVE",
-"35 168 OFFCURVE",
-"38 134 CURVE SMOOTH",
-"44 67 OFFCURVE",
-"39 0 OFFCURVE",
-"39 0 CURVE",
-"88 0 LINE",
-"88 0 OFFCURVE",
-"99 24 OFFCURVE",
-"109 71 CURVE SMOOTH",
-"125 149 OFFCURVE",
-"133 268 OFFCURVE",
-"115 425 CURVE SMOOTH",
-"114 432 OFFCURVE",
-"111 464 OFFCURVE",
-"110 475 CURVE SMOOTH",
-"105 533 OFFCURVE",
-"105 608 OFFCURVE",
-"105 608 CURVE SMOOTH",
-"65 608 LINE",
-"52 596 OFFCURVE",
-"24 556 OFFCURVE",
-"0 509 CURVE"
+"70 509 OFFCURVE",
+"70 453 OFFCURVE",
+"81 347 CURVE SMOOTH",
+"88 280 OFFCURVE",
+"93 242 OFFCURVE",
+"98 207 CURVE SMOOTH",
+"102 177 OFFCURVE",
+"105 168 OFFCURVE",
+"108 134 CURVE SMOOTH",
+"114 67 OFFCURVE",
+"109 0 OFFCURVE",
+"109 0 CURVE",
+"158 0 LINE",
+"158 0 OFFCURVE",
+"169 24 OFFCURVE",
+"179 71 CURVE SMOOTH",
+"195 149 OFFCURVE",
+"203 268 OFFCURVE",
+"185 425 CURVE SMOOTH",
+"184 432 OFFCURVE",
+"181 464 OFFCURVE",
+"180 475 CURVE SMOOTH",
+"175 533 OFFCURVE",
+"175 608 OFFCURVE",
+"175 608 CURVE SMOOTH",
+"135 608 LINE",
+"122 596 OFFCURVE",
+"94 556 OFFCURVE",
+"70 509 CURVE"
 );
 }
 );
-width = 185;
+width = 255;
 }
 );
 unicode = 0627;
@@ -1591,7 +1588,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2015-10-24 04:51:28 +0000";
+lastChange = "2015-10-24 04:51:55 +0000";
 layers = (
 {
 components = (
@@ -1600,12 +1597,12 @@ name = "alef-ar";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 54, 164}";
+transform = "{1, 0, 0, 1, 104, 164}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 104;
+width = 174;
 },
 {
 components = (
