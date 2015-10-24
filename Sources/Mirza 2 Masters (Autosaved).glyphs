@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/heh-ar.fina"
+"/hehDoachashmee-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -20216,7 +20216,7 @@ unicode = 06C2;
 },
 {
 glyphname = "hehgoalHamzaabove-ar.fina";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:07:22 +0000";
 layers = (
 {
 components = (
@@ -20225,12 +20225,12 @@ name = "heh-ar.fina";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 149, -227}";
+transform = "{1, 0, 0, 1, 170, -227}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 399;
+width = 440;
 },
 {
 components = (
@@ -20277,7 +20277,7 @@ unicode = 06BE;
 },
 {
 glyphname = "hehDoachashmee-ar.fina";
-lastChange = "2015-10-19 00:45:55 +0000";
+lastChange = "2015-10-24 05:07:26 +0000";
 layers = (
 {
 anchors = (
@@ -20405,7 +20405,7 @@ nodes = (
 );
 }
 );
-width = 447;
+width = 477;
 },
 {
 anchors = (
@@ -20867,7 +20867,7 @@ unicode = 0629;
 },
 {
 glyphname = "tehMarbuta-ar.fina";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:07:22 +0000";
 layers = (
 {
 components = (
@@ -20876,12 +20876,12 @@ name = "heh-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 149, -352}";
+transform = "{1, 0, 0, 1, 170, -352}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 399;
+width = 440;
 },
 {
 components = (
