@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.fina"
+"/alefWasla-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -1626,7 +1626,7 @@ unicode = 0625;
 },
 {
 glyphname = "alefHamzabelow-ar.fina";
-lastChange = "2015-10-22 21:13:47 +0000";
+lastChange = "2015-10-24 04:52:28 +0000";
 layers = (
 {
 components = (
@@ -1635,12 +1635,12 @@ name = "alef-ar.fina";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 155, 162}";
+transform = "{1, 0, 0, 1, 175, 162}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 232;
+width = 272;
 },
 {
 components = (
@@ -1769,22 +1769,22 @@ unicode = 0671;
 },
 {
 glyphname = "alefWasla-ar.fina";
-lastChange = "2015-10-19 03:30:13 +0000";
+lastChange = "2015-10-24 04:52:55 +0000";
 layers = (
 {
 components = (
 {
 name = "wasla-ar";
-transform = "{1, 0, 0, 1, 99, -45}";
+transform = "{1, 0, 0, 1, 114, -45}";
 },
 {
 name = "alef-ar.fina.short";
-transform = "{1, 0, 0, 1, 17, 0}";
+transform = "{1, 0, 0, 1, 32, 0}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 249;
+width = 304;
 },
 {
 components = (
