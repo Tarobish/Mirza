@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/meemDotbelow-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -22763,7 +22766,7 @@ width = 482;
 },
 {
 glyphname = "meemDotbelow-ar";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 04:57:31 +0000";
 layers = (
 {
 components = (
