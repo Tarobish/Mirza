@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMaksura-ar.fina"
+"/yehbarree-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -21789,7 +21789,7 @@ unicode = 064A;
 },
 {
 glyphname = "yeh-ar.fina";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:07:55 +0000";
 layers = (
 {
 components = (
@@ -21798,12 +21798,12 @@ name = "alefMaksura-ar.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 260, -128}";
+transform = "{1, 0, 0, 1, 290, -128}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 590;
+width = 640;
 },
 {
 components = (
@@ -21929,7 +21929,7 @@ unicode = 0626;
 },
 {
 glyphname = "yehHamzaabove-ar.fina";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:07:55 +0000";
 layers = (
 {
 components = (
@@ -21938,12 +21938,12 @@ name = "alefMaksura-ar.fina";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 142, -522}";
+transform = "{1, 0, 0, 1, 172, -522}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 590;
+width = 640;
 },
 {
 components = (
@@ -22061,7 +22061,7 @@ unicode = 06CC;
 },
 {
 glyphname = "yeh-farsi.fina";
-lastChange = "2015-10-22 20:21:18 +0000";
+lastChange = "2015-10-24 05:07:55 +0000";
 layers = (
 {
 components = (
@@ -22071,7 +22071,7 @@ name = "alefMaksura-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 590;
+width = 640;
 },
 {
 components = (
@@ -23252,7 +23252,7 @@ unicode = 0770;
 },
 {
 glyphname = "seenTahTwodotshorizontalabove-ar.fina";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:07:56 +0000";
 layers = (
 {
 components = (
@@ -23261,16 +23261,16 @@ name = "seen-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 631, -453}";
+transform = "{1, 0, 0, 1, 641, -453}";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 627, -333}";
+transform = "{1, 0, 0, 1, 637, -333}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 879;
+width = 909;
 },
 {
 components = (
@@ -23294,7 +23294,7 @@ width = 896;
 },
 {
 glyphname = "seenTahTwodotshorizontalabove-ar.init";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:07:56 +0000";
 layers = (
 {
 components = (
@@ -23312,7 +23312,7 @@ transform = "{1, 0, 0, 1, 271, -333}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 500;
+width = 530;
 },
 {
 components = (
