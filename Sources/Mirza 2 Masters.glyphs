@@ -11540,7 +11540,7 @@ unicode = FECB;
 },
 {
 glyphname = "ghain-ar";
-lastChange = "2015-10-24 05:05:10 +0000";
+lastChange = "2015-10-24 05:35:51 +0000";
 layers = (
 {
 components = (
@@ -11549,7 +11549,7 @@ name = "ain-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 235, -289}";
+transform = "{1, 0, 0, 1, 235, -319}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23385,7 +23385,7 @@ width = 523;
 },
 {
 glyphname = "hahTahabove-ar";
-lastChange = "2015-10-24 04:57:14 +0000";
+lastChange = "2015-10-24 05:35:53 +0000";
 layers = (
 {
 components = (
@@ -23394,7 +23394,7 @@ name = "hah-ar";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 253, -361}";
+transform = "{1, 0, 0, 1, 253, -277}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
