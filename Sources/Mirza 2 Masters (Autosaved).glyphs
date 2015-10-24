@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/heh-ar.init"
+"/heh-ar.init",
+"/beh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2332,7 +2333,7 @@ unicode = 0628;
 },
 {
 glyphname = "beh-ar.fina";
-lastChange = "2015-10-24 04:44:28 +0000";
+lastChange = "2015-10-24 04:58:31 +0000";
 layers = (
 {
 components = (
@@ -2355,12 +2356,12 @@ name = "dotlessbeh-ar.fina";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 409, 92}";
+transform = "{1, 0, 0, 1, 439, 92}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 894;
+width = 954;
 }
 );
 unicode = FE90;
