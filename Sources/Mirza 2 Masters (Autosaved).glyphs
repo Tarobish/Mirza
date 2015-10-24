@@ -14745,7 +14745,7 @@ width = 362;
 },
 {
 glyphname = "gaf-ar";
-lastChange = "2015-10-24 05:09:11 +0000";
+lastChange = "2015-10-24 05:09:39 +0000";
 layers = (
 {
 components = (
@@ -14776,6 +14776,7 @@ width = 773;
 components = (
 {
 name = "keheh-ar";
+transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -14784,18 +14785,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"572 535 OFFCURVE",
-"648 578 OFFCURVE",
-"737 619 CURVE",
-"751 683 LINE",
-"670 647 OFFCURVE",
-"571 593 OFFCURVE",
-"501 549 CURVE",
-"489 477 LINE"
+"562 535 OFFCURVE",
+"638 578 OFFCURVE",
+"727 619 CURVE",
+"741 683 LINE",
+"660 647 OFFCURVE",
+"561 593 OFFCURVE",
+"491 549 CURVE",
+"479 477 LINE"
 );
 }
 );
-width = 759;
+width = 839;
 }
 );
 unicode = 06AF;
