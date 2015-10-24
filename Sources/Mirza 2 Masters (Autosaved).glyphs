@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehbarree-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -22283,7 +22280,7 @@ unicode = 06D2;
 },
 {
 glyphname = "yehbarree-ar.fina";
-lastChange = "2015-10-24 05:08:15 +0000";
+lastChange = "2015-10-24 05:08:24 +0000";
 layers = (
 {
 anchors = (
@@ -22355,11 +22352,11 @@ width = 582;
 anchors = (
 {
 name = bottom;
-position = "{278, -306}";
+position = "{298, -306}";
 },
 {
 name = top;
-position = "{242, 113}";
+position = "{262, 113}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -22368,54 +22365,54 @@ paths = (
 {
 closed = 1;
 nodes = (
-"615 139 LINE",
-"481 139 LINE SMOOTH",
-"432 139 OFFCURVE",
-"397 127 OFFCURVE",
-"370 113 CURVE SMOOTH",
-"344 99 OFFCURVE",
-"327 82 OFFCURVE",
-"318 72 CURVE SMOOTH",
-"301 55 OFFCURVE",
-"271 39 OFFCURVE",
-"227 18 CURVE SMOOTH",
-"193 2 OFFCURVE",
-"155 -17 OFFCURVE",
-"123 -42 CURVE SMOOTH",
-"96 -64 OFFCURVE",
-"60 -96 OFFCURVE",
-"60 -160 CURVE SMOOTH",
-"60 -179 OFFCURVE",
-"66 -215 OFFCURVE",
-"108 -244 CURVE SMOOTH",
-"146 -270 OFFCURVE",
-"203 -284 OFFCURVE",
-"277 -284 CURVE SMOOTH",
-"587 -284 LINE",
-"625 -238 OFFCURVE",
-"650 -197 OFFCURVE",
-"674 -145 CURVE",
-"264 -145 LINE SMOOTH",
-"190 -145 OFFCURVE",
-"167 -136 OFFCURVE",
-"167 -119 CURVE SMOOTH",
-"167 -110 OFFCURVE",
-"174 -102 OFFCURVE",
-"184 -98 CURVE",
-"210 -90 OFFCURVE",
-"231 -80 OFFCURVE",
-"242 -74 CURVE SMOOTH",
-"266 -61 OFFCURVE",
-"302 -36 OFFCURVE",
-"310 -28 CURVE SMOOTH",
-"315 -24 OFFCURVE",
-"340 0 OFFCURVE",
-"391 0 CURVE SMOOTH",
-"615 0 LINE SMOOTH"
+"635 139 LINE",
+"501 139 LINE SMOOTH",
+"452 139 OFFCURVE",
+"417 127 OFFCURVE",
+"390 113 CURVE SMOOTH",
+"364 99 OFFCURVE",
+"347 82 OFFCURVE",
+"338 72 CURVE SMOOTH",
+"321 55 OFFCURVE",
+"291 39 OFFCURVE",
+"247 18 CURVE SMOOTH",
+"213 2 OFFCURVE",
+"175 -17 OFFCURVE",
+"143 -42 CURVE SMOOTH",
+"116 -64 OFFCURVE",
+"80 -96 OFFCURVE",
+"80 -160 CURVE SMOOTH",
+"80 -179 OFFCURVE",
+"86 -215 OFFCURVE",
+"128 -244 CURVE SMOOTH",
+"166 -270 OFFCURVE",
+"223 -284 OFFCURVE",
+"297 -284 CURVE SMOOTH",
+"607 -284 LINE",
+"645 -238 OFFCURVE",
+"670 -197 OFFCURVE",
+"694 -145 CURVE",
+"284 -145 LINE SMOOTH",
+"210 -145 OFFCURVE",
+"187 -136 OFFCURVE",
+"187 -119 CURVE SMOOTH",
+"187 -110 OFFCURVE",
+"194 -102 OFFCURVE",
+"204 -98 CURVE",
+"230 -90 OFFCURVE",
+"251 -80 OFFCURVE",
+"262 -74 CURVE SMOOTH",
+"286 -61 OFFCURVE",
+"322 -36 OFFCURVE",
+"330 -28 CURVE SMOOTH",
+"335 -24 OFFCURVE",
+"360 0 OFFCURVE",
+"411 0 CURVE SMOOTH",
+"635 0 LINE SMOOTH"
 );
 }
 );
-width = 584;
+width = 634;
 }
 );
 unicode = FBAF;
@@ -22457,7 +22454,7 @@ unicode = 06D3;
 },
 {
 glyphname = "yehbarreeHamzaabove-ar.fina";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:08:25 +0000";
 layers = (
 {
 components = (
@@ -22466,12 +22463,12 @@ name = "yehbarree-ar.fina";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 241, -481}";
+transform = "{1, 0, 0, 1, 261, -481}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 542;
+width = 582;
 },
 {
 components = (
@@ -29619,13 +29616,13 @@ unicode = FC49;
 },
 {
 glyphname = "heh_alefMaksura-ar";
-lastChange = "2015-10-24 05:01:54 +0000";
+lastChange = "2015-10-24 05:08:28 +0000";
 layers = (
 {
 components = (
 {
 name = "heh-ar.init";
-transform = "{1, 0, 0, 1, 590, 0}";
+transform = "{1, 0, 0, 1, 640, 0}";
 },
 {
 name = "alefMaksura-ar.fina";
@@ -29633,7 +29630,7 @@ name = "alefMaksura-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 1007;
+width = 1057;
 },
 {
 components = (
@@ -29656,21 +29653,21 @@ unicode = FC53;
 },
 {
 glyphname = "allah-ar";
-lastChange = "2015-10-24 04:57:18 +0000";
+lastChange = "2015-10-24 05:08:28 +0000";
 layers = (
 {
 components = (
 {
 name = "alef-ar";
-transform = "{1, 0, 0, 1, 881, 0}";
+transform = "{1, 0, 0, 1, 922, 0}";
 },
 {
 name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 693, 0}";
+transform = "{1, 0, 0, 1, 734, 0}";
 },
 {
 name = "lam-ar.medi";
-transform = "{1, 0, 0, 1, 399, 0}";
+transform = "{1, 0, 0, 1, 440, 0}";
 },
 {
 name = "heh-ar.fina";
@@ -29678,7 +29675,7 @@ name = "heh-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 1055;
+width = 1096;
 },
 {
 components = (
