@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessqaf-ar"
+"/dotlessfeh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -12491,7 +12491,7 @@ width = 394;
 },
 {
 glyphname = "dotlessfeh-ar.init";
-lastChange = "2015-10-23 19:45:43 +0000";
+lastChange = "2015-10-24 04:42:26 +0000";
 layers = (
 {
 anchors = (
@@ -12573,7 +12573,7 @@ nodes = (
 );
 }
 );
-width = 281;
+width = 311;
 },
 {
 anchors = (
@@ -12655,7 +12655,7 @@ nodes = (
 );
 }
 );
-width = 312;
+width = 352;
 }
 );
 },
