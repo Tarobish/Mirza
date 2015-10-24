@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehbarree-ar"
+"/heh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -22422,7 +22422,7 @@ unicode = FBAF;
 },
 {
 glyphname = "yehbarreeHamzaabove-ar";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 04:58:00 +0000";
 layers = (
 {
 components = (
@@ -22431,12 +22431,12 @@ name = "yehbarree-ar";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 388, -138}";
+transform = "{1, 0, 0, 1, 408, -138}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 900;
+width = 950;
 },
 {
 components = (
