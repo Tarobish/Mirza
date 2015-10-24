@@ -2297,7 +2297,7 @@ width = 274;
 },
 {
 glyphname = "beh-ar";
-lastChange = "2015-10-24 04:44:28 +0000";
+lastChange = "2015-10-24 04:46:43 +0000";
 layers = (
 {
 components = (
@@ -2320,12 +2320,12 @@ name = "dotlessbeh-ar";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 409, 92}";
+transform = "{1, 0, 0, 1, 440, 92}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 849;
+width = 919;
 }
 );
 unicode = 0628;
