@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/beh-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -2399,7 +2402,7 @@ unicode = FE92;
 },
 {
 glyphname = "beh-ar.init";
-lastChange = "2015-10-24 05:26:10 +0000";
+lastChange = "2015-10-24 05:26:31 +0000";
 layers = (
 {
 components = (
