@@ -13800,7 +13800,7 @@ unicode = FEDB;
 },
 {
 glyphname = "keheh-ar";
-lastChange = "2015-10-24 04:55:55 +0000";
+lastChange = "2015-10-24 04:55:58 +0000";
 layers = (
 {
 anchors = (
@@ -13876,7 +13876,7 @@ nodes = (
 );
 }
 );
-width = 793;
+width = 773;
 },
 {
 anchors = (
