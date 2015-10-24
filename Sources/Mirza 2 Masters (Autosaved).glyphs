@@ -22729,7 +22729,7 @@ width = 411;
 },
 {
 glyphname = "meemDotabove-ar.medi";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 04:51:04 +0000";
 layers = (
 {
 components = (
@@ -22743,7 +22743,7 @@ transform = "{1, 0, 0, 1, 252, -371}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 471;
+width = 491;
 },
 {
 components = (
@@ -22798,7 +22798,7 @@ unicode = 0766;
 },
 {
 glyphname = "meemDotbelow-ar.fina";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 04:51:04 +0000";
 layers = (
 {
 components = (
@@ -22807,12 +22807,12 @@ name = "meem-ar.fina";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 113, -170}";
+transform = "{1, 0, 0, 1, 133, -170}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 447;
+width = 487;
 },
 {
 components = (
@@ -22832,7 +22832,7 @@ width = 489;
 },
 {
 glyphname = "meemDotbelow-ar.init";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 04:51:04 +0000";
 layers = (
 {
 components = (
@@ -22846,7 +22846,7 @@ transform = "{1, 0, 0, 1, 176, 182}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 380;
+width = 410;
 },
 {
 components = (
@@ -22866,7 +22866,7 @@ width = 411;
 },
 {
 glyphname = "meemDotbelow-ar.medi";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 04:51:04 +0000";
 layers = (
 {
 components = (
@@ -22880,7 +22880,7 @@ transform = "{1, 0, 0, 1, 190, 146}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 471;
+width = 491;
 },
 {
 components = (
@@ -23333,7 +23333,7 @@ width = 531;
 },
 {
 glyphname = "seenTahTwodotshorizontalabove-ar.medi";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 04:51:09 +0000";
 layers = (
 {
 components = (
@@ -23351,7 +23351,7 @@ transform = "{1, 0, 0, 1, 275, -333}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 529;
+width = 549;
 },
 {
 components = (
@@ -23478,7 +23478,7 @@ width = 568;
 },
 {
 glyphname = "hahTahabove-ar.medi";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 04:51:09 +0000";
 layers = (
 {
 components = (
@@ -23492,7 +23492,7 @@ transform = "{1, 0, 0, 1, 192, -331}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 579;
+width = 599;
 },
 {
 components = (
