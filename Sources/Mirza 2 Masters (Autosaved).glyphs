@@ -1769,37 +1769,37 @@ unicode = 0671;
 },
 {
 glyphname = "alefWasla-ar.fina";
-lastChange = "2015-10-24 04:53:02 +0000";
+lastChange = "2015-10-24 04:53:14 +0000";
 layers = (
 {
 components = (
 {
 name = "wasla-ar";
-transform = "{1, 0, 0, 1, 64, -45}";
+transform = "{1, 0, 0, 1, 44, -45}";
 },
 {
 name = "alef-ar.fina.short";
-transform = "{1, 0, 0, 1, -18, 0}";
+transform = "{1, 0, 0, 1, -38, 0}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 254;
+width = 234;
 },
 {
 components = (
 {
 name = "wasla-ar";
-transform = "{1, 0, 0, 1, 121, -10}";
+transform = "{1, 0, 0, 1, 76, -10}";
 },
 {
 name = "alef-ar.fina.short";
-transform = "{1, 0, 0, 1, 12, 0}";
+transform = "{1, 0, 0, 1, -33, 0}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 271;
+width = 286;
 }
 );
 unicode = FB51;
