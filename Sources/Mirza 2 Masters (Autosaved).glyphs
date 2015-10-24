@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/meem-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -18183,7 +18186,7 @@ unicode = FEE4;
 },
 {
 glyphname = "meem-ar.init";
-lastChange = "2015-10-19 00:39:59 +0000";
+lastChange = "2015-10-24 04:45:56 +0000";
 layers = (
 {
 anchors = (
@@ -18259,7 +18262,7 @@ nodes = (
 );
 }
 );
-width = 380;
+width = 410;
 },
 {
 anchors = (
@@ -18335,7 +18338,7 @@ nodes = (
 );
 }
 );
-width = 411;
+width = 441;
 }
 );
 unicode = FEE3;
