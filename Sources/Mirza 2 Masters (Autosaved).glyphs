@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/waw-ar.fina",
-"/waw-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -21161,7 +21157,7 @@ unicode = 0648;
 },
 {
 glyphname = "waw-ar.fina";
-lastChange = "2015-10-24 05:01:36 +0000";
+lastChange = "2015-10-24 05:01:47 +0000";
 layers = (
 {
 anchors = (
@@ -21341,7 +21337,7 @@ nodes = (
 );
 }
 );
-width = 357;
+width = 387;
 }
 );
 unicode = FEEE;
@@ -23448,7 +23444,7 @@ width = 613;
 },
 {
 glyphname = "hahTahabove-ar.init";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 05:01:52 +0000";
 layers = (
 {
 components = (
@@ -23462,7 +23458,7 @@ transform = "{1, 0, 0, 1, 192, -354}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 527;
+width = 557;
 },
 {
 components = (
@@ -29620,6 +29616,7 @@ unicode = FC49;
 },
 {
 glyphname = "heh_alefMaksura-ar";
+lastChange = "2015-10-24 05:01:54 +0000";
 layers = (
 {
 components = (
@@ -29633,7 +29630,7 @@ name = "alefMaksura-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 976;
+width = 1007;
 },
 {
 components = (
