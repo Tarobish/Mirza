@@ -30451,12 +30451,12 @@ unicode = FD3F;
 },
 {
 glyphname = space;
-lastChange = "2015-10-15 23:18:39 +0000";
+lastChange = "2015-10-24 05:25:57 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 150;
+width = 400;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
