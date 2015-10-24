@@ -84,6 +84,9 @@ position = "{395, -34}";
 },
 {
 position = "{402, 283}";
+},
+{
+position = "{319, 360}";
 }
 );
 id = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -4915,7 +4918,7 @@ unicode = 062D;
 },
 {
 glyphname = "hah-ar.fina";
-lastChange = "2015-10-24 05:32:36 +0000";
+lastChange = "2015-10-24 05:32:42 +0000";
 layers = (
 {
 anchors = (
@@ -5039,11 +5042,6 @@ position = "{346, -25}";
 {
 name = top;
 position = "{314, 379}";
-}
-);
-guideLines = (
-{
-position = "{240, 360}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
