@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hehgoal-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -20937,7 +20934,7 @@ unicode = 06C3;
 },
 {
 glyphname = "tehMarbutagoal-ar.fina";
-lastChange = "2015-10-23 19:45:22 +0000";
+lastChange = "2015-10-24 04:47:31 +0000";
 layers = (
 {
 components = (
@@ -20946,12 +20943,12 @@ name = "hehgoal-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 192, -451}";
+transform = "{1, 0, 0, 1, 212, -451}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 380;
+width = 420;
 },
 {
 components = (
