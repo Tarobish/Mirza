@@ -45,6 +45,9 @@ position = "{187, 376}";
 },
 {
 position = "{-173, -234}";
+},
+{
+position = "{165, 318}";
 }
 );
 id = "51F41761-070F-43EA-B302-C90910850260";
@@ -4918,7 +4921,7 @@ unicode = 062D;
 },
 {
 glyphname = "hah-ar.fina";
-lastChange = "2015-10-24 05:33:00 +0000";
+lastChange = "2015-10-24 05:33:07 +0000";
 layers = (
 {
 anchors = (
@@ -4933,11 +4936,6 @@ position = "{312, -19}";
 {
 name = top;
 position = "{259, 343}";
-}
-);
-guideLines = (
-{
-position = "{215, 454}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
