@@ -23778,7 +23778,7 @@ unicode = FEFB;
 },
 {
 glyphname = "lam_alef-ar.fina";
-lastChange = "2015-10-23 01:54:51 +0000";
+lastChange = "2015-10-24 05:12:39 +0000";
 layers = (
 {
 anchors = (
@@ -23883,7 +23883,7 @@ nodes = (
 );
 }
 );
-width = 539;
+width = 559;
 },
 {
 anchors = (
@@ -23988,7 +23988,7 @@ nodes = (
 );
 }
 );
-width = 573;
+width = 603;
 }
 );
 unicode = FEFC;
