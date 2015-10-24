@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/tah-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -10562,7 +10565,7 @@ unicode = FEC4;
 },
 {
 glyphname = "tah-ar.init";
-lastChange = "2015-10-18 20:23:36 +0000";
+lastChange = "2015-10-24 05:04:15 +0000";
 layers = (
 {
 anchors = (
@@ -10656,7 +10659,7 @@ nodes = (
 );
 }
 );
-width = 435;
+width = 465;
 },
 {
 anchors = (
