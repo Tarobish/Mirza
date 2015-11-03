@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefWasla-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1901,12 +1898,11 @@ unicode = 0671;
 {
 color = 0;
 glyphname = "alefWasla-ar.fina";
-lastChange = "2015-11-03 01:46:41 +0000";
+lastChange = "2015-11-03 01:46:44 +0000";
 layers = (
 {
 components = (
 {
-disableAlignment = 1;
 name = "wasla-ar";
 transform = "{1, 0, 0, 1, 64, -45}";
 },
