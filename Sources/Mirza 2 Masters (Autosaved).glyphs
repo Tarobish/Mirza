@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehbarreeTwoabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -33275,16 +33272,16 @@ layers = (
 components = (
 {
 name = "yehbarree-ar";
-transform = "{1, 0, 0, 1, 134, 0}";
 },
 {
+disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, 0, 0}";
+transform = "{0.8, 0, 0, 0.8, 169, 78}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 1084;
+width = 950;
 },
 {
 components = (
