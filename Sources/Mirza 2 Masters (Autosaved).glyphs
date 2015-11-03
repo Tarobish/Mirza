@@ -1679,12 +1679,16 @@ unicode = 0672;
 {
 color = 4;
 glyphname = "alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-03 01:43:15 +0000";
+lastChange = "2015-11-03 01:43:27 +0000";
 layers = (
 {
 components = (
 {
 name = "alef-ar.fina.short";
+},
+{
+name = wavyhamza_above;
+transform = "{1, 0, 0, 1, 87, -44}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1698,6 +1702,7 @@ name = "alef-ar.fina.short";
 },
 {
 name = wavyhamza_above;
+transform = "{1, 0, 0, 1, 106, 35}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
