@@ -24668,7 +24668,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2015-11-03 01:58:18 +0000";
+lastChange = "2015-11-03 01:58:29 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24748,12 +24748,9 @@ nodes = (
 "119 -51 OFFCURVE",
 "139 -45 OFFCURVE",
 "163 -28 CURVE SMOOTH",
-"185 -13 OFFCURVE",
-"203 8 OFFCURVE",
-"216 31 CURVE SMOOTH",
-"251 92 OFFCURVE",
-"255 93 OFFCURVE",
-"255 135 CURVE"
+"215 8 OFFCURVE",
+"253 83 OFFCURVE",
+"253 158 CURVE"
 );
 }
 );
