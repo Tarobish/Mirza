@@ -33574,7 +33574,7 @@ width = 315;
 {
 color = 4;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-03 06:36:15 +0000";
+lastChange = "2015-11-03 06:36:22 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33701,11 +33701,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"-614 51 OFFCURVE",
-"-610 41 OFFCURVE",
-"-662 6 CURVE SMOOTH",
-"-687 -11 OFFCURVE",
-"-720 -36 OFFCURVE",
+"-518 -15 OFFCURVE",
+"-720 42 OFFCURVE",
 "-720 -80 CURVE SMOOTH",
 "-720 -126 OFFCURVE",
 "-685 -166 OFFCURVE",
@@ -33729,7 +33726,7 @@ nodes = (
 "-475 24 OFFCURVE",
 "-475 43 OFFCURVE",
 "-475 129 CURVE",
-"-614 129 LINE"
+"-518 139 LINE"
 );
 }
 );
