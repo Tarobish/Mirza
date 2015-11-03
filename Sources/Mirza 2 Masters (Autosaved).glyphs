@@ -1,8 +1,7 @@
 {
 DisplayStrings = (
 "/madda-ar",
-"/hamzaabove-ar",
-"/alefHamzaabove-ar"
+"/hamzaabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -57923,7 +57922,7 @@ unicode = 0652;
 },
 {
 glyphname = "madda-ar";
-lastChange = "2015-11-03 02:19:56 +0000";
+lastChange = "2015-11-03 02:20:42 +0000";
 layers = (
 {
 anchors = (
@@ -57984,11 +57983,11 @@ width = 0;
 anchors = (
 {
 name = _top;
-position = "{25, 527}";
+position = "{22, 681}";
 },
 {
 name = top;
-position = "{27, 527}";
+position = "{21, 682}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
