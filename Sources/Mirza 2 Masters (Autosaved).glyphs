@@ -1714,7 +1714,7 @@ width = 269;
 {
 color = 4;
 glyphname = "alefWavyhamzabelow-ar";
-lastChange = "2015-11-03 01:44:23 +0000";
+lastChange = "2015-11-03 01:44:38 +0000";
 layers = (
 {
 components = (
@@ -1723,6 +1723,7 @@ name = "alef-ar.short";
 },
 {
 name = wavyhamza_below;
+transform = "{1, 0, 0, 1, 98, 154}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1735,8 +1736,7 @@ components = (
 name = "alef-ar.short";
 },
 {
-name = wavyhamza_above;
-transform = "{1, 0, 0, 1, 104, -807}";
+name = wavyhamza_below;
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
