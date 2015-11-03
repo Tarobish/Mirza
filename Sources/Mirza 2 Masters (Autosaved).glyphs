@@ -2,7 +2,9 @@
 DisplayStrings = (
 "/alef-ar/meem-ar.alt",
 "/reh-ar/rreh-ar",
-"/behVinvertedbelow-ar.init"
+"/behVinvertedbelow-ar.init",
+"/meem-ar.altfina",
+"/meem-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -24748,11 +24750,74 @@ width = 600;
 },
 {
 glyphname = "meem-ar.altfina";
-lastChange = "2015-11-03 00:20:13 +0000";
+lastChange = "2015-11-03 02:02:50 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"499 96 LINE",
+"506 122 OFFCURVE",
+"508 149 OFFCURVE",
+"504 183 CURVE SMOOTH",
+"500 217 OFFCURVE",
+"493 241 OFFCURVE",
+"476 263 CURVE SMOOTH",
+"461 282 OFFCURVE",
+"444 292 OFFCURVE",
+"421 292 CURVE SMOOTH",
+"386 292 OFFCURVE",
+"359 268 OFFCURVE",
+"341 243 CURVE SMOOTH",
+"329 227 OFFCURVE",
+"319 207 OFFCURVE",
+"309 181 CURVE",
+"295 190 LINE",
+"259 101 OFFCURVE",
+"209 48 OFFCURVE",
+"118 -4 CURVE SMOOTH",
+"86 -22 OFFCURVE",
+"53 -40 OFFCURVE",
+"-12 -75 CURVE",
+"-3 -88 LINE",
+"19 -83 OFFCURVE",
+"37 -81 OFFCURVE",
+"55 -81 CURVE SMOOTH",
+"78 -81 OFFCURVE",
+"100 -84 OFFCURVE",
+"119 -84 CURVE SMOOTH",
+"147 -84 OFFCURVE",
+"167 -78 OFFCURVE",
+"191 -61 CURVE SMOOTH",
+"227 -36 OFFCURVE",
+"272 12 OFFCURVE",
+"308 89 CURVE",
+"351 61 OFFCURVE",
+"399 44 OFFCURVE",
+"467 37 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"476 110 CURVE",
+"431 120 OFFCURVE",
+"382 141 OFFCURVE",
+"335 169 CURVE",
+"335 169 OFFCURVE",
+"347 222 OFFCURVE",
+"389 222 CURVE SMOOTH",
+"414 222 OFFCURVE",
+"444 203 OFFCURVE",
+"460 172 CURVE SMOOTH",
+"474 145 OFFCURVE",
+"476 110 OFFCURVE"
+);
+}
+);
 width = 600;
 },
 {
