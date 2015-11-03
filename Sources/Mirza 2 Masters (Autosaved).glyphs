@@ -24671,7 +24671,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2015-11-03 02:11:52 +0000";
+lastChange = "2015-11-03 02:12:05 +0000";
 layers = (
 {
 anchors = (
@@ -24755,11 +24755,11 @@ width = 598;
 anchors = (
 {
 name = bottom;
-position = "{325, 0}";
+position = "{439, 0}";
 },
 {
 name = top;
-position = "{325, 500}";
+position = "{493, 353}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
