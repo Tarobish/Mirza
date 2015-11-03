@@ -57922,7 +57922,7 @@ unicode = 0652;
 },
 {
 glyphname = "madda-ar";
-lastChange = "2015-11-03 02:19:44 +0000";
+lastChange = "2015-11-03 02:19:56 +0000";
 layers = (
 {
 anchors = (
@@ -57987,7 +57987,7 @@ position = "{25, 527}";
 },
 {
 name = top;
-position = "{29, 542}";
+position = "{27, 527}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
