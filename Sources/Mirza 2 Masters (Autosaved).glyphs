@@ -59280,7 +59280,7 @@ unicode = FBBC;
 },
 {
 glyphname = wavyhamza_above;
-lastChange = "2015-11-03 01:36:56 +0000";
+lastChange = "2015-11-03 01:37:06 +0000";
 layers = (
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -59301,8 +59301,8 @@ nodes = (
 "-16 704 OFFCURVE",
 "6 713 OFFCURVE",
 "34 713 CURVE SMOOTH",
-"56 713 OFFCURVE",
-"69 704 OFFCURVE",
+"50 713 OFFCURVE",
+"56 710 OFFCURVE",
 "69 704 CURVE",
 "83 721 LINE",
 "83 721 OFFCURVE",
