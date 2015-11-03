@@ -33575,14 +33575,27 @@ width = 315;
 {
 color = 4;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-03 06:40:08 +0000";
+lastChange = "2015-11-03 06:41:07 +0000";
 layers = (
 {
+components = (
+{
+name = "yehRohingya-ar.pt.fina";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 602;
+width = 600;
 },
 {
+components = (
+{
+name = "yehRohingya-ar.pt.fina";
+},
+{
+name = "twodotshorizontalbelow-ar";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 width = 716;
