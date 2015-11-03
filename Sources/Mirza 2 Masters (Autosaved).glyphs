@@ -11049,7 +11049,7 @@ unicode = 08AA;
 {
 color = 4;
 glyphname = "rehLoop-ar.fina";
-lastChange = "2015-11-03 06:24:19 +0000";
+lastChange = "2015-11-03 06:24:42 +0000";
 layers = (
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -11122,18 +11122,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"-88 -126 OFFCURVE",
-"-70 -114 OFFCURVE",
-"-49 -114 CURVE SMOOTH",
-"-19 -114 OFFCURVE",
-"7 -131 OFFCURVE",
-"27 -164 CURVE",
 "24 -165 OFFCURVE",
 "0 -175 OFFCURVE",
 "-11 -177 CURVE",
 "-81 -193 OFFCURVE",
 "-94 -163 OFFCURVE",
-"-91 -143 CURVE SMOOTH"
+"-91 -143 CURVE SMOOTH",
+"-88 -126 OFFCURVE",
+"-70 -114 OFFCURVE",
+"-49 -114 CURVE SMOOTH",
+"-19 -114 OFFCURVE",
+"7 -131 OFFCURVE",
+"27 -164 CURVE"
 );
 }
 );
