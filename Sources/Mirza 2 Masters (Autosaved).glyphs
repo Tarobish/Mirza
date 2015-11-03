@@ -36839,7 +36839,7 @@ rightMetricsKey = "alefWavyhamzabelow-ar.fina";
 {
 color = 4;
 glyphname = "lam_alefWavyhamzabelow-ar.isol";
-lastChange = "2015-11-03 01:50:54 +0000";
+lastChange = "2015-11-03 01:51:09 +0000";
 layers = (
 {
 components = (
@@ -36855,6 +36855,10 @@ width = 337;
 components = (
 {
 name = "lam_alef-ar";
+},
+{
+name = wavyhamza_below;
+transform = "{1, 0, 0, 1, 200, 144}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
