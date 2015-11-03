@@ -1714,7 +1714,7 @@ width = 269;
 {
 color = 4;
 glyphname = "alefWavyhamzabelow-ar";
-lastChange = "2015-11-03 01:44:13 +0000";
+lastChange = "2015-11-03 01:44:23 +0000";
 layers = (
 {
 components = (
@@ -1722,7 +1722,7 @@ components = (
 name = "alef-ar.short";
 },
 {
-name = wavyhamza_above;
+name = wavyhamza_below;
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
