@@ -36802,7 +36802,7 @@ rightMetricsKey = "alefWavyhamzaabove-ar.isol";
 {
 color = 4;
 glyphname = "lam_alefWavyhamzabelow-ar.fina";
-lastChange = "2015-11-03 01:49:53 +0000";
+lastChange = "2015-11-03 01:50:03 +0000";
 layers = (
 {
 components = (
@@ -36817,16 +36817,12 @@ width = 549;
 {
 components = (
 {
-name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 269, 0}";
-},
-{
-name = "alefWavyhamzabelow-ar.fina";
+name = "lam_alef-ar.fina";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 517;
+width = 603;
 }
 );
 leftMetricsKey = "lam-ar.fina";
