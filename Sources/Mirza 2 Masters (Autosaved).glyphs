@@ -59409,7 +59409,7 @@ width = 0;
 },
 {
 glyphname = wavyhamza_below;
-lastChange = "2015-11-03 01:26:40 +0000";
+lastChange = "2015-11-03 01:27:10 +0000";
 layers = (
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -59470,7 +59470,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 },
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -59531,7 +59531,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 }
 );
 },
