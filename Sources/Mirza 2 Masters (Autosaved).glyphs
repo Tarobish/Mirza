@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"/meem-ar.init",
 "/meem-ar.alt",
 "/hehDoachashmee-ar.fina/hehVinvertedabove-ar.fina"
 );
@@ -24669,7 +24668,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2015-11-03 01:55:25 +0000";
+lastChange = "2015-11-03 01:55:56 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24732,6 +24731,24 @@ nodes = (
 "268 169 OFFCURVE",
 "280 222 OFFCURVE",
 "322 222 CURVE SMOOTH"
+);
+},
+{
+closed = 0;
+nodes = (
+"266 183 LINE",
+"246 106 OFFCURVE",
+"57 15 OFFCURVE",
+"-31 -22 CURVE",
+"-31 -32 LINE",
+"63 -39 LINE",
+"96 -39 OFFCURVE",
+"144 -17 OFFCURVE",
+"206 25 CURVE SMOOTH",
+"251 58 OFFCURVE",
+"293 97 OFFCURVE",
+"299 169 CURVE",
+"302 169 LINE"
 );
 }
 );
