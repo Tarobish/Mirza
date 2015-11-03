@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
-"/reh-ar",
-"/rehLoop-ar"
+"/rehLoop-ar",
+"/reh-ar.fina/rehVbelow-ar.fina",
+"/rehLoop-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -11049,7 +11050,7 @@ unicode = 08AA;
 {
 color = 4;
 glyphname = "rehLoop-ar.fina";
-lastChange = "2015-10-30 20:54:44 +0000";
+lastChange = "2015-11-03 06:21:39 +0000";
 layers = (
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -11059,6 +11060,53 @@ width = 600;
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"84 140 OFFCURVE",
+"69 117 OFFCURVE",
+"53 87 CURVE",
+"92 51 OFFCURVE",
+"122 14 OFFCURVE",
+"122 -41 CURVE SMOOTH",
+"122 -79 OFFCURVE",
+"108 -108 OFFCURVE",
+"80 -135 CURVE SMOOTH",
+"31 -182 OFFCURVE",
+"-61 -228 OFFCURVE",
+"-140 -271 CURVE",
+"-131 -284 LINE",
+"-110 -278 OFFCURVE",
+"-92 -276 OFFCURVE",
+"-77 -276 CURVE SMOOTH",
+"-55 -276 OFFCURVE",
+"-23 -280 OFFCURVE",
+"-1 -280 CURVE SMOOTH",
+"39 -280 OFFCURVE",
+"60 -267 OFFCURVE",
+"81 -247 CURVE SMOOTH",
+"102 -227 OFFCURVE",
+"122 -199 OFFCURVE",
+"138 -162 CURVE SMOOTH",
+"179 -68 OFFCURVE",
+"164 19 OFFCURVE",
+"164 19 CURVE SMOOTH",
+"164 19 OFFCURVE",
+"187 0 OFFCURVE",
+"229 0 CURVE SMOOTH",
+"285 0 LINE",
+"285 98 LINE",
+"216 98 LINE SMOOTH",
+"192 98 OFFCURVE",
+"159 108 OFFCURVE",
+"137 124 CURVE SMOOTH",
+"130 129 OFFCURVE",
+"117 141 OFFCURVE",
+"101 159 CURVE"
+);
+}
+);
 width = 600;
 }
 );
