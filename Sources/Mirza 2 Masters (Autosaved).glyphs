@@ -24829,7 +24829,7 @@ width = 650;
 },
 {
 glyphname = "meem-ar.altfina";
-lastChange = "2015-11-03 02:16:04 +0000";
+lastChange = "2015-11-03 02:16:55 +0000";
 layers = (
 {
 anchors = (
@@ -24970,10 +24970,10 @@ nodes = (
 "160 -108 OFFCURVE",
 "168 -111 OFFCURVE",
 "191 -111 CURVE SMOOTH",
-"229 -111 OFFCURVE",
-"257 -103 OFFCURVE",
-"282 -86 CURVE SMOOTH",
-"323 -58 OFFCURVE",
+"223 -111 OFFCURVE",
+"246 -100 OFFCURVE",
+"272 -86 CURVE SMOOTH",
+"313 -64 OFFCURVE",
 "353 -5 OFFCURVE",
 "369 70 CURVE",
 "410 38 OFFCURVE",
