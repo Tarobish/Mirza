@@ -1679,7 +1679,7 @@ unicode = 0672;
 {
 color = 4;
 glyphname = "alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-03 01:43:04 +0000";
+lastChange = "2015-11-03 01:43:15 +0000";
 layers = (
 {
 components = (
@@ -1692,9 +1692,17 @@ name = Regular;
 width = 242;
 },
 {
+components = (
+{
+name = "alef-ar.fina.short";
+},
+{
+name = wavyhamza_above;
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 600;
+width = 269;
 }
 );
 },
@@ -36673,7 +36681,7 @@ unicode = FEFA;
 {
 color = 4;
 glyphname = "lam_alefWavyhamzaabove-ar.fina";
-lastChange = "2015-10-31 08:44:53 +0000";
+lastChange = "2015-11-03 01:43:15 +0000";
 layers = (
 {
 components = (
@@ -36693,7 +36701,7 @@ width = 818;
 components = (
 {
 name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 600, 0}";
+transform = "{1, 0, 0, 1, 269, 0}";
 },
 {
 name = "alefWavyhamzaabove-ar.fina";
@@ -36701,7 +36709,7 @@ name = "alefWavyhamzaabove-ar.fina";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 848;
+width = 517;
 }
 );
 leftMetricsKey = "lam-ar.fina";
@@ -36710,7 +36718,7 @@ rightMetricsKey = "alefWavyhamzaabove-ar.fina";
 {
 color = 4;
 glyphname = "lam_alefWavyhamzaabove-ar.isol";
-lastChange = "2015-10-31 08:44:53 +0000";
+lastChange = "2015-11-03 01:43:15 +0000";
 layers = (
 {
 components = (
@@ -36730,7 +36738,7 @@ width = 818;
 components = (
 {
 name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 600, 0}";
+transform = "{1, 0, 0, 1, 269, 0}";
 },
 {
 name = "alefWavyhamzaabove-ar.fina";
@@ -36738,7 +36746,7 @@ name = "alefWavyhamzaabove-ar.fina";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 848;
+width = 517;
 }
 );
 leftMetricsKey = "lam-ar.isol";
