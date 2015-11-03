@@ -24669,9 +24669,19 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2015-11-03 02:04:06 +0000";
+lastChange = "2015-11-03 02:04:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{406, 0}";
+},
+{
+name = top;
+position = "{453, 312}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
