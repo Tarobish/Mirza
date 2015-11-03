@@ -10891,7 +10891,7 @@ unicode = FC5C;
 {
 color = 4;
 glyphname = "rehLoop-ar";
-lastChange = "2015-11-03 06:20:27 +0000";
+lastChange = "2015-11-03 06:20:36 +0000";
 layers = (
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -10924,8 +10924,8 @@ nodes = (
 "212 -213 OFFCURVE",
 "236 -208 OFFCURVE",
 "253 -199 CURVE",
-"255 -209 OFFCURVE",
-"264 -261 OFFCURVE",
+"254 -212 OFFCURVE",
+"259 -234 OFFCURVE",
 "264 -261 CURVE",
 "325 -207 LINE",
 "322 -197 OFFCURVE",
