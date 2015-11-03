@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/yehRohingya-ar.fina",
-"/dotlessfeh-ar.medi/veh-ar.medi"
+"/yehRohingya-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -33575,7 +33574,7 @@ width = 315;
 {
 color = 4;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-03 06:30:00 +0000";
+lastChange = "2015-11-03 06:31:57 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33633,6 +33632,20 @@ nodes = (
 "189 228 OFFCURVE",
 "229 192 OFFCURVE",
 "229 171 CURVE SMOOTH"
+);
+},
+{
+closed = 0;
+nodes = (
+"30 26 LINE",
+"22 4 LINE",
+"-4 -38 OFFCURVE",
+"-120 -15 OFFCURVE",
+"-57 -122 CURVE",
+"-81 -128 LINE",
+"-100 -77 OFFCURVE",
+"-147 -41 OFFCURVE",
+"-139 24 CURVE"
 );
 }
 );
