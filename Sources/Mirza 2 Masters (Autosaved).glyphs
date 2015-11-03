@@ -52958,7 +52958,7 @@ unicode = 0020;
 },
 {
 glyphname = "ray-ar";
-lastChange = "2015-11-03 01:23:39 +0000";
+lastChange = "2015-11-03 01:23:53 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -53045,7 +53045,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 661;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -53102,8 +53102,8 @@ nodes = (
 "545 -69 OFFCURVE",
 "547 0 CURVE",
 "589 3 OFFCURVE",
-"625 16 OFFCURVE",
-"663 54 CURVE",
+"625 15 OFFCURVE",
+"663 53 CURVE",
 "663 178 LINE",
 "625 144 OFFCURVE",
 "585 139 OFFCURVE",
