@@ -52958,7 +52958,7 @@ unicode = 0020;
 },
 {
 glyphname = "ray-ar";
-lastChange = "2015-11-03 01:23:23 +0000";
+lastChange = "2015-11-03 01:23:32 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -53014,8 +53014,8 @@ nodes = (
 "523 -97 OFFCURVE",
 "519 0 OFFCURVE",
 "519 0 CURVE",
-"567 7 OFFCURVE",
-"604 19 OFFCURVE",
+"555 5 OFFCURVE",
+"605 15 OFFCURVE",
 "631 60 CURVE",
 "631 154 LINE",
 "592 107 OFFCURVE",
