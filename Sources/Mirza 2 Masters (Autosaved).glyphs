@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/lam_alefWasla-ar"
+"/meem-ar.init",
+"/meem-ar.alt"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -24667,11 +24668,72 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2015-11-03 00:19:58 +0000";
+lastChange = "2015-11-03 01:54:15 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"439 122 OFFCURVE",
+"441 149 OFFCURVE",
+"437 183 CURVE SMOOTH",
+"433 217 OFFCURVE",
+"426 241 OFFCURVE",
+"409 263 CURVE SMOOTH",
+"394 282 OFFCURVE",
+"377 292 OFFCURVE",
+"354 292 CURVE SMOOTH",
+"319 292 OFFCURVE",
+"292 268 OFFCURVE",
+"274 243 CURVE SMOOTH",
+"262 227 OFFCURVE",
+"252 207 OFFCURVE",
+"242 181 CURVE",
+"228 190 LINE",
+"223 178 OFFCURVE",
+"212 152 OFFCURVE",
+"203 131 CURVE",
+"191 108 OFFCURVE",
+"180 98 OFFCURVE",
+"141 98 CURVE SMOOTH",
+"68 98 LINE SMOOTH",
+"38 98 OFFCURVE",
+"19 76 OFFCURVE",
+"19 49 CURVE SMOOTH",
+"19 21 OFFCURVE",
+"40 0 OFFCURVE",
+"68 0 CURVE SMOOTH",
+"100 0 LINE SMOOTH",
+"173 0 OFFCURVE",
+"212 31 OFFCURVE",
+"232 95 CURVE SMOOTH",
+"278 63 OFFCURVE",
+"327 45 OFFCURVE",
+"400 37 CURVE",
+"432 96 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"347 222 OFFCURVE",
+"377 203 OFFCURVE",
+"393 172 CURVE SMOOTH",
+"407 145 OFFCURVE",
+"409 110 OFFCURVE",
+"409 110 CURVE",
+"364 120 OFFCURVE",
+"315 141 OFFCURVE",
+"268 169 CURVE SMOOTH",
+"268 169 OFFCURVE",
+"280 222 OFFCURVE",
+"322 222 CURVE SMOOTH"
+);
+}
+);
 width = 600;
 },
 {
@@ -36950,7 +37012,7 @@ unicode = FEF6;
 },
 {
 glyphname = "lam_alefWasla-ar";
-lastChange = "2015-10-29 19:53:28 +0000";
+lastChange = "2015-11-03 01:53:12 +0000";
 layers = (
 {
 components = (
