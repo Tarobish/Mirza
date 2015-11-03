@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
+"/heh-ar",
 "/yehRohingya-ar.fina",
-"/heh-ar"
+"/yehRohingya-ar.pt.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -33575,7 +33576,7 @@ width = 315;
 {
 color = 4;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-03 06:38:36 +0000";
+lastChange = "2015-11-03 06:39:29 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33646,7 +33647,7 @@ nodes = (
 );
 }
 );
-width = 810;
+width = 602;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -33724,11 +33725,77 @@ width = 716;
 {
 color = 4;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-10-31 08:04:51 +0000";
+lastChange = "2015-11-03 06:39:34 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"454 98 LINE SMOOTH",
+"454 98 OFFCURVE",
+"472 131 OFFCURVE",
+"472 185 CURVE SMOOTH",
+"472 267 OFFCURVE",
+"430 308 OFFCURVE",
+"391 308 CURVE SMOOTH",
+"365 308 OFFCURVE",
+"338 290 OFFCURVE",
+"315 259 CURVE SMOOTH",
+"294 231 OFFCURVE",
+"277 193 OFFCURVE",
+"277 158 CURVE SMOOTH",
+"277 120 OFFCURVE",
+"297 98 OFFCURVE",
+"297 98 CURVE SMOOTH",
+"202 98 LINE SMOOTH",
+"170 98 OFFCURVE",
+"134 89 OFFCURVE",
+"108 65 CURVE SMOOTH",
+"85 44 OFFCURVE",
+"70 12 OFFCURVE",
+"70 -35 CURVE SMOOTH",
+"70 -86 OFFCURVE",
+"101 -137 OFFCURVE",
+"170 -156 CURVE",
+"196 -139 LINE",
+"168 -120 OFFCURVE",
+"141 -95 OFFCURVE",
+"141 -60 CURVE SMOOTH",
+"141 -27 OFFCURVE",
+"161 0 OFFCURVE",
+"206 0 CURVE SMOOTH",
+"308 0 LINE SMOOTH",
+"384 0 OFFCURVE",
+"422 19 OFFCURVE",
+"437 45 CURVE",
+"442 34 OFFCURVE",
+"461 0 OFFCURVE",
+"531 0 CURVE SMOOTH",
+"602 0 LINE",
+"602 98 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"439 155 OFFCURVE",
+"416 110 OFFCURVE",
+"374 110 CURVE SMOOTH",
+"326 110 OFFCURVE",
+"309 170 OFFCURVE",
+"309 170 CURVE SMOOTH",
+"309 170 OFFCURVE",
+"339 228 OFFCURVE",
+"373 228 CURVE SMOOTH",
+"399 228 OFFCURVE",
+"439 192 OFFCURVE",
+"439 171 CURVE SMOOTH"
+);
+}
+);
 width = 600;
 },
 {
