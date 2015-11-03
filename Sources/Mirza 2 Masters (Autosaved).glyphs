@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
-"/dotlessqaf-ar.fina",
-"/ray-ar"
+"/hamzabelow-ar",
+/wavyhamza_above,
+/wavyhamza_below
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -59296,7 +59297,7 @@ width = 600;
 },
 {
 glyphname = wavyhamza_below;
-lastChange = "2015-10-30 20:03:18 +0000";
+lastChange = "2015-11-03 01:26:03 +0000";
 layers = (
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -59306,6 +59307,62 @@ width = 600;
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"79 -283 OFFCURVE",
+"71 -284 OFFCURVE",
+"62 -286 CURVE SMOOTH",
+"41 -289 OFFCURVE",
+"21 -289 OFFCURVE",
+"1 -284 CURVE SMOOTH",
+"-25 -277 OFFCURVE",
+"-35 -270 OFFCURVE",
+"-35 -247 CURVE SMOOTH",
+"-14 -234 OFFCURVE",
+"3 -226 OFFCURVE",
+"28 -226 CURVE SMOOTH",
+"43 -226 OFFCURVE",
+"53 -228 OFFCURVE",
+"60 -231 CURVE",
+"65 -224 LINE",
+"64 -215 OFFCURVE",
+"53 -198 OFFCURVE",
+"24 -198 CURVE SMOOTH",
+"3 -198 OFFCURVE",
+"-17 -205 OFFCURVE",
+"-36 -221 CURVE SMOOTH",
+"-47 -230 OFFCURVE",
+"-60 -247 OFFCURVE",
+"-67 -257 CURVE SMOOTH",
+"-70 -261 OFFCURVE",
+"-71 -264 OFFCURVE",
+"-71 -268 CURVE SMOOTH",
+"-71 -291 OFFCURVE",
+"-52 -306 OFFCURVE",
+"-15 -311 CURVE",
+"-50 -325 OFFCURVE",
+"-68 -337 OFFCURVE",
+"-87 -355 CURVE SMOOTH",
+"-89 -357 OFFCURVE",
+"-91 -360 OFFCURVE",
+"-91 -363 CURVE SMOOTH",
+"-91 -366 OFFCURVE",
+"-89 -371 OFFCURVE",
+"-85 -371 CURVE",
+"-65 -359 OFFCURVE",
+"-43 -346 OFFCURVE",
+"-1 -332 CURVE SMOOTH",
+"26 -323 OFFCURVE",
+"42 -319 OFFCURVE",
+"71 -316 CURVE",
+"77 -307 OFFCURVE",
+"83 -293 OFFCURVE",
+"88 -281 CURVE"
+);
+}
+);
 width = 600;
 }
 );
