@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/heh-ar",
-"/peh-ar/yehRohingya-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -33575,7 +33571,7 @@ width = 315;
 {
 color = 4;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-03 06:41:38 +0000";
+lastChange = "2015-11-03 06:41:42 +0000";
 layers = (
 {
 components = (
@@ -33584,6 +33580,7 @@ name = "yehRohingya-ar.pt.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 315, 163}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
