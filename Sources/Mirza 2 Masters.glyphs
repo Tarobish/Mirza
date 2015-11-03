@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/hamzaabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1782,7 +1785,7 @@ width = 269;
 {
 color = 0;
 glyphname = "alefMadda-ar";
-lastChange = "2015-11-02 20:28:29 +0000";
+lastChange = "2015-11-03 02:20:12 +0000";
 layers = (
 {
 components = (
@@ -57918,7 +57921,7 @@ unicode = 0652;
 },
 {
 glyphname = "madda-ar";
-lastChange = "2015-10-31 09:22:09 +0000";
+lastChange = "2015-11-03 02:20:42 +0000";
 layers = (
 {
 anchors = (
