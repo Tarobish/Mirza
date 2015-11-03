@@ -1,8 +1,7 @@
 {
 DisplayStrings = (
 "/dotlessqaf-ar.fina",
-"/ray-ar",
-"/yehTail-ar.fina"
+"/ray-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -52959,7 +52958,7 @@ unicode = 0020;
 },
 {
 glyphname = "ray-ar";
-lastChange = "2015-11-03 01:24:22 +0000";
+lastChange = "2015-11-03 01:24:34 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -53141,6 +53140,17 @@ nodes = (
 "375 193 OFFCURVE",
 "395 204 OFFCURVE",
 "412 204 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"63 54 OFFCURVE",
+"23 33 OFFCURVE",
+"-26 20 CURVE",
+"19 -42 LINE",
+"113 1 LINE",
+"99 75 LINE"
 );
 }
 );
