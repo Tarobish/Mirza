@@ -36728,7 +36728,7 @@ unicode = FEFA;
 {
 color = 4;
 glyphname = "lam_alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-03 01:48:06 +0000";
+lastChange = "2015-11-03 01:48:20 +0000";
 layers = (
 {
 components = (
@@ -36743,16 +36743,12 @@ width = 549;
 {
 components = (
 {
-name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 269, 0}";
-},
-{
-name = "alefWavyhamzaabove-ar.fina";
+name = "lam_alef-ar.fina";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 517;
+width = 603;
 }
 );
 leftMetricsKey = "lam-ar.fina";
