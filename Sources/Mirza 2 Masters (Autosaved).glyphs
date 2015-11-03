@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/yehRohingya-ar.fina"
+"/yehRohingya-ar.fina",
+"/hehgoal-ar.fina/tehMarbutagoal-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -33574,7 +33575,7 @@ width = 315;
 {
 color = 4;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-03 06:32:22 +0000";
+lastChange = "2015-11-03 06:32:48 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33632,6 +33633,42 @@ nodes = (
 "189 228 OFFCURVE",
 "229 192 OFFCURVE",
 "229 171 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"386 98 LINE SMOOTH",
+"355 98 OFFCURVE",
+"332 115 OFFCURVE",
+"315 139 CURVE SMOOTH",
+"297 165 OFFCURVE",
+"271 204 OFFCURVE",
+"232 204 CURVE SMOOTH",
+"197 204 OFFCURVE",
+"161 173 OFFCURVE",
+"123 104 CURVE SMOOTH",
+"96 55 OFFCURVE",
+"78 4 OFFCURVE",
+"70 -20 CURVE",
+"88 -15 LINE",
+"92 -6 OFFCURVE",
+"106 23 OFFCURVE",
+"126 56 CURVE SMOOTH",
+"146 89 OFFCURVE",
+"175 133 OFFCURVE",
+"219 133 CURVE SMOOTH",
+"252 133 OFFCURVE",
+"266 109 OFFCURVE",
+"283 76 CURVE SMOOTH",
+"295 52 OFFCURVE",
+"302 41 OFFCURVE",
+"311 31 CURVE SMOOTH",
+"327 13 OFFCURVE",
+"347 0 OFFCURVE",
+"384 0 CURVE SMOOTH",
+"420 0 LINE",
+"420 98 LINE"
 );
 }
 );
