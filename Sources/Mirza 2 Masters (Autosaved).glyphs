@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefFathatan-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1822,8 +1819,9 @@ width = 202;
 unicode = 0622;
 },
 {
+color = 0;
 glyphname = "alefMadda-ar.fina";
-lastChange = "2015-11-03 01:46:36 +0000";
+lastChange = "2015-11-03 01:47:06 +0000";
 layers = (
 {
 components = (
@@ -1939,8 +1937,9 @@ width = 256;
 unicode = FB51;
 },
 {
+color = 0;
 glyphname = "alefFathatan-ar";
-lastChange = "2015-11-03 01:46:58 +0000";
+lastChange = "2015-11-03 01:47:04 +0000";
 layers = (
 {
 components = (
@@ -1978,8 +1977,9 @@ width = 202;
 unicode = FD3D;
 },
 {
+color = 0;
 glyphname = "alefFathatan-ar.fina";
-lastChange = "2015-11-02 19:50:12 +0000";
+lastChange = "2015-11-03 01:47:04 +0000";
 layers = (
 {
 components = (
