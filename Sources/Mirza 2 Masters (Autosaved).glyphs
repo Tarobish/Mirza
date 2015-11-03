@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem-ar.altfina"
+"/meem-ar.alt"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -24829,7 +24829,7 @@ width = 650;
 },
 {
 glyphname = "meem-ar.altfina";
-lastChange = "2015-11-03 02:16:55 +0000";
+lastChange = "2015-11-03 02:17:02 +0000";
 layers = (
 {
 anchors = (
@@ -24971,9 +24971,9 @@ nodes = (
 "168 -111 OFFCURVE",
 "191 -111 CURVE SMOOTH",
 "223 -111 OFFCURVE",
-"246 -100 OFFCURVE",
+"246 -101 OFFCURVE",
 "272 -86 CURVE SMOOTH",
-"313 -64 OFFCURVE",
+"314 -61 OFFCURVE",
 "353 -5 OFFCURVE",
 "369 70 CURVE",
 "410 38 OFFCURVE",
