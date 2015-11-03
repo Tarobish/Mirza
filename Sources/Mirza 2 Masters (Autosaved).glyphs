@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/zah-ar/highhamzaAlef-ar.fina"
+"/highhamzaAlef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2060,7 +2060,7 @@ unicode = 0675;
 {
 color = 0;
 glyphname = "highhamzaAlef-ar.fina";
-lastChange = "2015-11-03 05:58:15 +0000";
+lastChange = "2015-11-03 05:58:22 +0000";
 layers = (
 {
 components = (
@@ -2085,7 +2085,7 @@ name = "alef-ar.fina.short";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 267, 14}";
+transform = "{1, 0, 0, 1, 241, 24}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
