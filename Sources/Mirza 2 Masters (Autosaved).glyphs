@@ -32914,7 +32914,7 @@ width = 680;
 },
 {
 glyphname = "yehbarree-ar";
-lastChange = "2015-11-03 06:46:52 +0000";
+lastChange = "2015-11-03 06:47:19 +0000";
 layers = (
 {
 anchors = (
@@ -32924,7 +32924,7 @@ position = "{432, -17}";
 },
 {
 name = top;
-position = "{216, 304}";
+position = "{216, 284}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33195,7 +33195,7 @@ unicode = FBAF;
 {
 color = 0;
 glyphname = "yehbarreeHamzaabove-ar";
-lastChange = "2015-11-03 06:47:08 +0000";
+lastChange = "2015-11-03 06:47:19 +0000";
 layers = (
 {
 components = (
@@ -33204,7 +33204,7 @@ name = "yehbarree-ar";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 218, -244}";
+transform = "{1, 0, 0, 1, 218, -264}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
