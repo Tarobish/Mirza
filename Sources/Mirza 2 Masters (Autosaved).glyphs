@@ -36725,13 +36725,13 @@ unicode = FEFA;
 {
 color = 4;
 glyphname = "lam_alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-03 01:43:15 +0000";
+lastChange = "2015-11-03 01:47:40 +0000";
 layers = (
 {
 components = (
 {
 name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 600, 0}";
+transform = "{1, 0, 0, 1, 242, 0}";
 },
 {
 name = "alefWavyhamzaabove-ar.fina";
@@ -36739,7 +36739,7 @@ name = "alefWavyhamzaabove-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 818;
+width = 460;
 },
 {
 components = (
@@ -36762,13 +36762,13 @@ rightMetricsKey = "alefWavyhamzaabove-ar.fina";
 {
 color = 4;
 glyphname = "lam_alefWavyhamzaabove-ar.isol";
-lastChange = "2015-11-03 01:43:15 +0000";
+lastChange = "2015-11-03 01:47:40 +0000";
 layers = (
 {
 components = (
 {
 name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 600, 0}";
+transform = "{1, 0, 0, 1, 242, 0}";
 },
 {
 name = "alefWavyhamzaabove-ar.fina";
@@ -36776,7 +36776,7 @@ name = "alefWavyhamzaabove-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 818;
+width = 460;
 },
 {
 components = (
@@ -36799,13 +36799,13 @@ rightMetricsKey = "alefWavyhamzaabove-ar.isol";
 {
 color = 4;
 glyphname = "lam_alefWavyhamzabelow-ar.fina";
-lastChange = "2015-11-03 01:45:08 +0000";
+lastChange = "2015-11-03 01:47:39 +0000";
 layers = (
 {
 components = (
 {
 name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 600, 0}";
+transform = "{1, 0, 0, 1, 242, 0}";
 },
 {
 name = "alefWavyhamzabelow-ar.fina";
@@ -36813,7 +36813,7 @@ name = "alefWavyhamzabelow-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 818;
+width = 460;
 },
 {
 components = (
@@ -36836,13 +36836,13 @@ rightMetricsKey = "alefWavyhamzabelow-ar.fina";
 {
 color = 4;
 glyphname = "lam_alefWavyhamzabelow-ar.isol";
-lastChange = "2015-11-03 01:45:08 +0000";
+lastChange = "2015-11-03 01:47:39 +0000";
 layers = (
 {
 components = (
 {
 name = "lam-ar.init";
-transform = "{1, 0, 0, 1, 600, 0}";
+transform = "{1, 0, 0, 1, 242, 0}";
 },
 {
 name = "alefWavyhamzabelow-ar.fina";
@@ -36850,7 +36850,7 @@ name = "alefWavyhamzabelow-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 818;
+width = 460;
 },
 {
 components = (
