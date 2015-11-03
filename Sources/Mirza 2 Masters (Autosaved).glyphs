@@ -10891,7 +10891,7 @@ unicode = FC5C;
 {
 color = 4;
 glyphname = "rehLoop-ar";
-lastChange = "2015-11-03 06:17:53 +0000";
+lastChange = "2015-11-03 06:18:03 +0000";
 layers = (
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -11016,22 +11016,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"-3 -99 OFFCURVE",
+"-14 -101 CURVE SMOOTH",
+"-84 -117 OFFCURVE",
+"-97 -87 OFFCURVE",
+"-94 -67 CURVE SMOOTH",
 "-91 -50 OFFCURVE",
 "-73 -38 OFFCURVE",
 "-52 -38 CURVE SMOOTH",
 "-22 -38 OFFCURVE",
 "4 -55 OFFCURVE",
 "24 -88 CURVE",
-"21 -89 OFFCURVE",
-"-3 -99 OFFCURVE",
-"-14 -101 CURVE SMOOTH",
-"-84 -117 OFFCURVE",
-"-97 -87 OFFCURVE",
-"-94 -67 CURVE SMOOTH"
+"21 -89 OFFCURVE"
 );
 }
 );
-width = 600;
+width = 6406;
 },
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
