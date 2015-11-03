@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem-ar.alt",
+"/alef-ar/meem-ar.alt",
 "/reh-ar/rreh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -24668,7 +24668,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2015-11-03 01:59:15 +0000";
+lastChange = "2015-11-03 01:59:31 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24739,7 +24739,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 469;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
