@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/keheh-ar/keheh-ar/sheen-ar/seen-ar/reh-ar/meem-ar.altfina/alef-ar/lam-ar",
-"/meem-ar.alt"
+"/meem-ar.altfina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -24668,7 +24667,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2015-11-03 02:16:18 +0000";
+lastChange = "2015-11-03 02:16:39 +0000";
 layers = (
 {
 anchors = (
@@ -24796,9 +24795,9 @@ nodes = (
 "168 -111 OFFCURVE",
 "191 -111 CURVE SMOOTH",
 "229 -111 OFFCURVE",
-"257 -103 OFFCURVE",
-"282 -86 CURVE SMOOTH",
-"328 -55 OFFCURVE",
+"247 -103 OFFCURVE",
+"272 -86 CURVE SMOOTH",
+"318 -55 OFFCURVE",
 "360 9 OFFCURVE",
 "374 90 CURVE",
 "432 55 OFFCURVE",
