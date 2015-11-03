@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefWasla-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1820,7 +1823,7 @@ unicode = 0622;
 },
 {
 glyphname = "alefMadda-ar.fina";
-lastChange = "2015-11-02 19:49:19 +0000";
+lastChange = "2015-11-03 01:46:36 +0000";
 layers = (
 {
 components = (
@@ -1858,7 +1861,7 @@ unicode = FE82;
 {
 color = 0;
 glyphname = "alefWasla-ar";
-lastChange = "2015-11-02 20:28:35 +0000";
+lastChange = "2015-11-03 01:46:15 +0000";
 layers = (
 {
 components = (
@@ -1896,12 +1899,14 @@ width = 202;
 unicode = 0671;
 },
 {
+color = 0;
 glyphname = "alefWasla-ar.fina";
-lastChange = "2015-11-02 19:49:46 +0000";
+lastChange = "2015-11-03 01:46:41 +0000";
 layers = (
 {
 components = (
 {
+disableAlignment = 1;
 name = "wasla-ar";
 transform = "{1, 0, 0, 1, 64, -45}";
 },
@@ -2014,7 +2019,7 @@ unicode = FD3C;
 },
 {
 glyphname = "highhamzaAlef-ar";
-lastChange = "2015-11-02 19:54:39 +0000";
+lastChange = "2015-11-03 01:45:56 +0000";
 layers = (
 {
 components = (
