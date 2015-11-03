@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefWavyhamzabelow-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1641,9 +1638,9 @@ width = 274;
 unicode = FE88;
 },
 {
-color = 4;
+color = 9;
 glyphname = "alefWavyhamzaabove-ar";
-lastChange = "2015-11-03 01:42:52 +0000";
+lastChange = "2015-11-03 01:45:36 +0000";
 layers = (
 {
 components = (
@@ -1677,9 +1674,9 @@ width = 202;
 unicode = 0672;
 },
 {
-color = 4;
+color = 9;
 glyphname = "alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-03 01:43:30 +0000";
+lastChange = "2015-11-03 01:45:40 +0000";
 layers = (
 {
 components = (
@@ -1712,9 +1709,9 @@ width = 269;
 );
 },
 {
-color = 4;
+color = 9;
 glyphname = "alefWavyhamzabelow-ar";
-lastChange = "2015-11-03 01:44:44 +0000";
+lastChange = "2015-11-03 01:45:42 +0000";
 layers = (
 {
 components = (
