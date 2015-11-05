@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/seen-ar/seenFourdotsabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1398,7 +1395,7 @@ width = 202;
 },
 {
 glyphname = "alef-ar.fina.short";
-lastChange = "2015-10-28 08:02:29 +0000";
+lastChange = "2015-11-05 06:27:55 +0000";
 layers = (
 {
 anchors = (
