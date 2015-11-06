@@ -65142,7 +65142,7 @@ unicode = 065D;
 },
 {
 glyphname = "fathatwodots-ar";
-lastChange = "2015-11-06 02:55:19 +0000";
+lastChange = "2015-11-06 02:55:28 +0000";
 layers = (
 {
 anchors = (
@@ -65246,6 +65246,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"-73 566 OFFCURVE",
+"-73 556 OFFCURVE",
+"-72 545 CURVE",
 "-72 545 OFFCURVE",
 "19 618 OFFCURVE",
 "73 653 CURVE",
@@ -65254,10 +65257,7 @@ nodes = (
 "74 682 CURVE",
 "18 647 OFFCURVE",
 "-25 614 OFFCURVE",
-"-72 573 CURVE",
-"-73 566 OFFCURVE",
-"-73 556 OFFCURVE",
-"-72 545 CURVE"
+"-72 573 CURVE"
 );
 },
 {
