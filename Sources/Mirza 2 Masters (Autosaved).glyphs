@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"/fatha-ar",
 "/fathaDotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -68804,7 +68803,7 @@ unicode = 08F4;
 },
 {
 glyphname = "fathaDotabove-ar";
-lastChange = "2015-11-06 02:58:25 +0000";
+lastChange = "2015-11-06 02:58:42 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -68833,6 +68832,25 @@ width = 600;
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"68 673 OFFCURVE",
+"-47 629 OFFCURVE",
+"-88 606 CURVE",
+"-95 600 OFFCURVE",
+"-102 556 OFFCURVE",
+"-103 545 CURVE",
+"-57 564 OFFCURVE",
+"52 611 OFFCURVE",
+"94 624 CURVE",
+"102 638 OFFCURVE",
+"107 661 OFFCURVE",
+"108 683 CURVE"
+);
+}
+);
 width = 600;
 }
 );
