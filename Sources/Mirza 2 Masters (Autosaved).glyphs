@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar/highhamzaWaw-ar"
+"/highhamzaWaw-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -33766,7 +33766,7 @@ width = 716;
 {
 color = 0;
 glyphname = "highhamzaWaw-ar";
-lastChange = "2015-11-06 19:22:36 +0000";
+lastChange = "2015-11-06 19:22:41 +0000";
 layers = (
 {
 components = (
@@ -33776,7 +33776,7 @@ name = "waw-ar";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 212, -360}";
+transform = "{1, 0, 0, 1, 222, -360}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33791,7 +33791,7 @@ name = "waw-ar";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 241, -308}";
+transform = "{1, 0, 0, 1, 251, -298}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -33803,7 +33803,7 @@ unicode = 0676;
 },
 {
 glyphname = "highhamzaWaw-ar.fina";
-lastChange = "2015-11-03 00:15:34 +0000";
+lastChange = "2015-11-06 19:22:52 +0000";
 layers = (
 {
 anchors = (
@@ -33820,7 +33820,7 @@ components = (
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 313, -270}";
+transform = "{1, 0, 0, 1, 348, -430}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
