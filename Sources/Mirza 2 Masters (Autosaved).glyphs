@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/shaddaKasratan-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -64322,17 +64325,17 @@ width = 0;
 },
 {
 glyphname = "shaddaKasratan-ar";
-lastChange = "2015-11-05 05:40:45 +0000";
+lastChange = "2015-11-06 18:44:39 +0000";
 layers = (
 {
 components = (
 {
 name = "shadda-ar";
-transform = "{1, 0, 0, 1, 0, -29}";
+transform = "{1, 0, 0, 1, 0, 2}";
 },
 {
 name = "kasratan-ar";
-transform = "{1, 0, 0, 1, 0, 893}";
+transform = "{1, 0, 0, 1, 0, 914}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
