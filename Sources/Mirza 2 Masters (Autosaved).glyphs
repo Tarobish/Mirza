@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/highwaw-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -68121,7 +68118,7 @@ unicode = 08F2;
 },
 {
 glyphname = "highwaw-ar";
-lastChange = "2015-11-06 02:04:52 +0000";
+lastChange = "2015-11-06 02:05:04 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -68130,8 +68127,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"45 728 OFFCURVE",
-"54 735 CURVE SMOOTH",
 "53 741 OFFCURVE",
 "51 748 OFFCURVE",
 "47 755 CURVE SMOOTH",
@@ -68144,7 +68139,9 @@ nodes = (
 "-1 729 OFFCURVE",
 "13 724 OFFCURVE",
 "28 724 CURVE SMOOTH",
-"38 724 OFFCURVE"
+"38 724 OFFCURVE",
+"45 728 OFFCURVE",
+"54 735 CURVE SMOOTH"
 );
 },
 {
