@@ -64954,17 +64954,17 @@ unicode = 065B;
 },
 {
 glyphname = "dotvowelbelow-ar";
-lastChange = "2015-11-06 19:08:54 +0000";
+lastChange = "2015-11-06 19:09:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{1, -173}";
+position = "{1, -182}";
 },
 {
 name = bottom;
-position = "{1, -269}";
+position = "{1, -278}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -64973,18 +64973,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"22 -269 OFFCURVE",
-"39 -252 OFFCURVE",
-"39 -231 CURVE SMOOTH",
-"39 -210 OFFCURVE",
-"22 -193 OFFCURVE",
-"0 -193 CURVE SMOOTH",
-"-21 -193 OFFCURVE",
-"-38 -210 OFFCURVE",
-"-38 -231 CURVE SMOOTH",
-"-38 -252 OFFCURVE",
-"-21 -269 OFFCURVE",
-"0 -269 CURVE SMOOTH"
+"22 -278 OFFCURVE",
+"39 -261 OFFCURVE",
+"39 -240 CURVE SMOOTH",
+"39 -219 OFFCURVE",
+"22 -202 OFFCURVE",
+"0 -202 CURVE SMOOTH",
+"-21 -202 OFFCURVE",
+"-38 -219 OFFCURVE",
+"-38 -240 CURVE SMOOTH",
+"-38 -261 OFFCURVE",
+"-21 -278 OFFCURVE",
+"0 -278 CURVE SMOOTH"
 );
 }
 );
