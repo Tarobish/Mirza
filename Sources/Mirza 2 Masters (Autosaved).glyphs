@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/shaddaDamma-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -64145,7 +64142,7 @@ width = 0;
 },
 {
 glyphname = "shaddaDamma-ar";
-lastChange = "2015-11-06 18:51:37 +0000";
+lastChange = "2015-11-06 18:51:39 +0000";
 layers = (
 {
 components = (
