@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/fathatan-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -63049,7 +63046,7 @@ width = 0;
 },
 {
 glyphname = "fathatan-ar";
-lastChange = "2015-11-06 18:47:19 +0000";
+lastChange = "2015-11-06 18:47:23 +0000";
 layers = (
 {
 anchors = (
@@ -63103,6 +63100,16 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{-1, 680}";
+},
+{
+name = top;
+position = "{-1, 906}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
