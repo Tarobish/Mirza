@@ -1864,7 +1864,7 @@ unicode = FE82;
 {
 color = 0;
 glyphname = "alefWasla-ar";
-lastChange = "2015-11-05 05:57:04 +0000";
+lastChange = "2015-11-06 19:05:39 +0000";
 layers = (
 {
 components = (
@@ -1875,7 +1875,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "wasla-ar";
-transform = "{1, 0, 0, 1, 67, -39}";
+transform = "{1, 0, 0, 1, 80, -175}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1891,7 +1891,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "wasla-ar";
-transform = "{1, 0, 0, 1, 93, -4}";
+transform = "{1, 0, 0, 1, 106, -88}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
