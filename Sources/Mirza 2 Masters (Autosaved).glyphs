@@ -31067,7 +31067,7 @@ unicode = FEF3;
 {
 color = 0;
 glyphname = "yehHamzaabove-ar";
-lastChange = "2015-11-06 20:15:02 +0000";
+lastChange = "2015-11-06 20:15:11 +0000";
 layers = (
 {
 components = (
@@ -31075,8 +31075,9 @@ components = (
 name = "alefMaksura-ar";
 },
 {
+disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 142, -579}";
+transform = "{1, 0, 0, 1, 201, -579}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
