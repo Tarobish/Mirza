@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sukunround-ar"
+"/fathaDotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -69867,7 +69867,7 @@ unicode = 08F4;
 },
 {
 glyphname = "fathaDotabove-ar";
-lastChange = "2015-11-06 18:05:43 +0000";
+lastChange = "2015-11-06 19:12:54 +0000";
 layers = (
 {
 anchors = (
@@ -69925,32 +69925,11 @@ anchors = (
 {
 name = _top;
 position = "{3, 680}";
-},
-{
-name = top;
-position = "{3, 880}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
-{
-closed = 1;
-nodes = (
-"68 828 OFFCURVE",
-"-47 784 OFFCURVE",
-"-88 761 CURVE",
-"-95 755 OFFCURVE",
-"-102 711 OFFCURVE",
-"-103 700 CURVE",
-"-57 719 OFFCURVE",
-"52 766 OFFCURVE",
-"94 779 CURVE",
-"102 793 OFFCURVE",
-"107 816 OFFCURVE",
-"108 838 CURVE"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -69966,6 +69945,23 @@ nodes = (
 "-13 874 OFFCURVE",
 "-29 858 OFFCURVE",
 "-37 851 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"55 800 OFFCURVE",
+"-45 762 OFFCURVE",
+"-80 742 CURVE",
+"-84 731 OFFCURVE",
+"-90 714 OFFCURVE",
+"-93 700 CURVE",
+"-53 717 OFFCURVE",
+"42 758 OFFCURVE",
+"78 769 CURVE",
+"85 786 OFFCURVE",
+"87 793 OFFCURVE",
+"90 809 CURVE"
 );
 }
 );
