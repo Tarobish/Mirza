@@ -65142,9 +65142,19 @@ unicode = 065D;
 },
 {
 glyphname = "fathatwodots-ar";
-lastChange = "2015-11-06 02:52:56 +0000";
+lastChange = "2015-11-06 02:53:04 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{3, 731}";
+},
+{
+name = bottom;
+position = "{3, 520}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -65168,9 +65178,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"50 688 OFFCURVE",
-"-49 616 OFFCURVE",
-"-83 583 CURVE",
 "-88 575 OFFCURVE",
 "-83 531 OFFCURVE",
 "-82 520 CURVE",
@@ -65179,7 +65186,10 @@ nodes = (
 "88 647 CURVE",
 "92 663 OFFCURVE",
 "91 686 OFFCURVE",
-"87 708 CURVE"
+"87 708 CURVE",
+"50 688 OFFCURVE",
+"-49 616 OFFCURVE",
+"-83 583 CURVE"
 );
 },
 {
