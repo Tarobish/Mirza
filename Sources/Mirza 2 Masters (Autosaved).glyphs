@@ -37685,7 +37685,7 @@ unicode = FEF5;
 },
 {
 glyphname = "lam_alefMadda-ar.fina";
-lastChange = "2015-10-29 19:53:28 +0000";
+lastChange = "2015-11-06 19:18:22 +0000";
 layers = (
 {
 components = (
@@ -37694,7 +37694,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 52, -27}";
+transform = "{1, 0, 0, 1, 52, -181}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37708,7 +37708,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 50, 19}";
+transform = "{1, 0, 0, 1, 71, -100}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
