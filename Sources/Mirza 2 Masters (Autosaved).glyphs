@@ -27895,13 +27895,13 @@ unicode = FBA9;
 },
 {
 glyphname = "hehgoal-ar.init";
-lastChange = "2015-11-06 19:43:42 +0000";
+lastChange = "2015-11-06 19:43:56 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{10, -200}";
+position = "{6, -206}";
 },
 {
 name = top;
@@ -28030,6 +28030,30 @@ nodes = (
 "-12 -123 OFFCURVE",
 "-14 -162 OFFCURVE",
 "4 -187 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"135.552 -25.07 OFFCURVE",
+"22.605 -60.667 OFFCURVE",
+"2.149 -155.904 CURVE SMOOTH",
+"-6.449 -195.93 OFFCURVE",
+"11.272 -231.492 OFFCURVE",
+"46.082 -231.492 CURVE SMOOTH",
+"85.271 -231.492 OFFCURVE",
+"93.262 -184.146 OFFCURVE",
+"93.262 -184.146 CURVE SMOOTH",
+"93.262 -184.146 OFFCURVE",
+"92.122 -184.244 OFFCURVE",
+"90.236 -184.244 CURVE SMOOTH",
+"79.483 -184.244 OFFCURVE",
+"44.448 -181.066 OFFCURVE",
+"57.746 -138.466 CURVE SMOOTH",
+"71.939 -93 OFFCURVE",
+"135.552 -66.738 OFFCURVE",
+"135.552 -66.738 CURVE",
+"135.552 -25.07 LINE"
 );
 }
 );
