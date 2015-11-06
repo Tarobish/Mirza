@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/fatha-ar"
+"/kasra-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -63668,7 +63668,7 @@ unicode = 064F;
 },
 {
 glyphname = "kasra-ar";
-lastChange = "2015-11-06 18:49:27 +0000";
+lastChange = "2015-11-06 18:54:06 +0000";
 layers = (
 {
 anchors = (
@@ -63705,34 +63705,24 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _bottom;
-position = "{1, -180}";
-},
-{
-name = bottom;
-position = "{1, -325}";
-}
-);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"66 -210 OFFCURVE",
-"-49 -254 OFFCURVE",
-"-90 -277 CURVE",
-"-95 -289 OFFCURVE",
-"-101 -309 OFFCURVE",
-"-105 -325 CURVE",
-"-59 -306 OFFCURVE",
-"50 -259 OFFCURVE",
-"92 -246 CURVE",
-"100 -227 OFFCURVE",
-"102 -218 OFFCURVE",
-"106 -200 CURVE"
+"57 -211 OFFCURVE",
+"-43 -249 OFFCURVE",
+"-78 -269 CURVE",
+"-83 -280 OFFCURVE",
+"-88 -297 OFFCURVE",
+"-91 -311 CURVE",
+"-51 -294 OFFCURVE",
+"44 -253 OFFCURVE",
+"80 -242 CURVE",
+"87 -226 OFFCURVE",
+"89 -218 OFFCURVE",
+"92 -202 CURVE"
 );
 }
 );
