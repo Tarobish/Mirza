@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/kasratan-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -63339,7 +63336,7 @@ unicode = 064C;
 },
 {
 glyphname = "kasratan-ar";
-lastChange = "2015-11-06 18:48:47 +0000";
+lastChange = "2015-11-06 18:49:49 +0000";
 layers = (
 {
 anchors = (
