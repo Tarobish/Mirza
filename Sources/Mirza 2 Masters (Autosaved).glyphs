@@ -67012,7 +67012,7 @@ unicode = 06DF;
 },
 {
 glyphname = "sukunoval-ar";
-lastChange = "2015-11-06 03:03:24 +0000";
+lastChange = "2015-11-06 03:03:33 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -67067,10 +67067,8 @@ closed = 1;
 nodes = (
 "-32 878 OFFCURVE",
 "-54 839 OFFCURVE",
-"-56 801 CURVE SMOOTH",
-"-56 799 OFFCURVE",
-"-56 758 OFFCURVE",
-"-56 756 CURVE SMOOTH",
+"-56 801 CURVE",
+"-56 756 LINE",
 "-56 740 OFFCURVE",
 "-46 700 OFFCURVE",
 "0 700 CURVE SMOOTH",
