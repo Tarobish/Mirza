@@ -69644,8 +69644,9 @@ width = 603;
 unicode = FEFE;
 },
 {
+color = 0;
 glyphname = uniFEFD;
-lastChange = "2015-11-02 20:27:19 +0000";
+lastChange = "2015-11-06 03:22:31 +0000";
 layers = (
 {
 components = (
@@ -69817,22 +69818,6 @@ nodes = (
 }
 );
 width = 0;
-}
-);
-},
-{
-glyphname = "alefKasratan-ar";
-lastChange = "2015-11-06 03:22:04 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-},
-{
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 600;
 }
 );
 }
