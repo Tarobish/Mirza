@@ -62451,7 +62451,7 @@ width = 0;
 },
 {
 glyphname = "hamzabelow-ar";
-lastChange = "2015-11-06 18:56:39 +0000";
+lastChange = "2015-11-06 18:56:41 +0000";
 layers = (
 {
 anchors = (
@@ -62525,6 +62525,16 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{2, -189}";
+},
+{
+name = bottom;
+position = "{2, -384}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
