@@ -64323,7 +64323,7 @@ width = 0;
 },
 {
 glyphname = "shaddaKasratan-ar";
-lastChange = "2015-11-06 18:44:49 +0000";
+lastChange = "2015-11-06 18:46:00 +0000";
 layers = (
 {
 components = (
@@ -64333,7 +64333,7 @@ transform = "{1, 0, 0, 1, 0, 2}";
 },
 {
 name = "kasratan-ar";
-transform = "{1, 0, 0, 1, 0, 914}";
+transform = "{1, 0, 0, 1, 0, 904}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -64347,7 +64347,7 @@ name = "shadda-ar";
 },
 {
 name = "kasratan-ar";
-transform = "{1, 0, 0, 1, 0, 932}";
+transform = "{1, 0, 0, 1, 0, 922}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
