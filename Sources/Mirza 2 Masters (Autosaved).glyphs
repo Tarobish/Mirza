@@ -67012,7 +67012,7 @@ unicode = 06DF;
 },
 {
 glyphname = "sukunoval-ar";
-lastChange = "2015-11-06 03:04:39 +0000";
+lastChange = "2015-11-06 03:04:48 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -67023,10 +67023,8 @@ closed = 1;
 nodes = (
 "-27 872 OFFCURVE",
 "-44 835 OFFCURVE",
-"-45 805 CURVE SMOOTH",
-"-45 803 OFFCURVE",
-"-45 762 OFFCURVE",
-"-45 761 CURVE SMOOTH",
+"-45 805 CURVE",
+"-45 761 LINE",
 "-45 749 OFFCURVE",
 "-37 718 OFFCURVE",
 "-2 718 CURVE SMOOTH",
@@ -67057,9 +67055,8 @@ nodes = (
 "-12 751 OFFCURVE",
 "-29 762 OFFCURVE",
 "-30 776 CURVE",
-"-30 818 LINE",
-"-30 828 OFFCURVE",
-"-23 838 OFFCURVE",
+"-30 819 OFFCURVE",
+"-34 825 OFFCURVE",
 "-17 845 CURVE"
 );
 }
