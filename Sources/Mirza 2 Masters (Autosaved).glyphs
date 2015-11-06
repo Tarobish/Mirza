@@ -67911,11 +67911,31 @@ unicode = 06E8;
 },
 {
 glyphname = "rhombusStopbelow-ar";
-lastChange = "2015-11-06 17:35:11 +0000";
+lastChange = "2015-11-06 17:35:48 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"203 -445 LINE",
+"115 -358 LINE",
+"28 -445 LINE",
+"115 -533 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"115 -382 LINE",
+"179 -445 LINE",
+"115 -509 LINE",
+"52 -445 LINE"
+);
+}
+);
 width = 600;
 },
 {
