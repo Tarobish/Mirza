@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/kasraDotbelow-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -69946,7 +69943,7 @@ unicode = 08F5;
 },
 {
 glyphname = "kasraDotbelow-ar";
-lastChange = "2015-11-06 18:06:22 +0000";
+lastChange = "2015-11-06 18:06:40 +0000";
 layers = (
 {
 anchors = (
@@ -70000,6 +69997,16 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{-1, -177}";
+},
+{
+name = bottom;
+position = "{-1, -383}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
