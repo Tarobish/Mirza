@@ -67012,9 +67012,19 @@ unicode = 06DF;
 },
 {
 glyphname = "sukunoval-ar";
-lastChange = "2015-11-06 03:04:51 +0000";
+lastChange = "2015-11-06 03:05:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{-1, 680}";
+},
+{
+name = top;
+position = "{-1, 854}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -67061,9 +67071,19 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{2, 680}";
+},
+{
+name = top;
+position = "{2, 878}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
