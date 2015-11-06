@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"/openkasratan-ar",
 "/openfathatan-ar",
 "/kasra-ar"
 );
@@ -68414,8 +68413,9 @@ width = 0;
 unicode = 08F1;
 },
 {
+color = 9;
 glyphname = "openkasratan-ar";
-lastChange = "2015-11-06 02:57:55 +0000";
+lastChange = "2015-11-06 02:58:07 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
