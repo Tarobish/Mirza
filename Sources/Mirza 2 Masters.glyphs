@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/fatha-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -67965,17 +67968,89 @@ unicode = 08E9;
 },
 {
 glyphname = "openfathatan-ar";
-lastChange = "2015-10-19 08:06:29 +0000";
+lastChange = "2015-11-06 02:11:34 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"26 641 OFFCURVE",
+"-24 621 OFFCURVE",
+"-80 593 CURVE",
+"-83 587 OFFCURVE",
+"-85 577 OFFCURVE",
+"-87 566 CURVE",
+"-87 566 OFFCURVE",
+"20 613 OFFCURVE",
+"81 633 CURVE",
+"85 641 OFFCURVE",
+"88 651 OFFCURVE",
+"89 661 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"95 729 OFFCURVE",
+"45 709 OFFCURVE",
+"-11 681 CURVE",
+"-14 675 OFFCURVE",
+"-16 665 OFFCURVE",
+"-18 654 CURVE",
+"-18 654 OFFCURVE",
+"89 701 OFFCURVE",
+"150 721 CURVE",
+"154 729 OFFCURVE",
+"157 739 OFFCURVE",
+"158 749 CURVE"
+);
+}
+);
+width = 0;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"68 673 OFFCURVE",
+"-47 629 OFFCURVE",
+"-88 606 CURVE",
+"-95 600 OFFCURVE",
+"-102 556 OFFCURVE",
+"-103 545 CURVE",
+"-57 564 OFFCURVE",
+"52 611 OFFCURVE",
+"94 624 CURVE",
+"102 638 OFFCURVE",
+"107 661 OFFCURVE",
+"108 683 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 812 OFFCURVE",
+"57 768 OFFCURVE",
+"16 745 CURVE",
+"9 739 OFFCURVE",
+"2 695 OFFCURVE",
+"1 684 CURVE",
+"47 703 OFFCURVE",
+"156 750 OFFCURVE",
+"198 763 CURVE",
+"206 777 OFFCURVE",
+"211 800 OFFCURVE",
+"212 822 CURVE"
+);
+}
+);
+width = 12;
 }
 );
 unicode = 08F0;
