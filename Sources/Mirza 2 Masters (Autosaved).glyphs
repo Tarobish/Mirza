@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/shaddaAlefabove-ar"
+"/alefMadda-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -1786,7 +1786,7 @@ width = 269;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2015-11-05 05:57:02 +0000";
+lastChange = "2015-11-06 17:42:24 +0000";
 layers = (
 {
 components = (
@@ -1797,7 +1797,7 @@ name = "alef-ar.short";
 },
 {
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 69, -49}";
+transform = "{1, 0, 0, 1, 100, -98}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1824,7 +1824,7 @@ unicode = 0622;
 },
 {
 glyphname = "alefMadda-ar.fina";
-lastChange = "2015-11-05 06:01:22 +0000";
+lastChange = "2015-11-06 17:42:19 +0000";
 layers = (
 {
 components = (
@@ -1834,7 +1834,7 @@ name = "alef-ar.fina.short";
 },
 {
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 82, -48}";
+transform = "{1, 0, 0, 1, 113, -97}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
