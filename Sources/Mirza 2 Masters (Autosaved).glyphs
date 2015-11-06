@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/damma-ar"
+"/dammatan-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -63523,7 +63523,7 @@ unicode = 064E;
 },
 {
 glyphname = "damma-ar";
-lastChange = "2015-11-06 18:52:43 +0000";
+lastChange = "2015-11-06 18:52:53 +0000";
 layers = (
 {
 anchors = (
@@ -63598,11 +63598,11 @@ width = 0;
 anchors = (
 {
 name = _top;
-position = "{-7, 684}";
+position = "{-3, 683}";
 },
 {
 name = top;
-position = "{-7, 917}";
+position = "{-3, 888}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
