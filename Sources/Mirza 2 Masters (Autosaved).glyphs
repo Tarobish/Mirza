@@ -65307,7 +65307,7 @@ unicode = 065E;
 },
 {
 glyphname = "sadLamAlefMaksuraabove-ar";
-lastChange = "2015-11-06 18:42:08 +0000";
+lastChange = "2015-11-06 18:42:20 +0000";
 layers = (
 {
 anchors = (
@@ -65395,10 +65395,10 @@ nodes = (
 "-153 704 OFFCURVE",
 "-139 701 OFFCURVE",
 "-121 701 CURVE SMOOTH",
-"-44 701 LINE",
-"-36 711 OFFCURVE",
-"-32 717 OFFCURVE",
-"-28 726 CURVE",
+"6 701 LINE",
+"14 711 OFFCURVE",
+"18 717 OFFCURVE",
+"22 726 CURVE",
 "-127 726 LINE SMOOTH",
 "-139 726 OFFCURVE",
 "-155 727 OFFCURVE",
@@ -65477,6 +65477,16 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{-3, 680}";
+},
+{
+name = top;
+position = "{-3, 928}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
