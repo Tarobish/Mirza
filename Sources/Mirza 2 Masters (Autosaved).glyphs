@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/shaddaDamma-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -64142,17 +64145,17 @@ width = 0;
 },
 {
 glyphname = "shaddaDamma-ar";
-lastChange = "2015-11-06 18:27:46 +0000";
+lastChange = "2015-11-06 18:51:37 +0000";
 layers = (
 {
 components = (
 {
 name = "shadda-ar";
-transform = "{1, 0, 0, 1, 0, -29}";
+transform = "{1, 0, 0, 1, 0, 1}";
 },
 {
 name = "damma-ar";
-transform = "{1, 0, 0, 1, 1, 99}";
+transform = "{1, 0, 0, 1, 1, 129}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -64166,7 +64169,7 @@ name = "shadda-ar";
 },
 {
 name = "damma-ar";
-transform = "{1, 0, 0, 1, 14, 151}";
+transform = "{1, 0, 0, 1, 6, 162}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
