@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/shaddaKasratan-ar"
+"/lam_alefWavyhamzaabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -37503,7 +37503,7 @@ unicode = FEFA;
 {
 color = 0;
 glyphname = "lam_alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-05 05:52:39 +0000";
+lastChange = "2015-11-06 19:15:03 +0000";
 layers = (
 {
 components = (
@@ -37512,7 +37512,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "wavyhamzaabove-ar";
-transform = "{1, 0, 0, 1, 58, -15}";
+transform = "{1, 0, 0, 1, 58, -140}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37526,7 +37526,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "wavyhamzaabove-ar";
-transform = "{1, 0, 0, 1, 86, 40}";
+transform = "{1, 0, 0, 1, 77, -92}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
