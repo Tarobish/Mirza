@@ -1,9 +1,4 @@
 {
-DisplayStrings = (
-"/yehabove-ar",
-"/opendammatan-ar",
-"/damma-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -67603,8 +67598,9 @@ width = 600;
 unicode = 08F0;
 },
 {
+color = 9;
 glyphname = "opendammatan-ar";
-lastChange = "2015-11-06 01:32:24 +0000";
+lastChange = "2015-11-06 01:32:46 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
