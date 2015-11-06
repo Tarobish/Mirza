@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/kasraDotbelow-ar"
+"/kasraDotbelow-ar",
+"/fathaDotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -68928,7 +68929,7 @@ width = 600;
 },
 {
 glyphname = "kasraDotbelow-ar";
-lastChange = "2015-11-06 03:00:59 +0000";
+lastChange = "2015-11-06 03:01:20 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -68949,6 +68950,40 @@ nodes = (
 "88 -237 OFFCURVE",
 "91 -227 OFFCURVE",
 "92 -217 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"28 -252 OFFCURVE",
+"-22 -272 OFFCURVE",
+"-78 -300 CURVE",
+"-81 -306 OFFCURVE",
+"-83 -316 OFFCURVE",
+"-85 -327 CURVE",
+"-85 -327 OFFCURVE",
+"22 -280 OFFCURVE",
+"83 -260 CURVE",
+"87 -252 OFFCURVE",
+"90 -242 OFFCURVE",
+"91 -232 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-14 -209 OFFCURVE",
+"-6 -217 OFFCURVE",
+"2 -226 CURVE",
+"12 -217 OFFCURVE",
+"19 -210 OFFCURVE",
+"25 -203 CURVE",
+"19 -195 OFFCURVE",
+"9 -185 OFFCURVE",
+"0 -179 CURVE",
+"-6 -186 OFFCURVE",
+"-15 -196 OFFCURVE",
+"-23 -202 CURVE"
 );
 }
 );
