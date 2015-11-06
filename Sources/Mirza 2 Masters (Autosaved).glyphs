@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/kasra-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -63668,7 +63665,7 @@ unicode = 064F;
 },
 {
 glyphname = "kasra-ar";
-lastChange = "2015-11-06 18:54:06 +0000";
+lastChange = "2015-11-06 18:54:08 +0000";
 layers = (
 {
 anchors = (
@@ -63705,6 +63702,16 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{1, -182}";
+},
+{
+name = bottom;
+position = "{1, -311}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
