@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefHamzabelow-ar"
+"/alefWavyhamzaabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -1568,7 +1568,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2015-11-06 19:02:45 +0000";
+lastChange = "2015-11-06 19:04:26 +0000";
 layers = (
 {
 components = (
@@ -1591,7 +1591,7 @@ name = "alef-ar";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 101, 147}";
+transform = "{1, 0, 0, 1, 101, 174}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -1649,7 +1649,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "wavyhamzaabove-ar";
-transform = "{1, 0, 0, 1, 92, -42}";
+transform = "{1, 0, 0, 1, 70, -182}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
