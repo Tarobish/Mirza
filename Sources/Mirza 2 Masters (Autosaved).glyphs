@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/maddalong-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -67513,17 +67510,17 @@ unicode = 06E3;
 },
 {
 glyphname = "maddalong-ar";
-lastChange = "2015-11-06 19:46:44 +0000";
+lastChange = "2015-11-06 19:46:56 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-2, 674}";
+position = "{0, 674}";
 },
 {
 name = top;
-position = "{-2, 743}";
+position = "{0, 743}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
