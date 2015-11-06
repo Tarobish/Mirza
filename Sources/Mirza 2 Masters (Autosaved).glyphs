@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/noonghunnaabove-ar"
+"/sukun-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -63859,17 +63859,17 @@ unicode = 0651;
 },
 {
 glyphname = "sukun-ar";
-lastChange = "2015-10-31 09:22:25 +0000";
+lastChange = "2015-11-06 18:26:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-1, 698}";
+position = "{-1, 680}";
 },
 {
 name = top;
-position = "{-1, 832}";
+position = "{-1, 814}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -63878,38 +63878,38 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-27 814 OFFCURVE",
-"-45 792 OFFCURVE",
-"-45 761 CURVE SMOOTH",
-"-45 749 OFFCURVE",
-"-37 718 OFFCURVE",
-"-2 718 CURVE SMOOTH",
-"17 718 OFFCURVE",
-"30 725 OFFCURVE",
-"37 737 CURVE SMOOTH",
-"43 747 OFFCURVE",
-"44 759 OFFCURVE",
-"44 767 CURVE SMOOTH",
-"44 795 OFFCURVE",
-"25 819 OFFCURVE",
-"-8 832 CURVE"
+"-27 796 OFFCURVE",
+"-45 774 OFFCURVE",
+"-45 743 CURVE SMOOTH",
+"-45 731 OFFCURVE",
+"-37 700 OFFCURVE",
+"-2 700 CURVE SMOOTH",
+"17 700 OFFCURVE",
+"30 707 OFFCURVE",
+"37 719 CURVE SMOOTH",
+"43 729 OFFCURVE",
+"44 741 OFFCURVE",
+"44 749 CURVE SMOOTH",
+"44 777 OFFCURVE",
+"25 801 OFFCURVE",
+"-8 814 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"13 792 OFFCURVE",
-"32 780 OFFCURVE",
-"32 766 CURVE SMOOTH",
-"32 751 OFFCURVE",
-"15 751 OFFCURVE",
-"10 751 CURVE SMOOTH",
-"-13 751 OFFCURVE",
-"-30 763 OFFCURVE",
-"-30 778 CURVE SMOOTH",
-"-30 788 OFFCURVE",
-"-23 798 OFFCURVE",
-"-17 805 CURVE"
+"13 774 OFFCURVE",
+"32 762 OFFCURVE",
+"32 748 CURVE SMOOTH",
+"32 733 OFFCURVE",
+"15 733 OFFCURVE",
+"10 733 CURVE SMOOTH",
+"-13 733 OFFCURVE",
+"-30 745 OFFCURVE",
+"-30 760 CURVE SMOOTH",
+"-30 770 OFFCURVE",
+"-23 780 OFFCURVE",
+"-17 787 CURVE"
 );
 }
 );
