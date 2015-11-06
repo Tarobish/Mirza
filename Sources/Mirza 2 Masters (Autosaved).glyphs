@@ -68420,7 +68420,7 @@ unicode = 08E6;
 },
 {
 glyphname = "fathatanCurly-ar";
-lastChange = "2015-11-06 03:32:35 +0000";
+lastChange = "2015-11-06 03:32:48 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -68499,7 +68499,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -68578,7 +68578,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 }
 );
 unicode = 08E7;
