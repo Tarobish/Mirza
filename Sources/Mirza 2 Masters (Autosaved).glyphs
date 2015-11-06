@@ -1495,7 +1495,7 @@ width = 269;
 {
 color = 0;
 glyphname = "alefHamzaabove-ar";
-lastChange = "2015-11-02 20:28:22 +0000";
+lastChange = "2015-11-06 17:43:27 +0000";
 layers = (
 {
 components = (
@@ -1504,9 +1504,8 @@ name = "alef-ar.short";
 },
 {
 disableAlignment = 1;
-locked = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 61, -66}";
+transform = "{1, 0, 0, 1, 86, 52}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
