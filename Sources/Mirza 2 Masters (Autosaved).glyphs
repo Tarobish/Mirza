@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/rehHahabove-ar"
+/circumflex.below
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -56,7 +56,7 @@ locked = 1;
 position = "{92, 608}";
 },
 {
-position = "{14, -19}";
+position = "{14, -283}";
 },
 {
 position = "{229, 580}";
@@ -58159,7 +58159,7 @@ width = 0;
 },
 {
 glyphname = circumflex.below;
-lastChange = "2015-11-02 21:12:30 +0000";
+lastChange = "2015-11-06 18:40:16 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
