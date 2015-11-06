@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hamzaabove-ar"
+"/hamzabelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -62315,7 +62315,7 @@ width = 0;
 },
 {
 glyphname = "hamzaabove_dammatan-ar";
-lastChange = "2015-11-06 18:31:26 +0000";
+lastChange = "2015-11-06 18:56:20 +0000";
 layers = (
 {
 components = (
@@ -62338,7 +62338,7 @@ name = "hamzaabove-ar";
 },
 {
 name = "dammatan-ar";
-transform = "{1, 0, 0, 1, 4, 74}";
+transform = "{1, 0, 0, 1, 7, 194}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
