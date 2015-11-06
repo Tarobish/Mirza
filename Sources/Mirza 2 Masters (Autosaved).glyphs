@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/shaddaFathatan-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -64249,18 +64252,18 @@ width = 0;
 },
 {
 glyphname = "shaddaFathatan-ar";
-lastChange = "2015-11-06 18:45:43 +0000";
+lastChange = "2015-11-06 18:50:22 +0000";
 layers = (
 {
 components = (
 {
 name = "shadda-ar";
-transform = "{1, 0, 0, 1, 0, 1}";
+transform = "{1, 0, 0, 1, 1, 1}";
 },
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 1, 99}";
+transform = "{1, 0, 0, 1, -2, 99}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -64271,11 +64274,12 @@ width = 0;
 components = (
 {
 name = "shadda-ar";
+transform = "{1, 0, 0, 1, -2, 0}";
 },
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, -4, 117}";
+transform = "{1, 0, 0, 1, -2, 117}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
