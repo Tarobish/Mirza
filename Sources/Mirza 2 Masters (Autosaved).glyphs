@@ -30729,7 +30729,7 @@ unicode = FC5D;
 {
 color = 0;
 glyphname = "alefMaksuraAlefabove-ar.fina";
-lastChange = "2015-11-02 21:36:51 +0000";
+lastChange = "2015-11-06 20:18:41 +0000";
 layers = (
 {
 components = (
@@ -30739,7 +30739,7 @@ name = "alefMaksura-ar.fina";
 {
 disableAlignment = 1;
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 266, -676}";
+transform = "{1, 0, 0, 1, 200, -685}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -30753,7 +30753,7 @@ name = "alefMaksura-ar.fina";
 },
 {
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 227, -594}";
+transform = "{1, 0, 0, 1, 226, -593}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
