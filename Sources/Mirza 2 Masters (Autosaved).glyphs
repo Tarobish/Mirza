@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/dotvowelbelow-ar",
+"/dotStopabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -68024,11 +68028,30 @@ unicode = 06EB;
 },
 {
 glyphname = "dotStopabove-ar";
-lastChange = "2015-10-19 08:04:13 +0000";
+lastChange = "2015-11-06 17:39:38 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"22 700 OFFCURVE",
+"39 717 OFFCURVE",
+"39 738 CURVE SMOOTH",
+"39 759 OFFCURVE",
+"22 776 OFFCURVE",
+"0 776 CURVE SMOOTH",
+"-21 776 OFFCURVE",
+"-38 759 OFFCURVE",
+"-38 738 CURVE SMOOTH",
+"-38 717 OFFCURVE",
+"-21 700 OFFCURVE",
+"0 700 CURVE SMOOTH"
+);
+}
+);
 width = 600;
 },
 {
