@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/fatha-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -63448,7 +63445,7 @@ unicode = 064D;
 },
 {
 glyphname = "fatha-ar";
-lastChange = "2015-11-06 18:46:29 +0000";
+lastChange = "2015-11-06 18:46:45 +0000";
 layers = (
 {
 anchors = (
@@ -63492,7 +63489,7 @@ position = "{-1, 680}";
 },
 {
 name = top;
-position = "{-1, 838}";
+position = "{-1, 825}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -63504,8 +63501,8 @@ nodes = (
 "65 815 OFFCURVE",
 "-50 771 OFFCURVE",
 "-91 748 CURVE",
-"-96 743 OFFCURVE",
-"-105 711 OFFCURVE",
+"-96 736 OFFCURVE",
+"-102 716 OFFCURVE",
 "-106 700 CURVE",
 "-60 719 OFFCURVE",
 "49 766 OFFCURVE",
