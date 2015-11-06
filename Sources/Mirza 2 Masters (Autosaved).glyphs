@@ -67911,7 +67911,7 @@ unicode = 06E8;
 },
 {
 glyphname = "rhombusStopbelow-ar";
-lastChange = "2015-11-06 17:35:48 +0000";
+lastChange = "2015-11-06 17:35:56 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -67920,23 +67920,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"203 -445 LINE",
-"115 -358 LINE",
-"28 -445 LINE",
-"115 -533 LINE"
+"78 -277 LINE",
+"2 -201 LINE",
+"-73 -277 LINE",
+"2 -353 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"115 -382 LINE",
-"179 -445 LINE",
-"115 -509 LINE",
-"52 -445 LINE"
+"2 -222 LINE",
+"58 -277 LINE",
+"2 -333 LINE",
+"-53 -277 LINE"
 );
 }
 );
-width = 600;
+width = 0;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
