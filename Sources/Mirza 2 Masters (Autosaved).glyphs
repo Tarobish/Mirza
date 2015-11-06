@@ -68244,7 +68244,7 @@ unicode = 08E5;
 },
 {
 glyphname = "kasraCurly-ar";
-lastChange = "2015-11-06 03:18:43 +0000";
+lastChange = "2015-11-06 03:18:52 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -68253,7 +68253,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"29 -20 LINE",
 "25 -30 LINE",
 "25 -30 OFFCURVE",
 "36 -39 OFFCURVE",
@@ -68280,7 +68279,8 @@ nodes = (
 "51 -108 CURVE SMOOTH",
 "66 -89 OFFCURVE",
 "73 -53 OFFCURVE",
-"42 -30 CURVE SMOOTH"
+"42 -30 CURVE SMOOTH",
+"29 -20 LINE"
 );
 }
 );
@@ -68293,7 +68293,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"28 -8 LINE",
 "18 -32 LINE",
 "18 -32 OFFCURVE",
 "31 -42 OFFCURVE",
@@ -68323,7 +68322,8 @@ nodes = (
 "59 -112 CURVE SMOOTH",
 "77 -87 OFFCURVE",
 "80 -48 OFFCURVE",
-"48 -23 CURVE SMOOTH"
+"48 -23 CURVE SMOOTH",
+"28 -8 LINE"
 );
 }
 );
