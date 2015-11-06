@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hamzabelow-ar"
+"/hamzabelow_kasra-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -62600,7 +62600,7 @@ unicode = 0655;
 },
 {
 glyphname = "hamzabelow_kasratan-ar";
-lastChange = "2015-11-06 18:29:29 +0000";
+lastChange = "2015-11-06 18:57:02 +0000";
 layers = (
 {
 components = (
