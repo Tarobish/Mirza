@@ -62060,7 +62060,7 @@ unicode = 0670;
 },
 {
 glyphname = "alefbelow-ar";
-lastChange = "2015-11-06 18:31:39 +0000";
+lastChange = "2015-11-06 18:31:53 +0000";
 layers = (
 {
 anchors = (
@@ -62098,11 +62098,11 @@ width = 0;
 anchors = (
 {
 name = _bottom;
-position = "{-4, 20}";
+position = "{-2, -180}";
 },
 {
 name = bottom;
-position = "{-4, -141}";
+position = "{-2, -341}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -62111,16 +62111,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"29 -84 OFFCURVE",
-"26 -38 OFFCURVE",
-"5 0 CURVE",
-"-11 -10 OFFCURVE",
-"-19 -18 OFFCURVE",
-"-34 -32 CURVE",
-"-16 -60 OFFCURVE",
-"-5 -91 OFFCURVE",
-"-8 -141 CURVE",
-"21 -131 LINE"
+"31 -284 OFFCURVE",
+"28 -238 OFFCURVE",
+"7 -200 CURVE",
+"-9 -210 OFFCURVE",
+"-17 -218 OFFCURVE",
+"-32 -232 CURVE",
+"-14 -260 OFFCURVE",
+"-3 -291 OFFCURVE",
+"-6 -341 CURVE",
+"23 -331 LINE"
 );
 }
 );
