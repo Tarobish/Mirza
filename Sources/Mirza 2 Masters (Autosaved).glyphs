@@ -67284,7 +67284,7 @@ unicode = 06E0;
 },
 {
 glyphname = "hahabove-ar";
-lastChange = "2015-11-06 20:00:22 +0000";
+lastChange = "2015-11-06 20:00:35 +0000";
 layers = (
 {
 anchors = (
@@ -67330,7 +67330,9 @@ nodes = (
 "-27 770 OFFCURVE",
 "-39 762 OFFCURVE",
 "-51 750 CURVE",
-"-61 757 LINE",
+"-54 752 OFFCURVE",
+"-58 755 OFFCURVE",
+"-61 757 CURVE",
 "-50 777 OFFCURVE",
 "-38 796 OFFCURVE",
 "-19 796 CURVE SMOOTH",
@@ -67371,7 +67373,9 @@ nodes = (
 "-37 817 OFFCURVE",
 "-51 799 OFFCURVE",
 "-67 769 CURVE",
-"-48 755 LINE",
+"-61 764 OFFCURVE",
+"-54 760 OFFCURVE",
+"-48 755 CURVE",
 "-38 766 OFFCURVE",
 "-28 777 OFFCURVE",
 "-15 777 CURVE SMOOTH",
