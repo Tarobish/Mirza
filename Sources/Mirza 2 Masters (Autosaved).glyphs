@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kasratan-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -63336,7 +63339,7 @@ unicode = 064C;
 },
 {
 glyphname = "kasratan-ar";
-lastChange = "2015-11-06 18:28:52 +0000";
+lastChange = "2015-11-06 18:47:44 +0000";
 layers = (
 {
 anchors = (
@@ -63435,6 +63438,23 @@ nodes = (
 "100 -345 OFFCURVE",
 "105 -322 OFFCURVE",
 "106 -300 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-195 -173 OFFCURVE",
+"-310 -217 OFFCURVE",
+"-351 -240 CURVE",
+"-356 -252 OFFCURVE",
+"-362 -272 OFFCURVE",
+"-366 -288 CURVE",
+"-320 -269 OFFCURVE",
+"-211 -222 OFFCURVE",
+"-169 -209 CURVE",
+"-161 -190 OFFCURVE",
+"-159 -181 OFFCURVE",
+"-155 -163 CURVE"
 );
 }
 );
