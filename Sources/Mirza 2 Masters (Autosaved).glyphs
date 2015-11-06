@@ -62131,9 +62131,19 @@ unicode = 0656;
 },
 {
 glyphname = "hamzaabove-ar";
-lastChange = "2015-11-06 18:31:03 +0000";
+lastChange = "2015-11-06 18:31:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{-2, 680}";
+},
+{
+name = top;
+position = "{-2, 873}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -62196,10 +62206,6 @@ width = 0;
 },
 {
 anchors = (
-{
-name = _top;
-position = "{3, 536}";
-},
 {
 name = top;
 position = "{3, 757}";
