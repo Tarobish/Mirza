@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/meembelow-ar",
+"/meemStopabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -67615,11 +67619,61 @@ unicode = 06EC;
 },
 {
 glyphname = "meembelow-ar";
-lastChange = "2015-10-19 08:04:21 +0000";
+lastChange = "2015-11-06 02:00:35 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"61 -18 OFFCURVE",
+"52 -7 OFFCURVE",
+"39 2 CURVE SMOOTH",
+"32 7 OFFCURVE",
+"22 11 OFFCURVE",
+"13 11 CURVE SMOOTH",
+"-1 11 OFFCURVE",
+"-10 4 OFFCURVE",
+"-16 -11 CURVE SMOOTH",
+"-18 -16 OFFCURVE",
+"-19 -22 OFFCURVE",
+"-20 -26 CURVE",
+"-3 -19 OFFCURVE",
+"9 -23 OFFCURVE",
+"28 -34 CURVE",
+"4 -34 OFFCURVE",
+"-14 -37 OFFCURVE",
+"-30 -52 CURVE SMOOTH",
+"-40 -61 OFFCURVE",
+"-52 -82 OFFCURVE",
+"-48 -114 CURVE SMOOTH",
+"-45 -130 OFFCURVE",
+"-43 -148 OFFCURVE",
+"-40 -166 CURVE SMOOTH",
+"-36 -190 OFFCURVE",
+"-31 -218 OFFCURVE",
+"-28 -248 CURVE",
+"-17 -244 LINE",
+"-16 -222 OFFCURVE",
+"-20 -181 OFFCURVE",
+"-27 -122 CURVE SMOOTH",
+"-29 -109 OFFCURVE",
+"-26 -97 OFFCURVE",
+"-17 -88 CURVE SMOOTH",
+"-9 -79 OFFCURVE",
+"5 -72 OFFCURVE",
+"23 -68 CURVE SMOOTH",
+"38 -64 OFFCURVE",
+"51 -64 OFFCURVE",
+"58 -64 CURVE",
+"61 -48 OFFCURVE",
+"62 -34 OFFCURVE",
+"63 -21 CURVE"
+);
+}
+);
 width = 600;
 },
 {
