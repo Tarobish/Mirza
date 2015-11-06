@@ -1,9 +1,4 @@
 {
-DisplayStrings = (
-"/ring-ar",
-"/fatha-ar",
-"/toneonedotabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -67736,108 +67731,6 @@ width = 600;
 }
 );
 unicode = 08E9;
-},
-{
-glyphname = "toneonedotabove-ar";
-lastChange = "2015-10-19 08:05:33 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-},
-{
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 600;
-}
-);
-unicode = 08EA;
-},
-{
-glyphname = "tonetwodotsabove-ar";
-lastChange = "2015-10-19 08:05:40 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-},
-{
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 600;
-}
-);
-unicode = 08EB;
-},
-{
-glyphname = "toneloopabove-ar";
-lastChange = "2015-10-19 08:05:49 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-},
-{
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 600;
-}
-);
-unicode = 08EC;
-},
-{
-glyphname = "toneonedotbelow-ar";
-lastChange = "2015-10-19 08:05:56 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-},
-{
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 600;
-}
-);
-unicode = 08ED;
-},
-{
-glyphname = "tonetwodotsbelow-ar";
-lastChange = "2015-10-19 08:06:13 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-},
-{
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 600;
-}
-);
-unicode = 08EE;
-},
-{
-glyphname = "toneloopbelow-ar";
-lastChange = "2015-10-19 08:06:22 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-},
-{
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 600;
-}
-);
-unicode = 08EF;
 },
 {
 glyphname = "openfathatan-ar";
