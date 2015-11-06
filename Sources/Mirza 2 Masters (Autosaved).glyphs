@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMadda-ar.fina"
+"/alefHamzaabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -1785,8 +1785,9 @@ width = 269;
 );
 },
 {
+color = 0;
 glyphname = "alefMadda-ar";
-lastChange = "2015-11-06 17:42:44 +0000";
+lastChange = "2015-11-06 17:43:07 +0000";
 layers = (
 {
 components = (
@@ -1825,8 +1826,9 @@ width = 202;
 unicode = 0622;
 },
 {
+color = 0;
 glyphname = "alefMadda-ar.fina";
-lastChange = "2015-11-06 17:43:02 +0000";
+lastChange = "2015-11-06 17:43:07 +0000";
 layers = (
 {
 components = (
