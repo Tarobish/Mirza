@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+/uniFEFE
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -70423,7 +70426,7 @@ unicode = FEFE;
 {
 color = 0;
 glyphname = uniFEFD;
-lastChange = "2015-11-06 03:22:31 +0000";
+lastChange = "2015-11-06 19:26:37 +0000";
 layers = (
 {
 components = (
@@ -70446,7 +70449,7 @@ name = "lam_alef-ar";
 },
 {
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 0, -65}";
+transform = "{1, 0, 0, 1, 0, -127}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
