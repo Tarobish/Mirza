@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/takhallusabove-ar"
+"/ainabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -59127,17 +59127,13 @@ unicode = 0610;
 },
 {
 glyphname = "ainabove-ar";
-lastChange = "2015-11-06 01:13:52 +0000";
+lastChange = "2015-11-06 18:37:13 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
 position = "{0, 652}";
-},
-{
-name = top;
-position = "{0, 878}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -59296,7 +59292,7 @@ unicode = 0611;
 },
 {
 glyphname = "takhallusabove-ar";
-lastChange = "2015-11-06 18:37:02 +0000";
+lastChange = "2015-11-06 18:37:07 +0000";
 layers = (
 {
 anchors = (
@@ -59361,52 +59357,62 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{0, 680}";
+},
+{
+name = top;
+position = "{0, 777}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"114 777 OFFCURVE",
-"104 747 OFFCURVE",
-"72 747 CURVE SMOOTH",
-"53 747 LINE SMOOTH",
-"43 747 OFFCURVE",
-"37 749 OFFCURVE",
-"33 754 CURVE",
-"25 763 OFFCURVE",
-"29 776 OFFCURVE",
-"29 776 CURVE",
-"12 770 LINE",
-"12 770 OFFCURVE",
-"10 747 OFFCURVE",
-"-14 747 CURVE SMOOTH",
-"-118 747 LINE",
-"-101 700 LINE",
-"-12 700 LINE SMOOTH",
-"-1 700 OFFCURVE",
-"8 704 OFFCURVE",
-"13 708 CURVE SMOOTH",
-"19 712 OFFCURVE",
-"22 716 OFFCURVE",
-"22 717 CURVE",
-"22 716 OFFCURVE",
-"24 712 OFFCURVE",
-"30 708 CURVE SMOOTH",
-"36 704 OFFCURVE",
-"44 700 OFFCURVE",
-"58 700 CURVE SMOOTH",
-"69 700 LINE SMOOTH",
-"87 700 OFFCURVE",
-"101 708 OFFCURVE",
-"110 722 CURVE SMOOTH",
-"118 734 OFFCURVE",
-"122 750 OFFCURVE",
-"122 765 CURVE SMOOTH",
-"122 767 OFFCURVE",
-"122 770 OFFCURVE",
-"122 773 CURVE",
-"114 777 LINE"
+"112 777 OFFCURVE",
+"102 747 OFFCURVE",
+"70 747 CURVE SMOOTH",
+"51 747 LINE SMOOTH",
+"41 747 OFFCURVE",
+"35 749 OFFCURVE",
+"31 754 CURVE",
+"23 763 OFFCURVE",
+"27 776 OFFCURVE",
+"27 776 CURVE",
+"10 770 LINE",
+"10 770 OFFCURVE",
+"8 747 OFFCURVE",
+"-16 747 CURVE SMOOTH",
+"-120 747 LINE",
+"-103 700 LINE",
+"-14 700 LINE SMOOTH",
+"-3 700 OFFCURVE",
+"6 704 OFFCURVE",
+"11 708 CURVE SMOOTH",
+"17 712 OFFCURVE",
+"20 716 OFFCURVE",
+"20 717 CURVE",
+"20 716 OFFCURVE",
+"22 712 OFFCURVE",
+"28 708 CURVE SMOOTH",
+"34 704 OFFCURVE",
+"42 700 OFFCURVE",
+"56 700 CURVE SMOOTH",
+"67 700 LINE SMOOTH",
+"85 700 OFFCURVE",
+"99 708 OFFCURVE",
+"108 722 CURVE SMOOTH",
+"116 734 OFFCURVE",
+"120 750 OFFCURVE",
+"120 765 CURVE SMOOTH",
+"120 767 OFFCURVE",
+"120 770 OFFCURVE",
+"120 773 CURVE",
+"112 777 LINE"
 );
 }
 );
