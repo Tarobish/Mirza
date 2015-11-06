@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/lamVabove_alef-ar.isol"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -48711,7 +48714,7 @@ unicode = FC86;
 },
 {
 glyphname = "lamVabove_alef-ar.fina";
-lastChange = "2015-11-03 00:15:08 +0000";
+lastChange = "2015-11-06 19:24:40 +0000";
 layers = (
 {
 components = (
@@ -48720,7 +48723,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 310, 0}";
+transform = "{1, 0, 0, 1, 310, -133}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -48734,7 +48737,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 356, 0}";
+transform = "{1, 0, 0, 1, 356, -91}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -48756,7 +48759,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 300, 0}";
+transform = "{1, 0, 0, 1, 300, -122}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
