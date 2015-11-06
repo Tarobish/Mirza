@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotvowelbelow-ar"
+"/sukunoval-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -67161,7 +67161,7 @@ unicode = 06DF;
 },
 {
 glyphname = "sukunoval-ar";
-lastChange = "2015-11-06 18:08:57 +0000";
+lastChange = "2015-11-06 19:11:45 +0000";
 layers = (
 {
 anchors = (
@@ -67227,7 +67227,7 @@ position = "{2, 680}";
 },
 {
 name = top;
-position = "{2, 878}";
+position = "{2, 854}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -67236,40 +67236,40 @@ paths = (
 {
 closed = 1;
 nodes = (
-"59 842 OFFCURVE",
-"41 878 OFFCURVE",
-"-2 878 CURVE",
-"-32 878 OFFCURVE",
-"-54 839 OFFCURVE",
-"-56 801 CURVE",
-"-56 756 LINE",
-"-56 740 OFFCURVE",
-"-46 700 OFFCURVE",
+"52 823 OFFCURVE",
+"36 854 OFFCURVE",
+"-1 854 CURVE",
+"-28 854 OFFCURVE",
+"-47 820 OFFCURVE",
+"-48 787 CURVE",
+"-48 748 LINE",
+"-48 734 OFFCURVE",
+"-40 700 OFFCURVE",
 "0 700 CURVE SMOOTH",
-"25 700 OFFCURVE",
-"42 709 OFFCURVE",
-"51 724 CURVE SMOOTH",
-"59 738 OFFCURVE",
-"60 754 OFFCURVE",
-"60 764 CURVE",
-"60 807 LINE"
+"22 700 OFFCURVE",
+"37 707 OFFCURVE",
+"45 720 CURVE SMOOTH",
+"52 733 OFFCURVE",
+"52 747 OFFCURVE",
+"52 755 CURVE",
+"52 793 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"33 753 OFFCURVE",
-"20 749 OFFCURVE",
-"0 749 CURVE SMOOTH",
-"-20 749 OFFCURVE",
-"-26 760 OFFCURVE",
-"-26 774 CURVE SMOOTH",
-"-26 791 OFFCURVE",
-"-27 825 OFFCURVE",
-"-14 840 CURVE",
-"17 827 OFFCURVE",
-"33 821 OFFCURVE",
-"33 768 CURVE"
+"29 745 OFFCURVE",
+"18 742 OFFCURVE",
+"0 742 CURVE SMOOTH",
+"-17 742 OFFCURVE",
+"-22 752 OFFCURVE",
+"-22 764 CURVE SMOOTH",
+"-22 779 OFFCURVE",
+"-23 808 OFFCURVE",
+"-12 821 CURVE",
+"15 810 OFFCURVE",
+"29 805 OFFCURVE",
+"29 758 CURVE"
 );
 }
 );
@@ -67280,7 +67280,7 @@ unicode = 06E0;
 },
 {
 glyphname = "hahabove-ar";
-lastChange = "2015-10-19 08:03:03 +0000";
+lastChange = "2015-11-06 19:11:17 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -68061,7 +68061,7 @@ unicode = 06EB;
 },
 {
 glyphname = "dotStopabove-ar";
-lastChange = "2015-11-06 17:48:42 +0000";
+lastChange = "2015-11-06 19:09:17 +0000";
 layers = (
 {
 anchors = (
