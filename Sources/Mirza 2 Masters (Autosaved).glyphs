@@ -67773,7 +67773,7 @@ unicode = 08E4;
 },
 {
 glyphname = "dammaCurly-ar";
-lastChange = "2015-11-06 02:06:20 +0000";
+lastChange = "2015-11-06 02:06:32 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -67796,9 +67796,9 @@ nodes = (
 "-6 780 OFFCURVE",
 "23 769 CURVE",
 "-7 737 OFFCURVE",
-"-35 724 OFFCURVE",
-"-89 726 CURVE SMOOTH",
-"-90 724 OFFCURVE",
+"-56 725 OFFCURVE",
+"-81 753 CURVE SMOOTH",
+"-83 755 OFFCURVE",
 "-96 714 OFFCURVE",
 "-100 700 CURVE",
 "-60 695 OFFCURVE",
@@ -67832,7 +67832,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
