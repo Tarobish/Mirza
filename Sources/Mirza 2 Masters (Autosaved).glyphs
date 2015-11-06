@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/openfathatan-ar"
+"/maddalong-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -67481,7 +67481,7 @@ unicode = 06E3;
 },
 {
 glyphname = "maddalong-ar";
-lastChange = "2015-11-05 05:29:53 +0000";
+lastChange = "2015-11-06 18:07:39 +0000";
 layers = (
 {
 anchors = (
@@ -69127,8 +69127,9 @@ width = 0;
 unicode = 08E9;
 },
 {
+color = 9;
 glyphname = "openfathatan-ar";
-lastChange = "2015-11-06 18:07:16 +0000";
+lastChange = "2015-11-06 18:07:32 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
