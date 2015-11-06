@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/damma-ar"
+"/fatha-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -62384,7 +62384,7 @@ width = 0;
 },
 {
 glyphname = "hamzaabove_damma-ar";
-lastChange = "2015-10-31 09:23:46 +0000";
+lastChange = "2015-11-06 18:27:46 +0000";
 layers = (
 {
 components = (
@@ -62393,7 +62393,7 @@ name = "hamzaabove-ar";
 },
 {
 name = "damma-ar";
-transform = "{1, 0, 0, 1, 11, 62}";
+transform = "{1, 0, 0, 1, 1, 56}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -62809,7 +62809,7 @@ width = 0;
 },
 {
 glyphname = "hamzaaboveDamma-ar";
-lastChange = "2015-11-05 05:33:25 +0000";
+lastChange = "2015-11-06 18:27:46 +0000";
 layers = (
 {
 components = (
@@ -62818,7 +62818,7 @@ name = "hamzaabove-ar";
 },
 {
 name = "damma-ar";
-transform = "{1, 0, 0, 1, 11, 62}";
+transform = "{1, 0, 0, 1, 1, 56}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -63449,19 +63449,9 @@ unicode = 064D;
 },
 {
 glyphname = "fatha-ar";
-lastChange = "2015-10-31 09:14:07 +0000";
+lastChange = "2015-11-06 18:27:54 +0000";
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{1, 546}";
-},
-{
-name = top;
-position = "{1, 661}";
-}
-);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -64146,7 +64136,7 @@ width = 0;
 },
 {
 glyphname = "shaddaDamma-ar";
-lastChange = "2015-11-06 18:26:50 +0000";
+lastChange = "2015-11-06 18:27:46 +0000";
 layers = (
 {
 components = (
@@ -64156,7 +64146,7 @@ transform = "{1, 0, 0, 1, 0, -29}";
 },
 {
 name = "damma-ar";
-transform = "{1, 0, 0, 1, 11, 105}";
+transform = "{1, 0, 0, 1, 1, 99}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
