@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/kasraDotbelow-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -63354,7 +63351,7 @@ unicode = 064C;
 },
 {
 glyphname = "kasratan-ar";
-lastChange = "2015-11-06 18:54:32 +0000";
+lastChange = "2015-11-06 19:29:31 +0000";
 layers = (
 {
 anchors = (
@@ -63373,35 +63370,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"25 -213 OFFCURVE",
-"-25 -233 OFFCURVE",
-"-81 -261 CURVE",
-"-84 -267 OFFCURVE",
-"-86 -275 OFFCURVE",
-"-88 -286 CURVE",
-"-88 -286 OFFCURVE",
-"19 -239 OFFCURVE",
-"80 -219 CURVE",
-"84 -211 OFFCURVE",
-"87 -203 OFFCURVE",
-"88 -193 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"25 -273 OFFCURVE",
-"-25 -293 OFFCURVE",
-"-81 -321 CURVE",
-"-84 -327 OFFCURVE",
-"-86 -335 OFFCURVE",
-"-88 -346 CURVE",
 "-88 -346 OFFCURVE",
 "19 -299 OFFCURVE",
 "80 -279 CURVE",
 "84 -271 OFFCURVE",
 "87 -263 OFFCURVE",
-"88 -253 CURVE"
+"88 -253 CURVE",
+"25 -273 OFFCURVE",
+"-25 -293 OFFCURVE",
+"-81 -321 CURVE",
+"-84 -327 OFFCURVE",
+"-86 -335 OFFCURVE",
+"-88 -346 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-88 -286 OFFCURVE",
+"19 -239 OFFCURVE",
+"80 -219 CURVE",
+"84 -211 OFFCURVE",
+"87 -203 OFFCURVE",
+"88 -193 CURVE",
+"25 -213 OFFCURVE",
+"-25 -233 OFFCURVE",
+"-81 -261 CURVE",
+"-84 -267 OFFCURVE",
+"-86 -275 OFFCURVE",
+"-88 -286 CURVE"
 );
 }
 );
@@ -63424,35 +63421,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"57 -271 OFFCURVE",
-"-43 -309 OFFCURVE",
-"-78 -329 CURVE",
-"-83 -340 OFFCURVE",
-"-88 -357 OFFCURVE",
-"-91 -371 CURVE",
 "-51 -355 OFFCURVE",
 "44 -314 OFFCURVE",
 "80 -302 CURVE",
 "87 -286 OFFCURVE",
 "89 -278 OFFCURVE",
-"92 -262 CURVE"
+"92 -262 CURVE",
+"57 -271 OFFCURVE",
+"-43 -309 OFFCURVE",
+"-78 -329 CURVE",
+"-83 -340 OFFCURVE",
+"-88 -357 OFFCURVE",
+"-91 -371 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"57 -207 OFFCURVE",
-"-43 -245 OFFCURVE",
-"-78 -265 CURVE",
-"-83 -275 OFFCURVE",
-"-88 -293 OFFCURVE",
-"-91 -307 CURVE",
 "-51 -290 OFFCURVE",
 "44 -249 OFFCURVE",
 "80 -238 CURVE",
 "87 -221 OFFCURVE",
 "89 -214 OFFCURVE",
-"92 -198 CURVE"
+"92 -198 CURVE",
+"57 -207 OFFCURVE",
+"-43 -245 OFFCURVE",
+"-78 -265 CURVE",
+"-83 -275 OFFCURVE",
+"-88 -293 OFFCURVE",
+"-91 -307 CURVE"
 );
 }
 );
@@ -69257,7 +69254,7 @@ unicode = 08F0;
 {
 color = 9;
 glyphname = "opendammatan-ar";
-lastChange = "2015-11-06 18:59:21 +0000";
+lastChange = "2015-11-06 19:29:06 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -69747,7 +69744,7 @@ unicode = 08F3;
 {
 color = 9;
 glyphname = "fathaRing-ar";
-lastChange = "2015-11-06 19:01:35 +0000";
+lastChange = "2015-11-06 19:28:55 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
