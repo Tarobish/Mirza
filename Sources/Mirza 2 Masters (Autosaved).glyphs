@@ -1,8 +1,7 @@
 {
 DisplayStrings = (
 "/noonabove-ar",
-"/fatha-ar",
-"/fathatwodots-ar"
+"/fatha-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -65142,17 +65141,17 @@ unicode = 065D;
 },
 {
 glyphname = "fathatwodots-ar";
-lastChange = "2015-11-06 02:56:02 +0000";
+lastChange = "2015-11-06 02:56:09 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{3, 731}";
+position = "{-2, 707}";
 },
 {
 name = bottom;
-position = "{3, 520}";
+position = "{-2, 545}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
