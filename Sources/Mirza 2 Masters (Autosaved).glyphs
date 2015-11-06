@@ -64252,18 +64252,18 @@ width = 0;
 },
 {
 glyphname = "shaddaFathatan-ar";
-lastChange = "2015-10-31 09:16:56 +0000";
+lastChange = "2015-11-06 18:45:35 +0000";
 layers = (
 {
 components = (
 {
 name = "shadda-ar";
-transform = "{1, 0, 0, 1, 0, -130}";
+transform = "{1, 0, 0, 1, 0, 1}";
 },
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 1, -19}";
+transform = "{1, 0, 0, 1, 1, 99}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
