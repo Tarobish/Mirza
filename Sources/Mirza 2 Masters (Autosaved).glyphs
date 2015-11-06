@@ -63064,7 +63064,7 @@ width = 0;
 },
 {
 glyphname = "fathatan-ar";
-lastChange = "2015-11-06 19:25:54 +0000";
+lastChange = "2015-11-06 19:26:08 +0000";
 layers = (
 {
 anchors = (
@@ -63151,18 +63151,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"56 864 OFFCURVE",
-"-44 826 OFFCURVE",
-"-79 806 CURVE",
-"-84 796 OFFCURVE",
-"-89 778 OFFCURVE",
-"-92 764 CURVE",
 "-52 781 OFFCURVE",
 "43 822 OFFCURVE",
 "79 833 CURVE",
 "86 850 OFFCURVE",
 "88 857 OFFCURVE",
-"91 873 CURVE"
+"91 873 CURVE",
+"56 864 OFFCURVE",
+"-44 826 OFFCURVE",
+"-79 806 CURVE",
+"-84 796 OFFCURVE",
+"-89 778 OFFCURVE",
+"-92 764 CURVE"
 );
 }
 );
