@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dammatan-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -62316,7 +62313,7 @@ width = 0;
 },
 {
 glyphname = "hamzaabove_dammatan-ar";
-lastChange = "2015-11-02 19:52:19 +0000";
+lastChange = "2015-11-06 18:29:58 +0000";
 layers = (
 {
 components = (
@@ -62325,7 +62322,7 @@ name = "hamzaabove-ar";
 },
 {
 name = "dammatan-ar";
-transform = "{1, 0, 0, 1, 0, 54}";
+transform = "{1, 0, 0, 1, 0, 57}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -62843,7 +62840,7 @@ width = 0;
 },
 {
 glyphname = "hamzaaboveDammatan-ar";
-lastChange = "2015-11-05 05:34:08 +0000";
+lastChange = "2015-11-06 18:29:58 +0000";
 layers = (
 {
 components = (
@@ -62853,7 +62850,7 @@ transform = "{1, 0, 0, 1, 0, 159}";
 },
 {
 name = "dammatan-ar";
-transform = "{1, 0, 0, 1, 0, 213}";
+transform = "{1, 0, 0, 1, 0, 216}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -64181,7 +64178,7 @@ width = 0;
 },
 {
 glyphname = "shaddaDammatan-ar";
-lastChange = "2015-11-06 18:26:50 +0000";
+lastChange = "2015-11-06 18:29:58 +0000";
 layers = (
 {
 components = (
@@ -64191,7 +64188,7 @@ transform = "{1, 0, 0, 1, 0, -29}";
 },
 {
 name = "dammatan-ar";
-transform = "{1, 0, 0, 1, 0, 97}";
+transform = "{1, 0, 0, 1, 0, 100}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
