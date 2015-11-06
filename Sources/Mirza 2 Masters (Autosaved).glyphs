@@ -2024,7 +2024,7 @@ unicode = FD3C;
 {
 color = 0;
 glyphname = "highhamzaAlef-ar";
-lastChange = "2015-11-03 01:46:52 +0000";
+lastChange = "2015-11-06 19:06:14 +0000";
 layers = (
 {
 components = (
@@ -2034,7 +2034,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 213, -117}";
+transform = "{1, 0, 0, 1, 155, -177}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -2049,7 +2049,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 270, -56}";
+transform = "{1, 0, 0, 1, 240, -108}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
