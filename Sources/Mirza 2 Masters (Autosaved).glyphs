@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/fathaHorizont-ar"
+"/dotvowelbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -64513,27 +64513,37 @@ unicode = 0658;
 },
 {
 glyphname = "fathaHorizont-ar";
-lastChange = "2015-11-06 19:08:31 +0000";
+lastChange = "2015-11-06 19:08:37 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{-1, 682}";
+},
+{
+name = top;
+position = "{-1, 732}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"38 734 OFFCURVE",
-"-16 732 OFFCURVE",
-"-78 725 CURVE",
-"-83 720 OFFCURVE",
-"-88 712 OFFCURVE",
-"-94 702 CURVE",
-"-94 702 OFFCURVE",
-"23 710 OFFCURVE",
-"87 707 CURVE",
-"93 714 OFFCURVE",
-"100 722 OFFCURVE",
-"104 731 CURVE"
+"32 734 OFFCURVE",
+"-22 732 OFFCURVE",
+"-84 725 CURVE",
+"-89 720 OFFCURVE",
+"-94 712 OFFCURVE",
+"-100 702 CURVE",
+"-100 702 OFFCURVE",
+"17 710 OFFCURVE",
+"81 707 CURVE",
+"87 714 OFFCURVE",
+"94 722 OFFCURVE",
+"98 731 CURVE"
 );
 }
 );
