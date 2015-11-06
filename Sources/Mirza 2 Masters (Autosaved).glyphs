@@ -66686,7 +66686,7 @@ unicode = 06DA;
 },
 {
 glyphname = "threedotsabove-ar";
-lastChange = "2015-11-06 03:13:55 +0000";
+lastChange = "2015-11-06 03:14:02 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -66748,18 +66748,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-12 762 OFFCURVE",
-"-1 750 OFFCURVE",
-"6 741 CURVE",
-"16 748 OFFCURVE",
-"30 764 OFFCURVE",
-"34 769 CURVE",
-"29 780 OFFCURVE",
-"17 793 OFFCURVE",
-"4 800 CURVE",
-"-1 794 OFFCURVE",
-"-17 778 OFFCURVE",
-"-25 771 CURVE"
+"-15 762 OFFCURVE",
+"-4 750 OFFCURVE",
+"3 741 CURVE",
+"13 748 OFFCURVE",
+"27 764 OFFCURVE",
+"31 769 CURVE",
+"26 780 OFFCURVE",
+"14 793 OFFCURVE",
+"1 800 CURVE",
+"-4 794 OFFCURVE",
+"-20 778 OFFCURVE",
+"-28 771 CURVE"
 );
 },
 {
@@ -66792,7 +66792,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 }
 );
 unicode = 06DB;
