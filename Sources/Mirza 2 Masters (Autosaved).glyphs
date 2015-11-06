@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/theh-ar/theh-ar/highhamzaYeh-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -34114,7 +34111,7 @@ unicode = 0678;
 },
 {
 glyphname = "highhamzaYeh-ar.fina";
-lastChange = "2015-11-06 19:20:12 +0000";
+lastChange = "2015-11-06 19:20:29 +0000";
 layers = (
 {
 anchors = (
@@ -34207,7 +34204,7 @@ position = "{221, 87}";
 components = (
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 631, -331}";
+transform = "{1, 0, 0, 1, 631, -494}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
