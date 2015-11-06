@@ -69867,7 +69867,7 @@ unicode = 08F4;
 },
 {
 glyphname = "fathaDotabove-ar";
-lastChange = "2015-11-06 19:12:54 +0000";
+lastChange = "2015-11-06 19:13:01 +0000";
 layers = (
 {
 anchors = (
@@ -69924,7 +69924,11 @@ width = 0;
 anchors = (
 {
 name = _top;
-position = "{3, 680}";
+position = "{-2, 680}";
+},
+{
+name = top;
+position = "{-2, 867}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -69933,18 +69937,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-24 842 OFFCURVE",
-"-13 830 OFFCURVE",
-"-6 821 CURVE",
-"4 828 OFFCURVE",
-"18 844 OFFCURVE",
-"22 849 CURVE",
-"17 860 OFFCURVE",
-"5 873 OFFCURVE",
-"-8 880 CURVE",
-"-13 874 OFFCURVE",
-"-29 858 OFFCURVE",
-"-37 851 CURVE"
+"-18 829 OFFCURVE",
+"-7 817 OFFCURVE",
+"0 808 CURVE",
+"10 815 OFFCURVE",
+"24 831 OFFCURVE",
+"28 836 CURVE",
+"23 847 OFFCURVE",
+"11 860 OFFCURVE",
+"-2 867 CURVE",
+"-7 861 OFFCURVE",
+"-23 845 OFFCURVE",
+"-31 838 CURVE"
 );
 },
 {
