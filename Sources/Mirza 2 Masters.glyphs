@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/kasraCurly-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -34030,7 +34027,7 @@ unicode = 0677;
 {
 color = 6;
 glyphname = "uHamzaabove-ar.fina";
-lastChange = "2015-11-04 16:52:43 +0000";
+lastChange = "2015-11-06 03:23:24 +0000";
 layers = (
 {
 components = (
@@ -69612,8 +69609,9 @@ width = 0;
 unicode = FBBC;
 },
 {
+color = 0;
 glyphname = uniFEFE;
-lastChange = "2015-11-02 20:26:35 +0000";
+lastChange = "2015-11-06 03:22:34 +0000";
 layers = (
 {
 components = (
@@ -69647,8 +69645,9 @@ width = 603;
 unicode = FEFE;
 },
 {
+color = 0;
 glyphname = uniFEFD;
-lastChange = "2015-11-02 20:27:19 +0000";
+lastChange = "2015-11-06 03:22:31 +0000";
 layers = (
 {
 components = (
