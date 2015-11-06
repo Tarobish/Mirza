@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefbelow-ar"
+"/alefabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -61989,7 +61989,7 @@ unicode = FBBF;
 },
 {
 glyphname = "alefabove-ar";
-lastChange = "2015-10-31 07:49:25 +0000";
+lastChange = "2015-11-06 18:32:17 +0000";
 layers = (
 {
 anchors = (
@@ -62027,11 +62027,11 @@ width = 0;
 anchors = (
 {
 name = _top;
-position = "{-6, 681}";
+position = "{-5, 680}";
 },
 {
 name = top;
-position = "{-6, 796}";
+position = "{-5, 841}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -62040,16 +62040,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"27 751 OFFCURVE",
-"24 797 OFFCURVE",
-"3 835 CURVE",
-"-13 825 OFFCURVE",
-"-21 817 OFFCURVE",
-"-36 803 CURVE",
-"-18 775 OFFCURVE",
-"-7 744 OFFCURVE",
-"-10 694 CURVE",
-"19 704 LINE"
+"28 757 OFFCURVE",
+"25 803 OFFCURVE",
+"4 841 CURVE",
+"-12 831 OFFCURVE",
+"-20 823 OFFCURVE",
+"-35 809 CURVE",
+"-17 781 OFFCURVE",
+"-6 750 OFFCURVE",
+"-9 700 CURVE",
+"20 710 LINE"
 );
 }
 );
