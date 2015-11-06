@@ -69976,7 +69976,7 @@ unicode = 08F5;
 },
 {
 glyphname = "kasraDotbelow-ar";
-lastChange = "2015-11-06 19:13:18 +0000";
+lastChange = "2015-11-06 19:13:27 +0000";
 layers = (
 {
 anchors = (
@@ -70034,32 +70034,11 @@ anchors = (
 {
 name = _bottom;
 position = "{-1, -177}";
-},
-{
-name = bottom;
-position = "{-1, -383}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
-{
-closed = 1;
-nodes = (
-"65 -207 OFFCURVE",
-"-50 -251 OFFCURVE",
-"-91 -274 CURVE",
-"-98 -280 OFFCURVE",
-"-105 -324 OFFCURVE",
-"-106 -335 CURVE",
-"-60 -316 OFFCURVE",
-"49 -269 OFFCURVE",
-"91 -256 CURVE",
-"99 -242 OFFCURVE",
-"104 -219 OFFCURVE",
-"105 -197 CURVE"
-);
-},
 {
 closed = 1;
 nodes = (
