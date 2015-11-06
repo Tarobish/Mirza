@@ -66686,7 +66686,7 @@ unicode = 06DA;
 },
 {
 glyphname = "threedotsabove-ar";
-lastChange = "2015-11-06 03:13:39 +0000";
+lastChange = "2015-11-06 03:13:55 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -66748,6 +66748,23 @@ paths = (
 {
 closed = 1;
 nodes = (
+"-12 762 OFFCURVE",
+"-1 750 OFFCURVE",
+"6 741 CURVE",
+"16 748 OFFCURVE",
+"30 764 OFFCURVE",
+"34 769 CURVE",
+"29 780 OFFCURVE",
+"17 793 OFFCURVE",
+"4 800 CURVE",
+"-1 794 OFFCURVE",
+"-17 778 OFFCURVE",
+"-25 771 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
 "-39 712 OFFCURVE",
 "-28 700 OFFCURVE",
 "-21 691 CURVE",
@@ -66768,23 +66785,6 @@ nodes = (
 "3.218 725.761 CURVE",
 "-2.829 734.95 OFFCURVE",
 "-12.594 744.397 OFFCURVE",
-"-23 750 CURVE",
-"-28 744 OFFCURVE",
-"-44 728 OFFCURVE",
-"-52 721 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"-39 712 OFFCURVE",
-"-28 700 OFFCURVE",
-"-21 691 CURVE",
-"-11 698 OFFCURVE",
-"3 714 OFFCURVE",
-"7 719 CURVE",
-"2 730 OFFCURVE",
-"-10 743 OFFCURVE",
 "-23 750 CURVE",
 "-28 744 OFFCURVE",
 "-44 728 OFFCURVE",
