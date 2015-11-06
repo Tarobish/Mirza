@@ -37503,7 +37503,7 @@ unicode = FEFA;
 {
 color = 0;
 glyphname = "lam_alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-06 19:15:03 +0000";
+lastChange = "2015-11-06 19:15:14 +0000";
 layers = (
 {
 components = (
@@ -37526,7 +37526,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "wavyhamzaabove-ar";
-transform = "{1, 0, 0, 1, 77, -92}";
+transform = "{1, 0, 0, 1, 86, -95}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
