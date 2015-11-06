@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/fathaHorizont-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -64510,7 +64513,7 @@ unicode = 0658;
 },
 {
 glyphname = "fathaHorizont-ar";
-lastChange = "2015-11-06 18:25:12 +0000";
+lastChange = "2015-11-06 19:08:13 +0000";
 layers = (
 {
 anchors = (
@@ -64566,14 +64569,14 @@ nodes = (
 "84 738 OFFCURVE",
 "-39 736 OFFCURVE",
 "-85 728 CURVE",
-"-94 725 OFFCURVE",
-"-116 686 OFFCURVE",
-"-120 676 CURVE",
-"-71 678 OFFCURVE",
-"48 685 OFFCURVE",
-"92 683 CURVE",
-"104 694 OFFCURVE",
-"117 713 OFFCURVE",
+"-94 718 OFFCURVE",
+"-109 698 OFFCURVE",
+"-113 688 CURVE",
+"-64 690 OFFCURVE",
+"55 697 OFFCURVE",
+"99 695 CURVE",
+"111 710 OFFCURVE",
+"115 715 OFFCURVE",
 "125 734 CURVE"
 );
 }
