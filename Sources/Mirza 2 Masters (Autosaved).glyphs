@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotStopabove-ar"
+"/noonabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -67739,14 +67739,10 @@ unicode = 06E7;
 },
 {
 glyphname = "noonabove-ar";
-lastChange = "2015-11-06 00:05:26 +0000";
+lastChange = "2015-11-06 17:49:07 +0000";
 layers = (
 {
 anchors = (
-{
-name = _top;
-position = "{4, 680}";
-},
 {
 name = top;
 position = "{4, 896}";
@@ -68032,7 +68028,7 @@ unicode = 06EB;
 },
 {
 glyphname = "dotStopabove-ar";
-lastChange = "2015-11-06 17:40:11 +0000";
+lastChange = "2015-11-06 17:48:42 +0000";
 layers = (
 {
 anchors = (
