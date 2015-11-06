@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_alefHamzabelow-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -37466,7 +37463,7 @@ unicode = FEF9;
 },
 {
 glyphname = "lam_alefHamzabelow-ar.fina";
-lastChange = "2015-11-06 19:16:55 +0000";
+lastChange = "2015-11-06 19:17:04 +0000";
 layers = (
 {
 components = (
@@ -37489,7 +37486,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 175, 140}";
+transform = "{1, 0, 0, 1, 175, 120}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
