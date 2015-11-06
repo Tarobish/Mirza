@@ -34075,7 +34075,7 @@ width = 407;
 {
 color = 0;
 glyphname = "highhamzaYeh-ar";
-lastChange = "2015-11-06 19:19:37 +0000";
+lastChange = "2015-11-06 19:19:40 +0000";
 layers = (
 {
 components = (
@@ -34086,7 +34086,7 @@ name = "alefMaksura-ar";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 623, -303}";
+transform = "{1, 0, 0, 1, 623, -283}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -34102,7 +34102,7 @@ name = "alefMaksura-ar";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 627, -259}";
+transform = "{1, 0, 0, 1, 627, -239}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
