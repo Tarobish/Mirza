@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/noonabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -66853,7 +66856,7 @@ unicode = 06DB;
 {
 color = 9;
 glyphname = "seenabove-ar";
-lastChange = "2015-11-06 18:18:01 +0000";
+lastChange = "2015-11-06 19:47:15 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
