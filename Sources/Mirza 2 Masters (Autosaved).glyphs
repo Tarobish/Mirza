@@ -34275,7 +34275,7 @@ width = 885;
 {
 color = 0;
 glyphname = "highhamzaYeh-ar.init";
-lastChange = "2015-11-06 19:20:51 +0000";
+lastChange = "2015-11-06 19:21:08 +0000";
 layers = (
 {
 components = (
@@ -34307,7 +34307,7 @@ transform = "{1, 0, 0, 1, 261, -332}";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 444;
+width = 394;
 }
 );
 },
