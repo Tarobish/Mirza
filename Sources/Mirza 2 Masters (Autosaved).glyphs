@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-/uniFEFE
+"/openfathatan-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -63064,7 +63064,7 @@ width = 0;
 },
 {
 glyphname = "fathatan-ar";
-lastChange = "2015-11-06 19:26:25 +0000";
+lastChange = "2015-11-06 19:27:01 +0000";
 layers = (
 {
 anchors = (
@@ -69167,7 +69167,7 @@ unicode = 08E9;
 {
 color = 9;
 glyphname = "openfathatan-ar";
-lastChange = "2015-11-06 19:00:20 +0000";
+lastChange = "2015-11-06 19:27:35 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
