@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/threedotsabove-ar"
+"/jeemabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -66690,7 +66690,7 @@ unicode = 06DA;
 },
 {
 glyphname = "threedotsabove-ar";
-lastChange = "2015-11-06 18:16:37 +0000";
+lastChange = "2015-11-06 18:16:55 +0000";
 layers = (
 {
 anchors = (
@@ -66759,11 +66759,11 @@ width = 0;
 anchors = (
 {
 name = _top;
-position = "{3, 671}";
+position = "{-1, 681}";
 },
 {
 name = top;
-position = "{3, 800}";
+position = "{-1, 810}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -66772,47 +66772,47 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-39 712 OFFCURVE",
-"-28 700 OFFCURVE",
-"-21 691 CURVE",
-"-12 697 OFFCURVE",
-"-1 709 OFFCURVE",
-"4.574 716.077 CURVE",
-"14.696 707.927 OFFCURVE",
-"23.214 698.439 OFFCURVE",
-"29 691 CURVE",
-"39 698 OFFCURVE",
-"53 714 OFFCURVE",
-"57 719 CURVE",
-"52 730 OFFCURVE",
-"40 743 OFFCURVE",
-"27 750 CURVE",
-"22.937 745.125 OFFCURVE",
-"11.613 733.648 OFFCURVE",
-"3.218 725.761 CURVE",
-"-2.829 734.95 OFFCURVE",
-"-12.594 744.397 OFFCURVE",
-"-23 750 CURVE",
-"-28 744 OFFCURVE",
-"-44 728 OFFCURVE",
-"-52 721 CURVE"
+"-42 722 OFFCURVE",
+"-31 710 OFFCURVE",
+"-24 701 CURVE",
+"-15 707 OFFCURVE",
+"-4 719 OFFCURVE",
+"2 726 CURVE",
+"12 718 OFFCURVE",
+"20 708 OFFCURVE",
+"26 701 CURVE",
+"36 708 OFFCURVE",
+"50 724 OFFCURVE",
+"54 729 CURVE",
+"49 740 OFFCURVE",
+"37 753 OFFCURVE",
+"24 760 CURVE",
+"20 755 OFFCURVE",
+"9 744 OFFCURVE",
+"0 736 CURVE",
+"-6 745 OFFCURVE",
+"-16 754 OFFCURVE",
+"-26 760 CURVE",
+"-31 754 OFFCURVE",
+"-47 738 OFFCURVE",
+"-55 731 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-15 762 OFFCURVE",
-"-4 750 OFFCURVE",
-"3 741 CURVE",
-"13 748 OFFCURVE",
-"27 764 OFFCURVE",
-"31 769 CURVE",
-"26 780 OFFCURVE",
-"14 793 OFFCURVE",
-"1 800 CURVE",
-"-4 794 OFFCURVE",
-"-20 778 OFFCURVE",
-"-28 771 CURVE"
+"-18 772 OFFCURVE",
+"-7 760 OFFCURVE",
+"0 751 CURVE",
+"10 758 OFFCURVE",
+"24 774 OFFCURVE",
+"28 779 CURVE",
+"23 790 OFFCURVE",
+"11 803 OFFCURVE",
+"-2 810 CURVE",
+"-7 804 OFFCURVE",
+"-23 788 OFFCURVE",
+"-31 781 CURVE"
 );
 }
 );
