@@ -63970,17 +63970,17 @@ unicode = 0652;
 },
 {
 glyphname = "madda-ar";
-lastChange = "2015-11-06 17:41:21 +0000";
+lastChange = "2015-11-06 17:41:36 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{15, 649}";
+position = "{-16, 666}";
 },
 {
 name = top;
-position = "{15, 649}";
+position = "{-16, 781}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -64028,16 +64028,6 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{25, 527}";
-},
-{
-name = top;
-position = "{121, 451}";
-}
-);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
