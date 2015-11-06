@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"/openfathatan-ar",
-"/kasra-ar"
+"/fatha-ar",
+"/fathaDotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -68804,11 +68804,30 @@ unicode = 08F4;
 },
 {
 glyphname = "fathaDotabove-ar";
-lastChange = "2015-10-19 08:07:35 +0000";
+lastChange = "2015-11-06 02:58:25 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"26 641 OFFCURVE",
+"-24 621 OFFCURVE",
+"-80 593 CURVE",
+"-83 587 OFFCURVE",
+"-85 577 OFFCURVE",
+"-87 566 CURVE",
+"-87 566 OFFCURVE",
+"20 613 OFFCURVE",
+"81 633 CURVE",
+"85 641 OFFCURVE",
+"88 651 OFFCURVE",
+"89 661 CURVE"
+);
+}
+);
 width = 600;
 },
 {
