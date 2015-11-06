@@ -67969,7 +67969,7 @@ unicode = 08E9;
 },
 {
 glyphname = "openfathatan-ar";
-lastChange = "2015-11-06 02:10:38 +0000";
+lastChange = "2015-11-06 02:10:57 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -68015,6 +68015,42 @@ width = 0;
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"68 673 OFFCURVE",
+"-47 629 OFFCURVE",
+"-88 606 CURVE",
+"-95 600 OFFCURVE",
+"-102 556 OFFCURVE",
+"-103 545 CURVE",
+"-57 564 OFFCURVE",
+"52 611 OFFCURVE",
+"94 624 CURVE",
+"102 638 OFFCURVE",
+"107 661 OFFCURVE",
+"108 683 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 812 OFFCURVE",
+"57 768 OFFCURVE",
+"16 745 CURVE",
+"9 739 OFFCURVE",
+"2 695 OFFCURVE",
+"1 684 CURVE",
+"47 703 OFFCURVE",
+"156 750 OFFCURVE",
+"198 763 CURVE",
+"206 777 OFFCURVE",
+"211 800 OFFCURVE",
+"212 822 CURVE"
+);
+}
+);
 width = 600;
 }
 );
