@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefFathatan-ar.fina"
+"/alefHamzaabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -1492,7 +1492,7 @@ width = 269;
 {
 color = 0;
 glyphname = "alefHamzaabove-ar";
-lastChange = "2015-11-06 17:43:32 +0000";
+lastChange = "2015-11-06 19:04:04 +0000";
 layers = (
 {
 components = (
@@ -1502,7 +1502,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 86, -74}";
+transform = "{1, 0, 0, 1, 78, -200}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1518,7 +1518,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 69, 19}";
+transform = "{1, 0, 0, 1, 102, -118}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
