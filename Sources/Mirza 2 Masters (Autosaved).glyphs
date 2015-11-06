@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/fathatan-ar/uniFEFE"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -63064,7 +63061,7 @@ width = 0;
 },
 {
 glyphname = "fathatan-ar";
-lastChange = "2015-11-06 19:26:18 +0000";
+lastChange = "2015-11-06 19:26:25 +0000";
 layers = (
 {
 anchors = (
@@ -63083,35 +63080,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-87 700 OFFCURVE",
-"20 747 OFFCURVE",
-"81 767 CURVE",
-"85 775 OFFCURVE",
-"88 783 OFFCURVE",
-"89 793 CURVE",
 "26 773 OFFCURVE",
 "-24 753 OFFCURVE",
 "-80 725 CURVE",
 "-83 719 OFFCURVE",
 "-85 711 OFFCURVE",
-"-87 700 CURVE"
+"-87 700 CURVE",
+"-87 700 OFFCURVE",
+"20 747 OFFCURVE",
+"81 767 CURVE",
+"85 775 OFFCURVE",
+"88 783 OFFCURVE",
+"89 793 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-87 760 OFFCURVE",
-"20 807 OFFCURVE",
-"81 827 CURVE",
-"85 835 OFFCURVE",
-"88 843 OFFCURVE",
-"89 853 CURVE",
 "26 833 OFFCURVE",
 "-24 813 OFFCURVE",
 "-80 785 CURVE",
 "-83 779 OFFCURVE",
 "-85 771 OFFCURVE",
-"-87 760 CURVE"
+"-87 760 CURVE",
+"-87 760 OFFCURVE",
+"20 807 OFFCURVE",
+"81 827 CURVE",
+"85 835 OFFCURVE",
+"88 843 OFFCURVE",
+"89 853 CURVE"
 );
 }
 );
