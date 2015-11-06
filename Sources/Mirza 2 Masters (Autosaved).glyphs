@@ -65141,7 +65141,7 @@ unicode = 065D;
 },
 {
 glyphname = "fathatwodots-ar";
-lastChange = "2015-11-06 02:50:21 +0000";
+lastChange = "2015-11-06 02:50:44 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -65170,6 +65170,25 @@ width = 600;
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"15 648 OFFCURVE",
+"-25 612 OFFCURVE",
+"-68 567 CURVE",
+"-69 560 OFFCURVE",
+"-67 550 OFFCURVE",
+"-65 539 CURVE",
+"-65 539 OFFCURVE",
+"19 620 OFFCURVE",
+"70 659 CURVE",
+"71 668 OFFCURVE",
+"70 678 OFFCURVE",
+"67 688 CURVE"
+);
+}
+);
 width = 600;
 }
 );
