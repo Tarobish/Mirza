@@ -69837,19 +69837,9 @@ unicode = 08F4;
 },
 {
 glyphname = "fathaDotabove-ar";
-lastChange = "2015-11-06 02:59:39 +0000";
+lastChange = "2015-11-06 17:49:49 +0000";
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{1, 546}";
-},
-{
-name = top;
-position = "{1, 714}";
-}
-);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
