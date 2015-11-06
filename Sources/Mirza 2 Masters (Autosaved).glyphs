@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/fatha-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -62350,7 +62347,7 @@ width = 0;
 },
 {
 glyphname = "hamzaabove_fatha-ar";
-lastChange = "2015-10-31 09:23:49 +0000";
+lastChange = "2015-11-06 18:28:21 +0000";
 layers = (
 {
 components = (
@@ -62359,7 +62356,7 @@ name = "hamzaabove-ar";
 },
 {
 name = "fatha-ar";
-transform = "{1, 0, 0, 1, -3, 195}";
+transform = "{1, 0, 0, 1, -1, 60}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -62878,7 +62875,7 @@ width = 0;
 },
 {
 glyphname = "hamzaaboveFatha-ar";
-lastChange = "2015-11-05 05:34:44 +0000";
+lastChange = "2015-11-06 18:28:21 +0000";
 layers = (
 {
 components = (
@@ -62888,7 +62885,7 @@ transform = "{1, 0, 0, 1, 0, 64}";
 },
 {
 name = "fatha-ar";
-transform = "{1, 0, 0, 1, -3, 259}";
+transform = "{1, 0, 0, 1, -1, 124}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -63449,7 +63446,7 @@ unicode = 064D;
 },
 {
 glyphname = "fatha-ar";
-lastChange = "2015-11-06 18:28:14 +0000";
+lastChange = "2015-11-06 18:28:17 +0000";
 layers = (
 {
 anchors = (
@@ -63486,24 +63483,34 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{-1, 680}";
+},
+{
+name = top;
+position = "{-1, 838}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"65 829 OFFCURVE",
-"-50 785 OFFCURVE",
-"-91 762 CURVE",
-"-98 756 OFFCURVE",
-"-105 712 OFFCURVE",
-"-106 701 CURVE",
-"-60 720 OFFCURVE",
-"49 767 OFFCURVE",
-"91 780 CURVE",
-"99 794 OFFCURVE",
-"104 817 OFFCURVE",
-"105 839 CURVE"
+"65 828 OFFCURVE",
+"-50 784 OFFCURVE",
+"-91 761 CURVE",
+"-98 755 OFFCURVE",
+"-105 711 OFFCURVE",
+"-106 700 CURVE",
+"-60 719 OFFCURVE",
+"49 766 OFFCURVE",
+"91 779 CURVE",
+"99 793 OFFCURVE",
+"104 816 OFFCURVE",
+"105 838 CURVE"
 );
 }
 );
@@ -64280,7 +64287,7 @@ width = 0;
 },
 {
 glyphname = "shaddaKasra-ar";
-lastChange = "2015-11-06 18:26:51 +0000";
+lastChange = "2015-11-06 18:28:21 +0000";
 layers = (
 {
 components = (
@@ -64290,7 +64297,7 @@ name = "fatha-ar";
 },
 {
 name = "shadda-ar";
-transform = "{1, 0, 0, 1, 3, -18}";
+transform = "{1, 0, 0, 1, 1, 117}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
