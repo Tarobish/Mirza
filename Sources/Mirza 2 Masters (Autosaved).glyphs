@@ -68121,7 +68121,7 @@ unicode = 08F2;
 },
 {
 glyphname = "highwaw-ar";
-lastChange = "2015-11-06 02:04:23 +0000";
+lastChange = "2015-11-06 02:04:31 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -68231,9 +68231,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"82 756 OFFCURVE",
-"82 727 OFFCURVE",
-"82 711 CURVE SMOOTH",
 "82 692 OFFCURVE",
 "81 675 OFFCURVE",
 "78 661 CURVE SMOOTH",
@@ -68279,7 +68276,10 @@ nodes = (
 "27 828 CURVE SMOOTH",
 "53 828 OFFCURVE",
 "67 807 OFFCURVE",
-"74 781 CURVE SMOOTH"
+"74 781 CURVE SMOOTH",
+"82 756 OFFCURVE",
+"82 727 OFFCURVE",
+"82 711 CURVE SMOOTH"
 );
 }
 );
