@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/fathaDotabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -66682,17 +66685,133 @@ unicode = 06DA;
 },
 {
 glyphname = "threedotsabove-ar";
-lastChange = "2015-10-19 08:02:27 +0000";
+lastChange = "2015-11-06 03:14:18 +0000";
 layers = (
 {
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
+anchors = (
+{
+name = _top;
+position = "{1, 677}";
 },
 {
+name = top;
+position = "{1, 786}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-37 714 OFFCURVE",
+"-29 706 OFFCURVE",
+"-21 697 CURVE",
+"-11 706 OFFCURVE",
+"-5 712 OFFCURVE",
+"1 719 CURVE",
+"9 713 OFFCURVE",
+"17 705 OFFCURVE",
+"24 697 CURVE",
+"34 706 OFFCURVE",
+"41 713 OFFCURVE",
+"47 720 CURVE",
+"41 728 OFFCURVE",
+"31 738 OFFCURVE",
+"22 744 CURVE",
+"16 737 OFFCURVE",
+"8 728 OFFCURVE",
+"0 722 CURVE",
+"-6 730 OFFCURVE",
+"-15 739 OFFCURVE",
+"-23 744 CURVE",
+"-29 737 OFFCURVE",
+"-38 727 OFFCURVE",
+"-46 721 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-15 756 OFFCURVE",
+"-7 748 OFFCURVE",
+"1 739 CURVE",
+"11 748 OFFCURVE",
+"18 755 OFFCURVE",
+"24 762 CURVE",
+"18 770 OFFCURVE",
+"8 780 OFFCURVE",
+"-1 786 CURVE",
+"-7 779 OFFCURVE",
+"-16 769 OFFCURVE",
+"-24 763 CURVE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{3, 671}";
+},
+{
+name = top;
+position = "{3, 800}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"-39 712 OFFCURVE",
+"-28 700 OFFCURVE",
+"-21 691 CURVE",
+"-12 697 OFFCURVE",
+"-1 709 OFFCURVE",
+"4.574 716.077 CURVE",
+"14.696 707.927 OFFCURVE",
+"23.214 698.439 OFFCURVE",
+"29 691 CURVE",
+"39 698 OFFCURVE",
+"53 714 OFFCURVE",
+"57 719 CURVE",
+"52 730 OFFCURVE",
+"40 743 OFFCURVE",
+"27 750 CURVE",
+"22.937 745.125 OFFCURVE",
+"11.613 733.648 OFFCURVE",
+"3.218 725.761 CURVE",
+"-2.829 734.95 OFFCURVE",
+"-12.594 744.397 OFFCURVE",
+"-23 750 CURVE",
+"-28 744 OFFCURVE",
+"-44 728 OFFCURVE",
+"-52 721 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-15 762 OFFCURVE",
+"-4 750 OFFCURVE",
+"3 741 CURVE",
+"13 748 OFFCURVE",
+"27 764 OFFCURVE",
+"31 769 CURVE",
+"26 780 OFFCURVE",
+"14 793 OFFCURVE",
+"1 800 CURVE",
+"-4 794 OFFCURVE",
+"-20 778 OFFCURVE",
+"-28 771 CURVE"
+);
+}
+);
+width = 0;
 }
 );
 unicode = 06DB;
