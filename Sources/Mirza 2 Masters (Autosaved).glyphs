@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/damma-ar",
+"/dammaCurly-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -67769,11 +67773,65 @@ unicode = 08E4;
 },
 {
 glyphname = "dammaCurly-ar";
-lastChange = "2015-10-19 08:04:44 +0000";
+lastChange = "2015-11-06 02:06:07 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"54 785 LINE SMOOTH",
+"80 828 OFFCURVE",
+"79 868 OFFCURVE",
+"57 880 CURVE SMOOTH",
+"38 890 OFFCURVE",
+"13 880 OFFCURVE",
+"-10 852 CURVE SMOOTH",
+"-23 836 OFFCURVE",
+"-27 822 OFFCURVE",
+"-24 809 CURVE SMOOTH",
+"-20 792 OFFCURVE",
+"-6 780 OFFCURVE",
+"23 769 CURVE",
+"-7 737 OFFCURVE",
+"-35 724 OFFCURVE",
+"-89 726 CURVE SMOOTH",
+"-90 724 OFFCURVE",
+"-96 714 OFFCURVE",
+"-100 700 CURVE",
+"-60 695 OFFCURVE",
+"-24 703 OFFCURVE",
+"5 724 CURVE SMOOTH",
+"22 737 OFFCURVE",
+"30 745 OFFCURVE",
+"42 763 CURVE",
+"73 750 LINE SMOOTH",
+"73 761 OFFCURVE",
+"72 768 OFFCURVE",
+"69 777 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"17 806 LINE SMOOTH",
+"-1 816 OFFCURVE",
+"-3 827 OFFCURVE",
+"-2 834 CURVE SMOOTH",
+"-1 843 OFFCURVE",
+"7 852 OFFCURVE",
+"18 855 CURVE",
+"28 857 OFFCURVE",
+"38 855 OFFCURVE",
+"45 846 CURVE",
+"55 835 OFFCURVE",
+"50 815 OFFCURVE",
+"37 795 CURVE"
+);
+}
+);
 width = 600;
 },
 {
