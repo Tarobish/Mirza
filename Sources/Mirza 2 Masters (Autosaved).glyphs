@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dammareversed-ar"
+"/shadda-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -65023,7 +65023,7 @@ unicode = 065C;
 },
 {
 glyphname = "dammareversed-ar";
-lastChange = "2015-11-06 18:58:50 +0000";
+lastChange = "2015-11-06 18:58:51 +0000";
 layers = (
 {
 anchors = (
@@ -65095,6 +65095,16 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{3, 687}";
+},
+{
+name = top;
+position = "{3, 868}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
