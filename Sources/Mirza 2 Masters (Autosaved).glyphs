@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
-"/fathaCurly-ar",
-"/fathatanCurly-ar"
+"/fathatanCurly-ar",
+"/kasratanCurly-ar",
+"/kasraCurly-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -68819,11 +68820,85 @@ unicode = 08E8;
 },
 {
 glyphname = "kasratanCurly-ar";
-lastChange = "2015-10-19 08:05:24 +0000";
+lastChange = "2015-11-06 03:33:13 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-50 -139 OFFCURVE",
+"-44 -149 OFFCURVE",
+"-27 -162 CURVE",
+"-29 -168 OFFCURVE",
+"-31 -175 OFFCURVE",
+"-31 -181 CURVE SMOOTH",
+"-31 -195 OFFCURVE",
+"-24 -205 OFFCURVE",
+"-5 -219 CURVE",
+"-2 -213 LINE",
+"-6 -208 OFFCURVE",
+"-10 -204 OFFCURVE",
+"-11 -198 CURVE",
+"-16 -185 OFFCURVE",
+"-1 -171 OFFCURVE",
+"8 -166 CURVE SMOOTH",
+"15 -162 OFFCURVE",
+"39 -151 OFFCURVE",
+"47 -139 CURVE",
+"53 -132 OFFCURVE",
+"58 -120 OFFCURVE",
+"57 -109 CURVE SMOOTH",
+"56 -96 OFFCURVE",
+"51 -89 OFFCURVE",
+"34 -75 CURVE",
+"37 -69 OFFCURVE",
+"38 -61 OFFCURVE",
+"38 -54 CURVE SMOOTH",
+"37 -40 OFFCURVE",
+"31 -33 OFFCURVE",
+"11 -18 CURVE",
+"8 -25 LINE",
+"11 -28 OFFCURVE",
+"17 -34 OFFCURVE",
+"18 -39 CURVE",
+"18 -43 OFFCURVE",
+"21 -55 OFFCURVE",
+"0 -70 CURVE SMOOTH",
+"-10 -77 OFFCURVE",
+"-31 -86 OFFCURVE",
+"-41 -99 CURVE SMOOTH",
+"-47 -108 OFFCURVE",
+"-50 -117 OFFCURVE",
+"-50 -126 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-35 -129 OFFCURVE",
+"-20 -116 OFFCURVE",
+"-10 -111 CURVE SMOOTH",
+"-3 -107 OFFCURVE",
+"20 -96 OFFCURVE",
+"29 -82 CURVE",
+"32 -86 OFFCURVE",
+"36 -90 OFFCURVE",
+"37 -95 CURVE",
+"37 -98 OFFCURVE",
+"39 -110 OFFCURVE",
+"19 -125 CURVE SMOOTH",
+"8 -132 OFFCURVE",
+"-12 -140 OFFCURVE",
+"-23 -156 CURVE",
+"-26 -152 OFFCURVE",
+"-29 -148 OFFCURVE",
+"-30 -142 CURVE"
+);
+}
+);
 width = 600;
 },
 {
