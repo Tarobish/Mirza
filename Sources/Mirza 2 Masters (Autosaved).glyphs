@@ -64325,7 +64325,7 @@ width = 0;
 },
 {
 glyphname = "shaddaKasratan-ar";
-lastChange = "2015-11-06 18:44:39 +0000";
+lastChange = "2015-11-06 18:44:49 +0000";
 layers = (
 {
 components = (
@@ -64349,7 +64349,7 @@ name = "shadda-ar";
 },
 {
 name = "kasratan-ar";
-transform = "{1, 0, 0, 1, 0, 883}";
+transform = "{1, 0, 0, 1, 0, 932}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
