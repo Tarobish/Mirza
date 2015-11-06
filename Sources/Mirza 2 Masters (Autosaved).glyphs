@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-/uniFEFE
+"/fathatan-ar/uniFEFE"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -63064,7 +63064,7 @@ width = 0;
 },
 {
 glyphname = "fathatan-ar";
-lastChange = "2015-11-06 18:54:53 +0000";
+lastChange = "2015-11-06 19:25:54 +0000";
 layers = (
 {
 anchors = (
