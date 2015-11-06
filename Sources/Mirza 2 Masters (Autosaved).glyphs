@@ -64513,7 +64513,7 @@ unicode = 0658;
 },
 {
 glyphname = "fathaHorizont-ar";
-lastChange = "2015-11-06 19:08:13 +0000";
+lastChange = "2015-11-06 19:08:23 +0000";
 layers = (
 {
 anchors = (
@@ -64550,34 +64550,24 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{3, 656}";
-},
-{
-name = top;
-position = "{3, 736}";
-}
-);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"84 738 OFFCURVE",
-"-39 736 OFFCURVE",
-"-85 728 CURVE",
-"-94 718 OFFCURVE",
-"-109 698 OFFCURVE",
-"-113 688 CURVE",
-"-64 690 OFFCURVE",
-"55 697 OFFCURVE",
-"99 695 CURVE",
-"111 710 OFFCURVE",
-"115 715 OFFCURVE",
-"125 734 CURVE"
+"78 748 OFFCURVE",
+"-45 746 OFFCURVE",
+"-91 738 CURVE",
+"-100 728 OFFCURVE",
+"-115 708 OFFCURVE",
+"-119 698 CURVE",
+"-70 700 OFFCURVE",
+"49 707 OFFCURVE",
+"93 705 CURVE",
+"105 720 OFFCURVE",
+"109 725 OFFCURVE",
+"119 744 CURVE"
 );
 }
 );
