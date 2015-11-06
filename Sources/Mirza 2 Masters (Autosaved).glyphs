@@ -37429,7 +37429,7 @@ unicode = FEF8;
 },
 {
 glyphname = "lam_alefHamzabelow-ar";
-lastChange = "2015-10-31 08:45:05 +0000";
+lastChange = "2015-11-06 19:16:43 +0000";
 layers = (
 {
 components = (
@@ -37438,7 +37438,7 @@ name = "lam_alef-ar";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 127, 155}";
+transform = "{1, 0, 0, 1, 137, 167}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37452,7 +37452,7 @@ name = "lam_alef-ar";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 161, 146}";
+transform = "{1, 0, 0, 1, 195, 177}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
