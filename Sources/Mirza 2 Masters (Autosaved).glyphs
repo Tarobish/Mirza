@@ -27895,7 +27895,7 @@ unicode = FBA9;
 },
 {
 glyphname = "hehgoal-ar.init";
-lastChange = "2015-11-06 19:44:43 +0000";
+lastChange = "2015-11-06 19:44:46 +0000";
 layers = (
 {
 anchors = (
@@ -28018,9 +28018,9 @@ nodes = (
 "-2 -210 OFFCURVE",
 "33 -210 CURVE SMOOTH",
 "60 -210 OFFCURVE",
-"71 -198 OFFCURVE",
-"80 -166 CURVE",
-"51 -164 OFFCURVE",
+"75 -198 OFFCURVE",
+"84 -166 CURVE",
+"55 -164 OFFCURVE",
 "42 -146 OFFCURVE",
 "51 -120 CURVE SMOOTH",
 "62 -89 OFFCURVE",
