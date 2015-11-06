@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/fathatan-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -63049,7 +63046,7 @@ width = 0;
 },
 {
 glyphname = "fathatan-ar";
-lastChange = "2015-11-06 18:47:23 +0000";
+lastChange = "2015-11-06 18:49:07 +0000";
 layers = (
 {
 anchors = (
@@ -63110,7 +63107,7 @@ position = "{-1, 680}";
 },
 {
 name = top;
-position = "{-1, 906}";
+position = "{-1, 899}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -63136,18 +63133,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"65 896 OFFCURVE",
-"-50 852 OFFCURVE",
-"-91 829 CURVE",
-"-96 817 OFFCURVE",
-"-102 797 OFFCURVE",
-"-106 781 CURVE",
-"-60 800 OFFCURVE",
-"49 847 OFFCURVE",
-"91 860 CURVE",
-"99 879 OFFCURVE",
-"101 888 OFFCURVE",
-"105 906 CURVE"
+"65 889 OFFCURVE",
+"-50 845 OFFCURVE",
+"-91 822 CURVE",
+"-96 810 OFFCURVE",
+"-102 790 OFFCURVE",
+"-106 774 CURVE",
+"-60 793 OFFCURVE",
+"49 840 OFFCURVE",
+"91 853 CURVE",
+"99 872 OFFCURVE",
+"101 881 OFFCURVE",
+"105 899 CURVE"
 );
 }
 );
