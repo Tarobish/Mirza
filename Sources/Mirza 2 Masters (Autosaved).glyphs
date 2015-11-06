@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehVabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -31212,7 +31209,7 @@ unicode = FE8B;
 {
 color = 0;
 glyphname = "yehVabove-ar";
-lastChange = "2015-11-06 20:15:34 +0000";
+lastChange = "2015-11-06 20:15:41 +0000";
 layers = (
 {
 components = (
@@ -31222,7 +31219,7 @@ name = "alefMaksura-ar";
 {
 disableAlignment = 1;
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 206, -605}";
+transform = "{1, 0, 0, 1, 206, -582}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31236,7 +31233,7 @@ name = "alefMaksura-ar";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 218, -425}";
+transform = "{1, 0, 0, 1, 220, -517}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
