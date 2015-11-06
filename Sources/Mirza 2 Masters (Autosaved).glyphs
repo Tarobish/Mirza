@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seenbelow-ar"
+"/sukunoval-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -67268,7 +67268,7 @@ unicode = 06E1;
 },
 {
 glyphname = "seenbelow-ar";
-lastChange = "2015-11-06 18:08:43 +0000";
+lastChange = "2015-11-06 18:08:45 +0000";
 layers = (
 {
 anchors = (
@@ -67374,6 +67374,16 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{-2, -187}";
+},
+{
+name = bottom;
+position = "{-2, -470}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
