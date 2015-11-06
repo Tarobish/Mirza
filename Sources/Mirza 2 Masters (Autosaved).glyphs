@@ -70390,7 +70390,7 @@ unicode = FBBC;
 {
 color = 0;
 glyphname = uniFEFE;
-lastChange = "2015-11-06 19:25:18 +0000";
+lastChange = "2015-11-06 19:25:28 +0000";
 layers = (
 {
 components = (
@@ -70399,7 +70399,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 50, -177}";
+transform = "{1, 0, 0, 1, 50, -172}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
