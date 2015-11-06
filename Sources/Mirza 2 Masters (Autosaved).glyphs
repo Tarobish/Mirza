@@ -55214,7 +55214,7 @@ unicode = 060F;
 },
 {
 glyphname = "sindhiampersand-ar";
-lastChange = "2015-11-04 19:09:44 +0000";
+lastChange = "2015-11-06 19:40:34 +0000";
 layers = (
 {
 components = (
@@ -63061,7 +63061,7 @@ width = 0;
 },
 {
 glyphname = "fathatan-ar";
-lastChange = "2015-11-06 19:27:01 +0000";
+lastChange = "2015-11-06 19:29:37 +0000";
 layers = (
 {
 anchors = (
