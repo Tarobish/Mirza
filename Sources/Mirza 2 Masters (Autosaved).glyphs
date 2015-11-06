@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/fathatan-ar"
+"/shaddaFatha-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -64215,18 +64215,18 @@ width = 0;
 },
 {
 glyphname = "shaddaFatha-ar";
-lastChange = "2015-10-31 09:18:46 +0000";
+lastChange = "2015-11-06 18:43:57 +0000";
 layers = (
 {
 components = (
 {
 name = "shadda-ar";
-transform = "{1, 0, 0, 1, 0, -29}";
+transform = "{1, 0, 0, 1, 0, 2}";
 },
 {
 disableAlignment = 1;
 name = "fatha-ar";
-transform = "{1, 0, 0, 1, 1, 215}";
+transform = "{1, 0, 0, 1, 1, 80}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
