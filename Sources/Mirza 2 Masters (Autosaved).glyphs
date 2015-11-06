@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alefWavyhamzaabove-ar.isol"
+"/lam_alefHamzaabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -37355,7 +37355,7 @@ unicode = FEFC;
 },
 {
 glyphname = "lam_alefHamzaabove-ar";
-lastChange = "2015-10-29 19:53:28 +0000";
+lastChange = "2015-11-06 19:16:15 +0000";
 layers = (
 {
 components = (
@@ -37364,7 +37364,7 @@ name = "lam_alef-ar";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 12, -32}";
+transform = "{1, 0, 0, 1, -9, -176}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37378,7 +37378,7 @@ name = "lam_alef-ar";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 9, 9}";
+transform = "{1, 0, 0, 1, 9, -120}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -37540,7 +37540,7 @@ rightMetricsKey = "alefWavyhamzaabove-ar.fina";
 {
 color = 0;
 glyphname = "lam_alefWavyhamzaabove-ar.isol";
-lastChange = "2015-11-06 19:15:48 +0000";
+lastChange = "2015-11-06 19:15:57 +0000";
 layers = (
 {
 components = (
@@ -37563,7 +37563,7 @@ name = "lam_alef-ar";
 },
 {
 name = "wavyhamzaabove-ar";
-transform = "{1, 0, 0, 1, 9, -95}";
+transform = "{1, 0, 0, 1, 9, -105}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
