@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"/fatha-ar",
-"/fathatwodots-ar"
+"/fathatwodots-ar",
+"/noonabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -65141,7 +65141,7 @@ unicode = 065D;
 },
 {
 glyphname = "fathatwodots-ar";
-lastChange = "2015-11-06 02:50:55 +0000";
+lastChange = "2015-11-06 02:51:19 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -65186,6 +65186,40 @@ nodes = (
 "75 662 OFFCURVE",
 "75 672 OFFCURVE",
 "74 682 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-68 652 OFFCURVE",
+"-59 643 OFFCURVE",
+"-50 632 CURVE",
+"-38 643 OFFCURVE",
+"-30 651 OFFCURVE",
+"-23 659 CURVE",
+"-29 668 OFFCURVE",
+"-41 679 OFFCURVE",
+"-52 687 CURVE",
+"-59 679 OFFCURVE",
+"-70 667 OFFCURVE",
+"-78 660 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"14 561 OFFCURVE",
+"23 552 OFFCURVE",
+"32 541 CURVE",
+"44 552 OFFCURVE",
+"52 560 OFFCURVE",
+"59 568 CURVE",
+"53 577 OFFCURVE",
+"41 588 OFFCURVE",
+"30 596 CURVE",
+"23 588 OFFCURVE",
+"12 576 OFFCURVE",
+"4 569 CURVE"
 );
 }
 );
