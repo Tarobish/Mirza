@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/fathatwodots-ar"
+"/dammareversed-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -65145,9 +65145,19 @@ unicode = 065D;
 },
 {
 glyphname = "fathatwodots-ar";
-lastChange = "2015-11-06 18:22:18 +0000";
+lastChange = "2015-11-06 18:22:31 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{-2, 861}";
+},
+{
+name = bottom;
+position = "{-2, 699}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -65209,11 +65219,11 @@ width = 0;
 anchors = (
 {
 name = _bottom;
-position = "{2, 731}";
+position = "{2, 911}";
 },
 {
 name = bottom;
-position = "{2, 520}";
+position = "{2, 700}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -65222,52 +65232,52 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-69 667 OFFCURVE",
-"-57 653 OFFCURVE",
-"-48 642 CURVE",
-"-37 651 OFFCURVE",
-"-20 670 OFFCURVE",
-"-16 675 CURVE",
-"-22 688 OFFCURVE",
-"-36 702 OFFCURVE",
-"-51 711 CURVE",
-"-56 704 OFFCURVE",
-"-75 685 OFFCURVE",
-"-84 677 CURVE"
+"-69 847 OFFCURVE",
+"-57 833 OFFCURVE",
+"-48 822 CURVE",
+"-37 831 OFFCURVE",
+"-20 850 OFFCURVE",
+"-16 855 CURVE",
+"-22 868 OFFCURVE",
+"-36 882 OFFCURVE",
+"-51 891 CURVE",
+"-56 884 OFFCURVE",
+"-75 865 OFFCURVE",
+"-84 857 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-84 556 OFFCURVE",
-"-83 531 OFFCURVE",
-"-82 520 CURVE",
-"-42 550 OFFCURVE",
-"51 624 OFFCURVE",
-"88 647 CURVE",
-"88 673 OFFCURVE",
-"88 688 OFFCURVE",
-"87 708 CURVE",
-"50 688 OFFCURVE",
-"-49 616 OFFCURVE",
-"-83 583 CURVE"
+"-84 736 OFFCURVE",
+"-83 711 OFFCURVE",
+"-82 700 CURVE",
+"-42 730 OFFCURVE",
+"51 804 OFFCURVE",
+"88 827 CURVE",
+"88 853 OFFCURVE",
+"88 868 OFFCURVE",
+"87 888 CURVE",
+"50 868 OFFCURVE",
+"-49 796 OFFCURVE",
+"-83 763 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"33 548 OFFCURVE",
-"45 534 OFFCURVE",
-"54 523 CURVE",
-"65 532 OFFCURVE",
-"82 551 OFFCURVE",
-"86 556 CURVE",
-"80 569 OFFCURVE",
-"66 583 OFFCURVE",
-"51 592 CURVE",
-"46 585 OFFCURVE",
-"27 566 OFFCURVE",
-"18 558 CURVE"
+"33 728 OFFCURVE",
+"45 714 OFFCURVE",
+"54 703 CURVE",
+"65 712 OFFCURVE",
+"82 731 OFFCURVE",
+"86 736 CURVE",
+"80 749 OFFCURVE",
+"66 763 OFFCURVE",
+"51 772 CURVE",
+"46 765 OFFCURVE",
+"27 746 OFFCURVE",
+"18 738 CURVE"
 );
 }
 );
