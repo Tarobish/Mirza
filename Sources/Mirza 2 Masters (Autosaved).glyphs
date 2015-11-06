@@ -68028,7 +68028,7 @@ unicode = 06EB;
 },
 {
 glyphname = "dotStopabove-ar";
-lastChange = "2015-11-06 17:39:41 +0000";
+lastChange = "2015-11-06 17:39:57 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -68057,6 +68057,25 @@ width = 0;
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"30 700 OFFCURVE",
+"51 721 OFFCURVE",
+"51 748 CURVE SMOOTH",
+"51 775 OFFCURVE",
+"30 796 OFFCURVE",
+"3 796 CURVE SMOOTH",
+"-24 796 OFFCURVE",
+"-45 775 OFFCURVE",
+"-45 748 CURVE SMOOTH",
+"-45 721 OFFCURVE",
+"-24 700 OFFCURVE",
+"3 700 CURVE SMOOTH"
+);
+}
+);
 width = 600;
 }
 );
