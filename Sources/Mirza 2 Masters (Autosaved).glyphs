@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alefWasla-ar"
+"/lam_alefWasla-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -37761,7 +37761,7 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "lam_alefWasla-ar.fina";
-lastChange = "2015-10-29 19:53:28 +0000";
+lastChange = "2015-11-06 19:18:50 +0000";
 layers = (
 {
 components = (
@@ -37770,7 +37770,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "wasla-ar";
-transform = "{1, 0, 0, 1, 51, -17}";
+transform = "{1, 0, 0, 1, 35, -143}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37784,7 +37784,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "wasla-ar";
-transform = "{1, 0, 0, 1, 80, -12}";
+transform = "{1, 0, 0, 1, 69, -115}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
