@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/shaddaFathatan-ar"
+"/shaddaFatha-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -64290,7 +64290,7 @@ width = 0;
 },
 {
 glyphname = "shaddaKasra-ar";
-lastChange = "2015-11-06 18:45:14 +0000";
+lastChange = "2015-11-06 18:50:31 +0000";
 layers = (
 {
 components = (
