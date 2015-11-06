@@ -68804,7 +68804,7 @@ unicode = 08F4;
 },
 {
 glyphname = "fathaDotabove-ar";
-lastChange = "2015-11-06 02:59:12 +0000";
+lastChange = "2015-11-06 02:59:24 +0000";
 layers = (
 {
 anchors = (
@@ -68876,6 +68876,23 @@ nodes = (
 "102 638 OFFCURVE",
 "107 661 OFFCURVE",
 "108 683 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-24 687 OFFCURVE",
+"-13 675 OFFCURVE",
+"-6 666 CURVE",
+"4 673 OFFCURVE",
+"18 689 OFFCURVE",
+"22 694 CURVE",
+"17 705 OFFCURVE",
+"5 718 OFFCURVE",
+"-8 725 CURVE",
+"-13 719 OFFCURVE",
+"-29 703 OFFCURVE",
+"-37 696 CURVE"
 );
 }
 );
