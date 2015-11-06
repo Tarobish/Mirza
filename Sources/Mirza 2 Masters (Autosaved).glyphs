@@ -69837,9 +69837,19 @@ unicode = 08F4;
 },
 {
 glyphname = "fathaDotabove-ar";
-lastChange = "2015-11-06 18:04:56 +0000";
+lastChange = "2015-11-06 18:05:30 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{1, 680}";
+},
+{
+name = top;
+position = "{1, 833}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -69863,69 +69873,59 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"-16 818 OFFCURVE",
-"-8 810 OFFCURVE",
-"0 801 CURVE",
-"10 810 OFFCURVE",
+"-16 803 OFFCURVE",
+"-8 795 OFFCURVE",
+"0 786 CURVE",
+"10 795 OFFCURVE",
+"17 802 OFFCURVE",
+"23 809 CURVE",
 "17 817 OFFCURVE",
-"23 824 CURVE",
-"17 832 OFFCURVE",
-"7 842 OFFCURVE",
-"-2 848 CURVE",
-"-8 841 OFFCURVE",
-"-17 831 OFFCURVE",
-"-25 825 CURVE"
+"7 827 OFFCURVE",
+"-2 833 CURVE",
+"-8 826 OFFCURVE",
+"-17 816 OFFCURVE",
+"-25 810 CURVE"
 );
 }
 );
 width = 0;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{3, 525}";
-},
-{
-name = top;
-position = "{3, 725}";
-}
-);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"68 673 OFFCURVE",
-"-47 629 OFFCURVE",
-"-88 606 CURVE",
-"-95 600 OFFCURVE",
-"-102 556 OFFCURVE",
-"-103 545 CURVE",
-"-57 564 OFFCURVE",
-"52 611 OFFCURVE",
-"94 624 CURVE",
-"102 638 OFFCURVE",
-"107 661 OFFCURVE",
-"108 683 CURVE"
+"68 828 OFFCURVE",
+"-47 784 OFFCURVE",
+"-88 761 CURVE",
+"-95 755 OFFCURVE",
+"-102 711 OFFCURVE",
+"-103 700 CURVE",
+"-57 719 OFFCURVE",
+"52 766 OFFCURVE",
+"94 779 CURVE",
+"102 793 OFFCURVE",
+"107 816 OFFCURVE",
+"108 838 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-24 687 OFFCURVE",
-"-13 675 OFFCURVE",
-"-6 666 CURVE",
-"4 673 OFFCURVE",
-"18 689 OFFCURVE",
-"22 694 CURVE",
-"17 705 OFFCURVE",
-"5 718 OFFCURVE",
-"-8 725 CURVE",
-"-13 719 OFFCURVE",
-"-29 703 OFFCURVE",
-"-37 696 CURVE"
+"-24 842 OFFCURVE",
+"-13 830 OFFCURVE",
+"-6 821 CURVE",
+"4 828 OFFCURVE",
+"18 844 OFFCURVE",
+"22 849 CURVE",
+"17 860 OFFCURVE",
+"5 873 OFFCURVE",
+"-8 880 CURVE",
+"-13 874 OFFCURVE",
+"-29 858 OFFCURVE",
+"-37 851 CURVE"
 );
 }
 );
