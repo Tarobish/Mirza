@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehVinverted-farsi.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -31506,7 +31509,7 @@ width = 315;
 {
 color = 0;
 glyphname = "yehVinverted-farsi";
-lastChange = "2015-11-02 21:35:32 +0000";
+lastChange = "2015-11-06 20:16:33 +0000";
 layers = (
 {
 components = (
@@ -31516,7 +31519,7 @@ name = "alefMaksura-ar";
 {
 disableAlignment = 1;
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 223, -449}";
+transform = "{1, 0, 0, 1, 202, -590}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31530,7 +31533,7 @@ name = "alefMaksura-ar";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 218, -426}";
+transform = "{1, 0, 0, 1, 218, -517}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -31553,7 +31556,7 @@ name = "alefMaksura-ar.fina";
 {
 disableAlignment = 1;
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 230, -531}";
+transform = "{1, 0, 0, 1, 203, -677}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
