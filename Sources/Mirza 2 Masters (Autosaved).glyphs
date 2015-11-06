@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_alefWasla-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -37354,8 +37351,9 @@ width = 603;
 unicode = FEFC;
 },
 {
+color = 0;
 glyphname = "lam_alefHamzaabove-ar";
-lastChange = "2015-11-06 19:16:15 +0000";
+lastChange = "2015-11-06 19:19:11 +0000";
 layers = (
 {
 components = (
@@ -37391,8 +37389,9 @@ rightMetricsKey = "lam_alef-ar";
 unicode = FEF7;
 },
 {
+color = 0;
 glyphname = "lam_alefHamzaabove-ar.fina";
-lastChange = "2015-11-06 19:16:26 +0000";
+lastChange = "2015-11-06 19:19:11 +0000";
 layers = (
 {
 components = (
@@ -37428,8 +37427,9 @@ rightMetricsKey = "lam_alef-ar.fina";
 unicode = FEF8;
 },
 {
+color = 0;
 glyphname = "lam_alefHamzabelow-ar";
-lastChange = "2015-11-06 19:16:44 +0000";
+lastChange = "2015-11-06 19:19:11 +0000";
 layers = (
 {
 components = (
@@ -37465,8 +37465,9 @@ rightMetricsKey = "lam_alef-ar";
 unicode = FEF9;
 },
 {
+color = 0;
 glyphname = "lam_alefHamzabelow-ar.fina";
-lastChange = "2015-11-06 19:17:04 +0000";
+lastChange = "2015-11-06 19:19:11 +0000";
 layers = (
 {
 components = (
@@ -37650,8 +37651,9 @@ leftMetricsKey = "lam-ar.isol";
 rightMetricsKey = "alefWavyhamzabelow-ar.isol";
 },
 {
+color = 0;
 glyphname = "lam_alefMadda-ar";
-lastChange = "2015-11-06 19:18:08 +0000";
+lastChange = "2015-11-06 19:19:11 +0000";
 layers = (
 {
 components = (
@@ -37687,8 +37689,9 @@ rightMetricsKey = "lam_alef-ar";
 unicode = FEF5;
 },
 {
+color = 0;
 glyphname = "lam_alefMadda-ar.fina";
-lastChange = "2015-11-06 19:18:22 +0000";
+lastChange = "2015-11-06 19:19:11 +0000";
 layers = (
 {
 components = (
@@ -37724,8 +37727,9 @@ rightMetricsKey = "lam_alef-ar.fina";
 unicode = FEF6;
 },
 {
+color = 0;
 glyphname = "lam_alefWasla-ar";
-lastChange = "2015-11-06 19:19:02 +0000";
+lastChange = "2015-11-06 19:19:11 +0000";
 layers = (
 {
 components = (
@@ -37760,8 +37764,9 @@ leftMetricsKey = "lam-ar.init";
 rightMetricsKey = "alefWasla-ar.fina";
 },
 {
+color = 0;
 glyphname = "lam_alefWasla-ar.fina";
-lastChange = "2015-11-06 19:18:55 +0000";
+lastChange = "2015-11-06 19:19:11 +0000";
 layers = (
 {
 components = (
