@@ -1941,7 +1941,7 @@ unicode = FB51;
 {
 color = 0;
 glyphname = "alefFathatan-ar";
-lastChange = "2015-11-05 05:57:18 +0000";
+lastChange = "2015-11-06 19:03:30 +0000";
 layers = (
 {
 components = (
@@ -1952,7 +1952,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 73, -185}";
+transform = "{1, 0, 0, 1, 73, -199}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1968,7 +1968,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 92, -57}";
+transform = "{1, 0, 0, 1, 103, -120}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -24112,7 +24112,7 @@ unicode = FEDF;
 },
 {
 glyphname = "lamVabove-ar";
-lastChange = "2015-11-02 21:37:28 +0000";
+lastChange = "2015-11-06 19:03:07 +0000";
 layers = (
 {
 components = (
@@ -24121,7 +24121,7 @@ name = "lam-ar";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 324, 2}";
+transform = "{1, 0, 0, 1, 324, -132}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24147,7 +24147,7 @@ unicode = 06B5;
 },
 {
 glyphname = "lamVabove-ar.fina";
-lastChange = "2015-11-02 21:37:28 +0000";
+lastChange = "2015-11-06 19:03:07 +0000";
 layers = (
 {
 components = (
@@ -24156,7 +24156,7 @@ name = "lam-ar.fina";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 343, 2}";
+transform = "{1, 0, 0, 1, 343, -132}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24181,7 +24181,7 @@ width = 649;
 },
 {
 glyphname = "lamVabove-ar.init";
-lastChange = "2015-11-02 21:37:28 +0000";
+lastChange = "2015-11-06 19:03:07 +0000";
 layers = (
 {
 components = (
@@ -24190,7 +24190,7 @@ name = "lam-ar.init";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 15, 2}";
+transform = "{1, 0, 0, 1, 15, -132}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24215,7 +24215,7 @@ width = 248;
 },
 {
 glyphname = "lamVabove-ar.medi";
-lastChange = "2015-11-02 21:37:28 +0000";
+lastChange = "2015-11-06 19:03:07 +0000";
 layers = (
 {
 components = (
@@ -24224,7 +24224,7 @@ name = "lam-ar.medi";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 32, 1}";
+transform = "{1, 0, 0, 1, 32, -133}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
