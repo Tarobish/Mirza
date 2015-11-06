@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/rhombusStopbelow-ar"
+"/rhombusStopbelow-ar",
+"/rhombusStopabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -67968,11 +67969,31 @@ unicode = 06EA;
 },
 {
 glyphname = "rhombusStopabove-ar";
-lastChange = "2015-10-19 08:04:04 +0000";
+lastChange = "2015-11-06 17:37:13 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"78 776 LINE",
+"2 852 LINE",
+"-73 776 LINE",
+"2 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"2 831 LINE",
+"58 776 LINE",
+"2 720 LINE",
+"-53 776 LINE"
+);
+}
+);
 width = 600;
 },
 {
