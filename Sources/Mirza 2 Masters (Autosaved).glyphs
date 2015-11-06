@@ -69609,8 +69609,9 @@ width = 0;
 unicode = FBBC;
 },
 {
+color = 0;
 glyphname = uniFEFE;
-lastChange = "2015-11-02 20:26:35 +0000";
+lastChange = "2015-11-06 03:22:34 +0000";
 layers = (
 {
 components = (
