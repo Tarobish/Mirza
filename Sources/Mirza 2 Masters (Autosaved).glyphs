@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/openkasratan-ar"
+"/fathaDotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -69876,7 +69876,7 @@ unicode = 08F4;
 },
 {
 glyphname = "fathaDotabove-ar";
-lastChange = "2015-11-06 19:13:01 +0000";
+lastChange = "2015-11-06 19:28:32 +0000";
 layers = (
 {
 anchors = (
@@ -69895,18 +69895,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"26 775 OFFCURVE",
-"-24 755 OFFCURVE",
-"-80 727 CURVE",
-"-83 721 OFFCURVE",
-"-85 711 OFFCURVE",
-"-87 700 CURVE",
 "-87 700 OFFCURVE",
 "20 747 OFFCURVE",
 "81 767 CURVE",
 "85 775 OFFCURVE",
 "88 785 OFFCURVE",
-"89 795 CURVE"
+"89 795 CURVE",
+"26 775 OFFCURVE",
+"-24 755 OFFCURVE",
+"-80 727 CURVE",
+"-83 721 OFFCURVE",
+"-85 711 OFFCURVE",
+"-87 700 CURVE"
 );
 },
 {
@@ -69946,6 +69946,23 @@ paths = (
 {
 closed = 1;
 nodes = (
+"-53 717 OFFCURVE",
+"42 758 OFFCURVE",
+"78 769 CURVE",
+"85 786 OFFCURVE",
+"87 793 OFFCURVE",
+"90 809 CURVE",
+"55 800 OFFCURVE",
+"-45 762 OFFCURVE",
+"-80 742 CURVE",
+"-84 731 OFFCURVE",
+"-90 714 OFFCURVE",
+"-93 700 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
 "-18 829 OFFCURVE",
 "-7 817 OFFCURVE",
 "0 808 CURVE",
@@ -69958,23 +69975,6 @@ nodes = (
 "-7 861 OFFCURVE",
 "-23 845 OFFCURVE",
 "-31 838 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"55 800 OFFCURVE",
-"-45 762 OFFCURVE",
-"-80 742 CURVE",
-"-84 731 OFFCURVE",
-"-90 714 OFFCURVE",
-"-93 700 CURVE",
-"-53 717 OFFCURVE",
-"42 758 OFFCURVE",
-"78 769 CURVE",
-"85 786 OFFCURVE",
-"87 793 OFFCURVE",
-"90 809 CURVE"
 );
 }
 );
