@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/qafLamAlefMaksuraabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -65648,7 +65645,7 @@ unicode = 06D6;
 },
 {
 glyphname = "qafLamAlefMaksuraabove-ar";
-lastChange = "2015-11-06 18:43:11 +0000";
+lastChange = "2015-11-06 18:43:13 +0000";
 layers = (
 {
 anchors = (
@@ -65826,6 +65823,16 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{-6, 680}";
+},
+{
+name = top;
+position = "{-6, 934}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -65902,10 +65909,10 @@ nodes = (
 "-126 704 OFFCURVE",
 "-112 700 OFFCURVE",
 "-93 700 CURVE SMOOTH",
-"26 700 LINE",
-"36 712 OFFCURVE",
-"43 722 OFFCURVE",
-"49 736 CURVE",
+"36 700 LINE",
+"46 712 OFFCURVE",
+"53 722 OFFCURVE",
+"59 736 CURVE",
 "-96 736 LINE SMOOTH",
 "-115 736 OFFCURVE",
 "-121 738 OFFCURVE",
