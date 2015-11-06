@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefFathatan-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1981,14 +1984,14 @@ unicode = FD3D;
 {
 color = 0;
 glyphname = "alefFathatan-ar.fina";
-lastChange = "2015-11-03 01:47:04 +0000";
+lastChange = "2015-11-06 19:03:43 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 83, -201}";
+transform = "{1, 0, 0, 1, 83, -200}";
 },
 {
 locked = 1;
@@ -2004,7 +2007,7 @@ components = (
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 96, -60}";
+transform = "{1, 0, 0, 1, 92, -120}";
 },
 {
 locked = 1;
