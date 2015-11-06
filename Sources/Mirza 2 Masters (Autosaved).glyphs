@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/fathaDotabove-ar",
-"/jeemabove-ar"
+"/kasraDotbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -68929,11 +68928,30 @@ width = 600;
 },
 {
 glyphname = "kasraDotbelow-ar";
-lastChange = "2015-10-19 08:08:35 +0000";
+lastChange = "2015-11-06 03:00:59 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"29 -237 OFFCURVE",
+"-21 -257 OFFCURVE",
+"-77 -285 CURVE",
+"-80 -291 OFFCURVE",
+"-82 -301 OFFCURVE",
+"-84 -312 CURVE",
+"-84 -312 OFFCURVE",
+"23 -265 OFFCURVE",
+"84 -245 CURVE",
+"88 -237 OFFCURVE",
+"91 -227 OFFCURVE",
+"92 -217 CURVE"
+);
+}
+);
 width = 600;
 },
 {
