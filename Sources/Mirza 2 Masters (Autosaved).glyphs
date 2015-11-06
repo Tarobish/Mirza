@@ -1786,7 +1786,7 @@ width = 269;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2015-11-06 17:42:24 +0000";
+lastChange = "2015-11-06 17:42:40 +0000";
 layers = (
 {
 components = (
@@ -1796,8 +1796,9 @@ locked = 1;
 name = "alef-ar.short";
 },
 {
+disableAlignment = 1;
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 100, -98}";
+transform = "{1, 0, 0, 1, 100, -197}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1811,8 +1812,9 @@ locked = 1;
 name = "alef-ar.short";
 },
 {
+disableAlignment = 1;
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 90, 30}";
+transform = "{1, 0, 0, 1, 119, -84}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
