@@ -1,8 +1,7 @@
 {
 DisplayStrings = (
 "/ring-ar",
-"/fatha-ar",
-"/fathaRing-ar"
+"/fatha-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -68122,7 +68121,7 @@ unicode = 08F3;
 },
 {
 glyphname = "fathaRing-ar";
-lastChange = "2015-11-06 01:58:36 +0000";
+lastChange = "2015-11-06 01:58:56 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -68192,17 +68191,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"61 668 OFFCURVE",
-"-54 624 OFFCURVE",
+"55 664 OFFCURVE",
+"-54 622 OFFCURVE",
 "-95 601 CURVE",
 "-102 595 OFFCURVE",
 "-107 568 OFFCURVE",
 "-108 557 CURVE",
-"-62 576 OFFCURVE",
-"48 617 OFFCURVE",
-"90 630 CURVE",
-"98 644 OFFCURVE",
-"100 656 OFFCURVE",
+"-62 580 OFFCURVE",
+"48 620 OFFCURVE",
+"90 633 CURVE",
+"98 647 OFFCURVE",
+"99 661 OFFCURVE",
 "101 678 CURVE"
 );
 },
