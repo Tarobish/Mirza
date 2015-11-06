@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/wavyhamzaabove-ar"
+"/wavyhamzabelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -61579,7 +61579,7 @@ width = 0;
 },
 {
 glyphname = "wavyhamzaabove-ar";
-lastChange = "2015-11-06 18:55:31 +0000";
+lastChange = "2015-11-06 18:55:33 +0000";
 layers = (
 {
 anchors = (
@@ -61660,7 +61660,11 @@ width = 0;
 anchors = (
 {
 name = _top;
-position = "{-1, 681}";
+position = "{0, 684}";
+},
+{
+name = top;
+position = "{0, 877}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
