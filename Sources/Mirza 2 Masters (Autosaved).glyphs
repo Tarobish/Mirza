@@ -69167,7 +69167,7 @@ unicode = 08E9;
 {
 color = 9;
 glyphname = "openfathatan-ar";
-lastChange = "2015-11-06 19:27:35 +0000";
+lastChange = "2015-11-06 19:27:45 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -69217,23 +69217,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"93 900 OFFCURVE",
-"-7 862 OFFCURVE",
-"-42 842 CURVE",
-"-46 831 OFFCURVE",
-"-52 814 OFFCURVE",
-"-55 800 CURVE",
-"-15 817 OFFCURVE",
-"80 858 OFFCURVE",
-"116 869 CURVE",
-"123 886 OFFCURVE",
-"125 893 OFFCURVE",
-"128 909 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
 "22 803 OFFCURVE",
 "-78 765 OFFCURVE",
 "-113 745 CURVE",
@@ -69246,6 +69229,23 @@ nodes = (
 "52 789 OFFCURVE",
 "54 796 OFFCURVE",
 "57 812 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"93 900 OFFCURVE",
+"-7 862 OFFCURVE",
+"-42 842 CURVE",
+"-46 831 OFFCURVE",
+"-52 814 OFFCURVE",
+"-55 800 CURVE",
+"-15 817 OFFCURVE",
+"80 858 OFFCURVE",
+"116 869 CURVE",
+"123 886 OFFCURVE",
+"125 893 OFFCURVE",
+"128 909 CURVE"
 );
 }
 );
