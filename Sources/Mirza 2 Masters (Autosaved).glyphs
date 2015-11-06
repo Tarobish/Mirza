@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kasratan-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -63337,17 +63340,17 @@ unicode = 064C;
 },
 {
 glyphname = "kasratan-ar";
-lastChange = "2015-10-31 09:21:10 +0000";
+lastChange = "2015-11-06 18:28:36 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{-2, -182}";
+position = "{0, -173}";
 },
 {
 name = bottom;
-position = "{-2, -355}";
+position = "{0, -346}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -63356,35 +63359,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"23 -222 OFFCURVE",
-"-27 -242 OFFCURVE",
-"-83 -270 CURVE",
-"-86 -276 OFFCURVE",
-"-88 -284 OFFCURVE",
-"-90 -295 CURVE",
-"-90 -295 OFFCURVE",
-"17 -248 OFFCURVE",
-"78 -228 CURVE",
-"82 -220 OFFCURVE",
-"85 -212 OFFCURVE",
-"86 -202 CURVE"
+"25 -213 OFFCURVE",
+"-25 -233 OFFCURVE",
+"-81 -261 CURVE",
+"-84 -267 OFFCURVE",
+"-86 -275 OFFCURVE",
+"-88 -286 CURVE",
+"-88 -286 OFFCURVE",
+"19 -239 OFFCURVE",
+"80 -219 CURVE",
+"84 -211 OFFCURVE",
+"87 -203 OFFCURVE",
+"88 -193 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"23 -282 OFFCURVE",
-"-27 -302 OFFCURVE",
-"-83 -330 CURVE",
-"-86 -336 OFFCURVE",
-"-88 -344 OFFCURVE",
-"-90 -355 CURVE",
-"-90 -355 OFFCURVE",
-"17 -308 OFFCURVE",
-"78 -288 CURVE",
-"82 -280 OFFCURVE",
-"85 -272 OFFCURVE",
-"86 -262 CURVE"
+"25 -273 OFFCURVE",
+"-25 -293 OFFCURVE",
+"-81 -321 CURVE",
+"-84 -327 OFFCURVE",
+"-86 -335 OFFCURVE",
+"-88 -346 CURVE",
+"-88 -346 OFFCURVE",
+"19 -299 OFFCURVE",
+"80 -279 CURVE",
+"84 -271 OFFCURVE",
+"87 -263 OFFCURVE",
+"88 -253 CURVE"
 );
 }
 );
