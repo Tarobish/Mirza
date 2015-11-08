@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamThreedotsbelow_alef-ar.isol" format="1">
+  <advance width="337"/>
+  <outline>
+    <component base="lam_alef-ar"/>
+    <component base="threedotsdownbelow-ar" xOffset="174" yOffset="-37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lamThreedotsbelow-ar.isol</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alef-ar.isol</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seenFourdotsabove-ar" format="1">
+  <advance width="893"/>
+  <unicode hex="075C"/>
+  <outline>
+    <component base="seen-ar"/>
+    <component base="fourdotsabove-ar" xOffset="644" yOffset="-353"/>
+  </outline>
+</glyph>

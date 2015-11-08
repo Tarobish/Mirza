@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dammaCurly-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="08E5"/>
+  <outline>
+    <contour>
+      <point x="61" y="778" type="line" smooth="yes"/>
+      <point x="87" y="821"/>
+      <point x="86" y="861"/>
+      <point x="64" y="873" type="curve" smooth="yes"/>
+      <point x="45" y="883"/>
+      <point x="20" y="873"/>
+      <point x="-3" y="845" type="curve" smooth="yes"/>
+      <point x="-16" y="829"/>
+      <point x="-20" y="815"/>
+      <point x="-17" y="802" type="curve" smooth="yes"/>
+      <point x="-13" y="785"/>
+      <point x="1" y="773"/>
+      <point x="30" y="762" type="curve"/>
+      <point x="15" y="746"/>
+      <point x="-4" y="739"/>
+      <point x="-22" y="739" type="curve" smooth="yes"/>
+      <point x="-40" y="740"/>
+      <point x="-57" y="746"/>
+      <point x="-64" y="764" type="curve"/>
+      <point x="-77" y="751"/>
+      <point x="-81" y="745"/>
+      <point x="-90" y="728" type="curve"/>
+      <point x="-78" y="711"/>
+      <point x="-57" y="701"/>
+      <point x="-34" y="702" type="curve" smooth="yes"/>
+      <point x="-18" y="702"/>
+      <point x="-2" y="706"/>
+      <point x="12" y="717" type="curve" smooth="yes"/>
+      <point x="29" y="729"/>
+      <point x="37" y="738"/>
+      <point x="49" y="756" type="curve"/>
+      <point x="80" y="743" type="line" smooth="yes"/>
+      <point x="80" y="754"/>
+      <point x="79" y="761"/>
+      <point x="76" y="770" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="24" y="799" type="line" smooth="yes"/>
+      <point x="6" y="809"/>
+      <point x="4" y="820"/>
+      <point x="5" y="827" type="curve" smooth="yes"/>
+      <point x="6" y="836"/>
+      <point x="14" y="845"/>
+      <point x="25" y="848" type="curve"/>
+      <point x="35" y="850"/>
+      <point x="45" y="848"/>
+      <point x="52" y="839" type="curve"/>
+      <point x="62" y="828"/>
+      <point x="57" y="808"/>
+      <point x="44" y="788" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fathaDotabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="08F5"/>
+  <outline>
+    <contour>
+      <point x="-87" y="700"/>
+      <point x="20" y="747"/>
+      <point x="81" y="767" type="curve"/>
+      <point x="85" y="775"/>
+      <point x="88" y="785"/>
+      <point x="89" y="795" type="curve"/>
+      <point x="26" y="775"/>
+      <point x="-24" y="755"/>
+      <point x="-80" y="727" type="curve"/>
+      <point x="-83" y="721"/>
+      <point x="-85" y="711"/>
+      <point x="-87" y="700" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-16" y="803"/>
+      <point x="-8" y="795"/>
+      <point x="0" y="786" type="curve"/>
+      <point x="10" y="795"/>
+      <point x="17" y="802"/>
+      <point x="23" y="809" type="curve"/>
+      <point x="17" y="817"/>
+      <point x="7" y="827"/>
+      <point x="-2" y="833" type="curve"/>
+      <point x="-8" y="826"/>
+      <point x="-17" y="816"/>
+      <point x="-25" y="810" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1" y="833" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

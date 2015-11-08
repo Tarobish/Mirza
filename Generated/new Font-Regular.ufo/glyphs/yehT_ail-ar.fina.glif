@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehTail-ar.fina" format="1">
+  <advance width="640"/>
+  <outline>
+    <contour>
+      <point x="71" y="9"/>
+      <point x="39" y="-7"/>
+      <point x="0" y="-17" type="curve"/>
+      <point x="29" y="-52" type="line"/>
+      <point x="100" y="-21" type="line"/>
+      <point x="100" y="26" type="line"/>
+    </contour>
+    <component base="alefMaksura-ar.fina"/>
+  </outline>
+</glyph>

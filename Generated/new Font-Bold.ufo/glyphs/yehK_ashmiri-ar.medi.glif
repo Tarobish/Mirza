@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehKashmiri-ar.medi" format="1">
+  <advance width="315"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+    <component base="ring-ar" xOffset="17" yOffset="-365"/>
+  </outline>
+</glyph>

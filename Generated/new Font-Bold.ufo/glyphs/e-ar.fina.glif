@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e-ar.fina" format="1">
+  <advance width="680"/>
+  <unicode hex="FBE5"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="twodotsverticalbelow-ar" xOffset="311" yOffset="-302"/>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four-ar.small" format="1">
+  <advance width="151"/>
+  <outline>
+    <component base="four-ar" xOffset="-2" yOffset="277" xScale="0.444" yScale="0.444"/>
+  </outline>
+</glyph>

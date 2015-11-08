@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehTwodotsbelowDotabove-ar.fina" format="1">
+  <advance width="640"/>
+  <outline>
+    <component base="yeh-ar.fina"/>
+    <component base="dotabove-ar" xOffset="272" yOffset="-646"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

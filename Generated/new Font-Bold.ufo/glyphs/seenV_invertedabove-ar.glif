@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seenVinvertedabove-ar" format="1">
+  <advance width="915"/>
+  <unicode hex="077E"/>
+  <outline>
+    <component base="seen-ar"/>
+    <component base="vinvertedabove-ar" xOffset="643" yOffset="-420"/>
+  </outline>
+</glyph>

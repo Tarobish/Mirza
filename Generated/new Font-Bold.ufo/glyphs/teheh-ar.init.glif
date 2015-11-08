@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="teheh-ar.init" format="1">
+  <advance width="244"/>
+  <unicode hex="FB64"/>
+  <outline>
+    <component base="dotlessbeh-ar.init"/>
+    <component base="fourdotsabove-ar" xOffset="16" yOffset="-221"/>
+  </outline>
+</glyph>

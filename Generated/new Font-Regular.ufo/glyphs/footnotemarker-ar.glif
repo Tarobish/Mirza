@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="footnotemarker-ar" format="1">
+  <advance width="600"/>
+  <unicode hex="0602"/>
+  <outline>
+    <contour>
+      <point x="-224" y="-55"/>
+      <point x="-212" y="-87"/>
+      <point x="-186" y="-111" type="curve" smooth="yes"/>
+      <point x="-159" y="-136"/>
+      <point x="-118" y="-152"/>
+      <point x="-57" y="-153" type="curve"/>
+      <point x="194" y="-153" type="line"/>
+      <point x="301" y="-154"/>
+      <point x="535" y="-154"/>
+      <point x="585" y="-157" type="curve"/>
+      <point x="618" y="-132"/>
+      <point x="647" y="-96"/>
+      <point x="676" y="-46" type="curve"/>
+      <point x="636" y="-51"/>
+      <point x="462" y="-55"/>
+      <point x="194" y="-55" type="curve"/>
+      <point x="-27" y="-55" type="line"/>
+      <point x="-21" y="-13"/>
+      <point x="-24" y="24"/>
+      <point x="-34" y="53" type="curve" smooth="yes"/>
+      <point x="-50" y="97"/>
+      <point x="-82" y="124"/>
+      <point x="-126" y="124" type="curve" smooth="yes"/>
+      <point x="-182" y="124"/>
+      <point x="-228" y="50"/>
+      <point x="-225" y="-22" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-125" y="-55" type="line"/>
+      <point x="-180" y="-55"/>
+      <point x="-185" y="-15"/>
+      <point x="-185" y="-5" type="curve" smooth="yes"/>
+      <point x="-185" y="11"/>
+      <point x="-173" y="51"/>
+      <point x="-131" y="51" type="curve" smooth="yes"/>
+      <point x="-94" y="51"/>
+      <point x="-69" y="14"/>
+      <point x="-72" y="-55" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fehDotbelowThreedotsabove-ar" format="1">
+  <advance width="843"/>
+  <unicode hex="08A4"/>
+  <outline>
+    <component base="dotlessfeh-ar"/>
+    <component base="threedotsupabove-ar" xOffset="674" yOffset="-199"/>
+    <component base="dotbelow-ar" xOffset="620" yOffset="87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

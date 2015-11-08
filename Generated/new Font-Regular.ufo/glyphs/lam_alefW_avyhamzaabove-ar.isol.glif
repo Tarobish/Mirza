@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam_alefWavyhamzaabove-ar.isol" format="1">
+  <advance width="337"/>
+  <outline>
+    <component base="lam_alef-ar"/>
+    <component base="wavyhamzaabove-ar" xOffset="-10" yOffset="-150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam-ar.isol</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alefWavyhamzaabove-ar.isol</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sheenDotbelow-ar.fina" format="1">
+  <advance width="919"/>
+  <outline>
+    <component base="seen-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="641" yOffset="-462"/>
+    <component base="dotbelow-ar" xOffset="649" yOffset="148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

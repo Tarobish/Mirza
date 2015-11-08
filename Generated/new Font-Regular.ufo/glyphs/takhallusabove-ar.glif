@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="takhallusabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0614"/>
+  <outline>
+    <contour>
+      <point x="106" y="765"/>
+      <point x="95" y="732"/>
+      <point x="69" y="732" type="curve" smooth="yes"/>
+      <point x="56" y="732" type="line" smooth="yes"/>
+      <point x="41" y="732"/>
+      <point x="33" y="737"/>
+      <point x="28" y="744" type="curve" smooth="yes"/>
+      <point x="25" y="748"/>
+      <point x="24" y="754"/>
+      <point x="24" y="758" type="curve"/>
+      <point x="17" y="754" type="line"/>
+      <point x="15" y="735"/>
+      <point x="9" y="732"/>
+      <point x="-15" y="732" type="curve" smooth="yes"/>
+      <point x="-115" y="732" type="line"/>
+      <point x="-98" y="700" type="line"/>
+      <point x="-9" y="700" type="line" smooth="yes"/>
+      <point x="2" y="700"/>
+      <point x="11" y="703"/>
+      <point x="17" y="710" type="curve" smooth="yes"/>
+      <point x="23" y="717"/>
+      <point x="24" y="722"/>
+      <point x="25" y="725" type="curve"/>
+      <point x="26" y="722"/>
+      <point x="27" y="716"/>
+      <point x="32" y="711" type="curve" smooth="yes"/>
+      <point x="38" y="705"/>
+      <point x="46" y="700"/>
+      <point x="60" y="700" type="curve" smooth="yes"/>
+      <point x="66" y="700" type="line" smooth="yes"/>
+      <point x="82" y="700"/>
+      <point x="94" y="706"/>
+      <point x="102" y="718" type="curve" smooth="yes"/>
+      <point x="109" y="729"/>
+      <point x="112" y="744"/>
+      <point x="112" y="758" type="curve" smooth="yes"/>
+      <point x="112" y="759"/>
+      <point x="112" y="760"/>
+      <point x="112" y="761" type="curve"/>
+      <point x="106" y="765" type="line"/>
+    </contour>
+    <contour>
+      <point x="-2" y="765" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-2" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

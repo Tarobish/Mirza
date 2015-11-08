@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamVabove_alef-ar.fina" format="1">
+  <advance width="603"/>
+  <outline>
+    <component base="lam_alef-ar.fina"/>
+    <component base="vabove-ar" xOffset="356" yOffset="-91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lamVabove-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alef-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

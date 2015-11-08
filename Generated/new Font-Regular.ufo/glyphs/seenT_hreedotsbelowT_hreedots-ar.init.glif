@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seenThreedotsbelowThreedots-ar.init" format="1">
+  <advance width="530"/>
+  <outline>
+    <component base="seen-ar.init"/>
+    <component base="threedotsupabove-ar" xOffset="281" yOffset="-462"/>
+    <component base="threedotsdownbelow-ar" xOffset="284" yOffset="-25"/>
+  </outline>
+</glyph>

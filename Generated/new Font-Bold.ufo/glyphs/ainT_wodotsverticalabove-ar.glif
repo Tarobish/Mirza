@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ainTwodotsverticalabove-ar" format="1">
+  <advance width="522"/>
+  <unicode hex="075F"/>
+  <outline>
+    <component base="ain-ar"/>
+    <component base="twodotsverticalabove-ar" xOffset="257" yOffset="-257"/>
+  </outline>
+</glyph>

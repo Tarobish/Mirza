@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe-ar.fina" format="1">
+  <advance width="407"/>
+  <unicode hex="FBDA"/>
+  <outline>
+    <component base="waw-ar.fina"/>
+    <component base="vabove-ar" xOffset="166" yOffset="-346"/>
+  </outline>
+</glyph>

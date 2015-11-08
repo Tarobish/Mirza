@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qafDotabove-ar" format="1">
+  <advance width="578"/>
+  <unicode hex="06A7"/>
+  <outline>
+    <component base="dotlessqaf-ar"/>
+    <component base="dotabove-ar" xOffset="396" yOffset="-312"/>
+  </outline>
+</glyph>

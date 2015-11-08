@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wawDotcenter-ar" format="1">
+  <advance width="308"/>
+  <unicode hex="08AB"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="dotcenter-ar" xOffset="51" yOffset="-185"/>
+  </outline>
+</glyph>

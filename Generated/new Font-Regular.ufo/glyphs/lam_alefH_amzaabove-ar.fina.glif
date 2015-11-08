@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam_alefHamzaabove-ar.fina" format="1">
+  <advance width="549"/>
+  <unicode hex="FEF8"/>
+  <outline>
+    <component base="lam_alef-ar.fina"/>
+    <component base="hamzaabove-ar" xOffset="39" yOffset="-174"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam_alef-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>lam_alef-ar.fina</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

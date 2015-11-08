@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sadThreedots-ar" format="1">
+  <advance width="1018"/>
+  <unicode hex="069E"/>
+  <outline>
+    <component base="sad-ar"/>
+    <component base="threedotsupabove-ar" xOffset="830" yOffset="-300"/>
+  </outline>
+</glyph>
