@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sindhipostpositionmen-ar"
+"/ray-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -56330,9 +56330,15 @@ unicode = 0020;
 {
 color = 9;
 glyphname = "ray-ar";
-lastChange = "2015-11-04 17:19:02 +0000";
+lastChange = "2015-11-09 02:51:40 +0000";
 layers = (
 {
+anchors = (
+{
+name = "new anchor";
+position = "{444, 405}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -57830,15 +57836,9 @@ unicode = 06E9;
 {
 color = 9;
 glyphname = "sindhipostpositionmen-ar";
-lastChange = "2015-11-09 02:51:28 +0000";
+lastChange = "2015-11-09 02:51:33 +0000";
 layers = (
 {
-anchors = (
-{
-name = "new anchor";
-position = "{371, 467}";
-}
-);
 components = (
 {
 name = uniFBBC;
