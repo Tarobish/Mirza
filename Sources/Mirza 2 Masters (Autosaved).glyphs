@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/seenabove-ar"
+"/seenabove-ar",
+"/yehRohingya-ar.pt.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -33611,9 +33612,15 @@ width = 716;
 {
 color = 9;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-04 17:18:44 +0000";
+lastChange = "2015-11-09 02:52:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{391, 328}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
