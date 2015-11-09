@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/yehRohingya-ar.pt.fina/yehRohingya-ar.fina"
+"tom/yehRohingya-ar.pt.fina/yehRohingya-ar.fina",
+"/dotlessbeh-ar.medi/yeh-ar.medi/yehTwodotsabove-farsi.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -33576,7 +33577,7 @@ width = 315;
 {
 color = 9;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-04 17:18:47 +0000";
+lastChange = "2015-11-09 02:47:43 +0000";
 layers = (
 {
 components = (
@@ -33585,7 +33586,7 @@ name = "yehRohingya-ar.pt.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 315, 163}";
+transform = "{1, 0, 0, 1, 297, 123}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33611,13 +33612,13 @@ width = 716;
 {
 color = 9;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-09 02:47:13 +0000";
+lastChange = "2015-11-09 02:47:43 +0000";
 layers = (
 {
 anchors = (
 {
-name = "new anchor";
-position = "{369, -78}";
+name = bottom;
+position = "{295, -52}";
 },
 {
 name = top;
