@@ -33577,7 +33577,7 @@ width = 315;
 {
 color = 9;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-09 02:47:43 +0000";
+lastChange = "2015-11-09 02:47:52 +0000";
 layers = (
 {
 components = (
@@ -33586,7 +33586,7 @@ name = "yehRohingya-ar.pt.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 297, 123}";
+transform = "{1, 0, 0, 1, 349, 160}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33612,13 +33612,13 @@ width = 716;
 {
 color = 9;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-09 02:47:43 +0000";
+lastChange = "2015-11-09 02:47:53 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{295, -52}";
+position = "{347, -15}";
 },
 {
 name = top;
