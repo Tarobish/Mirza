@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/opendammatan-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -69451,7 +69454,7 @@ unicode = 08F0;
 {
 color = 9;
 glyphname = "opendammatan-ar";
-lastChange = "2015-11-06 19:29:06 +0000";
+lastChange = "2015-11-09 02:54:20 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
