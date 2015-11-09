@@ -56534,7 +56534,7 @@ unicode = 0608;
 {
 color = 9;
 glyphname = "afghani-ar";
-lastChange = "2015-11-09 02:51:06 +0000";
+lastChange = "2015-11-09 02:51:12 +0000";
 layers = (
 {
 components = (
@@ -56612,12 +56612,6 @@ nodes = (
 width = 323;
 },
 {
-anchors = (
-{
-name = "new anchor";
-position = "{292, -128}";
-}
-);
 components = (
 {
 name = "alefbelow-ar";
