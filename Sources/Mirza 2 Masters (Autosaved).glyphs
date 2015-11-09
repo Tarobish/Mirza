@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 "/dotlessbeh-ar.medi/yeh-ar.medi/yehTwodotsabove-farsi.medi",
-"/yehRohingya-ar.pt.fina"
+"/yehRohingya-ar.pt.fina",
+"/e-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -33612,7 +33613,7 @@ width = 716;
 {
 color = 9;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-09 02:48:12 +0000";
+lastChange = "2015-11-09 02:48:18 +0000";
 layers = (
 {
 anchors = (
@@ -33698,8 +33699,8 @@ width = 600;
 {
 anchors = (
 {
-name = "new anchor";
-position = "{492, -85}";
+name = bottom;
+position = "{379, -41}";
 },
 {
 name = top;
