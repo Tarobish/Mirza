@@ -56534,13 +56534,13 @@ unicode = 0608;
 {
 color = 9;
 glyphname = "afghani-ar";
-lastChange = "2015-11-04 17:18:52 +0000";
+lastChange = "2015-11-09 02:51:06 +0000";
 layers = (
 {
 components = (
 {
 name = "alefbelow-ar";
-transform = "{1.25, 0, 0, 1.25, 123, -19}";
+transform = "{1.25, 0, 0, 1.25, 127, 239}";
 },
 {
 name = "dotabove-ar";
@@ -56612,10 +56612,16 @@ nodes = (
 width = 323;
 },
 {
+anchors = (
+{
+name = "new anchor";
+position = "{292, -128}";
+}
+);
 components = (
 {
 name = "alefbelow-ar";
-transform = "{1.25, 0, 0, 1.25, 127, -40}";
+transform = "{1.25, 0, 0, 1.25, 158, 229}";
 },
 {
 name = "dotabove-ar";
