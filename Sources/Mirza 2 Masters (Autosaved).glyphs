@@ -33612,7 +33612,7 @@ width = 716;
 {
 color = 9;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-09 02:48:03 +0000";
+lastChange = "2015-11-09 02:48:12 +0000";
 layers = (
 {
 anchors = (
@@ -33699,7 +33699,11 @@ width = 600;
 anchors = (
 {
 name = "new anchor";
-position = "{444, 466}";
+position = "{492, -85}";
+},
+{
+name = top;
+position = "{465, 369}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
