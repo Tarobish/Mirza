@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 "/seenabove-ar",
-"/yehRohingya-ar.pt.fina"
+"/highhamzaYeh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -33577,7 +33577,7 @@ width = 315;
 {
 color = 9;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-04 17:18:47 +0000";
+lastChange = "2015-11-09 02:53:21 +0000";
 layers = (
 {
 components = (
@@ -33586,7 +33586,7 @@ name = "yehRohingya-ar.pt.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 315, 163}";
+transform = "{1, 0, 0, 1, 378, 160}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33612,7 +33612,7 @@ width = 716;
 {
 color = 9;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-09 02:53:13 +0000";
+lastChange = "2015-11-09 02:53:20 +0000";
 layers = (
 {
 anchors = (
@@ -33698,8 +33698,8 @@ width = 600;
 {
 anchors = (
 {
-name = "new anchor";
-position = "{630, 279}";
+name = bottom;
+position = "{442, -19}";
 },
 {
 name = top;
