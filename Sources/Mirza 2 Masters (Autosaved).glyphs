@@ -2,7 +2,7 @@
 DisplayStrings = (
 "/dotlessbeh-ar.medi/yeh-ar.medi/yehTwodotsabove-farsi.medi",
 "/yehRohingya-ar.pt.fina",
-"/e-ar.init"
+"/dotlessbeh-ar.init/beeh-ar.init/e-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -59,6 +59,9 @@ position = "{92, 608}";
 },
 {
 position = "{229, 580}";
+},
+{
+position = "{51, -20}";
 }
 );
 id = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -2484,7 +2487,7 @@ width = 315;
 },
 {
 glyphname = "dotlessbeh-ar.init";
-lastChange = "2015-10-29 21:29:37 +0000";
+lastChange = "2015-11-09 02:48:40 +0000";
 layers = (
 {
 anchors = (
