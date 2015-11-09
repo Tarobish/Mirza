@@ -33574,9 +33574,8 @@ width = 315;
 );
 },
 {
-color = 9;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-09 02:49:05 +0000";
+lastChange = "2015-11-09 02:49:24 +0000";
 layers = (
 {
 components = (
@@ -33609,9 +33608,8 @@ width = 716;
 );
 },
 {
-color = 9;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-09 02:48:58 +0000";
+lastChange = "2015-11-09 02:49:27 +0000";
 layers = (
 {
 anchors = (
