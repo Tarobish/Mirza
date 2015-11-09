@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"tom/yehRohingya-ar.pt.fina/yehRohingya-ar.fina",
-"/dotlessbeh-ar.medi/yeh-ar.medi/yehTwodotsabove-farsi.medi"
+"/dotlessbeh-ar.medi/yeh-ar.medi/yehTwodotsabove-farsi.medi",
+"/yehRohingya-ar.pt.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -33577,7 +33577,7 @@ width = 315;
 {
 color = 9;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-09 02:47:52 +0000";
+lastChange = "2015-11-09 02:47:55 +0000";
 layers = (
 {
 components = (
@@ -33586,7 +33586,7 @@ name = "yehRohingya-ar.pt.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 349, 160}";
+transform = "{1, 0, 0, 1, 349, 140}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33612,13 +33612,13 @@ width = 716;
 {
 color = 9;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-09 02:47:53 +0000";
+lastChange = "2015-11-09 02:48:03 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{347, -15}";
+position = "{347, -35}";
 },
 {
 name = top;
@@ -33696,6 +33696,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = "new anchor";
+position = "{444, 466}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
