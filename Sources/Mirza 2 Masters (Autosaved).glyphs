@@ -33611,13 +33611,17 @@ width = 716;
 {
 color = 9;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-09 02:46:55 +0000";
+lastChange = "2015-11-09 02:47:13 +0000";
 layers = (
 {
 anchors = (
 {
+name = "new anchor";
+position = "{369, -78}";
+},
+{
 name = top;
-position = "{391, 318}";
+position = "{391, 328}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
