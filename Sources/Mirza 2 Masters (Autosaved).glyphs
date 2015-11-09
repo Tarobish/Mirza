@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/misraComma-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -55080,9 +55083,15 @@ unicode = 060E;
 {
 color = 9;
 glyphname = "misraComma-ar";
-lastChange = "2015-11-04 22:34:35 +0000";
+lastChange = "2015-11-09 02:50:45 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{243, 437}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
