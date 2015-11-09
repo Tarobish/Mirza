@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/seenabove-ar",
-"/highhamzaYeh-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -58,6 +54,9 @@ position = "{92, 608}";
 },
 {
 position = "{229, 580}";
+},
+{
+position = "{40, -19}";
 }
 );
 id = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -2362,7 +2361,7 @@ width = 924;
 },
 {
 glyphname = "dotlessbeh-ar.medi";
-lastChange = "2015-10-29 19:55:20 +0000";
+lastChange = "2015-11-09 02:53:44 +0000";
 layers = (
 {
 anchors = (
