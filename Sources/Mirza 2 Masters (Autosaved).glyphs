@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ray-ar"
+"/seenabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -56330,15 +56330,9 @@ unicode = 0020;
 {
 color = 9;
 glyphname = "ray-ar";
-lastChange = "2015-11-09 02:51:40 +0000";
+lastChange = "2015-11-09 02:51:44 +0000";
 layers = (
 {
-anchors = (
-{
-name = "new anchor";
-position = "{444, 405}";
-}
-);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
