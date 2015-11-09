@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/shadda-ar",
-"/afghani-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -56537,13 +56533,13 @@ unicode = 0608;
 {
 color = 9;
 glyphname = "afghani-ar";
-lastChange = "2015-11-04 17:18:52 +0000";
+lastChange = "2015-11-09 02:55:48 +0000";
 layers = (
 {
 components = (
 {
 name = "alefbelow-ar";
-transform = "{1.25, 0, 0, 1.25, 123, -19}";
+transform = "{1.25, 0, 0, 1.25, 108, 241}";
 },
 {
 name = "dotabove-ar";
@@ -56618,7 +56614,7 @@ width = 323;
 components = (
 {
 name = "alefbelow-ar";
-transform = "{1.25, 0, 0, 1.25, 127, -40}";
+transform = "{1.25, 0, 0, 1.25, 133, 229}";
 },
 {
 name = "dotabove-ar";
