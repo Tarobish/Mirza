@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/fehThreedotsupbelow-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -35387,7 +35390,7 @@ unicode = 0760;
 {
 color = 0;
 glyphname = "fehTwodotsbelow-ar.fina";
-lastChange = "2015-11-02 20:33:37 +0000";
+lastChange = "2015-11-24 06:59:37 +0000";
 layers = (
 {
 components = (
@@ -35397,7 +35400,7 @@ name = "dotlessfeh-ar.fina";
 {
 disableAlignment = 1;
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 657, 148}";
+transform = "{1, 0, 0, 1, 657, 138}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35492,7 +35495,7 @@ width = 444;
 {
 color = 0;
 glyphname = "fehThreedotsupbelow-ar";
-lastChange = "2015-11-02 20:33:37 +0000";
+lastChange = "2015-11-24 06:59:41 +0000";
 layers = (
 {
 components = (
@@ -35502,7 +35505,7 @@ name = "dotlessfeh-ar";
 {
 disableAlignment = 1;
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 583, 78}";
+transform = "{1, 0, 0, 1, 583, 68}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35530,7 +35533,7 @@ unicode = 0761;
 {
 color = 0;
 glyphname = "fehThreedotsupbelow-ar.fina";
-lastChange = "2015-11-02 20:33:37 +0000";
+lastChange = "2015-11-24 06:59:45 +0000";
 layers = (
 {
 components = (
@@ -35540,7 +35543,7 @@ name = "dotlessfeh-ar.fina";
 {
 disableAlignment = 1;
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 690, 77}";
+transform = "{1, 0, 0, 1, 690, 67}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
