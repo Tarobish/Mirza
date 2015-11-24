@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefabove-ar/thalAlefabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -8676,7 +8673,7 @@ unicode = FEAC;
 },
 {
 glyphname = "thalAlefabove-ar";
-lastChange = "2015-11-24 05:41:05 +0000";
+lastChange = "2015-11-24 05:41:07 +0000";
 layers = (
 {
 components = (
@@ -8685,7 +8682,7 @@ name = "thal-ar";
 },
 {
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 222, -150}";
+transform = "{1, 0, 0, 1, 213, -150}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8711,7 +8708,7 @@ unicode = FC5B;
 },
 {
 glyphname = "ddal-ar";
-lastChange = "2015-11-24 05:35:27 +0000";
+lastChange = "2015-11-24 05:41:17 +0000";
 layers = (
 {
 components = (
@@ -10935,7 +10932,7 @@ width = 366;
 },
 {
 glyphname = "rehAlefabove-ar";
-lastChange = "2015-10-29 20:00:05 +0000";
+lastChange = "2015-11-24 05:41:13 +0000";
 layers = (
 {
 components = (
@@ -10944,7 +10941,7 @@ name = "reh-ar";
 },
 {
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 76, -472}";
+transform = "{1, 0, 0, 1, 67, -462}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -62150,13 +62147,13 @@ unicode = FBBF;
 },
 {
 glyphname = "alefabove-ar";
-lastChange = "2015-11-24 05:41:05 +0000";
+lastChange = "2015-11-24 05:41:07 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-3, 685}";
+position = "{6, 685}";
 },
 {
 name = top;
