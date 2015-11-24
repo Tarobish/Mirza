@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehbarreeHamzaabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -33170,7 +33173,7 @@ unicode = FBE6;
 },
 {
 glyphname = "yehThreedotsbelow-ar";
-lastChange = "2015-11-24 06:50:58 +0000";
+lastChange = "2015-11-24 06:56:57 +0000";
 layers = (
 {
 components = (
@@ -33519,7 +33522,7 @@ unicode = FBAF;
 },
 {
 glyphname = "yehbarreeHamzaabove-ar";
-lastChange = "2015-11-06 18:34:45 +0000";
+lastChange = "2015-11-24 06:57:04 +0000";
 layers = (
 {
 components = (
