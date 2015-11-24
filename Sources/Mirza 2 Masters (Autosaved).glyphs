@@ -64691,7 +64691,7 @@ unicode = 064B;
 },
 {
 glyphname = "dammatan-ar";
-lastChange = "2015-11-24 07:55:10 +0000";
+lastChange = "2015-11-24 07:55:19 +0000";
 layers = (
 {
 anchors = (
@@ -64736,10 +64736,10 @@ nodes = (
 "-84 773 OFFCURVE",
 "-86 762 CURVE",
 "-76 769 OFFCURVE",
-"-52 775 OFFCURVE",
-"-43 766 CURVE SMOOTH",
-"-38 761 OFFCURVE",
-"-38 742 OFFCURVE",
+"-51 778 OFFCURVE",
+"-40 767 CURVE SMOOTH",
+"-32 759 OFFCURVE",
+"-32 744 OFFCURVE",
 "-48 732 CURVE",
 "-57 731 OFFCURVE",
 "-67 731 OFFCURVE",
