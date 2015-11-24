@@ -40547,6 +40547,41 @@ width = 795;
 );
 },
 {
+glyphname = "peh_meem-ar";
+layers = (
+{
+components = (
+{
+name = "peh-ar.init";
+transform = "{1, 0, 0, 1, 529, 0}";
+},
+{
+name = "meem-ar.fina";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 752;
+},
+{
+components = (
+{
+name = "peh-ar.init";
+transform = "{1, 0, 0, 1, 519, 0}";
+},
+{
+name = "meem-ar.fina";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 763;
+}
+);
+leftMetricsKey = "peh-ar.init.init";
+rightMetricsKey = "meem-ar.fina";
+},
+{
 color = 4;
 glyphname = "hah_meem-ar";
 lastChange = "2015-11-24 20:42:41 +0000";
