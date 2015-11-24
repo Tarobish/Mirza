@@ -25126,17 +25126,17 @@ width = 325;
 },
 {
 glyphname = "meem-ar";
-lastChange = "2015-11-24 06:29:06 +0000";
+lastChange = "2015-11-24 06:29:14 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{132, -320}";
+position = "{125, -362}";
 },
 {
 name = top;
-position = "{209, 306}";
+position = "{209, 336}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
