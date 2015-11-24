@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehVinverted-farsi.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -32621,7 +32624,7 @@ width = 600;
 {
 color = 0;
 glyphname = "yehThreeabove-farsi.medi";
-lastChange = "2015-11-02 23:35:22 +0000";
+lastChange = "2015-11-24 06:55:23 +0000";
 layers = (
 {
 components = (
@@ -32631,7 +32634,7 @@ name = "yeh-farsi.medi";
 {
 disableAlignment = 1;
 name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, -65, -25}";
+transform = "{0.8, 0, 0, 0.8, -59, -25}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
