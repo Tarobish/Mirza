@@ -25616,7 +25616,7 @@ width = 716;
 },
 {
 glyphname = "meem-ar.fina";
-lastChange = "2015-11-24 06:30:46 +0000";
+lastChange = "2015-11-24 06:31:06 +0000";
 layers = (
 {
 anchors = (
@@ -25635,8 +25635,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"465 108 LINE SMOOTH",
-"419 108 OFFCURVE",
+"465 98 LINE SMOOTH",
+"411 98 OFFCURVE",
 "368 131 OFFCURVE",
 "312 175 CURVE SMOOTH",
 "283 198 OFFCURVE",
@@ -25681,11 +25681,11 @@ nodes = (
 "439 0 OFFCURVE",
 "472 0 CURVE SMOOTH",
 "508 0 LINE",
-"508 108 LINE"
+"508 98 LINE"
 );
 }
 );
-width = 487;
+width = 508;
 },
 {
 anchors = (
