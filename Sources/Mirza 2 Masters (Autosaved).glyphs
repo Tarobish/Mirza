@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/tcheh-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -5645,7 +5648,7 @@ unicode = FE9F;
 },
 {
 glyphname = "tcheh-ar";
-lastChange = "2015-10-30 20:16:53 +0000";
+lastChange = "2015-11-24 05:52:03 +0000";
 layers = (
 {
 components = (
