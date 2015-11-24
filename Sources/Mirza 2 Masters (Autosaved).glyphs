@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lamThreedotsbelow_alef-ar.isol"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -49367,7 +49364,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamThreedotsbelow_alef-ar.isol";
-lastChange = "2015-11-24 07:03:04 +0000";
+lastChange = "2015-11-24 07:03:53 +0000";
 layers = (
 {
 components = (
@@ -49376,7 +49373,7 @@ name = "lam_alef-ar";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 174, -37}";
+transform = "{1, 0, 0, 1, 174, -47}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
