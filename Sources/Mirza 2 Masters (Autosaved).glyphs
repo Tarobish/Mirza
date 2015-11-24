@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/waw-ar",
-"/waw-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -29551,13 +29547,13 @@ unicode = 0648;
 },
 {
 glyphname = "waw-ar.fina";
-lastChange = "2015-11-24 06:46:31 +0000";
+lastChange = "2015-11-24 06:46:35 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{44, -279}";
+position = "{63, -319}";
 },
 {
 name = top;
@@ -30017,7 +30013,7 @@ unicode = FE86;
 {
 color = 0;
 glyphname = "wawTwoabove-ar";
-lastChange = "2015-11-02 20:32:18 +0000";
+lastChange = "2015-11-24 06:46:44 +0000";
 layers = (
 {
 components = (
@@ -30027,7 +30023,7 @@ name = "waw-ar";
 {
 disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, 85, 123}";
+transform = "{0.8, 0, 0, 0.8, 85, 133}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
