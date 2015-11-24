@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/hah-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -6423,13 +6426,13 @@ unicode = 062D;
 },
 {
 glyphname = "hah-ar.fina";
-lastChange = "2015-11-24 05:59:55 +0000";
+lastChange = "2015-11-24 06:01:00 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{305, 78}";
+position = "{289, -340}";
 },
 {
 name = center;
