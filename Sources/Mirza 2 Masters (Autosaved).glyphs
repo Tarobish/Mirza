@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_heh-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -48821,7 +48818,7 @@ unicode = FCCC;
 {
 color = 4;
 glyphname = "lam_heh-ar.init";
-lastChange = "2015-11-24 07:29:52 +0000";
+lastChange = "2015-11-24 07:29:55 +0000";
 layers = (
 {
 anchors = (
