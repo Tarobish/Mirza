@@ -48166,13 +48166,13 @@ unicode = FC40;
 {
 color = 4;
 glyphname = "lam_hah-ar.init";
-lastChange = "2015-11-24 07:33:59 +0000";
+lastChange = "2015-11-24 07:34:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{327, 37}";
+position = "{320, 45}";
 },
 {
 name = bottom_2;
