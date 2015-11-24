@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hamza-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -955,7 +952,7 @@ unicode = 007A;
 },
 {
 glyphname = "hamza-ar";
-lastChange = "2015-11-24 05:54:22 +0000";
+lastChange = "2015-11-24 05:54:27 +0000";
 layers = (
 {
 anchors = (
@@ -1036,7 +1033,7 @@ position = "{179, -49}";
 },
 {
 name = top;
-position = "{174, 232}";
+position = "{179, 261}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
