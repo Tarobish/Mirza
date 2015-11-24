@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/kaf_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -47570,7 +47567,7 @@ width = 996;
 {
 color = 4;
 glyphname = "kaf_alefMaksura-ar";
-lastChange = "2015-11-24 07:37:41 +0000";
+lastChange = "2015-11-24 07:37:54 +0000";
 layers = (
 {
 anchors = (
@@ -47697,11 +47694,11 @@ position = "{322, 0}";
 },
 {
 name = top_1;
-position = "{483, 500}";
+position = "{447, 562}";
 },
 {
 name = top_2;
-position = "{161, 500}";
+position = "{229, 81}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
