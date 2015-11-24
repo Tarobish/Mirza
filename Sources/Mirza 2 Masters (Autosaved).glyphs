@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehKashmiri-ar.medi"
+"/yehbarree-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -33072,7 +33072,7 @@ width = 244;
 },
 {
 glyphname = "yehKashmiri-ar.medi";
-lastChange = "2015-11-24 20:02:23 +0000";
+lastChange = "2015-11-24 22:21:55 +0000";
 layers = (
 {
 components = (
@@ -33095,7 +33095,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 17, -298}";
+transform = "{1, 0, 0, 1, 17, -308}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
