@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kafRing-ar.fina"
+"/kafRing-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -22769,7 +22769,7 @@ width = 883;
 },
 {
 glyphname = "kafRing-ar.init";
-lastChange = "2015-11-02 22:47:07 +0000";
+lastChange = "2015-11-24 06:26:41 +0000";
 layers = (
 {
 components = (
@@ -22792,7 +22792,7 @@ name = "keheh-ar.init";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 198, 229}";
+transform = "{0.8, 0, 0, 0.8, 198, 277}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -22826,7 +22826,7 @@ name = "keheh-ar.medi";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 193, 220}";
+transform = "{0.8, 0, 0, 0.8, 193, 269}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
