@@ -11222,7 +11222,7 @@ unicode = 08AA;
 },
 {
 glyphname = "rehLoop-ar.fina";
-lastChange = "2015-11-24 05:49:04 +0000";
+lastChange = "2015-11-24 05:49:10 +0000";
 layers = (
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -11311,8 +11311,8 @@ width = 554;
 {
 anchors = (
 {
-name = "new anchor";
-position = "{141, 74}";
+name = top;
+position = "{243, 189}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
