@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dalVinvertedbelow-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -9530,13 +9527,13 @@ width = 564;
 },
 {
 glyphname = "dalVinvertedbelow-ar";
-lastChange = "2015-11-24 05:40:45 +0000";
+lastChange = "2015-11-24 05:43:14 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{206, -237}";
+position = "{206, -238}";
 }
 );
 components = (
@@ -9556,7 +9553,7 @@ width = 443;
 anchors = (
 {
 name = bottom;
-position = "{217, -260}";
+position = "{217, -270}";
 }
 );
 components = (
