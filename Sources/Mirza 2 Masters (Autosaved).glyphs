@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dalRing-ar.fina"
+"/dalRing-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -8945,9 +8945,15 @@ unicode = FB83;
 },
 {
 glyphname = "dalRing-ar";
-lastChange = "2015-11-03 00:17:41 +0000";
+lastChange = "2015-11-24 05:43:56 +0000";
 layers = (
 {
+anchors = (
+{
+name = "new anchor";
+position = "{200, -144}";
+}
+);
 components = (
 {
 name = "dal-ar";
@@ -8980,7 +8986,7 @@ unicode = 0689;
 },
 {
 glyphname = "dalRing-ar.fina";
-lastChange = "2015-11-24 05:43:46 +0000";
+lastChange = "2015-11-24 05:43:51 +0000";
 layers = (
 {
 anchors = (
@@ -9006,7 +9012,7 @@ width = 533;
 anchors = (
 {
 name = bottom;
-position = "{228, -122}";
+position = "{228, -152}";
 }
 );
 components = (
