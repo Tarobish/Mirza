@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hahTahbelow-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -7757,7 +7754,7 @@ unicode = FEA7;
 {
 color = 0;
 glyphname = "hahTahbelow-ar";
-lastChange = "2015-11-24 05:37:11 +0000";
+lastChange = "2015-11-24 05:37:17 +0000";
 layers = (
 {
 components = (
@@ -7767,7 +7764,7 @@ name = "hah-ar";
 {
 disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 335, -832}";
+transform = "{1, 0, 0, 1, 335, -823}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
