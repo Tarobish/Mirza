@@ -58210,7 +58210,7 @@ unicode = 060E;
 {
 color = 9;
 glyphname = "misraComma-ar";
-lastChange = "2015-11-24 07:08:11 +0000";
+lastChange = "2015-11-24 22:27:41 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -73641,7 +73641,7 @@ unicode = 0604;
 {
 color = 9;
 glyphname = uniFBBC;
-lastChange = "2015-11-04 19:19:37 +0000";
+lastChange = "2015-11-24 22:27:25 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -73687,31 +73687,31 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-83 -98 OFFCURVE",
-"-71 -129 OFFCURVE",
-"-75 -178 CURVE",
-"-46 -169 LINE",
-"-38 -122 OFFCURVE",
-"-40 -76 OFFCURVE",
-"-62 -38 CURVE",
-"-78 -48 OFFCURVE",
-"-86 -56 OFFCURVE",
-"-100 -70 CURVE"
+"-61 -98 OFFCURVE",
+"-49 -129 OFFCURVE",
+"-53 -178 CURVE",
+"-24 -169 LINE",
+"-16 -122 OFFCURVE",
+"-18 -76 OFFCURVE",
+"-40 -38 CURVE",
+"-56 -48 OFFCURVE",
+"-64 -56 OFFCURVE",
+"-78 -70 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-7 -98 OFFCURVE",
-"4 -129 OFFCURVE",
-"1 -178 CURVE",
-"29 -169 LINE",
-"37 -122 OFFCURVE",
-"35 -76 OFFCURVE",
-"13 -38 CURVE",
-"-3 -48 OFFCURVE",
-"-11 -56 OFFCURVE",
-"-25 -70 CURVE"
+"25 -98 OFFCURVE",
+"36 -129 OFFCURVE",
+"33 -178 CURVE",
+"61 -169 LINE",
+"69 -122 OFFCURVE",
+"67 -76 OFFCURVE",
+"45 -38 CURVE",
+"29 -48 OFFCURVE",
+"21 -56 OFFCURVE",
+"7 -70 CURVE"
 );
 }
 );
@@ -73723,7 +73723,7 @@ unicode = FBBC;
 {
 color = 0;
 glyphname = uniFEFE;
-lastChange = "2015-11-06 19:25:28 +0000";
+lastChange = "2015-11-24 22:27:08 +0000";
 layers = (
 {
 components = (
@@ -73746,7 +73746,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 83, -120}";
+transform = "{1, 0, 0, 1, 83, -110}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -73759,7 +73759,7 @@ unicode = FEFE;
 {
 color = 0;
 glyphname = uniFEFD;
-lastChange = "2015-11-24 07:48:06 +0000";
+lastChange = "2015-11-24 22:27:11 +0000";
 layers = (
 {
 components = (
@@ -73782,7 +73782,7 @@ name = "lam_alef-ar";
 },
 {
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 0, -127}";
+transform = "{1, 0, 0, 1, 0, -117}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
