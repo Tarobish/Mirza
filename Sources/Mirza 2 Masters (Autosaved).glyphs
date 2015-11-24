@@ -49221,17 +49221,17 @@ unicode = FC43;
 {
 color = 4;
 glyphname = "lam_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:27:00 +0000";
+lastChange = "2015-11-24 07:27:12 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{575, -249}";
+position = "{569, -275}";
 },
 {
 name = bottom_2;
-position = "{174, 0}";
+position = "{282, -339}";
 },
 {
 name = caret_1;
