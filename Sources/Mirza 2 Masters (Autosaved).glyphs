@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/vabove-ar/noonVabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -36217,7 +36214,7 @@ width = 608;
 },
 {
 glyphname = "noonVabove-ar";
-lastChange = "2015-11-24 07:00:26 +0000";
+lastChange = "2015-11-24 07:00:32 +0000";
 layers = (
 {
 components = (
@@ -36226,7 +36223,7 @@ name = "noon-ar";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 275, -534}";
+transform = "{1, 0, 0, 1, 273, -524}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -36252,7 +36249,7 @@ unicode = 0769;
 },
 {
 glyphname = "noonVabove-ar.fina";
-lastChange = "2015-11-06 18:34:45 +0000";
+lastChange = "2015-11-24 07:00:34 +0000";
 layers = (
 {
 components = (
@@ -36261,7 +36258,7 @@ name = "noon-ar.fina";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 282, -612}";
+transform = "{1, 0, 0, 1, 280, -602}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -36286,7 +36283,7 @@ width = 678;
 },
 {
 glyphname = "noonVabove-ar.init";
-lastChange = "2015-11-24 06:57:43 +0000";
+lastChange = "2015-11-24 07:00:34 +0000";
 layers = (
 {
 components = (
@@ -36295,7 +36292,7 @@ name = "noon-ar.init";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, -12, -270}";
+transform = "{1, 0, 0, 1, -14, -260}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -36320,7 +36317,7 @@ width = 244;
 },
 {
 glyphname = "noonVabove-ar.medi";
-lastChange = "2015-11-24 06:57:43 +0000";
+lastChange = "2015-11-24 07:00:34 +0000";
 layers = (
 {
 components = (
@@ -36329,7 +36326,7 @@ name = "noon-ar.medi";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 1, -355}";
+transform = "{1, 0, 0, 1, -1, -345}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -65002,13 +64999,13 @@ unicode = 0659;
 },
 {
 glyphname = "vabove-ar";
-lastChange = "2015-11-06 18:24:58 +0000";
+lastChange = "2015-11-24 07:00:32 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{3, 680}";
+position = "{5, 670}";
 },
 {
 name = top;
