@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefThreeabove-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -31004,7 +31007,7 @@ unicode = FEF0;
 {
 color = 0;
 glyphname = "alefMaksuraAlefabove-ar";
-lastChange = "2015-11-06 20:18:30 +0000";
+lastChange = "2015-11-24 06:52:17 +0000";
 layers = (
 {
 components = (
@@ -31014,7 +31017,7 @@ name = "alefMaksura-ar";
 {
 disableAlignment = 1;
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 208, -603}";
+transform = "{1, 0, 0, 1, 228, -593}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31078,7 +31081,7 @@ unicode = FC90;
 {
 color = 0;
 glyphname = "alefTwoabove-ar";
-lastChange = "2015-11-02 20:32:23 +0000";
+lastChange = "2015-11-24 06:52:22 +0000";
 layers = (
 {
 components = (
@@ -31089,7 +31092,7 @@ transform = "{1, 0, 0, 1, 75, 0}";
 {
 disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, -1, 192}";
+transform = "{0.8, 0, 0, 0.8, -1, 202}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31118,7 +31121,7 @@ unicode = 0773;
 {
 color = 0;
 glyphname = "alefTwoabove-ar.fina";
-lastChange = "2015-11-02 20:32:23 +0000";
+lastChange = "2015-11-24 06:52:25 +0000";
 layers = (
 {
 components = (
@@ -31129,7 +31132,7 @@ transform = "{1, 0, 0, 1, 59, 0}";
 {
 disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, 9, 192}";
+transform = "{0.8, 0, 0, 0.8, 9, 202}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31157,7 +31160,7 @@ width = 350;
 {
 color = 0;
 glyphname = "alefThreeabove-ar";
-lastChange = "2015-11-02 20:32:23 +0000";
+lastChange = "2015-11-24 06:52:29 +0000";
 layers = (
 {
 components = (
@@ -31168,7 +31171,7 @@ transform = "{1, 0, 0, 1, 72, 0}";
 {
 disableAlignment = 1;
 name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, -3, 193}";
+transform = "{0.8, 0, 0, 0.8, -3, 203}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31197,7 +31200,7 @@ unicode = 0774;
 {
 color = 0;
 glyphname = "alefThreeabove-ar.fina";
-lastChange = "2015-11-02 20:32:23 +0000";
+lastChange = "2015-11-24 06:52:33 +0000";
 layers = (
 {
 components = (
@@ -31208,7 +31211,7 @@ transform = "{1, 0, 0, 1, 60, 0}";
 {
 disableAlignment = 1;
 name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, 8, 193}";
+transform = "{0.8, 0, 0, 0.8, 8, 203}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
