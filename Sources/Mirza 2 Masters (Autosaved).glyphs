@@ -4298,23 +4298,23 @@ width = 416;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.medi";
-lastChange = "2015-11-03 00:18:09 +0000";
+lastChange = "2015-11-24 05:30:53 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{114, -178}";
+position = "{114, -188}";
 },
 {
 name = top;
-position = "{113, 188}";
+position = "{113, 198}";
 }
 );
 components = (
 {
 name = "dots.horz.below-ar";
-transform = "{1, 0, 0, 1, 113, 158}";
+transform = "{1, 0, 0, 1, 113, 148}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
