@@ -49693,7 +49693,7 @@ rightMetricsKey = "alef-ar.isol";
 {
 color = 4;
 glyphname = "meem_meem-ar.init";
-lastChange = "2015-11-24 07:23:22 +0000";
+lastChange = "2015-11-24 07:23:29 +0000";
 layers = (
 {
 anchors = (
@@ -49786,6 +49786,28 @@ nodes = (
 width = 358;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{293, 0}";
+},
+{
+name = bottom_2;
+position = "{98, 0}";
+},
+{
+name = caret_1;
+position = "{195.5, 0}";
+},
+{
+name = top_1;
+position = "{270, 549}";
+},
+{
+name = top_2;
+position = "{29, 403}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
