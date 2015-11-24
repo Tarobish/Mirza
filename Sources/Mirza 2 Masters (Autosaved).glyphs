@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/meem-ar.alt"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -25260,17 +25263,17 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2015-11-03 02:17:08 +0000";
+lastChange = "2015-11-24 06:31:49 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{404, 0}";
+position = "{404, -10}";
 },
 {
 name = top;
-position = "{453, 312}";
+position = "{453, 321}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
