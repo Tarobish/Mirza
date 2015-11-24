@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam-ar.medi"
+"/lam-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -23974,7 +23974,7 @@ unicode = 0644;
 },
 {
 glyphname = "lam-ar.fina";
-lastChange = "2015-10-29 21:08:32 +0000";
+lastChange = "2015-11-24 06:27:49 +0000";
 layers = (
 {
 anchors = (
@@ -23984,7 +23984,7 @@ position = "{284, -303}";
 },
 {
 name = top;
-position = "{346, 548}";
+position = "{356, 558}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24147,17 +24147,17 @@ unicode = FEDE;
 },
 {
 glyphname = "lam-ar.medi";
-lastChange = "2015-11-24 06:27:42 +0000";
+lastChange = "2015-11-24 06:27:44 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{70, -15}";
+position = "{70, -25}";
 },
 {
 name = top;
-position = "{45, 547}";
+position = "{45, 557}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24512,7 +24512,7 @@ width = 248;
 },
 {
 glyphname = "lamVabove-ar.medi";
-lastChange = "2015-11-06 19:03:07 +0000";
+lastChange = "2015-11-24 06:27:45 +0000";
 layers = (
 {
 components = (
@@ -24521,7 +24521,7 @@ name = "lam-ar.medi";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 32, -133}";
+transform = "{1, 0, 0, 1, 42, -123}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24649,7 +24649,7 @@ width = 248;
 },
 {
 glyphname = "lamDotabove-ar.medi";
-lastChange = "2015-10-31 08:48:34 +0000";
+lastChange = "2015-11-24 06:27:45 +0000";
 layers = (
 {
 components = (
@@ -24658,7 +24658,7 @@ name = "lam-ar.medi";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 32, -118}";
+transform = "{1, 0, 0, 1, 42, -108}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24786,7 +24786,7 @@ width = 248;
 },
 {
 glyphname = "lamThreedotsabove-ar.medi";
-lastChange = "2015-10-29 21:08:18 +0000";
+lastChange = "2015-11-24 06:27:45 +0000";
 layers = (
 {
 components = (
@@ -24795,7 +24795,7 @@ name = "lam-ar.medi";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 37, -133}";
+transform = "{1, 0, 0, 1, 47, -123}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24923,7 +24923,7 @@ width = 248;
 },
 {
 glyphname = "lamThreedotsbelow-ar.medi";
-lastChange = "2015-10-29 21:08:18 +0000";
+lastChange = "2015-11-24 06:27:45 +0000";
 layers = (
 {
 components = (
@@ -24932,7 +24932,7 @@ name = "lam-ar.medi";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 75, -26}";
+transform = "{1, 0, 0, 1, 75, -36}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
