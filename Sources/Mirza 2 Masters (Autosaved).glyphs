@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/fehDotaboveDotbelow-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -17990,7 +17987,7 @@ width = 444;
 {
 color = 0;
 glyphname = "fehDotaboveDotbelow-ar";
-lastChange = "2015-11-24 05:58:23 +0000";
+lastChange = "2015-11-24 05:58:30 +0000";
 layers = (
 {
 components = (
