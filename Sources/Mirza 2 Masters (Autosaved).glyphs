@@ -34648,17 +34648,17 @@ width = 394;
 },
 {
 glyphname = "highhamzaYeh-ar.medi";
-lastChange = "2015-11-24 06:59:04 +0000";
+lastChange = "2015-11-24 06:59:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{246, -25}";
+position = "{52, -25}";
 },
 {
 name = top;
-position = "{262, 383}";
+position = "{262, 393}";
 }
 );
 components = (
