@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefWavyhamzaabove-ar"
+"/alefMadda-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -1680,7 +1680,7 @@ unicode = 0672;
 {
 color = 0;
 glyphname = "alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-06 19:05:20 +0000";
+lastChange = "2015-11-24 05:26:53 +0000";
 layers = (
 {
 components = (
@@ -1690,7 +1690,7 @@ name = "alef-ar.fina.short";
 {
 disableAlignment = 1;
 name = "wavyhamzaabove-ar";
-transform = "{1, 0, 0, 1, 82, -180}";
+transform = "{1, 0, 0, 1, 82, -170}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1786,7 +1786,7 @@ width = 269;
 {
 color = 0;
 glyphname = "alefMadda-ar";
-lastChange = "2015-11-06 19:03:04 +0000";
+lastChange = "2015-11-24 05:26:57 +0000";
 layers = (
 {
 components = (
@@ -1798,7 +1798,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 100, -197}";
+transform = "{1, 0, 0, 1, 100, -187}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
