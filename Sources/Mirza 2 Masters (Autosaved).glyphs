@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/twodotshorizontalabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -16147,7 +16144,7 @@ unicode = FECA;
 },
 {
 glyphname = "ain-ar.medi";
-lastChange = "2015-11-24 05:56:27 +0000";
+lastChange = "2015-11-24 08:12:01 +0000";
 layers = (
 {
 anchors = (
@@ -16208,12 +16205,12 @@ nodes = (
 "245 9 OFFCURVE",
 "271 0 OFFCURVE",
 "301 0 CURVE SMOOTH",
-"405 0 LINE",
-"405 98 LINE"
+"415 0 LINE",
+"415 98 LINE"
 );
 }
 );
-width = 405;
+width = 415;
 },
 {
 anchors = (
@@ -35045,7 +35042,7 @@ width = 423;
 },
 {
 glyphname = "ainTwodotshorizontalabove-ar.medi";
-lastChange = "2015-11-24 06:49:04 +0000";
+lastChange = "2015-11-24 08:12:01 +0000";
 layers = (
 {
 components = (
@@ -35059,7 +35056,7 @@ transform = "{1, 0, 0, 1, 181, -380}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 405;
+width = 415;
 },
 {
 components = (
@@ -35182,7 +35179,7 @@ width = 423;
 },
 {
 glyphname = "ainThreedotsdownabove-ar.medi";
-lastChange = "2015-11-24 07:12:39 +0000";
+lastChange = "2015-11-24 08:12:02 +0000";
 layers = (
 {
 components = (
@@ -35196,7 +35193,7 @@ transform = "{1, 0, 0, 1, 181, -377}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 405;
+width = 415;
 },
 {
 components = (
@@ -35319,7 +35316,7 @@ width = 423;
 },
 {
 glyphname = "ainTwodotsverticalabove-ar.medi";
-lastChange = "2015-11-24 06:49:04 +0000";
+lastChange = "2015-11-24 08:12:02 +0000";
 layers = (
 {
 components = (
@@ -35333,7 +35330,7 @@ transform = "{1, 0, 0, 1, 176, -390}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 405;
+width = 415;
 },
 {
 components = (
