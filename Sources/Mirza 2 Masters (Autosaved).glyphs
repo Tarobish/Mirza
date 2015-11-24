@@ -32983,7 +32983,7 @@ width = 680;
 },
 {
 glyphname = "yehKashmiri-ar.init";
-lastChange = "2015-11-03 00:16:26 +0000";
+lastChange = "2015-11-24 06:55:59 +0000";
 layers = (
 {
 components = (
@@ -32992,7 +32992,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 16, -259}";
+transform = "{1, 0, 0, 1, 16, -269}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33006,7 +33006,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 48, -365}";
+transform = "{1, 0, 0, 1, 48, -271}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
