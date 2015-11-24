@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/tcheheh-ar"
+"/tcheheh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -5824,7 +5824,7 @@ name = "hah-ar";
 {
 disableAlignment = 1;
 name = "fourdotsbelow-ar";
-transform = "{1, 0, 0, 1, 326, 52}";
+transform = "{1, 0, 0, 1, 326, 51}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -5850,7 +5850,7 @@ unicode = 0687;
 },
 {
 glyphname = "tcheheh-ar.fina";
-lastChange = "2015-11-24 06:01:08 +0000";
+lastChange = "2015-11-24 06:02:42 +0000";
 layers = (
 {
 components = (
@@ -5858,8 +5858,9 @@ components = (
 name = "hah-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "fourdotsbelow-ar";
-transform = "{1, 0, 0, 1, 294, -351}";
+transform = "{1, 0, 0, 1, 312, 60}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
