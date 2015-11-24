@@ -49221,7 +49221,7 @@ unicode = FC43;
 {
 color = 4;
 glyphname = "lam_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:27:22 +0000";
+lastChange = "2015-11-24 07:27:32 +0000";
 layers = (
 {
 anchors = (
@@ -49337,11 +49337,11 @@ width = 697;
 anchors = (
 {
 name = bottom_1;
-position = "{546, 0}";
+position = "{568, -266}";
 },
 {
 name = bottom_2;
-position = "{182, 0}";
+position = "{288, -339}";
 },
 {
 name = caret_1;
