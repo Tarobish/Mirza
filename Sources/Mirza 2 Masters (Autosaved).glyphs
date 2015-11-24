@@ -31596,7 +31596,7 @@ width = 680;
 },
 {
 glyphname = "yehVabove-ar.init";
-lastChange = "2015-11-24 06:45:51 +0000";
+lastChange = "2015-11-24 06:53:27 +0000";
 layers = (
 {
 components = (
@@ -31604,8 +31604,9 @@ components = (
 name = "dotlessbeh-ar.init";
 },
 {
+disableAlignment = 1;
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, -12, -397}";
+transform = "{1, 0, 0, 1, -12, -427}";
 },
 {
 name = "twodotshorizontalbelow-ar";
