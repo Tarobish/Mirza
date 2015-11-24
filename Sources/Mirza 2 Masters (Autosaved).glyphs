@@ -9541,13 +9541,13 @@ unicode = 075A;
 },
 {
 glyphname = "dalVinvertedbelow-ar.fina";
-lastChange = "2015-11-24 05:39:57 +0000";
+lastChange = "2015-11-24 05:40:08 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{204, -269}";
+position = "{204, -230}";
 }
 );
 components = (
@@ -9570,7 +9570,7 @@ name = "dal-ar.fina";
 },
 {
 name = circumflex.below;
-transform = "{1, 0, 0, 1, 203, -40}";
+transform = "{1, 0, 0, 1, 209, 148}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
