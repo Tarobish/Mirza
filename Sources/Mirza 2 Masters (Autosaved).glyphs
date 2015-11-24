@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/meem-ar/meemDotbelow-ar",
-"/meem-ar.fina/meemDotabove-ar.fina"
+"/sheen-ar/yeh-farsi/hamza-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -956,7 +955,7 @@ unicode = 007A;
 },
 {
 glyphname = "hamza-ar";
-lastChange = "2015-11-24 07:59:24 +0000";
+lastChange = "2015-11-24 20:12:59 +0000";
 layers = (
 {
 anchors = (
@@ -1046,13 +1045,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"301 136 OFFCURVE",
-"278 133 OFFCURVE",
-"257 129 CURVE SMOOTH",
-"232 126 OFFCURVE",
-"221 125 OFFCURVE",
-"197 131 CURVE SMOOTH",
-"165 140 OFFCURVE",
+"301 132 OFFCURVE",
+"278 129 OFFCURVE",
+"257 125 CURVE SMOOTH",
+"232 122 OFFCURVE",
+"221 121 OFFCURVE",
+"197 127 CURVE SMOOTH",
+"165 136 OFFCURVE",
 "156 150 OFFCURVE",
 "153 157 CURVE",
 "162 163 OFFCURVE",
@@ -1093,8 +1092,8 @@ nodes = (
 "247 59 OFFCURVE",
 "282 60 CURVE",
 "300 87 OFFCURVE",
-"311 111 OFFCURVE",
-"323 140 CURVE"
+"311 107 OFFCURVE",
+"323 136 CURVE"
 );
 }
 );
@@ -25133,7 +25132,7 @@ width = 325;
 },
 {
 glyphname = "meem-ar";
-lastChange = "2015-11-24 06:29:33 +0000";
+lastChange = "2015-11-24 20:11:36 +0000";
 layers = (
 {
 anchors = (
@@ -25165,8 +25164,8 @@ nodes = (
 "142 225 OFFCURVE",
 "141 214 CURVE",
 "182 233 OFFCURVE",
-"214 223 OFFCURVE",
-"261 196 CURVE SMOOTH",
+"219 227 OFFCURVE",
+"261 196 CURVE",
 "200 195 OFFCURVE",
 "154 186 OFFCURVE",
 "115 150 CURVE SMOOTH",
@@ -25204,11 +25203,11 @@ width = 408;
 anchors = (
 {
 name = bottom;
-position = "{141, -326}";
+position = "{132, -380}";
 },
 {
 name = top;
-position = "{218, 339}";
+position = "{219, 366}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -25217,49 +25216,49 @@ paths = (
 {
 closed = 1;
 nodes = (
-"354 232 OFFCURVE",
-"328 268 OFFCURVE",
-"291 293 CURVE SMOOTH",
-"270 308 OFFCURVE",
-"245 319 OFFCURVE",
-"218 319 CURVE SMOOTH",
-"179 319 OFFCURVE",
-"150 298 OFFCURVE",
-"135 258 CURVE SMOOTH",
-"128 241 OFFCURVE",
-"125 224 OFFCURVE",
-"124 209 CURVE",
-"137 218 OFFCURVE",
-"183 233 OFFCURVE",
-"219 214 CURVE",
-"149 207 OFFCURVE",
-"90 161 OFFCURVE",
-"69 103 CURVE SMOOTH",
-"60 77 OFFCURVE",
-"57 47 OFFCURVE",
-"62 12 CURVE SMOOTH",
-"66 -23 OFFCURVE",
-"72 -64 OFFCURVE",
-"80 -106 CURVE SMOOTH",
-"86 -138 OFFCURVE",
-"100 -240 OFFCURVE",
-"109 -316 CURVE",
-"161 -296 LINE",
-"161 -185 OFFCURVE",
-"156 -82 OFFCURVE",
-"143 9 CURVE SMOOTH",
-"139 34 OFFCURVE",
-"145 54 OFFCURVE",
-"160 70 CURVE SMOOTH",
-"176 88 OFFCURVE",
-"204 101 OFFCURVE",
-"240 109 CURVE SMOOTH",
-"259 113 OFFCURVE",
-"300 116 OFFCURVE",
-"337 116 CURVE SMOOTH",
-"348 157 OFFCURVE",
-"354 198 OFFCURVE",
-"354 232 CURVE"
+"369 250 OFFCURVE",
+"340 290 OFFCURVE",
+"299 317 CURVE SMOOTH",
+"276 334 OFFCURVE",
+"249 346 OFFCURVE",
+"219 346 CURVE SMOOTH",
+"190 346 OFFCURVE",
+"166 335 OFFCURVE",
+"148 316 CURVE SMOOTH",
+"129 296 OFFCURVE",
+"118 267 OFFCURVE",
+"116 234 CURVE",
+"130 244 OFFCURVE",
+"190 256 OFFCURVE",
+"220 223 CURVE",
+"125 221 OFFCURVE",
+"78 172 OFFCURVE",
+"55 108 CURVE SMOOTH",
+"45 80 OFFCURVE",
+"42 47 OFFCURVE",
+"48 8 CURVE SMOOTH",
+"52 -30 OFFCURVE",
+"59 -76 OFFCURVE",
+"67 -122 CURVE SMOOTH",
+"74 -157 OFFCURVE",
+"89 -288 OFFCURVE",
+"99 -372 CURVE",
+"156 -350 LINE",
+"156 -228 OFFCURVE",
+"146 -110 OFFCURVE",
+"137 5 CURVE SMOOTH",
+"135 32 OFFCURVE",
+"139 54 OFFCURVE",
+"155 72 CURVE SMOOTH",
+"176 95 OFFCURVE",
+"206 109 OFFCURVE",
+"242 116 CURVE SMOOTH",
+"275 124 OFFCURVE",
+"313 125 OFFCURVE",
+"350 122 CURVE",
+"362 168 OFFCURVE",
+"369 213 OFFCURVE",
+"369 250 CURVE"
 );
 }
 );
@@ -26119,7 +26118,7 @@ unicode = FEE3;
 },
 {
 glyphname = "meemThreedotsabove-ar";
-lastChange = "2015-11-24 19:42:05 +0000";
+lastChange = "2015-11-24 20:12:47 +0000";
 layers = (
 {
 components = (
@@ -26142,7 +26141,7 @@ name = "meem-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 224, -341}";
+transform = "{1, 0, 0, 1, 225, -314}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -35643,7 +35642,7 @@ width = 444;
 },
 {
 glyphname = "meemDotabove-ar";
-lastChange = "2015-11-24 06:59:50 +0000";
+lastChange = "2015-11-24 20:12:45 +0000";
 layers = (
 {
 components = (
@@ -35666,7 +35665,7 @@ name = "meem-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 219, -291}";
+transform = "{1, 0, 0, 1, 220, -264}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -35780,7 +35779,7 @@ width = 522;
 },
 {
 glyphname = "meemDotbelow-ar";
-lastChange = "2015-11-24 20:06:39 +0000";
+lastChange = "2015-11-24 20:10:26 +0000";
 layers = (
 {
 components = (
@@ -35803,7 +35802,7 @@ name = "meem-ar";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 142, -200}";
+transform = "{1, 0, 0, 1, 133, -254}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
