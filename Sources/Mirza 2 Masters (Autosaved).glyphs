@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/wawThreeAbove-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -30051,7 +30054,7 @@ unicode = 0778;
 {
 color = 0;
 glyphname = "wawTwoabove-ar.fina";
-lastChange = "2015-11-02 20:32:18 +0000";
+lastChange = "2015-11-24 06:46:55 +0000";
 layers = (
 {
 components = (
@@ -30061,7 +30064,7 @@ name = "waw-ar.fina";
 {
 disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, 85, 83}";
+transform = "{0.8, 0, 0, 0.8, 85, 93}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -30088,7 +30091,7 @@ width = 407;
 {
 color = 0;
 glyphname = "wawThreeAbove-ar";
-lastChange = "2015-11-02 20:32:18 +0000";
+lastChange = "2015-11-24 06:46:59 +0000";
 layers = (
 {
 components = (
@@ -30098,7 +30101,7 @@ name = "waw-ar";
 {
 disableAlignment = 1;
 name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, 77, 125}";
+transform = "{0.8, 0, 0, 0.8, 77, 135}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
