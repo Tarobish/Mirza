@@ -955,13 +955,17 @@ unicode = 007A;
 },
 {
 glyphname = "hamza-ar";
-lastChange = "2015-11-24 05:53:25 +0000";
+lastChange = "2015-11-24 05:53:44 +0000";
 layers = (
 {
 anchors = (
 {
+name = "new anchor";
+position = "{195, -57}";
+},
+{
 name = top;
-position = "{180, 199}";
+position = "{185, 229}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
