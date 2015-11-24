@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_alefMaksura-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -49221,7 +49218,7 @@ unicode = FC43;
 {
 color = 4;
 glyphname = "lam_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:27:32 +0000";
+lastChange = "2015-11-24 07:27:38 +0000";
 layers = (
 {
 anchors = (
@@ -49353,7 +49350,7 @@ position = "{467, 638}";
 },
 {
 name = top_2;
-position = "{182, 500}";
+position = "{243, 61}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
