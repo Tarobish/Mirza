@@ -21370,7 +21370,7 @@ unicode = 06AF;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2015-11-24 06:23:54 +0000";
+lastChange = "2015-11-24 06:24:14 +0000";
 layers = (
 {
 anchors = (
@@ -21406,8 +21406,8 @@ width = 848;
 {
 anchors = (
 {
-name = "new anchor";
-position = "{525, 683}";
+name = top;
+position = "{614, 669}";
 }
 );
 components = (
