@@ -2364,17 +2364,17 @@ width = 924;
 },
 {
 glyphname = "dotlessbeh-ar.medi";
-lastChange = "2015-11-09 02:53:44 +0000";
+lastChange = "2015-11-24 05:17:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{-3, -15}";
+position = "{-3, -25}";
 },
 {
 name = top;
-position = "{-2, 188}";
+position = "{4, 198}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
