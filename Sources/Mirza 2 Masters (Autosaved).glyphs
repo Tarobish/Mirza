@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefWasla-ar.fina"
+"/highhamzaAlef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -1947,7 +1947,7 @@ unicode = FB51;
 {
 color = 0;
 glyphname = "alefFathatan-ar";
-lastChange = "2015-11-06 19:06:04 +0000";
+lastChange = "2015-11-24 05:28:08 +0000";
 layers = (
 {
 components = (
@@ -1958,7 +1958,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 74, -199}";
+transform = "{1, 0, 0, 1, 74, -189}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1987,14 +1987,14 @@ unicode = FD3D;
 {
 color = 0;
 glyphname = "alefFathatan-ar.fina";
-lastChange = "2015-11-06 19:03:43 +0000";
+lastChange = "2015-11-24 05:28:12 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 83, -200}";
+transform = "{1, 0, 0, 1, 83, -190}";
 },
 {
 locked = 1;
@@ -2027,7 +2027,7 @@ unicode = FD3C;
 {
 color = 0;
 glyphname = "highhamzaAlef-ar";
-lastChange = "2015-11-06 19:06:30 +0000";
+lastChange = "2015-11-24 05:28:16 +0000";
 layers = (
 {
 components = (
@@ -2037,7 +2037,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 155, -177}";
+transform = "{1, 0, 0, 1, 155, -167}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
