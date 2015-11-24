@@ -2485,17 +2485,17 @@ width = 315;
 },
 {
 glyphname = "dotlessbeh-ar.init";
-lastChange = "2015-11-24 05:16:00 +0000";
+lastChange = "2015-11-24 05:16:11 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{4, -15}";
+position = "{4, -25}";
 },
 {
 name = top;
-position = "{-9, 273}";
+position = "{-9, 283}";
 }
 );
 guideLines = (
