@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kafRing-ar.medi"
+"/ngoeh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -22803,7 +22803,7 @@ width = 289;
 },
 {
 glyphname = "kafRing-ar.medi";
-lastChange = "2015-11-02 22:47:07 +0000";
+lastChange = "2015-11-24 06:26:49 +0000";
 layers = (
 {
 components = (
