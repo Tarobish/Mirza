@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -23817,17 +23814,17 @@ unicode = FB98;
 },
 {
 glyphname = "lam-ar";
-lastChange = "2015-10-29 21:08:43 +0000";
+lastChange = "2015-11-24 06:27:57 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{285, -219}";
+position = "{285, -229}";
 },
 {
 name = top;
-position = "{327, 548}";
+position = "{337, 558}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23974,13 +23971,13 @@ unicode = 0644;
 },
 {
 glyphname = "lam-ar.fina";
-lastChange = "2015-11-24 06:27:49 +0000";
+lastChange = "2015-11-24 06:27:51 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{284, -303}";
+position = "{284, -313}";
 },
 {
 name = top;
@@ -24409,7 +24406,7 @@ unicode = FEDF;
 },
 {
 glyphname = "lamVabove-ar";
-lastChange = "2015-11-06 19:03:07 +0000";
+lastChange = "2015-11-24 06:27:58 +0000";
 layers = (
 {
 components = (
@@ -24418,7 +24415,7 @@ name = "lam-ar";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 324, -132}";
+transform = "{1, 0, 0, 1, 334, -122}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24444,7 +24441,7 @@ unicode = 06B5;
 },
 {
 glyphname = "lamVabove-ar.fina";
-lastChange = "2015-11-06 19:03:07 +0000";
+lastChange = "2015-11-24 06:27:52 +0000";
 layers = (
 {
 components = (
@@ -24453,7 +24450,7 @@ name = "lam-ar.fina";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 343, -132}";
+transform = "{1, 0, 0, 1, 353, -122}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24546,7 +24543,7 @@ width = 325;
 },
 {
 glyphname = "lamDotabove-ar";
-lastChange = "2015-10-29 21:09:05 +0000";
+lastChange = "2015-11-24 06:27:58 +0000";
 layers = (
 {
 components = (
@@ -24555,7 +24552,7 @@ name = "lam-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 324, -117}";
+transform = "{1, 0, 0, 1, 334, -107}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24581,7 +24578,7 @@ unicode = 06B6;
 },
 {
 glyphname = "lamDotabove-ar.fina";
-lastChange = "2015-10-29 21:08:33 +0000";
+lastChange = "2015-11-24 06:27:52 +0000";
 layers = (
 {
 components = (
@@ -24590,7 +24587,7 @@ name = "lam-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 343, -117}";
+transform = "{1, 0, 0, 1, 353, -107}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24683,7 +24680,7 @@ width = 325;
 },
 {
 glyphname = "lamThreedotsabove-ar";
-lastChange = "2015-10-29 21:09:05 +0000";
+lastChange = "2015-11-24 06:27:58 +0000";
 layers = (
 {
 components = (
@@ -24692,7 +24689,7 @@ name = "lam-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 329, -132}";
+transform = "{1, 0, 0, 1, 339, -122}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24718,7 +24715,7 @@ unicode = 06B7;
 },
 {
 glyphname = "lamThreedotsabove-ar.fina";
-lastChange = "2015-10-29 21:08:33 +0000";
+lastChange = "2015-11-24 06:27:52 +0000";
 layers = (
 {
 components = (
@@ -24727,7 +24724,7 @@ name = "lam-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 348, -132}";
+transform = "{1, 0, 0, 1, 358, -122}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24820,7 +24817,7 @@ width = 325;
 },
 {
 glyphname = "lamThreedotsbelow-ar";
-lastChange = "2015-10-29 21:09:05 +0000";
+lastChange = "2015-11-24 06:27:58 +0000";
 layers = (
 {
 components = (
@@ -24829,7 +24826,7 @@ name = "lam-ar";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 290, -230}";
+transform = "{1, 0, 0, 1, 290, -240}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24855,7 +24852,7 @@ unicode = 06B8;
 },
 {
 glyphname = "lamThreedotsbelow-ar.fina";
-lastChange = "2015-10-29 21:08:33 +0000";
+lastChange = "2015-11-24 06:27:52 +0000";
 layers = (
 {
 components = (
@@ -24864,7 +24861,7 @@ name = "lam-ar.fina";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 289, -314}";
+transform = "{1, 0, 0, 1, 289, -324}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
