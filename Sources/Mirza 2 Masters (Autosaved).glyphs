@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/fehDotbelow-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -16856,7 +16859,7 @@ width = 423;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2015-10-31 04:16:04 +0000";
+lastChange = "2015-11-24 05:57:19 +0000";
 layers = (
 {
 components = (
@@ -16865,7 +16868,7 @@ name = "dotlessfeh-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 654, -221}";
+transform = "{1, 0, 0, 1, 654, -211}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -16996,7 +16999,7 @@ unicode = FED3;
 },
 {
 glyphname = "veh-ar";
-lastChange = "2015-10-29 20:08:32 +0000";
+lastChange = "2015-11-24 05:57:19 +0000";
 layers = (
 {
 components = (
@@ -17005,7 +17008,7 @@ name = "dotlessfeh-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 659, -236}";
+transform = "{1, 0, 0, 1, 659, -226}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -17136,17 +17139,17 @@ unicode = FB6C;
 },
 {
 glyphname = "dotlessfeh-ar";
-lastChange = "2015-10-29 20:08:30 +0000";
+lastChange = "2015-11-24 05:57:18 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{397, -26}";
+position = "{397, -36}";
 },
 {
 name = top;
-position = "{657, 444}";
+position = "{657, 454}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -17987,7 +17990,7 @@ width = 444;
 {
 color = 0;
 glyphname = "fehDotaboveDotbelow-ar";
-lastChange = "2015-11-02 20:30:44 +0000";
+lastChange = "2015-11-24 05:57:19 +0000";
 layers = (
 {
 components = (
@@ -17996,7 +17999,7 @@ name = "dotlessfeh-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 654, -221}";
+transform = "{1, 0, 0, 1, 654, -211}";
 },
 {
 disableAlignment = 1;
@@ -18305,7 +18308,7 @@ width = 444;
 {
 color = 0;
 glyphname = "fehDotbelowThreedotsabove-ar";
-lastChange = "2015-11-02 20:31:01 +0000";
+lastChange = "2015-11-24 05:57:19 +0000";
 layers = (
 {
 components = (
@@ -18314,7 +18317,7 @@ name = "dotlessfeh-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 659, -236}";
+transform = "{1, 0, 0, 1, 659, -226}";
 },
 {
 disableAlignment = 1;
@@ -18479,6 +18482,7 @@ width = 444;
 },
 {
 glyphname = "peheh-ar";
+lastChange = "2015-11-24 05:57:19 +0000";
 layers = (
 {
 components = (
@@ -18487,7 +18491,7 @@ name = "dotlessfeh-ar";
 },
 {
 name = "fourdotsabove-ar";
-transform = "{1, 0, 0, 1, 659, -130}";
+transform = "{1, 0, 0, 1, 659, -120}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
