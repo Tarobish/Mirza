@@ -48166,7 +48166,7 @@ unicode = FC40;
 {
 color = 4;
 glyphname = "lam_hah-ar.init";
-lastChange = "2015-11-24 07:34:20 +0000";
+lastChange = "2015-11-24 07:34:29 +0000";
 layers = (
 {
 anchors = (
@@ -48270,7 +48270,7 @@ width = 545;
 anchors = (
 {
 name = bottom_1;
-position = "{351, 40}";
+position = "{337, 55}";
 },
 {
 name = bottom_2;
@@ -48282,11 +48282,11 @@ position = "{285, 0}";
 },
 {
 name = top_1;
-position = "{427, 500}";
+position = "{160, 618}";
 },
 {
 name = top_2;
-position = "{142, 500}";
+position = "{26, 360}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
