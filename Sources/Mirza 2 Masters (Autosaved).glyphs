@@ -38154,17 +38154,17 @@ rightMetricsKey = "alefWasla-ar.fina";
 {
 color = 4;
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2015-11-24 07:20:39 +0000";
+lastChange = "2015-11-24 07:20:50 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{465, 130}";
+position = "{463, 140}";
 },
 {
 name = bottom_2;
-position = "{269, 50}";
+position = "{260, 43}";
 },
 {
 name = caret_1;
