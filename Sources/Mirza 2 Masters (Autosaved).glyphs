@@ -47064,7 +47064,7 @@ width = 897;
 {
 color = 4;
 glyphname = "kaf_lam_alefMaksura-ar";
-lastChange = "2015-11-24 07:39:20 +0000";
+lastChange = "2015-11-24 07:39:29 +0000";
 layers = (
 {
 anchors = (
@@ -47090,11 +47090,11 @@ position = "{546.667, 0}";
 },
 {
 name = top_1;
-position = "{683, 500}";
+position = "{727, 568}";
 },
 {
 name = top_2;
-position = "{410, 500}";
+position = "{423, 564}";
 },
 {
 name = top_3;
