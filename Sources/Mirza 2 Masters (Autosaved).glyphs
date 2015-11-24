@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/ghainDotbelow-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -16743,8 +16740,9 @@ width = 522;
 unicode = 06FC;
 },
 {
+color = 0;
 glyphname = "ghainDotbelow-ar.fina";
-lastChange = "2015-11-24 05:56:38 +0000";
+lastChange = "2015-11-24 06:09:12 +0000";
 layers = (
 {
 components = (
@@ -16758,7 +16756,7 @@ transform = "{1, 0, 0, 1, 284, -372}";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 266, 135}";
+transform = "{1, 0, 0, 1, 273, 136}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
