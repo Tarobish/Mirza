@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem_alefMaksura-ar.fina"
+"/heh_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -50097,7 +50097,7 @@ unicode = FC49;
 {
 color = 4;
 glyphname = "meem_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:25:38 +0000";
+lastChange = "2015-11-24 07:25:41 +0000";
 layers = (
 {
 anchors = (
@@ -50263,7 +50263,7 @@ position = "{754, 338}";
 },
 {
 name = top_2;
-position = "{293, 55}";
+position = "{271, 77}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -50392,9 +50392,31 @@ width = 986;
 {
 color = 4;
 glyphname = "heh_alefMaksura-ar";
-lastChange = "2015-11-08 18:18:27 +0000";
+lastChange = "2015-11-24 07:25:48 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{669, 0}";
+},
+{
+name = bottom_2;
+position = "{223, 0}";
+},
+{
+name = caret_1;
+position = "{446, 0}";
+},
+{
+name = top_1;
+position = "{601, 422}";
+},
+{
+name = top_2;
+position = "{223, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
