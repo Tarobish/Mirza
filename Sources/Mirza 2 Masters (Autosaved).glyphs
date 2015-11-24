@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/gaf-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -21367,9 +21370,15 @@ unicode = 06AF;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2015-10-28 21:03:38 +0000";
+lastChange = "2015-11-24 06:23:54 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{574, 610}";
+}
+);
 components = (
 {
 name = "keheh-ar.fina";
@@ -21395,6 +21404,12 @@ nodes = (
 width = 848;
 },
 {
+anchors = (
+{
+name = "new anchor";
+position = "{525, 683}";
+}
+);
 components = (
 {
 name = "keheh-ar.fina";
