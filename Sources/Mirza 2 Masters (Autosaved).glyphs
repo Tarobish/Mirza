@@ -48166,17 +48166,17 @@ unicode = FC40;
 {
 color = 4;
 glyphname = "lam_hah-ar.init";
-lastChange = "2015-11-24 07:33:49 +0000";
+lastChange = "2015-11-24 07:33:59 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{409, 0}";
+position = "{327, 37}";
 },
 {
 name = bottom_2;
-position = "{136, 0}";
+position = "{89, -34}";
 },
 {
 name = caret_1;
