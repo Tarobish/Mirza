@@ -25953,17 +25953,17 @@ unicode = FEE4;
 },
 {
 glyphname = "meem-ar.init";
-lastChange = "2015-11-24 06:32:31 +0000";
+lastChange = "2015-11-24 06:32:42 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{174, 0}";
+position = "{174, -10}";
 },
 {
 name = top;
-position = "{235, 312}";
+position = "{245, 302}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
