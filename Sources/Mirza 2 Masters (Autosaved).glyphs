@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_meem-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -48416,7 +48413,7 @@ unicode = FC42;
 {
 color = 4;
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 07:07:24 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -48450,13 +48447,13 @@ nodes = (
 "200 5 OFFCURVE",
 "239 -16 CURVE",
 "251 14 OFFCURVE",
-"259 72 OFFCURVE",
-"256 104 CURVE",
-"238 111 OFFCURVE",
-"212 122 OFFCURVE",
-"196 132 CURVE SMOOTH",
-"159 156 OFFCURVE",
-"154 169 OFFCURVE",
+"259 82 OFFCURVE",
+"256 114 CURVE",
+"238 121 OFFCURVE",
+"212 132 OFFCURVE",
+"196 142 CURVE SMOOTH",
+"159 166 OFFCURVE",
+"154 179 OFFCURVE",
 "139 302 CURVE SMOOTH",
 "135 337 OFFCURVE",
 "130 392 OFFCURVE",
