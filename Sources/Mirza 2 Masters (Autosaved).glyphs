@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dal-ar.fina"
+"/hahTahbelow-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -8326,7 +8326,7 @@ width = 588;
 },
 {
 glyphname = "jeemTwodotsabove-ar.medi";
-lastChange = "2015-11-24 05:32:45 +0000";
+lastChange = "2015-11-24 05:35:41 +0000";
 layers = (
 {
 components = (
@@ -8481,13 +8481,13 @@ unicode = 062F;
 },
 {
 glyphname = "dal-ar.fina";
-lastChange = "2015-11-24 05:35:31 +0000";
+lastChange = "2015-11-24 05:35:32 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{207, -19}";
+position = "{207, -29}";
 },
 {
 name = top;
@@ -8641,7 +8641,7 @@ unicode = 0630;
 },
 {
 glyphname = "thal-ar.fina";
-lastChange = "2015-10-30 21:32:02 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -8650,7 +8650,7 @@ name = "dal-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 277, -291}";
+transform = "{1, 0, 0, 1, 277, -281}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8676,7 +8676,7 @@ unicode = FEAC;
 },
 {
 glyphname = "thalAlefabove-ar";
-lastChange = "2015-10-30 21:32:02 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -8685,7 +8685,7 @@ name = "thal-ar";
 },
 {
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 222, -170}";
+transform = "{1, 0, 0, 1, 222, -160}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8746,7 +8746,7 @@ unicode = 0688;
 },
 {
 glyphname = "ddal-ar.fina";
-lastChange = "2015-10-29 19:59:47 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -8755,7 +8755,7 @@ name = "dal-ar.fina";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 278, -306}";
+transform = "{1, 0, 0, 1, 278, -296}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8816,7 +8816,7 @@ unicode = 068C;
 },
 {
 glyphname = "dahal-ar.fina";
-lastChange = "2015-10-29 19:59:47 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -8825,7 +8825,7 @@ name = "dal-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 282, -299}";
+transform = "{1, 0, 0, 1, 282, -289}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8886,7 +8886,7 @@ unicode = 068D;
 },
 {
 glyphname = "ddahal-ar.fina";
-lastChange = "2015-10-29 19:59:47 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -8895,7 +8895,7 @@ name = "dal-ar.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 209, 156}";
+transform = "{1, 0, 0, 1, 209, 146}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9025,7 +9025,7 @@ unicode = 068A;
 },
 {
 glyphname = "dalDotbelow-ar.fina";
-lastChange = "2015-10-29 19:59:47 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -9034,7 +9034,7 @@ name = "dal-ar.fina";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 204, 142}";
+transform = "{1, 0, 0, 1, 204, 132}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9102,7 +9102,7 @@ unicode = 068B;
 },
 {
 glyphname = "dalDotbelowTah-ar.fina";
-lastChange = "2015-10-29 19:59:48 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -9111,11 +9111,11 @@ name = "dal-ar.fina";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 278, -306}";
+transform = "{1, 0, 0, 1, 278, -296}";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 204, 142}";
+transform = "{1, 0, 0, 1, 204, 132}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9179,7 +9179,7 @@ unicode = 068E;
 },
 {
 glyphname = "dul-ar.fina";
-lastChange = "2015-10-29 19:59:48 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -9188,7 +9188,7 @@ name = "dal-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 282, -306}";
+transform = "{1, 0, 0, 1, 282, -296}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9249,7 +9249,7 @@ unicode = 068F;
 },
 {
 glyphname = "dalThreedotsdown-ar.fina";
-lastChange = "2015-10-29 19:59:47 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -9258,7 +9258,7 @@ name = "dal-ar.fina";
 },
 {
 name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 282, -306}";
+transform = "{1, 0, 0, 1, 282, -296}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9318,6 +9318,7 @@ unicode = 0690;
 },
 {
 glyphname = "dalFourdots-ar.fina";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -9326,7 +9327,7 @@ name = "dal-ar.fina";
 },
 {
 name = "fourdotsabove-ar";
-transform = "{1, 0, 0, 1, 282, -200}";
+transform = "{1, 0, 0, 1, 282, -190}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9386,7 +9387,7 @@ unicode = 06EE;
 },
 {
 glyphname = "dalVinvertedabove-ar.fina";
-lastChange = "2015-11-06 19:02:45 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -9395,7 +9396,7 @@ name = "dal-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 278, -312}";
+transform = "{1, 0, 0, 1, 278, -302}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9463,7 +9464,7 @@ unicode = 0759;
 },
 {
 glyphname = "dalTwodotsverticalbelowTahabove-ar.fina";
-lastChange = "2015-10-29 19:59:48 +0000";
+lastChange = "2015-11-24 05:35:35 +0000";
 layers = (
 {
 components = (
@@ -9472,11 +9473,11 @@ name = "dal-ar.fina";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 278, -306}";
+transform = "{1, 0, 0, 1, 278, -296}";
 },
 {
 name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 204, 49}";
+transform = "{1, 0, 0, 1, 204, 39}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
