@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dotlessbeh_hah-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -38369,7 +38366,7 @@ width = 575;
 {
 color = 4;
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2015-11-24 07:19:47 +0000";
+lastChange = "2015-11-24 07:19:56 +0000";
 layers = (
 {
 anchors = (
@@ -38476,11 +38473,11 @@ width = 576;
 anchors = (
 {
 name = bottom_1;
-position = "{456, 0}";
+position = "{383, 56}";
 },
 {
 name = bottom_2;
-position = "{152, 0}";
+position = "{105, -19}";
 },
 {
 name = caret_1;
