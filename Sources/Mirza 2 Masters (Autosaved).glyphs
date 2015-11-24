@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf_lam_alef-ar.fina"
+"/kaf_lam-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -45979,9 +45979,31 @@ unicode = FC3B;
 {
 color = 4;
 glyphname = "kaf_lam-ar.fina";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 18:46:48 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{643, 0}";
+},
+{
+name = bottom_2;
+position = "{284, -313}";
+},
+{
+name = caret_1;
+position = "{428.5, 0}";
+},
+{
+name = top_1;
+position = "{643, 500}";
+},
+{
+name = top_2;
+position = "{214, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -46211,9 +46233,31 @@ unicode = FC81;
 {
 color = 4;
 glyphname = "kaf_lam-ar.medi";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 18:46:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{283, -25}";
+},
+{
+name = bottom_2;
+position = "{46, -25}";
+},
+{
+name = caret_1;
+position = "{267, 0}";
+},
+{
+name = top_1;
+position = "{334, 557}";
+},
+{
+name = top_2;
+position = "{42, 557}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -46308,6 +46352,28 @@ nodes = (
 width = 534;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{335, -29}";
+},
+{
+name = bottom_2;
+position = "{64, -29}";
+},
+{
+name = caret_1;
+position = "{302.5, 0}";
+},
+{
+name = top_1;
+position = "{376, 600}";
+},
+{
+name = top_2;
+position = "{38, 599}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -46407,9 +46473,31 @@ unicode = FCEB;
 {
 color = 4;
 glyphname = "kaf_lam-ar.init";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 18:45:36 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{242, -25}";
+},
+{
+name = bottom_2;
+position = "{29, -25}";
+},
+{
+name = caret_1;
+position = "{208.5, 0}";
+},
+{
+name = top_1;
+position = "{315, 557}";
+},
+{
+name = top_2;
+position = "{45, 558}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -46492,6 +46580,28 @@ nodes = (
 width = 417;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{317, -29}";
+},
+{
+name = bottom_2;
+position = "{67, -29}";
+},
+{
+name = caret_1;
+position = "{249, 0}";
+},
+{
+name = top_1;
+position = "{376, 600}";
+},
+{
+name = top_2;
+position = "{44, 599}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -46579,9 +46689,43 @@ unicode = FCC7;
 {
 color = 4;
 glyphname = "kaf_lam_alef-ar";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 18:44:18 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{497, -27}";
+},
+{
+name = bottom_2;
+position = "{276, -22}";
+},
+{
+name = bottom_3;
+position = "{66, -86}";
+},
+{
+name = caret_1;
+position = "{209.333, 0}";
+},
+{
+name = caret_2;
+position = "{418.667, 0}";
+},
+{
+name = top_1;
+position = "{528, 557}";
+},
+{
+name = top_2;
+position = "{224, 547}";
+},
+{
+name = top_3;
+position = "{-28, 527}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -46697,6 +46841,40 @@ nodes = (
 width = 628;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{596, -29}";
+},
+{
+name = bottom_2;
+position = "{349, -29}";
+},
+{
+name = bottom_3;
+position = "{123, -72}";
+},
+{
+name = caret_1;
+position = "{245, 0}";
+},
+{
+name = caret_2;
+position = "{490, 0}";
+},
+{
+name = top_1;
+position = "{607, 599}";
+},
+{
+name = top_2;
+position = "{286, 599}";
+},
+{
+name = top_3;
+position = "{13, 588}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -46816,7 +46994,7 @@ width = 735;
 {
 color = 4;
 glyphname = "kaf_lam_alef-ar.fina";
-lastChange = "2015-11-24 18:39:03 +0000";
+lastChange = "2015-11-24 18:42:54 +0000";
 layers = (
 {
 anchors = (
@@ -46974,6 +47152,40 @@ nodes = (
 width = 805;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{690, -29}";
+},
+{
+name = bottom_2;
+position = "{430, -29}";
+},
+{
+name = bottom_3;
+position = "{173, -74}";
+},
+{
+name = caret_1;
+position = "{299, 0}";
+},
+{
+name = caret_2;
+position = "{598, 0}";
+},
+{
+name = top_1;
+position = "{668, 598}";
+},
+{
+name = top_2;
+position = "{337, 601}";
+},
+{
+name = top_3;
+position = "{53, 571}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
