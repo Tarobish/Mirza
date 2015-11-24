@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehThreeabove-farsi.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -32584,7 +32587,7 @@ width = 680;
 {
 color = 0;
 glyphname = "yehThreeabove-farsi.init";
-lastChange = "2015-11-02 23:33:56 +0000";
+lastChange = "2015-11-24 06:55:02 +0000";
 layers = (
 {
 components = (
@@ -32594,7 +32597,7 @@ name = "yeh-ar.init";
 {
 disableAlignment = 1;
 name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, -77, 23}";
+transform = "{0.8, 0, 0, 0.8, -57, 13}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
