@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"/rehLoop-ar",
-"/reh-ar"
+"/reh-ar",
+"/rehLoop-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -11045,7 +11045,7 @@ unicode = FC5C;
 },
 {
 glyphname = "rehLoop-ar";
-lastChange = "2015-11-24 05:48:47 +0000";
+lastChange = "2015-11-24 05:48:55 +0000";
 layers = (
 {
 anchors = (
@@ -11222,7 +11222,7 @@ unicode = 08AA;
 },
 {
 glyphname = "rehLoop-ar.fina";
-lastChange = "2015-11-03 06:26:30 +0000";
+lastChange = "2015-11-24 05:49:04 +0000";
 layers = (
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -11309,6 +11309,12 @@ nodes = (
 width = 554;
 },
 {
+anchors = (
+{
+name = "new anchor";
+position = "{141, 74}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
