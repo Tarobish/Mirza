@@ -12273,7 +12273,7 @@ name = "seen-ar.fina";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 637, 140}";
+transform = "{1, 0, 0, 1, 637, 150}";
 },
 {
 name = "dotabove-ar";
