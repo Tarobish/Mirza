@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/heh_alefMaksura-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -50573,7 +50570,7 @@ unicode = FC53;
 },
 {
 glyphname = "heh_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:22:36 +0000";
+lastChange = "2015-11-24 07:22:41 +0000";
 layers = (
 {
 anchors = (
@@ -50720,7 +50717,7 @@ position = "{753, -209}";
 },
 {
 name = bottom_2;
-position = "{256, 0}";
+position = "{293, -303}";
 },
 {
 name = caret_1;
