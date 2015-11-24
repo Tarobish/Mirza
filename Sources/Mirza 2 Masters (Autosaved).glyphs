@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh_meem-ar.fina"
+"/theh-ar/hah_alefMaksura-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -39493,17 +39493,17 @@ width = 475;
 {
 color = 4;
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-11-24 19:27:06 +0000";
+lastChange = "2015-11-24 19:30:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{375, 0}";
+position = "{303, -142}";
 },
 {
 name = bottom_2;
-position = "{115, -500}";
+position = "{115, -499}";
 },
 {
 name = caret_1;
@@ -39511,11 +39511,11 @@ position = "{250, 0}";
 },
 {
 name = top_1;
-position = "{375, 500}";
+position = "{308, 214}";
 },
 {
 name = top_2;
-position = "{125, 500}";
+position = "{72, 108}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -39582,6 +39582,28 @@ nodes = (
 width = 500;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{330, -130}";
+},
+{
+name = bottom_2;
+position = "{135, -460}";
+},
+{
+name = caret_1;
+position = "{264, 0}";
+},
+{
+name = top_1;
+position = "{319, 255}";
+},
+{
+name = top_2;
+position = "{65, 139}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -41188,7 +41210,7 @@ unicode = FCFF;
 {
 color = 4;
 glyphname = "hah_alefMaksura-ar.fina";
-lastChange = "2015-11-24 19:18:47 +0000";
+lastChange = "2015-11-24 19:32:35 +0000";
 layers = (
 {
 anchors = (
@@ -41315,12 +41337,12 @@ nodes = (
 "797 15 OFFCURVE",
 "835 0 OFFCURVE",
 "884 0 CURVE SMOOTH",
-"974 0 LINE",
-"974 98 LINE"
+"984 0 LINE",
+"984 98 LINE"
 );
 }
 );
-width = 974;
+width = 984;
 },
 {
 anchors = (
