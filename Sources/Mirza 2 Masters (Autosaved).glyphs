@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dammatan-ar/hamzaabove_dammatan-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -64691,7 +64688,7 @@ unicode = 064B;
 },
 {
 glyphname = "dammatan-ar";
-lastChange = "2015-11-24 07:55:19 +0000";
+lastChange = "2015-11-24 07:55:23 +0000";
 layers = (
 {
 anchors = (
@@ -64726,7 +64723,7 @@ nodes = (
 "20 757 OFFCURVE",
 "-1 739 OFFCURVE",
 "-29 734 CURVE",
-"-8 769 OFFCURVE",
+"-8 763 OFFCURVE",
 "-27 797 OFFCURVE",
 "-44 797 CURVE SMOOTH",
 "-50 797 OFFCURVE",
