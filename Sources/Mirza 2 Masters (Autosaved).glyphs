@@ -48326,17 +48326,17 @@ unicode = FCCA;
 {
 color = 4;
 glyphname = "lam_hah_alefMaksura-ar";
-lastChange = "2015-11-24 07:32:21 +0000";
+lastChange = "2015-11-24 07:32:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{776, 0}";
+position = "{639, -218}";
 },
 {
 name = bottom_2;
-position = "{465, 0}";
+position = "{723, 74}";
 },
 {
 name = bottom_3;
