@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hehgoal-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -28189,7 +28186,7 @@ unicode = FBA9;
 },
 {
 glyphname = "hehgoal-ar.init";
-lastChange = "2015-11-24 06:45:02 +0000";
+lastChange = "2015-11-24 06:45:08 +0000";
 layers = (
 {
 anchors = (
@@ -28214,8 +28211,8 @@ nodes = (
 "94 280 OFFCURVE",
 "82 260 OFFCURVE",
 "68 230 CURVE",
-"90 205 OFFCURVE",
-"109 179 OFFCURVE",
+"92 201 OFFCURVE",
+"109 183 OFFCURVE",
 "129 158 CURVE",
 "129 158 OFFCURVE",
 "111 98 OFFCURVE",
