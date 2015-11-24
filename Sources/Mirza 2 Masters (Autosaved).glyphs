@@ -11045,9 +11045,15 @@ unicode = FC5C;
 },
 {
 glyphname = "rehLoop-ar";
-lastChange = "2015-11-24 05:48:09 +0000";
+lastChange = "2015-11-24 05:48:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{260, 288}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
