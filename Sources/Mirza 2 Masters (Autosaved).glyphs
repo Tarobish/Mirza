@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dotlessfeh-ar.fina/fehThreedotsupbelow-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -17351,7 +17354,7 @@ unicode = 06A1;
 },
 {
 glyphname = "dotlessfeh-ar.fina";
-lastChange = "2015-11-24 05:57:12 +0000";
+lastChange = "2015-11-24 08:13:51 +0000";
 layers = (
 {
 anchors = (
@@ -17423,8 +17426,8 @@ nodes = (
 "757 32 OFFCURVE",
 "779 0 OFFCURVE",
 "840 0 CURVE SMOOTH",
-"936 0 LINE",
-"936 98 LINE"
+"946 0 LINE",
+"946 98 LINE"
 );
 },
 {
@@ -17545,7 +17548,7 @@ width = 954;
 },
 {
 glyphname = "dotlessfeh-ar.medi";
-lastChange = "2015-11-24 05:57:07 +0000";
+lastChange = "2015-11-24 08:13:45 +0000";
 layers = (
 {
 anchors = (
@@ -17587,8 +17590,8 @@ nodes = (
 "232 34 OFFCURVE",
 "251 0 OFFCURVE",
 "321 0 CURVE SMOOTH",
-"392 0 LINE",
-"392 98 LINE",
+"402 0 LINE",
+"402 98 LINE",
 "244 98 LINE SMOOTH",
 "244 98 OFFCURVE",
 "262 131 OFFCURVE",
@@ -17616,7 +17619,7 @@ nodes = (
 );
 }
 );
-width = 392;
+width = 402;
 },
 {
 anchors = (
@@ -35459,7 +35462,7 @@ width = 332;
 },
 {
 glyphname = "fehTwodotsbelow-ar.medi";
-lastChange = "2015-11-24 06:49:04 +0000";
+lastChange = "2015-11-24 08:13:47 +0000";
 layers = (
 {
 components = (
@@ -35473,7 +35476,7 @@ transform = "{1, 0, 0, 1, 131, 150}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 392;
+width = 402;
 },
 {
 components = (
@@ -35602,7 +35605,7 @@ width = 332;
 },
 {
 glyphname = "fehThreedotsupbelow-ar.medi";
-lastChange = "2015-11-24 06:49:04 +0000";
+lastChange = "2015-11-24 08:13:45 +0000";
 layers = (
 {
 components = (
@@ -35616,7 +35619,7 @@ transform = "{1, 0, 0, 1, 131, 69}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 392;
+width = 402;
 },
 {
 components = (
