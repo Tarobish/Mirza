@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hamza-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -27261,7 +27258,7 @@ unicode = 0647;
 },
 {
 glyphname = "heh-ar.fina";
-lastChange = "2015-11-24 06:44:13 +0000";
+lastChange = "2015-11-24 08:00:47 +0000";
 layers = (
 {
 anchors = (
@@ -27316,8 +27313,8 @@ nodes = (
 "318 18 OFFCURVE",
 "346 0 OFFCURVE",
 "391 0 CURVE SMOOTH",
-"420 0 LINE",
-"420 98 LINE"
+"433 0 LINE",
+"433 98 LINE"
 );
 },
 {
@@ -27339,7 +27336,7 @@ nodes = (
 );
 }
 );
-width = 420;
+width = 433;
 },
 {
 anchors = (
@@ -28375,7 +28372,7 @@ unicode = 06C2;
 },
 {
 glyphname = "hehgoalHamzaabove-ar.fina";
-lastChange = "2015-11-24 06:44:16 +0000";
+lastChange = "2015-11-24 08:00:47 +0000";
 layers = (
 {
 components = (
@@ -28389,7 +28386,7 @@ transform = "{1, 0, 0, 1, 153, -357}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 420;
+width = 433;
 },
 {
 components = (
@@ -29263,7 +29260,7 @@ unicode = 0629;
 },
 {
 glyphname = "tehMarbuta-ar.fina";
-lastChange = "2015-11-24 06:44:16 +0000";
+lastChange = "2015-11-24 08:00:49 +0000";
 layers = (
 {
 components = (
@@ -29277,7 +29274,7 @@ transform = "{1, 0, 0, 1, 153, -350}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 420;
+width = 433;
 },
 {
 components = (
