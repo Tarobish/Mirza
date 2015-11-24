@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/gaf-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -21301,13 +21298,13 @@ width = 402;
 },
 {
 glyphname = "gaf-ar";
-lastChange = "2015-11-24 06:23:28 +0000";
+lastChange = "2015-11-24 06:23:38 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{569, 598}";
+position = "{579, 598}";
 }
 );
 components = (
@@ -21338,7 +21335,7 @@ width = 733;
 anchors = (
 {
 name = top;
-position = "{604, 679}";
+position = "{627, 692}";
 }
 );
 components = (
