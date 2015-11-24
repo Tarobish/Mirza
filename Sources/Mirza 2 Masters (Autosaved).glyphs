@@ -49881,13 +49881,13 @@ unicode = FCD1;
 {
 color = 4;
 glyphname = "meem_alefMaksura-ar";
-lastChange = "2015-11-24 07:24:25 +0000";
+lastChange = "2015-11-24 07:24:34 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{595, 0}";
+position = "{629, -200}";
 },
 {
 name = bottom_2;
@@ -49899,7 +49899,7 @@ position = "{396.5, 0}";
 },
 {
 name = top_1;
-position = "{595, 500}";
+position = "{610, 309}";
 },
 {
 name = top_2;
