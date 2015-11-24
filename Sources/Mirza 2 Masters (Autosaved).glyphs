@@ -48705,7 +48705,7 @@ unicode = FC42;
 {
 color = 4;
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-11-24 07:30:35 +0000";
+lastChange = "2015-11-24 07:30:48 +0000";
 layers = (
 {
 anchors = (
@@ -48787,11 +48787,11 @@ width = 317;
 anchors = (
 {
 name = bottom_1;
-position = "{255, 0}";
+position = "{223, -153}";
 },
 {
 name = bottom_2;
-position = "{85, 0}";
+position = "{30, -39}";
 },
 {
 name = caret_1;
@@ -48803,7 +48803,7 @@ position = "{193, 608}";
 },
 {
 name = top_2;
-position = "{85, 500}";
+position = "{-72, 608}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
