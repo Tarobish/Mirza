@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/kasra-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -64167,7 +64164,7 @@ width = 0;
 },
 {
 glyphname = "hamzabelow_kasra-ar";
-lastChange = "2015-11-24 07:50:05 +0000";
+lastChange = "2015-11-24 08:13:21 +0000";
 layers = (
 {
 components = (
@@ -64176,7 +64173,7 @@ name = "hamzabelow-ar";
 },
 {
 name = "kasra-ar";
-transform = "{1, 0, 0, 1, 1, -191}";
+transform = "{1, 0, 0, 1, 1, -186}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -64515,7 +64512,7 @@ width = 0;
 },
 {
 glyphname = "hamzabelowKasra-ar";
-lastChange = "2015-11-06 18:29:29 +0000";
+lastChange = "2015-11-24 08:13:21 +0000";
 layers = (
 {
 components = (
@@ -64524,7 +64521,7 @@ name = "hamzabelow-ar";
 },
 {
 name = "kasra-ar";
-transform = "{1, 0, 0, 1, 1, -191}";
+transform = "{1, 0, 0, 1, 1, -186}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -65202,17 +65199,17 @@ unicode = 064F;
 },
 {
 glyphname = "kasra-ar";
-lastChange = "2015-11-06 18:54:08 +0000";
+lastChange = "2015-11-24 08:13:19 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{0, -187}";
+position = "{0, -192}";
 },
 {
 name = bottom;
-position = "{0, -302}";
+position = "{0, -307}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
