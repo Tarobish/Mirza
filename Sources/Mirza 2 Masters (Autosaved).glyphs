@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehbarree-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -33383,17 +33380,17 @@ unicode = 06D2;
 },
 {
 glyphname = "yehbarree-ar.fina";
-lastChange = "2015-11-24 07:09:33 +0000";
+lastChange = "2015-11-24 07:09:38 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{266, -294}";
+position = "{266, -304}";
 },
 {
 name = top;
-position = "{214, -13}";
+position = "{204, 17}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33558,7 +33555,7 @@ unicode = 06D3;
 },
 {
 glyphname = "yehbarreeHamzaabove-ar.fina";
-lastChange = "2015-11-06 18:34:45 +0000";
+lastChange = "2015-11-24 07:09:40 +0000";
 layers = (
 {
 components = (
@@ -33567,7 +33564,7 @@ name = "yehbarree-ar.fina";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 216, -703}";
+transform = "{1, 0, 0, 1, 206, -663}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
