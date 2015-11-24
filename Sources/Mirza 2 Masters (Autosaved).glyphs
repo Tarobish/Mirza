@@ -48561,17 +48561,17 @@ width = 962;
 {
 color = 4;
 glyphname = "lam_meem-ar";
-lastChange = "2015-11-24 07:31:16 +0000";
+lastChange = "2015-11-24 07:31:27 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{302, 0}";
+position = "{246, -32}";
 },
 {
 name = bottom_2;
-position = "{101, -15}";
+position = "{117, -405}";
 },
 {
 name = caret_1;
