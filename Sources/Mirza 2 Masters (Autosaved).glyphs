@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dotabove-ar/dotabove-ar/noon-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -26389,7 +26386,7 @@ unicode = FEE7;
 },
 {
 glyphname = "noonDotbelow-ar";
-lastChange = "2015-10-30 20:31:22 +0000";
+lastChange = "2015-11-24 06:42:40 +0000";
 layers = (
 {
 components = (
@@ -26398,7 +26395,7 @@ name = "noon-ar";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 281, -58}";
+transform = "{1, 0, 0, 1, 281, -68}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -26424,7 +26421,7 @@ unicode = 06B9;
 },
 {
 glyphname = "noonDotbelow-ar.fina";
-lastChange = "2015-10-30 20:31:22 +0000";
+lastChange = "2015-11-24 06:42:45 +0000";
 layers = (
 {
 components = (
@@ -26433,7 +26430,7 @@ name = "noon-ar.fina";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 279, -147}";
+transform = "{1, 0, 0, 1, 279, -157}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -26526,13 +26523,13 @@ width = 315;
 },
 {
 glyphname = "noonghunna-ar";
-lastChange = "2015-10-29 21:11:43 +0000";
+lastChange = "2015-11-24 06:42:39 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{284, -219}";
+position = "{284, -229}";
 },
 {
 name = top;
@@ -26669,13 +26666,13 @@ unicode = 06BA;
 },
 {
 glyphname = "noonghunna-ar.fina";
-lastChange = "2015-10-29 21:30:52 +0000";
+lastChange = "2015-11-24 06:42:44 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{282, -308}";
+position = "{282, -318}";
 },
 {
 name = top;
