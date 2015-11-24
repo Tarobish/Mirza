@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/noonTahabove-ar.fina"
+"/vabove-ar/noonVabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -36091,7 +36091,7 @@ unicode = 0768;
 },
 {
 glyphname = "noonTahabove-ar.fina";
-lastChange = "2015-11-24 07:00:15 +0000";
+lastChange = "2015-11-24 07:00:20 +0000";
 layers = (
 {
 components = (
@@ -36217,7 +36217,7 @@ width = 608;
 },
 {
 glyphname = "noonVabove-ar";
-lastChange = "2015-11-06 18:34:45 +0000";
+lastChange = "2015-11-24 07:00:26 +0000";
 layers = (
 {
 components = (
