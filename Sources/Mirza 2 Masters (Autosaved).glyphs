@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/highhamzaYeh-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -34447,18 +34444,19 @@ width = 767;
 unicode = 0678;
 },
 {
+color = 0;
 glyphname = "highhamzaYeh-ar.fina";
-lastChange = "2015-11-24 06:58:44 +0000";
+lastChange = "2015-11-24 06:58:53 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{283, -301}";
+position = "{283, -311}";
 },
 {
 name = top;
-position = "{139, 29}";
+position = "{219, 29}";
 }
 );
 components = (
