@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dammatan-ar"
+"/twodotshorizontalabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -64376,7 +64376,7 @@ width = 0;
 },
 {
 glyphname = "hamzaaboveDammatan-ar";
-lastChange = "2015-11-06 18:31:26 +0000";
+lastChange = "2015-11-24 08:10:41 +0000";
 layers = (
 {
 components = (
@@ -64386,7 +64386,7 @@ transform = "{1, 0, 0, 1, 0, 159}";
 },
 {
 name = "dammatan-ar";
-transform = "{1, 0, 0, 1, 0, 348}";
+transform = "{1, 0, 0, 1, 0, 351}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -65714,7 +65714,7 @@ width = 0;
 },
 {
 glyphname = "shaddaDammatan-ar";
-lastChange = "2015-11-06 18:51:55 +0000";
+lastChange = "2015-11-24 08:10:41 +0000";
 layers = (
 {
 components = (
@@ -65724,7 +65724,7 @@ transform = "{1, 0, 0, 1, 0, 2}";
 },
 {
 name = "dammatan-ar";
-transform = "{1, 0, 0, 1, 0, 131}";
+transform = "{1, 0, 0, 1, 0, 134}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
