@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/behThreedotshorizontalbelow-ar.init"
+"/behThreedotshorizontalbelow-ar.init",
+"/dotlessbeh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2485,7 +2486,7 @@ width = 315;
 },
 {
 glyphname = "dotlessbeh-ar.init";
-lastChange = "2015-11-24 05:16:11 +0000";
+lastChange = "2015-11-24 05:18:45 +0000";
 layers = (
 {
 anchors = (
@@ -2513,7 +2514,7 @@ nodes = (
 "82 260 OFFCURVE",
 "68 230 CURVE",
 "90 205 OFFCURVE",
-"109 179 OFFCURVE",
+"109 181 OFFCURVE",
 "129 158 CURVE",
 "129 158 OFFCURVE",
 "111 98 OFFCURVE",
@@ -4163,7 +4164,7 @@ width = 924;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.init";
-lastChange = "2015-11-24 05:18:19 +0000";
+lastChange = "2015-11-24 05:18:37 +0000";
 layers = (
 {
 anchors = (
@@ -4192,7 +4193,7 @@ nodes = (
 "245 260 OFFCURVE",
 "231 230 CURVE",
 "253 205 OFFCURVE",
-"272 179 OFFCURVE",
+"272 182 OFFCURVE",
 "292 158 CURVE",
 "292 158 OFFCURVE",
 "274 98 OFFCURVE",
