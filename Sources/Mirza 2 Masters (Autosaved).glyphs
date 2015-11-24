@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/tah-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -14750,7 +14747,7 @@ unicode = 0637;
 },
 {
 glyphname = "tah-ar.fina";
-lastChange = "2015-11-24 05:56:05 +0000";
+lastChange = "2015-11-24 08:09:28 +0000";
 layers = (
 {
 anchors = (
@@ -14828,8 +14825,8 @@ nodes = (
 "567 1 OFFCURVE",
 "588 0 OFFCURVE",
 "618 0 CURVE SMOOTH",
-"715 0 LINE",
-"715 98 LINE"
+"726 0 LINE",
+"726 98 LINE"
 );
 },
 {
@@ -14854,7 +14851,7 @@ nodes = (
 );
 }
 );
-width = 715;
+width = 726;
 },
 {
 anchors = (
@@ -15408,7 +15405,7 @@ unicode = 069F;
 },
 {
 glyphname = "tahThreedots-ar.fina";
-lastChange = "2015-11-24 05:56:07 +0000";
+lastChange = "2015-11-24 08:09:30 +0000";
 layers = (
 {
 components = (
@@ -15422,7 +15419,7 @@ transform = "{1, 0, 0, 1, 462, -342}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 715;
+width = 726;
 },
 {
 components = (
@@ -15545,7 +15542,7 @@ unicode = 0638;
 },
 {
 glyphname = "zah-ar.fina";
-lastChange = "2015-11-24 05:56:07 +0000";
+lastChange = "2015-11-24 08:09:30 +0000";
 layers = (
 {
 components = (
@@ -15559,7 +15556,7 @@ transform = "{1, 0, 0, 1, 457, -327}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 715;
+width = 726;
 },
 {
 components = (
@@ -15685,7 +15682,7 @@ unicode = 08A3;
 },
 {
 glyphname = "tahTwodotsabove-ar.fina";
-lastChange = "2015-11-24 05:56:07 +0000";
+lastChange = "2015-11-24 08:09:30 +0000";
 layers = (
 {
 components = (
@@ -15699,7 +15696,7 @@ transform = "{1, 0, 0, 1, 462, -335}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 715;
+width = 726;
 },
 {
 components = (
