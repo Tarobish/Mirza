@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehTwoabove-farsi.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -32360,7 +32363,7 @@ width = 315;
 {
 color = 0;
 glyphname = "yehTwoabove-farsi";
-lastChange = "2015-11-02 20:32:41 +0000";
+lastChange = "2015-11-24 06:54:26 +0000";
 layers = (
 {
 components = (
@@ -32370,7 +32373,7 @@ name = "yeh-farsi";
 {
 disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, 166, -105}";
+transform = "{0.8, 0, 0, 0.8, 166, -95}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -32398,14 +32401,14 @@ unicode = 0775;
 {
 color = 0;
 glyphname = "yehTwoabove-farsi.fina";
-lastChange = "2015-11-02 23:15:05 +0000";
+lastChange = "2015-11-24 06:54:34 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, 137, -187}";
+transform = "{0.8, 0, 0, 0.8, 187, -184}";
 },
 {
 name = "alefMaksura-ar.fina";
