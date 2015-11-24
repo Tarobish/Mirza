@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/theh-ar/hah_alefMaksura-ar.fina"
+"/theh-ar/peh-ar  /peh-ar/theh-ar  /theh-ar/dotlessfeh_alefMaksura-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -39493,7 +39493,7 @@ width = 475;
 {
 color = 4;
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-11-24 19:30:33 +0000";
+lastChange = "2015-11-24 19:34:23 +0000";
 layers = (
 {
 anchors = (
@@ -39511,7 +39511,7 @@ position = "{250, 0}";
 },
 {
 name = top_1;
-position = "{308, 214}";
+position = "{287, 214}";
 },
 {
 name = top_2;
@@ -43338,7 +43338,7 @@ unicode = FD0F;
 {
 color = 4;
 glyphname = "sad_reh-ar.fina";
-lastChange = "2015-11-24 19:11:34 +0000";
+lastChange = "2015-11-24 19:35:10 +0000";
 layers = (
 {
 anchors = (
@@ -43449,8 +43449,8 @@ nodes = (
 "691 1 OFFCURVE",
 "712 0 OFFCURVE",
 "742 0 CURVE SMOOTH",
-"802 0 LINE",
-"802 98 LINE"
+"842 0 LINE",
+"842 98 LINE"
 );
 },
 {
@@ -43475,7 +43475,7 @@ nodes = (
 );
 }
 );
-width = 802;
+width = 842;
 },
 {
 anchors = (
@@ -44492,7 +44492,7 @@ unicode = FD05;
 {
 color = 4;
 glyphname = "sad_alefMaksura-ar.fina";
-lastChange = "2015-11-24 19:07:30 +0000";
+lastChange = "2015-11-24 19:34:53 +0000";
 layers = (
 {
 anchors = (
@@ -44633,8 +44633,8 @@ nodes = (
 "1007 1 OFFCURVE",
 "1028 0 OFFCURVE",
 "1058 0 CURVE SMOOTH",
-"1118 0 LINE",
-"1118 98 LINE"
+"1158 0 LINE SMOOTH",
+"1158 98 LINE SMOOTH"
 );
 },
 {
@@ -44659,7 +44659,7 @@ nodes = (
 );
 }
 );
-width = 1118;
+width = 1158;
 },
 {
 anchors = (
@@ -46278,13 +46278,13 @@ width = 668;
 {
 color = 4;
 glyphname = "dotlessfeh_alefMaksura-ar.fina";
-lastChange = "2015-11-24 18:57:25 +0000";
+lastChange = "2015-11-24 19:37:54 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{636, -200}";
+position = "{622, -223}";
 },
 {
 name = bottom_2;
@@ -46296,7 +46296,7 @@ position = "{398.5, 0}";
 },
 {
 name = top_1;
-position = "{620, 325}";
+position = "{582, 331}";
 },
 {
 name = top_2;
@@ -46383,8 +46383,8 @@ nodes = (
 "591 18 OFFCURVE",
 "639 0 OFFCURVE",
 "698 0 CURVE SMOOTH",
-"797 0 LINE",
-"797 98 LINE"
+"814 0 LINE",
+"814 98 LINE"
 );
 },
 {
@@ -46417,7 +46417,7 @@ nodes = (
 );
 }
 );
-width = 797;
+width = 814;
 },
 {
 anchors = (
