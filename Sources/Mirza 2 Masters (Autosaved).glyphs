@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/tah-ar.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -14944,17 +14947,17 @@ unicode = FEC2;
 },
 {
 glyphname = "tah-ar.medi";
-lastChange = "2015-10-29 21:32:30 +0000";
+lastChange = "2015-11-24 05:56:00 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{159, -15}";
+position = "{159, -25}";
 },
 {
 name = top;
-position = "{281, 328}";
+position = "{281, 338}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -15157,17 +15160,17 @@ unicode = FEC4;
 },
 {
 glyphname = "tah-ar.init";
-lastChange = "2015-10-29 20:05:53 +0000";
+lastChange = "2015-11-24 05:55:54 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{116, -15}";
+position = "{116, -25}";
 },
 {
 name = top;
-position = "{281, 328}";
+position = "{281, 338}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -15421,7 +15424,7 @@ width = 717;
 },
 {
 glyphname = "tahThreedots-ar.init";
-lastChange = "2015-10-31 04:00:47 +0000";
+lastChange = "2015-11-24 05:55:55 +0000";
 layers = (
 {
 components = (
@@ -15430,7 +15433,7 @@ name = "tah-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 283, -352}";
+transform = "{1, 0, 0, 1, 283, -342}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -15594,7 +15597,7 @@ unicode = FEC8;
 },
 {
 glyphname = "zah-ar.init";
-lastChange = "2015-10-29 20:05:55 +0000";
+lastChange = "2015-11-24 05:55:55 +0000";
 layers = (
 {
 components = (
@@ -15603,7 +15606,7 @@ name = "tah-ar.init";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 278, -337}";
+transform = "{1, 0, 0, 1, 278, -327}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -15696,6 +15699,7 @@ width = 717;
 },
 {
 glyphname = "tahTwodotsabove-ar.init";
+lastChange = "2015-11-24 05:55:55 +0000";
 layers = (
 {
 components = (
@@ -15704,7 +15708,7 @@ name = "tah-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 283, -345}";
+transform = "{1, 0, 0, 1, 283, -335}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
