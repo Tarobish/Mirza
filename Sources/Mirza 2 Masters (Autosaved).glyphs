@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kasra-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -64979,7 +64982,7 @@ unicode = 064D;
 },
 {
 glyphname = "fatha-ar";
-lastChange = "2015-11-06 18:53:47 +0000";
+lastChange = "2015-11-24 08:13:10 +0000";
 layers = (
 {
 anchors = (
@@ -64989,7 +64992,7 @@ position = "{-1, 681}";
 },
 {
 name = top;
-position = "{-1, 796}";
+position = "{-1, 805}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -65822,7 +65825,7 @@ width = 0;
 },
 {
 glyphname = "shaddaKasra-ar";
-lastChange = "2015-11-06 19:13:54 +0000";
+lastChange = "2015-11-24 08:13:12 +0000";
 layers = (
 {
 components = (
@@ -65833,7 +65836,7 @@ transform = "{1, 0, 0, 1, 0, 2}";
 },
 {
 name = "shadda-ar";
-transform = "{1, 0, 0, 1, 1, 119}";
+transform = "{1, 0, 0, 1, 1, 128}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
