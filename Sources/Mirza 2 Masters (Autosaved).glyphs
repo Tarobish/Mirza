@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dammaCurly-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -66553,7 +66556,7 @@ unicode = 065C;
 },
 {
 glyphname = "dammareversed-ar";
-lastChange = "2015-11-06 18:58:51 +0000";
+lastChange = "2015-11-24 07:53:25 +0000";
 layers = (
 {
 anchors = (
@@ -66606,19 +66609,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"-29 787 LINE SMOOTH",
-"-11 777 OFFCURVE",
-"-9 766 OFFCURVE",
-"-10 759 CURVE SMOOTH",
-"-11 750 OFFCURVE",
-"-19 741 OFFCURVE",
-"-30 738 CURVE",
-"-40 736 OFFCURVE",
-"-50 738 OFFCURVE",
-"-57 747 CURVE",
-"-67 758 OFFCURVE",
-"-62 778 OFFCURVE",
-"-49 798 CURVE"
+"-29 788 LINE SMOOTH",
+"-10 777 OFFCURVE",
+"-8 766 OFFCURVE",
+"-9 759 CURVE SMOOTH",
+"-10 749 OFFCURVE",
+"-18 740 OFFCURVE",
+"-30 737 CURVE",
+"-40 734 OFFCURVE",
+"-51 737 OFFCURVE",
+"-58 746 CURVE",
+"-69 758 OFFCURVE",
+"-63 779 OFFCURVE",
+"-50 800 CURVE"
 );
 }
 );
