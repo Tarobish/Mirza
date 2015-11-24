@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/kirghizoe-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -35078,7 +35075,7 @@ width = 423;
 },
 {
 glyphname = "ainThreedotsdownabove-ar";
-lastChange = "2015-11-24 06:49:04 +0000";
+lastChange = "2015-11-24 07:12:39 +0000";
 layers = (
 {
 components = (
@@ -35087,7 +35084,7 @@ name = "ain-ar";
 },
 {
 name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 245, -274}";
+transform = "{1, 0, 0, 1, 245, -264}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35113,7 +35110,7 @@ unicode = 075E;
 },
 {
 glyphname = "ainThreedotsdownabove-ar.fina";
-lastChange = "2015-11-24 06:49:04 +0000";
+lastChange = "2015-11-24 07:12:39 +0000";
 layers = (
 {
 components = (
@@ -35122,7 +35119,7 @@ name = "ain-ar.fina";
 },
 {
 name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 289, -387}";
+transform = "{1, 0, 0, 1, 289, -377}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35147,7 +35144,7 @@ width = 542;
 },
 {
 glyphname = "ainThreedotsdownabove-ar.init";
-lastChange = "2015-11-24 06:49:04 +0000";
+lastChange = "2015-11-24 07:12:39 +0000";
 layers = (
 {
 components = (
@@ -35156,7 +35153,7 @@ name = "ain-ar.init";
 },
 {
 name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 173, -328}";
+transform = "{1, 0, 0, 1, 173, -318}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35181,7 +35178,7 @@ width = 423;
 },
 {
 glyphname = "ainThreedotsdownabove-ar.medi";
-lastChange = "2015-11-24 06:49:04 +0000";
+lastChange = "2015-11-24 07:12:39 +0000";
 layers = (
 {
 components = (
@@ -35190,7 +35187,7 @@ name = "ain-ar.medi";
 },
 {
 name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 181, -387}";
+transform = "{1, 0, 0, 1, 181, -377}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
