@@ -37270,7 +37270,7 @@ unicode = 0640;
 },
 {
 glyphname = "lam_alef-ar";
-lastChange = "2015-11-24 07:52:22 +0000";
+lastChange = "2015-11-24 07:52:39 +0000";
 layers = (
 {
 anchors = (
@@ -37361,15 +37361,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"227 96 OFFCURVE",
-"179 95 OFFCURVE",
-"159 95 CURVE",
-"170 102 OFFCURVE",
-"202 122 OFFCURVE",
-"225 156 CURVE",
-"235 137 OFFCURVE",
-"243 122 OFFCURVE",
-"253 100 CURVE"
+"228 97 OFFCURVE",
+"178 95 OFFCURVE",
+"157 95 CURVE",
+"168 103 OFFCURVE",
+"202 124 OFFCURVE",
+"226 160 CURVE",
+"236 140 OFFCURVE",
+"245 124 OFFCURVE",
+"255 101 CURVE"
 );
 }
 );
