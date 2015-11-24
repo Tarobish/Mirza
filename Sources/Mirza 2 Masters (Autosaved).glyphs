@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehTwoabove-farsi.fina"
+"/yehTwoabove-farsi.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -32438,14 +32438,14 @@ width = 680;
 {
 color = 0;
 glyphname = "yehTwoabove-farsi.init";
-lastChange = "2015-11-02 23:33:16 +0000";
+lastChange = "2015-11-24 06:54:39 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, -67, 26}";
+transform = "{0.8, 0, 0, 0.8, -47, 16}";
 },
 {
 name = "yeh-farsi.init";
@@ -32475,7 +32475,7 @@ width = 244;
 {
 color = 0;
 glyphname = "yehTwoabove-farsi.medi";
-lastChange = "2015-11-02 23:35:05 +0000";
+lastChange = "2015-11-24 06:54:45 +0000";
 layers = (
 {
 components = (
@@ -32485,7 +32485,7 @@ name = "yeh-farsi.medi";
 {
 disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, -60, -26}";
+transform = "{0.8, 0, 0, 0.8, -40, -36}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
