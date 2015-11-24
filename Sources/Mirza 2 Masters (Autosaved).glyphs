@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seenThreedotsbelow-ar.fina"
+"/sheenDotbelow-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -12430,7 +12430,7 @@ unicode = 069B;
 {
 color = 0;
 glyphname = "seenThreedotsbelow-ar.fina";
-lastChange = "2015-11-24 05:51:17 +0000";
+lastChange = "2015-11-24 05:51:20 +0000";
 layers = (
 {
 components = (
@@ -12440,7 +12440,7 @@ name = "seen-ar.fina";
 {
 disableAlignment = 1;
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 671, -36}";
+transform = "{1, 0, 0, 1, 669, -36}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12850,7 +12850,7 @@ unicode = FEB7;
 {
 color = 0;
 glyphname = "sheenDotbelow-ar";
-lastChange = "2015-11-24 05:50:33 +0000";
+lastChange = "2015-11-24 05:51:24 +0000";
 layers = (
 {
 components = (
@@ -12883,7 +12883,7 @@ transform = "{1, 0, 0, 1, 644, -449}";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 656, 145}";
+transform = "{1, 0, 0, 1, 656, 135}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12896,7 +12896,7 @@ unicode = 06FA;
 {
 color = 0;
 glyphname = "sheenDotbelow-ar.fina";
-lastChange = "2015-11-24 05:50:26 +0000";
+lastChange = "2015-11-24 05:51:28 +0000";
 layers = (
 {
 components = (
@@ -12929,7 +12929,7 @@ transform = "{1, 0, 0, 1, 641, -452}";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 649, 148}";
+transform = "{1, 0, 0, 1, 649, 138}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
