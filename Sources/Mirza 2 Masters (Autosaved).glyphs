@@ -21301,13 +21301,13 @@ width = 402;
 },
 {
 glyphname = "gaf-ar";
-lastChange = "2015-11-24 06:23:20 +0000";
+lastChange = "2015-11-24 06:23:28 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{569, 588}";
+position = "{569, 598}";
 }
 );
 components = (
@@ -21335,6 +21335,12 @@ nodes = (
 width = 733;
 },
 {
+anchors = (
+{
+name = top;
+position = "{604, 679}";
+}
+);
 components = (
 {
 name = "keheh-ar";
