@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/ain_meem-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -43864,7 +43861,7 @@ unicode = FCF5;
 {
 color = 4;
 glyphname = "ain_meem-ar";
-lastChange = "2015-11-24 07:06:33 +0000";
+lastChange = "2015-11-24 07:06:39 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -43898,8 +43895,11 @@ nodes = (
 "240 308 OFFCURVE",
 "256 286 OFFCURVE",
 "292 257 CURVE",
-"232 221 OFFCURVE",
-"165 150 OFFCURVE",
+"260 242 OFFCURVE",
+"226 212 OFFCURVE",
+"200 181 CURVE SMOOTH",
+"178 154 OFFCURVE",
+"161 125 OFFCURVE",
 "158 102 CURVE",
 "116 85 OFFCURVE",
 "92 74 OFFCURVE",
