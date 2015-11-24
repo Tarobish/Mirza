@@ -38369,7 +38369,7 @@ width = 575;
 {
 color = 4;
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2015-11-24 07:19:32 +0000";
+lastChange = "2015-11-24 07:19:47 +0000";
 layers = (
 {
 anchors = (
@@ -38473,6 +38473,28 @@ nodes = (
 width = 576;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{456, 0}";
+},
+{
+name = bottom_2;
+position = "{152, 0}";
+},
+{
+name = caret_1;
+position = "{304, 0}";
+},
+{
+name = top_1;
+position = "{397, 550}";
+},
+{
+name = top_2;
+position = "{107, 432}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
