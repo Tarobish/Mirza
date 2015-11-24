@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/fehDotbelowThreedotsabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -18308,7 +18305,7 @@ width = 444;
 {
 color = 0;
 glyphname = "fehDotbelowThreedotsabove-ar";
-lastChange = "2015-11-24 05:57:19 +0000";
+lastChange = "2015-11-24 05:58:54 +0000";
 layers = (
 {
 components = (
@@ -18322,7 +18319,7 @@ transform = "{1, 0, 0, 1, 659, -226}";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 601, 135}";
+transform = "{1, 0, 0, 1, 601, 125}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18354,7 +18351,7 @@ unicode = 08A4;
 {
 color = 0;
 glyphname = "fehDotbelowThreedotsabove-ar.fina";
-lastChange = "2015-11-24 05:57:14 +0000";
+lastChange = "2015-11-24 05:58:57 +0000";
 layers = (
 {
 components = (
@@ -18364,7 +18361,7 @@ name = "dotlessfeh-ar.fina";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 683, 134}";
+transform = "{1, 0, 0, 1, 683, 124}";
 },
 {
 name = "threedotsupabove-ar";
