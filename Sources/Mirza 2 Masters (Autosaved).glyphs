@@ -10119,9 +10119,15 @@ width = 366;
 {
 color = 0;
 glyphname = "rehRing-ar";
-lastChange = "2015-11-24 05:46:22 +0000";
+lastChange = "2015-11-24 05:46:36 +0000";
 layers = (
 {
+anchors = (
+{
+name = "new anchor";
+position = "{37, -417}";
+}
+);
 components = (
 {
 name = "reh-ar";
@@ -10138,8 +10144,8 @@ width = 245;
 {
 anchors = (
 {
-name = "new anchor";
-position = "{-36, -428}";
+name = bottom;
+position = "{23, -336}";
 }
 );
 components = (
