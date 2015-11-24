@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kirghizoe-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -9291,7 +9294,7 @@ unicode = FB87;
 },
 {
 glyphname = "dalThreedotsdown-ar";
-lastChange = "2015-11-24 05:35:27 +0000";
+lastChange = "2015-11-24 07:12:05 +0000";
 layers = (
 {
 components = (
@@ -9300,7 +9303,7 @@ name = "dal-ar";
 },
 {
 name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 221, -272}";
+transform = "{1, 0, 0, 1, 221, -262}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9326,7 +9329,7 @@ unicode = 068F;
 },
 {
 glyphname = "dalThreedotsdown-ar.fina";
-lastChange = "2015-11-24 05:35:35 +0000";
+lastChange = "2015-11-24 07:12:05 +0000";
 layers = (
 {
 components = (
@@ -9335,7 +9338,7 @@ name = "dal-ar.fina";
 },
 {
 name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 282, -296}";
+transform = "{1, 0, 0, 1, 282, -286}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
