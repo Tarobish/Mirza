@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/rehLoop-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -11041,7 +11044,7 @@ unicode = FC5C;
 },
 {
 glyphname = "rehLoop-ar";
-lastChange = "2015-11-03 06:26:28 +0000";
+lastChange = "2015-11-24 05:47:38 +0000";
 layers = (
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -11119,6 +11122,16 @@ nodes = (
 width = 477;
 },
 {
+anchors = (
+{
+name = "new anchor";
+position = "{141, -387}";
+},
+{
+name = top;
+position = "{231, 208}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
