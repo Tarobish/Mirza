@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/sadTwodotsbelow-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -13041,17 +13044,17 @@ width = 549;
 },
 {
 glyphname = "sad-ar";
-lastChange = "2015-10-29 20:05:05 +0000";
+lastChange = "2015-11-24 05:55:25 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{284, -304}";
+position = "{284, -314}";
 },
 {
 name = top;
-position = "{814, 341}";
+position = "{814, 351}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14112,7 +14115,7 @@ width = 678;
 },
 {
 glyphname = "sadThreedots-ar";
-lastChange = "2015-10-31 03:54:21 +0000";
+lastChange = "2015-11-24 05:55:26 +0000";
 layers = (
 {
 components = (
@@ -14121,7 +14124,7 @@ name = "sad-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 816, -339}";
+transform = "{1, 0, 0, 1, 816, -329}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14249,7 +14252,7 @@ width = 678;
 },
 {
 glyphname = "dad-ar";
-lastChange = "2015-10-29 20:05:06 +0000";
+lastChange = "2015-11-24 05:55:26 +0000";
 layers = (
 {
 components = (
@@ -14258,7 +14261,7 @@ name = "sad-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 811, -324}";
+transform = "{1, 0, 0, 1, 811, -314}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
