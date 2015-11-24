@@ -48821,7 +48821,7 @@ unicode = FCCC;
 {
 color = 4;
 glyphname = "lam_heh-ar.init";
-lastChange = "2015-11-24 07:29:41 +0000";
+lastChange = "2015-11-24 07:29:52 +0000";
 layers = (
 {
 anchors = (
@@ -48958,11 +48958,11 @@ width = 418;
 anchors = (
 {
 name = bottom_1;
-position = "{329, 0}";
+position = "{284, -71}";
 },
 {
 name = bottom_2;
-position = "{110, 0}";
+position = "{53, -29}";
 },
 {
 name = caret_1;
@@ -48970,7 +48970,7 @@ position = "{219.5, 0}";
 },
 {
 name = top_1;
-position = "{258, 620}";
+position = "{294, 597}";
 },
 {
 name = top_2;
