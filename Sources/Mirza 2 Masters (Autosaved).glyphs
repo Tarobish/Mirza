@@ -10167,7 +10167,7 @@ unicode = 0693;
 {
 color = 0;
 glyphname = "rehRing-ar.fina";
-lastChange = "2015-11-24 05:46:58 +0000";
+lastChange = "2015-11-24 05:47:12 +0000";
 layers = (
 {
 anchors = (
@@ -10190,13 +10190,19 @@ name = Regular;
 width = 285;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{2, -391}";
+}
+);
 components = (
 {
 name = "reh-ar.fina";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 2, -530}";
+transform = "{1, 0, 0, 1, 2, -470}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
