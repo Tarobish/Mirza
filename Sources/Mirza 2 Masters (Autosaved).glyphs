@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lamThreedotsabove_alef-ar.fina"
+"/lamThreedotsbelow_alef-ar.isol"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -49295,7 +49295,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamThreedotsabove_alef-ar.isol";
-lastChange = "2015-11-24 07:03:04 +0000";
+lastChange = "2015-11-24 07:03:44 +0000";
 layers = (
 {
 components = (
@@ -49304,7 +49304,7 @@ name = "lam_alef-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 198, -131}";
+transform = "{1, 0, 0, 1, 198, -121}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -49331,7 +49331,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "lamThreedotsbelow_alef-ar.fina";
-lastChange = "2015-11-08 18:26:53 +0000";
+lastChange = "2015-11-24 07:03:48 +0000";
 layers = (
 {
 components = (
@@ -49340,7 +49340,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 328, -23}";
+transform = "{1, 0, 0, 1, 328, -33}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
