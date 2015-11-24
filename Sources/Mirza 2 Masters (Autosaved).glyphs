@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kaf_lam_alefMaksura-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -47302,9 +47305,43 @@ width = 872;
 {
 color = 4;
 glyphname = "kaf_lam_alefMaksura-ar.fina";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 07:38:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{780, 0}";
+},
+{
+name = bottom_2;
+position = "{468, 0}";
+},
+{
+name = bottom_3;
+position = "{282, -339}";
+},
+{
+name = caret_1;
+position = "{312, 0}";
+},
+{
+name = caret_2;
+position = "{624, 0}";
+},
+{
+name = top_1;
+position = "{780, 500}";
+},
+{
+name = top_2;
+position = "{468, 500}";
+},
+{
+name = top_3;
+position = "{226, 13}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
