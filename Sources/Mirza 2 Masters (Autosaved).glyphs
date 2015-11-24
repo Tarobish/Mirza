@@ -28189,17 +28189,17 @@ unicode = FBA9;
 },
 {
 glyphname = "hehgoal-ar.init";
-lastChange = "2015-11-06 19:45:36 +0000";
+lastChange = "2015-11-24 06:45:02 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{6, -206}";
+position = "{6, -216}";
 },
 {
 name = top;
-position = "{-11, 264}";
+position = "{-1, 264}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28208,14 +28208,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"163 225 OFFCURVE",
-"144 273 OFFCURVE",
-"111 309 CURVE",
-"94 290 OFFCURVE",
-"82 270 OFFCURVE",
-"68 240 CURVE",
-"90 215 OFFCURVE",
-"109 189 OFFCURVE",
+"163 215 OFFCURVE",
+"144 263 OFFCURVE",
+"111 299 CURVE",
+"94 280 OFFCURVE",
+"82 260 OFFCURVE",
+"68 230 CURVE",
+"90 205 OFFCURVE",
+"109 179 OFFCURVE",
 "129 158 CURVE",
 "129 158 OFFCURVE",
 "111 98 OFFCURVE",
@@ -28232,8 +28232,8 @@ nodes = (
 "108 19 OFFCURVE",
 "132 56 CURVE SMOOTH",
 "153 89 OFFCURVE",
-"163 132 OFFCURVE",
-"163 175 CURVE SMOOTH"
+"163 122 OFFCURVE",
+"163 165 CURVE SMOOTH"
 );
 },
 {
