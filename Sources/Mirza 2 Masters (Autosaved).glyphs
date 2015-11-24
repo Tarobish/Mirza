@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dotlessbeh_meem-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -39073,7 +39070,7 @@ width = 642;
 {
 color = 4;
 glyphname = "dotlessbeh_meem-ar";
-lastChange = "2015-11-24 07:14:25 +0000";
+lastChange = "2015-11-24 07:14:30 +0000";
 layers = (
 {
 anchors = (
@@ -39167,7 +39164,7 @@ position = "{315, -104}";
 },
 {
 name = bottom_2;
-position = "{132, -432}";
+position = "{135, -462}";
 },
 {
 name = caret_1;
