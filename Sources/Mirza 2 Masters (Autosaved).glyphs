@@ -23637,7 +23637,7 @@ unicode = FB9D;
 {
 color = 0;
 glyphname = "ngoeh-ar.init";
-lastChange = "2015-11-02 20:32:08 +0000";
+lastChange = "2015-11-24 06:27:18 +0000";
 layers = (
 {
 components = (
@@ -23647,7 +23647,7 @@ name = "gaf-ar.init";
 {
 disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 45, -125}";
+transform = "{1, 0, 0, 1, 65, -115}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -26316,7 +26316,7 @@ unicode = FEE6;
 },
 {
 glyphname = "noon-ar.medi";
-lastChange = "2015-10-30 20:31:22 +0000";
+lastChange = "2015-11-24 06:27:21 +0000";
 layers = (
 {
 components = (
@@ -26325,7 +26325,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, -5, -477}";
+transform = "{1, 0, 0, 1, 1, -467}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -26351,7 +26351,7 @@ unicode = FEE8;
 },
 {
 glyphname = "noon-ar.init";
-lastChange = "2015-10-30 20:31:22 +0000";
+lastChange = "2015-11-24 06:27:21 +0000";
 layers = (
 {
 components = (
@@ -26360,7 +26360,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, -12, -392}";
+transform = "{1, 0, 0, 1, -12, -382}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -26455,7 +26455,7 @@ width = 678;
 },
 {
 glyphname = "noonDotbelow-ar.init";
-lastChange = "2015-10-30 20:31:22 +0000";
+lastChange = "2015-11-24 06:27:21 +0000";
 layers = (
 {
 components = (
@@ -26464,7 +26464,7 @@ name = "noon-ar.init";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 1, 146}";
+transform = "{1, 0, 0, 1, 11, 136}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -26489,7 +26489,7 @@ width = 244;
 },
 {
 glyphname = "noonDotbelow-ar.medi";
-lastChange = "2015-10-30 20:31:22 +0000";
+lastChange = "2015-11-24 06:27:21 +0000";
 layers = (
 {
 components = (
@@ -26498,7 +26498,7 @@ name = "noon-ar.medi";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, -6, 146}";
+transform = "{1, 0, 0, 1, 4, 136}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
