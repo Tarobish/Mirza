@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefFathatan-ar.fina"
+"/fathatan-ar/alefFathatan-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -63139,7 +63139,7 @@ width = 0;
 },
 {
 glyphname = "fathatan-ar";
-lastChange = "2015-11-06 19:29:37 +0000";
+lastChange = "2015-11-24 05:22:20 +0000";
 layers = (
 {
 anchors = (
@@ -63149,7 +63149,7 @@ position = "{1, 680}";
 },
 {
 name = top;
-position = "{1, 853}";
+position = "{1, 863}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -63175,18 +63175,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"26 833 OFFCURVE",
-"-24 813 OFFCURVE",
-"-80 785 CURVE",
-"-83 779 OFFCURVE",
-"-85 771 OFFCURVE",
-"-87 760 CURVE",
-"-87 760 OFFCURVE",
-"20 807 OFFCURVE",
-"81 827 CURVE",
-"85 835 OFFCURVE",
-"88 843 OFFCURVE",
-"89 853 CURVE"
+"26 843 OFFCURVE",
+"-24 823 OFFCURVE",
+"-80 795 CURVE",
+"-83 789 OFFCURVE",
+"-85 781 OFFCURVE",
+"-87 770 CURVE",
+"-87 770 OFFCURVE",
+"20 817 OFFCURVE",
+"81 837 CURVE",
+"85 845 OFFCURVE",
+"88 853 OFFCURVE",
+"89 863 CURVE"
 );
 }
 );
