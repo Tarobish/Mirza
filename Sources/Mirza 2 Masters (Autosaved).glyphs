@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/sukun-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -64479,7 +64476,7 @@ width = 0;
 },
 {
 glyphname = "hamzaaboveSukun-ar";
-lastChange = "2015-11-06 18:31:26 +0000";
+lastChange = "2015-11-24 08:05:03 +0000";
 layers = (
 {
 components = (
@@ -64489,7 +64486,7 @@ transform = "{1, 0, 0, 1, 0, 100}";
 },
 {
 name = "sukun-ar";
-transform = "{1, 0, 0, 1, -1, 293}";
+transform = "{1, 0, 0, 1, -1, 294}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -65411,13 +65408,13 @@ unicode = 0651;
 },
 {
 glyphname = "sukun-ar";
-lastChange = "2015-11-24 08:05:00 +0000";
+lastChange = "2015-11-24 08:05:02 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-1, 675}";
+position = "{-1, 679}";
 },
 {
 name = top;
