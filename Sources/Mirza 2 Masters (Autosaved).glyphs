@@ -60929,7 +60929,7 @@ unicode = FBB8;
 },
 {
 glyphname = "threedotsdownbelow-ar";
-lastChange = "2015-10-19 03:21:48 +0000";
+lastChange = "2015-11-24 05:45:05 +0000";
 layers = (
 {
 anchors = (
@@ -60939,7 +60939,7 @@ position = "{-5, 11}";
 },
 {
 name = bottom;
-position = "{-5, -210}";
+position = "{-5, -220}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -60977,18 +60977,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"42 -140 OFFCURVE",
-"19 -117 OFFCURVE",
-"-2 -103 CURVE",
-"-15 -118 OFFCURVE",
-"-37 -140 OFFCURVE",
-"-53 -156 CURVE",
-"-34 -172 OFFCURVE",
-"-17 -188 OFFCURVE",
-"2 -210 CURVE",
-"26 -188 OFFCURVE",
-"40 -174 OFFCURVE",
-"54 -158 CURVE"
+"42 -150 OFFCURVE",
+"19 -127 OFFCURVE",
+"-2 -113 CURVE",
+"-15 -128 OFFCURVE",
+"-37 -150 OFFCURVE",
+"-53 -166 CURVE",
+"-34 -182 OFFCURVE",
+"-17 -198 OFFCURVE",
+"2 -220 CURVE",
+"26 -198 OFFCURVE",
+"40 -184 OFFCURVE",
+"54 -168 CURVE"
 );
 }
 );
