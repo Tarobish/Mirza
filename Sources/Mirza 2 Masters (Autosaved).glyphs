@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/heh-ar.medi"
+"/heh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -27418,17 +27418,17 @@ unicode = FEEA;
 },
 {
 glyphname = "heh-ar.medi";
-lastChange = "2015-10-30 19:48:17 +0000";
+lastChange = "2015-11-24 06:44:21 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{193, -205}";
+position = "{193, -215}";
 },
 {
 name = top;
-position = "{164, 311}";
+position = "{164, 321}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -27633,13 +27633,13 @@ unicode = FEEC;
 },
 {
 glyphname = "heh-ar.init";
-lastChange = "2015-10-28 21:43:00 +0000";
+lastChange = "2015-11-24 06:44:26 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{155, 0}";
+position = "{155, -10}";
 },
 {
 name = top;
@@ -28437,7 +28437,7 @@ width = 438;
 },
 {
 glyphname = "hehgoalHamzaabove-ar.medi";
-lastChange = "2015-11-06 19:02:45 +0000";
+lastChange = "2015-11-24 06:44:23 +0000";
 layers = (
 {
 components = (
@@ -28446,7 +28446,7 @@ name = "heh-ar.medi";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 166, -369}";
+transform = "{1, 0, 0, 1, 166, -359}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
