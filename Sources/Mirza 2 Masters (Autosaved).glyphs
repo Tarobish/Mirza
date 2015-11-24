@@ -10786,22 +10786,25 @@ width = 286;
 unicode = 075B;
 },
 {
+color = 0;
 glyphname = "rehStroke-ar.fina";
-lastChange = "2015-11-03 00:10:25 +0000";
+lastChange = "2015-11-24 06:48:44 +0000";
 layers = (
 {
 components = (
 {
+disableAlignment = 1;
 name = "reh-ar.fina";
+transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
 name = barlong;
-transform = "{1, 0, 0, 1, 73, -292}";
+transform = "{1, 0, 0, 1, 123, -292}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 285;
+width = 335;
 },
 {
 components = (
