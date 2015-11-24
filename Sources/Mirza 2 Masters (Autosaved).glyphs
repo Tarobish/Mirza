@@ -38906,13 +38906,13 @@ width = 540;
 {
 color = 4;
 glyphname = "dotlessbeh_reh-ar.fina";
-lastChange = "2015-11-24 07:15:12 +0000";
+lastChange = "2015-11-24 07:15:26 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{288, -12}";
+position = "{289, -22}";
 },
 {
 name = bottom_2;
@@ -39011,6 +39011,28 @@ nodes = (
 width = 533;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{481, 0}";
+},
+{
+name = bottom_2;
+position = "{160, 0}";
+},
+{
+name = caret_1;
+position = "{321, 0}";
+},
+{
+name = top_1;
+position = "{481, 500}";
+},
+{
+name = top_2;
+position = "{160, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
