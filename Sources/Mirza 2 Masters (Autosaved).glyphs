@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hamzaabove_fathatan-ar"
+"/hamzaabove_sukun-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -63946,7 +63946,7 @@ width = 0;
 },
 {
 glyphname = "hamzaabove_sukun-ar";
-lastChange = "2015-11-06 19:02:12 +0000";
+lastChange = "2015-11-24 07:48:31 +0000";
 layers = (
 {
 components = (
@@ -63954,8 +63954,9 @@ components = (
 name = "hamzaabove-ar";
 },
 {
+disableAlignment = 1;
 name = "sukun-ar";
-transform = "{1, 0, 0, 1, -1, 193}";
+transform = "{1, 0, 0, 1, -1, 203}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
