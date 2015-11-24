@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/seen-ar.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -11838,7 +11841,7 @@ unicode = FEB2;
 },
 {
 glyphname = "seen-ar.medi";
-lastChange = "2015-10-29 20:02:56 +0000";
+lastChange = "2015-11-24 05:50:16 +0000";
 layers = (
 {
 anchors = (
@@ -11848,7 +11851,7 @@ position = "{279, -15}";
 },
 {
 name = top;
-position = "{279, 219}";
+position = "{279, 229}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12025,17 +12028,17 @@ unicode = FEB4;
 },
 {
 glyphname = "seen-ar.init";
-lastChange = "2015-10-29 20:03:54 +0000";
+lastChange = "2015-11-24 05:50:11 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{279, -14}";
+position = "{279, -24}";
 },
 {
 name = top;
-position = "{279, 218}";
+position = "{279, 228}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12304,7 +12307,7 @@ width = 926;
 },
 {
 glyphname = "seenDotbelowDotabove-ar.init";
-lastChange = "2015-11-02 20:29:39 +0000";
+lastChange = "2015-11-24 05:50:13 +0000";
 layers = (
 {
 components = (
@@ -12313,11 +12316,11 @@ name = "seen-ar.init";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 276, 147}";
+transform = "{1, 0, 0, 1, 276, 137}";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 276, -447}";
+transform = "{1, 0, 0, 1, 276, -437}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12463,7 +12466,7 @@ width = 926;
 },
 {
 glyphname = "seenThreedotsbelow-ar.init";
-lastChange = "2015-10-29 20:02:11 +0000";
+lastChange = "2015-11-24 05:50:13 +0000";
 layers = (
 {
 components = (
@@ -12472,7 +12475,7 @@ name = "seen-ar.init";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 284, -25}";
+transform = "{1, 0, 0, 1, 284, -35}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12622,7 +12625,7 @@ width = 919;
 },
 {
 glyphname = "seenThreedotsbelowThreedots-ar.init";
-lastChange = "2015-10-30 21:19:07 +0000";
+lastChange = "2015-11-24 05:50:13 +0000";
 layers = (
 {
 components = (
@@ -12649,11 +12652,11 @@ name = "seen-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 281, -462}";
+transform = "{1, 0, 0, 1, 281, -452}";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 284, -25}";
+transform = "{1, 0, 0, 1, 284, -35}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12811,7 +12814,7 @@ unicode = FEB8;
 },
 {
 glyphname = "sheen-ar.init";
-lastChange = "2015-10-29 20:03:20 +0000";
+lastChange = "2015-11-24 05:50:13 +0000";
 layers = (
 {
 components = (
@@ -12820,7 +12823,7 @@ name = "seen-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 281, -462}";
+transform = "{1, 0, 0, 1, 281, -452}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12937,7 +12940,7 @@ width = 919;
 },
 {
 glyphname = "sheenDotbelow-ar.init";
-lastChange = "2015-10-30 21:34:47 +0000";
+lastChange = "2015-11-24 05:50:13 +0000";
 layers = (
 {
 components = (
@@ -12964,11 +12967,11 @@ name = "seen-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 281, -462}";
+transform = "{1, 0, 0, 1, 281, -452}";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 276, 147}";
+transform = "{1, 0, 0, 1, 276, 137}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
