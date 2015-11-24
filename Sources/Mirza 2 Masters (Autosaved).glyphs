@@ -49693,7 +49693,7 @@ rightMetricsKey = "alef-ar.isol";
 {
 color = 4;
 glyphname = "meem_meem-ar.init";
-lastChange = "2015-11-24 07:23:42 +0000";
+lastChange = "2015-11-24 07:23:51 +0000";
 layers = (
 {
 anchors = (
@@ -49793,7 +49793,7 @@ position = "{328, -19}";
 },
 {
 name = bottom_2;
-position = "{46, -19}";
+position = "{35, -31}";
 },
 {
 name = caret_1;
@@ -49873,7 +49873,7 @@ nodes = (
 );
 }
 );
-width = 391;
+width = 451;
 }
 );
 unicode = FCD1;
