@@ -50573,17 +50573,17 @@ unicode = FC53;
 },
 {
 glyphname = "heh_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:21:55 +0000";
+lastChange = "2015-11-24 07:22:17 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{745, 0}";
+position = "{742, -214}";
 },
 {
 name = bottom_2;
-position = "{248, 0}";
+position = "{282, -303}";
 },
 {
 name = caret_1;
@@ -50591,7 +50591,7 @@ position = "{496.5, 0}";
 },
 {
 name = top_1;
-position = "{742, 228}";
+position = "{742, 259}";
 },
 {
 name = top_2;
