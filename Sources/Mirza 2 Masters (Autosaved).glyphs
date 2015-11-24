@@ -5814,7 +5814,7 @@ unicode = FB7C;
 },
 {
 glyphname = "tcheheh-ar";
-lastChange = "2015-11-24 06:01:22 +0000";
+lastChange = "2015-11-24 06:02:35 +0000";
 layers = (
 {
 components = (
@@ -5822,8 +5822,9 @@ components = (
 name = "hah-ar";
 },
 {
+disableAlignment = 1;
 name = "fourdotsbelow-ar";
-transform = "{1, 0, 0, 1, 294, -377}";
+transform = "{1, 0, 0, 1, 326, 52}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
