@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/highhamzaWaw-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -34133,24 +34136,24 @@ unicode = 0676;
 },
 {
 glyphname = "highhamzaWaw-ar.fina";
-lastChange = "2015-11-06 19:23:18 +0000";
+lastChange = "2015-11-24 06:58:20 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{50, -309}";
+position = "{50, -319}";
 },
 {
 name = top;
-position = "{133, 278}";
+position = "{113, 288}";
 }
 );
 components = (
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 318, -430}";
+transform = "{1, 0, 0, 1, 318, -420}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
