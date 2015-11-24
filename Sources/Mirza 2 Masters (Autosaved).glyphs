@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ain-ar.init"
+"/ain-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -16129,17 +16129,17 @@ unicode = FECA;
 },
 {
 glyphname = "ain-ar.medi";
-lastChange = "2015-10-29 21:32:56 +0000";
+lastChange = "2015-11-24 05:56:27 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{160, -17}";
+position = "{160, -27}";
 },
 {
 name = top;
-position = "{179, 283}";
+position = "{179, 293}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -16268,17 +16268,17 @@ unicode = FECC;
 },
 {
 glyphname = "ain-ar.init";
-lastChange = "2015-10-30 19:35:50 +0000";
+lastChange = "2015-11-24 05:56:21 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{124, -15}";
+position = "{124, -25}";
 },
 {
 name = top;
-position = "{171, 342}";
+position = "{171, 352}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -16478,7 +16478,7 @@ width = 542;
 },
 {
 glyphname = "ainThreedots-ar.init";
-lastChange = "2015-10-31 04:05:03 +0000";
+lastChange = "2015-11-24 05:56:22 +0000";
 layers = (
 {
 components = (
@@ -16487,7 +16487,7 @@ name = "ain-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 173, -338}";
+transform = "{1, 0, 0, 1, 173, -328}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -16651,7 +16651,7 @@ unicode = FED0;
 },
 {
 glyphname = "ghain-ar.init";
-lastChange = "2015-10-30 19:35:46 +0000";
+lastChange = "2015-11-24 05:56:22 +0000";
 layers = (
 {
 components = (
@@ -16660,7 +16660,7 @@ name = "ain-ar.init";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 168, -323}";
+transform = "{1, 0, 0, 1, 168, -313}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -16775,7 +16775,7 @@ width = 542;
 },
 {
 glyphname = "ghainDotbelow-ar.init";
-lastChange = "2015-10-31 04:09:31 +0000";
+lastChange = "2015-11-24 05:56:22 +0000";
 layers = (
 {
 components = (
@@ -16784,11 +16784,11 @@ name = "ain-ar.init";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 168, -323}";
+transform = "{1, 0, 0, 1, 168, -313}";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 121, 146}";
+transform = "{1, 0, 0, 1, 121, 136}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
