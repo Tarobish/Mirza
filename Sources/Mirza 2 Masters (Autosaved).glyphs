@@ -49112,7 +49112,7 @@ unicode = FC86;
 },
 {
 glyphname = "lamVabove_alef-ar.fina";
-lastChange = "2015-11-08 18:26:53 +0000";
+lastChange = "2015-11-24 07:03:09 +0000";
 layers = (
 {
 components = (
@@ -49121,7 +49121,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 310, -133}";
+transform = "{1, 0, 0, 1, 310, -123}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -49220,7 +49220,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamDotabove_alef-ar.isol";
-lastChange = "2015-11-08 18:26:53 +0000";
+lastChange = "2015-11-24 07:03:04 +0000";
 layers = (
 {
 components = (
@@ -49234,7 +49234,7 @@ transform = "{1, 0, 0, 1, 229, -116}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 337;
+width = 357;
 },
 {
 components = (
@@ -49292,7 +49292,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamThreedotsabove_alef-ar.isol";
-lastChange = "2015-11-08 18:26:53 +0000";
+lastChange = "2015-11-24 07:03:04 +0000";
 layers = (
 {
 components = (
@@ -49306,7 +49306,7 @@ transform = "{1, 0, 0, 1, 198, -131}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 337;
+width = 357;
 },
 {
 components = (
@@ -49364,7 +49364,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamThreedotsbelow_alef-ar.isol";
-lastChange = "2015-11-08 18:26:53 +0000";
+lastChange = "2015-11-24 07:03:04 +0000";
 layers = (
 {
 components = (
@@ -49378,7 +49378,7 @@ transform = "{1, 0, 0, 1, 174, -37}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 337;
+width = 357;
 },
 {
 components = (
@@ -50553,7 +50553,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamBar_alef-ar.isol";
-lastChange = "2015-11-02 23:57:23 +0000";
+lastChange = "2015-11-24 07:03:04 +0000";
 layers = (
 {
 components = (
@@ -50567,7 +50567,7 @@ transform = "{1, 0, 0, 1, 254, 260}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 337;
+width = 357;
 },
 {
 components = (
