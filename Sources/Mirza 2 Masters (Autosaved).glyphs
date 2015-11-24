@@ -64869,7 +64869,7 @@ unicode = 064C;
 },
 {
 glyphname = "kasratan-ar";
-lastChange = "2015-11-06 19:29:31 +0000";
+lastChange = "2015-11-24 07:51:56 +0000";
 layers = (
 {
 anchors = (
@@ -64879,7 +64879,7 @@ position = "{0, -173}";
 },
 {
 name = bottom;
-position = "{0, -346}";
+position = "{0, -356}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -64888,18 +64888,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-88 -346 OFFCURVE",
-"19 -299 OFFCURVE",
-"80 -279 CURVE",
-"84 -271 OFFCURVE",
-"87 -263 OFFCURVE",
-"88 -253 CURVE",
-"25 -273 OFFCURVE",
-"-25 -293 OFFCURVE",
-"-81 -321 CURVE",
-"-84 -327 OFFCURVE",
-"-86 -335 OFFCURVE",
-"-88 -346 CURVE"
+"-88 -356 OFFCURVE",
+"19 -309 OFFCURVE",
+"80 -289 CURVE",
+"84 -281 OFFCURVE",
+"87 -273 OFFCURVE",
+"88 -263 CURVE",
+"25 -283 OFFCURVE",
+"-25 -303 OFFCURVE",
+"-81 -331 CURVE",
+"-84 -337 OFFCURVE",
+"-86 -345 OFFCURVE",
+"-88 -356 CURVE"
 );
 },
 {
