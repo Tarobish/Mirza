@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf-ar.medi"
+"/keheh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -20077,17 +20077,17 @@ unicode = FEDC;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2015-10-29 20:10:04 +0000";
+lastChange = "2015-11-24 06:22:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{24, -14}";
+position = "{24, -24}";
 },
 {
 name = top;
-position = "{87, 508}";
+position = "{87, 518}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20673,7 +20673,7 @@ width = 883;
 },
 {
 glyphname = "kehehTwodotshorizontalabove-ar.init";
-lastChange = "2015-10-31 04:27:34 +0000";
+lastChange = "2015-11-24 06:22:08 +0000";
 layers = (
 {
 components = (
@@ -20682,7 +20682,7 @@ name = "keheh-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 89, -165}";
+transform = "{1, 0, 0, 1, 89, -155}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20707,7 +20707,7 @@ width = 289;
 },
 {
 glyphname = "kehehTwodotshorizontalabove-ar.medi";
-lastChange = "2015-10-29 20:10:18 +0000";
+lastChange = "2015-11-24 06:22:02 +0000";
 layers = (
 {
 components = (
@@ -20716,7 +20716,7 @@ name = "keheh-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 109, -153}";
+transform = "{1, 0, 0, 1, 109, -143}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20810,7 +20810,7 @@ width = 883;
 },
 {
 glyphname = "kehehThreedotsbelow-ar.init";
-lastChange = "2015-10-29 20:10:06 +0000";
+lastChange = "2015-11-24 06:22:08 +0000";
 layers = (
 {
 components = (
@@ -20819,7 +20819,7 @@ name = "keheh-ar.init";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 29, -25}";
+transform = "{1, 0, 0, 1, 29, -35}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20844,7 +20844,7 @@ width = 289;
 },
 {
 glyphname = "kehehThreedotsbelow-ar.medi";
-lastChange = "2015-10-29 20:10:18 +0000";
+lastChange = "2015-11-24 06:22:02 +0000";
 layers = (
 {
 components = (
@@ -20853,7 +20853,7 @@ name = "keheh-ar.medi";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 87, -35}";
+transform = "{1, 0, 0, 1, 87, -45}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20953,7 +20953,7 @@ width = 883;
 },
 {
 glyphname = "kehehDotabove-ar.init";
-lastChange = "2015-10-29 20:10:06 +0000";
+lastChange = "2015-11-24 06:22:08 +0000";
 layers = (
 {
 components = (
@@ -20962,7 +20962,7 @@ name = "keheh-ar.init";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 84, -157}";
+transform = "{1, 0, 0, 1, 84, -147}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20987,7 +20987,7 @@ width = 289;
 },
 {
 glyphname = "kehehDotabove-ar.medi";
-lastChange = "2015-10-29 20:10:18 +0000";
+lastChange = "2015-11-24 06:22:02 +0000";
 layers = (
 {
 components = (
@@ -20996,7 +20996,7 @@ name = "keheh-ar.medi";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 104, -145}";
+transform = "{1, 0, 0, 1, 104, -135}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21096,7 +21096,7 @@ width = 883;
 },
 {
 glyphname = "kehehThreedotsabove-ar.init";
-lastChange = "2015-10-29 20:10:06 +0000";
+lastChange = "2015-11-24 06:22:08 +0000";
 layers = (
 {
 components = (
@@ -21105,7 +21105,7 @@ name = "keheh-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 89, -172}";
+transform = "{1, 0, 0, 1, 89, -162}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21130,7 +21130,7 @@ width = 289;
 },
 {
 glyphname = "kehehThreedotsabove-ar.medi";
-lastChange = "2015-10-29 20:10:18 +0000";
+lastChange = "2015-11-24 06:22:02 +0000";
 layers = (
 {
 components = (
@@ -21139,7 +21139,7 @@ name = "keheh-ar.medi";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 109, -160}";
+transform = "{1, 0, 0, 1, 109, -150}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21233,7 +21233,7 @@ width = 883;
 },
 {
 glyphname = "kehehThreedotsupbelow-ar.init";
-lastChange = "2015-11-24 05:45:46 +0000";
+lastChange = "2015-11-24 06:22:08 +0000";
 layers = (
 {
 components = (
@@ -21242,7 +21242,7 @@ name = "keheh-ar.init";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 26, 80}";
+transform = "{1, 0, 0, 1, 26, 70}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21267,7 +21267,7 @@ width = 289;
 },
 {
 glyphname = "kehehThreedotsupbelow-ar.medi";
-lastChange = "2015-11-24 05:45:46 +0000";
+lastChange = "2015-11-24 06:22:02 +0000";
 layers = (
 {
 components = (
@@ -21276,7 +21276,7 @@ name = "keheh-ar.medi";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 84, 70}";
+transform = "{1, 0, 0, 1, 84, 60}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22858,7 +22858,7 @@ width = 854;
 },
 {
 glyphname = "kafDotabove-ar.init";
-lastChange = "2015-10-30 20:31:22 +0000";
+lastChange = "2015-11-24 06:22:08 +0000";
 layers = (
 {
 components = (
@@ -22867,7 +22867,7 @@ name = "kaf-ar.init";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 84, -157}";
+transform = "{1, 0, 0, 1, 84, -147}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22892,7 +22892,7 @@ width = 289;
 },
 {
 glyphname = "kafDotabove-ar.medi";
-lastChange = "2015-10-30 20:31:22 +0000";
+lastChange = "2015-11-24 06:22:02 +0000";
 layers = (
 {
 components = (
@@ -22901,7 +22901,7 @@ name = "kaf-ar.medi";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 104, -145}";
+transform = "{1, 0, 0, 1, 104, -135}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22995,7 +22995,7 @@ width = 854;
 },
 {
 glyphname = "kafTwodotshorizontalabove-ar.init";
-lastChange = "2015-10-29 20:10:06 +0000";
+lastChange = "2015-11-24 06:22:08 +0000";
 layers = (
 {
 components = (
@@ -23004,7 +23004,7 @@ name = "kaf-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 89, -165}";
+transform = "{1, 0, 0, 1, 89, -155}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23029,7 +23029,7 @@ width = 289;
 },
 {
 glyphname = "kafTwodotshorizontalabove-ar.medi";
-lastChange = "2015-10-29 20:10:18 +0000";
+lastChange = "2015-11-24 06:22:02 +0000";
 layers = (
 {
 components = (
@@ -23038,7 +23038,7 @@ name = "kaf-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 109, -153}";
+transform = "{1, 0, 0, 1, 109, -143}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
