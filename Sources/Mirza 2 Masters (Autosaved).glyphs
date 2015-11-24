@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/ring-ar/noonRing-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -26893,7 +26896,7 @@ unicode = FBA1;
 },
 {
 glyphname = "noonRing-ar";
-lastChange = "2015-11-02 22:51:58 +0000";
+lastChange = "2015-11-24 06:42:54 +0000";
 layers = (
 {
 components = (
@@ -26916,7 +26919,7 @@ name = "noon-ar";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 295, -426}";
+transform = "{1, 0, 0, 1, 295, -365}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
