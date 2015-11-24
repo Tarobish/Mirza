@@ -38534,7 +38534,7 @@ width = 608;
 {
 color = 4;
 glyphname = "dotlessbeh_hah_alefMaksura-ar";
-lastChange = "2015-11-24 07:18:38 +0000";
+lastChange = "2015-11-24 07:18:47 +0000";
 layers = (
 {
 anchors = (
@@ -38696,11 +38696,11 @@ position = "{782, 20}";
 },
 {
 name = bottom_2;
-position = "{641, -200}";
+position = "{641, -198}";
 },
 {
 name = bottom_3;
-position = "{162, 0}";
+position = "{294, -301}";
 },
 {
 name = caret_1;
@@ -38720,7 +38720,7 @@ position = "{524, 462}";
 },
 {
 name = top_3;
-position = "{162, 500}";
+position = "{236, 65}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
