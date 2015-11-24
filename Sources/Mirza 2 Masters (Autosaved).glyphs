@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hamzaabove_dammatan-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -65480,7 +65477,7 @@ width = 0;
 },
 {
 glyphname = "hamzaabove_dammatan-ar";
-lastChange = "2015-11-24 07:49:03 +0000";
+lastChange = "2015-11-24 19:48:18 +0000";
 layers = (
 {
 components = (
@@ -65503,8 +65500,9 @@ components = (
 name = "hamzaabove-ar";
 },
 {
+disableAlignment = 1;
 name = "dammatan-ar";
-transform = "{1, 0, 0, 1, 7, 194}";
+transform = "{1, 0, 0, 1, 7, 204}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -65549,7 +65547,7 @@ width = 0;
 },
 {
 glyphname = "hamzaabove_damma-ar";
-lastChange = "2015-11-24 19:42:22 +0000";
+lastChange = "2015-11-24 19:48:31 +0000";
 layers = (
 {
 components = (
@@ -65572,8 +65570,9 @@ components = (
 name = "hamzaabove-ar";
 },
 {
+disableAlignment = 1;
 name = "damma-ar";
-transform = "{1, 0, 0, 1, 3, 192}";
+transform = "{1, 0, 0, 1, 3, 202}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -65584,7 +65583,7 @@ width = 0;
 },
 {
 glyphname = "hamzaabove_sukun-ar";
-lastChange = "2015-11-24 07:48:31 +0000";
+lastChange = "2015-11-24 19:48:38 +0000";
 layers = (
 {
 components = (
@@ -65607,8 +65606,9 @@ components = (
 name = "hamzaabove-ar";
 },
 {
+disableAlignment = 1;
 name = "sukun-ar";
-transform = "{1, 0, 0, 1, -2, 195}";
+transform = "{1, 0, 0, 1, -2, 205}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -65976,7 +65976,7 @@ width = 0;
 },
 {
 glyphname = "hamzaaboveDamma-ar";
-lastChange = "2015-11-24 19:42:22 +0000";
+lastChange = "2015-11-24 19:48:48 +0000";
 layers = (
 {
 components = (
@@ -65999,8 +65999,9 @@ components = (
 name = "hamzaabove-ar";
 },
 {
+disableAlignment = 1;
 name = "damma-ar";
-transform = "{1, 0, 0, 1, 3, 192}";
+transform = "{1, 0, 0, 1, 3, 202}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -66011,7 +66012,7 @@ width = 0;
 },
 {
 glyphname = "hamzaaboveDammatan-ar";
-lastChange = "2015-11-24 19:42:22 +0000";
+lastChange = "2015-11-24 19:48:55 +0000";
 layers = (
 {
 components = (
@@ -66034,8 +66035,9 @@ components = (
 name = "hamzaabove-ar";
 },
 {
+disableAlignment = 1;
 name = "dammatan-ar";
-transform = "{1, 0, 0, 1, 7, 194}";
+transform = "{1, 0, 0, 1, 7, 204}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -66115,7 +66117,7 @@ width = 0;
 },
 {
 glyphname = "hamzaaboveSukun-ar";
-lastChange = "2015-11-24 19:42:22 +0000";
+lastChange = "2015-11-24 19:49:15 +0000";
 layers = (
 {
 components = (
@@ -66138,8 +66140,9 @@ components = (
 name = "hamzaabove-ar";
 },
 {
+disableAlignment = 1;
 name = "sukun-ar";
-transform = "{1, 0, 0, 1, -2, 195}";
+transform = "{1, 0, 0, 1, -2, 205}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -66508,7 +66511,7 @@ unicode = 064C;
 },
 {
 glyphname = "kasratan-ar";
-lastChange = "2015-11-24 07:51:56 +0000";
+lastChange = "2015-11-24 19:49:36 +0000";
 layers = (
 {
 anchors = (
@@ -66569,7 +66572,7 @@ position = "{1, -178}";
 },
 {
 name = bottom;
-position = "{1, -371}";
+position = "{1, -381}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -66578,18 +66581,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-51 -355 OFFCURVE",
-"44 -314 OFFCURVE",
-"80 -302 CURVE",
-"87 -286 OFFCURVE",
-"89 -278 OFFCURVE",
-"92 -262 CURVE",
-"57 -271 OFFCURVE",
-"-43 -309 OFFCURVE",
-"-78 -329 CURVE",
-"-83 -340 OFFCURVE",
-"-88 -357 OFFCURVE",
-"-91 -371 CURVE"
+"-51 -365 OFFCURVE",
+"44 -324 OFFCURVE",
+"80 -312 CURVE",
+"87 -296 OFFCURVE",
+"89 -288 OFFCURVE",
+"92 -272 CURVE",
+"57 -281 OFFCURVE",
+"-43 -319 OFFCURVE",
+"-78 -339 CURVE",
+"-83 -350 OFFCURVE",
+"-88 -367 OFFCURVE",
+"-91 -381 CURVE"
 );
 },
 {
@@ -67497,7 +67500,7 @@ width = 0;
 },
 {
 glyphname = "shaddaKasratan-ar";
-lastChange = "2015-11-24 08:20:09 +0000";
+lastChange = "2015-11-24 19:49:45 +0000";
 layers = (
 {
 components = (
@@ -67522,7 +67525,7 @@ transform = "{1, 0, 0, 1, 1, 182}";
 },
 {
 name = "kasratan-ar";
-transform = "{1, 0, 0, 1, 0, 1104}";
+transform = "{1, 0, 0, 1, 0, 1084}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
