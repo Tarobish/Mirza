@@ -38369,17 +38369,17 @@ width = 575;
 {
 color = 4;
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2015-11-24 07:19:25 +0000";
+lastChange = "2015-11-24 07:19:32 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{400, 61}";
+position = "{377, 60}";
 },
 {
 name = bottom_2;
-position = "{144, 0}";
+position = "{122, -25}";
 },
 {
 name = caret_1;
