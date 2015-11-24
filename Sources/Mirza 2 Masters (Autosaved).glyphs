@@ -50097,17 +50097,17 @@ unicode = FC49;
 {
 color = 4;
 glyphname = "meem_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:25:15 +0000";
+lastChange = "2015-11-24 07:25:23 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{766, -28}";
+position = "{736, -46}";
 },
 {
 name = bottom_2;
-position = "{239, 0}";
+position = "{298, -313}";
 },
 {
 name = caret_1;
@@ -50119,7 +50119,7 @@ position = "{734, 297}";
 },
 {
 name = top_2;
-position = "{239, 500}";
+position = "{265, 39}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
