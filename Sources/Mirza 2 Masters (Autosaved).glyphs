@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gafRing-ar.fina"
+"/gafRing-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -21646,7 +21646,7 @@ width = 883;
 },
 {
 glyphname = "gafRing-ar.init";
-lastChange = "2015-11-02 22:43:06 +0000";
+lastChange = "2015-11-24 06:25:30 +0000";
 layers = (
 {
 components = (
@@ -21669,7 +21669,7 @@ name = "gaf-ar.init";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 196, 228}";
+transform = "{0.8, 0, 0, 0.8, 196, 277}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -21680,7 +21680,7 @@ width = 289;
 },
 {
 glyphname = "gafRing-ar.medi";
-lastChange = "2015-11-02 22:43:06 +0000";
+lastChange = "2015-11-24 06:25:37 +0000";
 layers = (
 {
 components = (
@@ -21703,7 +21703,7 @@ name = "gaf-ar.medi";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 198, 223}";
+transform = "{0.8, 0, 0, 0.8, 198, 271}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
