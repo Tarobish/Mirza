@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kehehTwodotshorizontalabove-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -20596,7 +20599,7 @@ unicode = FB90;
 {
 color = 0;
 glyphname = "kehehTwodotshorizontalabove-ar";
-lastChange = "2015-11-02 20:31:19 +0000";
+lastChange = "2015-11-24 06:22:31 +0000";
 layers = (
 {
 components = (
@@ -20606,7 +20609,7 @@ name = "keheh-ar";
 {
 disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 570, -162}";
+transform = "{1, 0, 0, 1, 570, -152}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20634,7 +20637,7 @@ unicode = 063B;
 {
 color = 0;
 glyphname = "kehehTwodotshorizontalabove-ar.fina";
-lastChange = "2015-11-02 20:31:22 +0000";
+lastChange = "2015-11-24 06:22:36 +0000";
 layers = (
 {
 components = (
@@ -20644,7 +20647,7 @@ name = "keheh-ar.fina";
 {
 disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 581, -158}";
+transform = "{1, 0, 0, 1, 581, -148}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
