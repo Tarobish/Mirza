@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/behThreedotshorizontalbelow-ar.fina",
-"/dotlessbeh-ar/beeh-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -70660,7 +70656,7 @@ unicode = FEFD;
 {
 color = 9;
 glyphname = "dots.horz.below-ar";
-lastChange = "2015-11-04 19:19:44 +0000";
+lastChange = "2015-11-24 05:20:26 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
