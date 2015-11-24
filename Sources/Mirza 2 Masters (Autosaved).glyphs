@@ -41210,7 +41210,7 @@ unicode = FCFF;
 {
 color = 4;
 glyphname = "hah_alefMaksura-ar.fina";
-lastChange = "2015-11-24 21:11:23 +0000";
+lastChange = "2015-11-24 21:41:00 +0000";
 layers = (
 {
 anchors = (
@@ -41348,7 +41348,7 @@ width = 984;
 anchors = (
 {
 name = bottom_1;
-position = "{767, -29}";
+position = "{758, -29}";
 },
 {
 name = bottom_2;
@@ -41469,12 +41469,12 @@ nodes = (
 "806 17 OFFCURVE",
 "848 0 OFFCURVE",
 "904 0 CURVE SMOOTH",
-"1017 0 LINE",
-"1017 139 LINE"
+"1027 0 LINE",
+"1027 139 LINE"
 );
 }
 );
-width = 1017;
+width = 1027;
 }
 );
 unicode = FD1B;
