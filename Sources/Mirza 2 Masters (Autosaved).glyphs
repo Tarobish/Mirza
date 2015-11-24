@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehbarreeTwoabove-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -33674,7 +33671,7 @@ width = 615;
 {
 color = 0;
 glyphname = "yehbarreeTwoabove-ar.init";
-lastChange = "2015-11-02 23:37:06 +0000";
+lastChange = "2015-11-24 06:57:18 +0000";
 layers = (
 {
 components = (
@@ -33684,7 +33681,7 @@ name = "dotlessbeh-ar.init";
 {
 disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, -63, 29}";
+transform = "{0.8, 0, 0, 0.8, -43, 19}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33711,7 +33708,7 @@ width = 244;
 {
 color = 0;
 glyphname = "yehbarreeTwoabove-ar.medi";
-lastChange = "2015-11-02 23:37:06 +0000";
+lastChange = "2015-11-24 06:57:24 +0000";
 layers = (
 {
 components = (
@@ -33721,7 +33718,7 @@ name = "dotlessbeh-ar.medi";
 {
 disableAlignment = 1;
 name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, -62, -26}";
+transform = "{0.8, 0, 0, 0.8, -41, -36}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
