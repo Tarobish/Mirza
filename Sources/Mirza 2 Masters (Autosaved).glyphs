@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/sheenDotbelow-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -12535,7 +12532,7 @@ width = 563;
 {
 color = 0;
 glyphname = "seenThreedotsbelowThreedots-ar";
-lastChange = "2015-11-24 05:50:33 +0000";
+lastChange = "2015-11-24 05:51:36 +0000";
 layers = (
 {
 components = (
@@ -12568,7 +12565,7 @@ transform = "{1, 0, 0, 1, 644, -449}";
 {
 disableAlignment = 1;
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 663, -19}";
+transform = "{1, 0, 0, 1, 663, -29}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12581,7 +12578,7 @@ unicode = 069C;
 {
 color = 0;
 glyphname = "seenThreedotsbelowThreedots-ar.fina";
-lastChange = "2015-11-24 05:50:26 +0000";
+lastChange = "2015-11-24 05:51:32 +0000";
 layers = (
 {
 components = (
@@ -12614,7 +12611,7 @@ transform = "{1, 0, 0, 1, 641, -452}";
 {
 disableAlignment = 1;
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 664, -25}";
+transform = "{1, 0, 0, 1, 664, -35}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
