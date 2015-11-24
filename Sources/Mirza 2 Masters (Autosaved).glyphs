@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kafswash-ar"
+"/kafswash-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -21863,17 +21863,17 @@ width = 402;
 },
 {
 glyphname = "kafswash-ar";
-lastChange = "2015-10-29 20:13:21 +0000";
+lastChange = "2015-11-24 06:26:01 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{439, -15}";
+position = "{439, -25}";
 },
 {
 name = top;
-position = "{313, 479}";
+position = "{313, 489}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22078,17 +22078,17 @@ unicode = 06AA;
 },
 {
 glyphname = "kafswash-ar.fina";
-lastChange = "2015-10-29 20:13:02 +0000";
+lastChange = "2015-11-24 06:26:07 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{440, -17}";
+position = "{440, -27}";
 },
 {
 name = top;
-position = "{314, 480}";
+position = "{314, 490}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
