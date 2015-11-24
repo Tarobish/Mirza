@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seenDotbelowDotabove-ar.fina"
+"/seenThreedotsbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -12216,7 +12216,7 @@ unicode = FEB3;
 {
 color = 0;
 glyphname = "seenDotbelowDotabove-ar";
-lastChange = "2015-11-24 05:50:33 +0000";
+lastChange = "2015-11-24 05:51:06 +0000";
 layers = (
 {
 components = (
@@ -12226,7 +12226,7 @@ name = "seen-ar";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 645, 139}";
+transform = "{1, 0, 0, 1, 645, 129}";
 },
 {
 name = "dotabove-ar";
@@ -12263,7 +12263,7 @@ unicode = 069A;
 {
 color = 0;
 glyphname = "seenDotbelowDotabove-ar.fina";
-lastChange = "2015-11-24 05:50:47 +0000";
+lastChange = "2015-11-24 05:51:02 +0000";
 layers = (
 {
 components = (
@@ -12273,7 +12273,7 @@ name = "seen-ar.fina";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 637, 150}";
+transform = "{1, 0, 0, 1, 637, 140}";
 },
 {
 name = "dotabove-ar";
