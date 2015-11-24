@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hahThreedotsupbelow-ar.fina"
+"/hamza-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -955,9 +955,15 @@ unicode = 007A;
 },
 {
 glyphname = "hamza-ar";
-lastChange = "2015-10-26 18:33:10 +0000";
+lastChange = "2015-11-24 05:53:25 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{180, 199}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
