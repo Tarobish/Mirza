@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/hahTahbelow-ar.medi",
-"/tcheh-ar.medi"
+"/hahTahbelow-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -5697,7 +5696,7 @@ unicode = FB7B;
 },
 {
 glyphname = "tcheh-ar.medi";
-lastChange = "2015-11-24 05:36:42 +0000";
+lastChange = "2015-11-24 05:36:47 +0000";
 layers = (
 {
 components = (
@@ -7870,7 +7869,7 @@ width = 630;
 {
 color = 0;
 glyphname = "hahTahbelow-ar.init";
-lastChange = "2015-11-24 05:36:22 +0000";
+lastChange = "2015-11-24 05:36:54 +0000";
 layers = (
 {
 components = (
@@ -7880,7 +7879,7 @@ name = "hah-ar.init";
 {
 disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 160, -903}";
+transform = "{1, 0, 0, 1, 160, -883}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
