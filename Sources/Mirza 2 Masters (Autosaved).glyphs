@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dalVinvertedbelow-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -9503,7 +9506,7 @@ width = 564;
 },
 {
 glyphname = "dalVinvertedbelow-ar";
-lastChange = "2015-11-03 00:17:36 +0000";
+lastChange = "2015-11-24 05:39:22 +0000";
 layers = (
 {
 components = (
@@ -9512,7 +9515,7 @@ name = "dal-ar";
 },
 {
 name = circumflex.below;
-transform = "{1, 0, 0, 1, 195, -20}";
+transform = "{1, 0, 0, 1, 205, 160}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
