@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dotabove-ar/dotabove-ar/noon-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -29184,6 +29187,7 @@ width = 511;
 },
 {
 glyphname = "hehAlefabove-ar.init";
+lastChange = "2015-11-24 06:42:22 +0000";
 layers = (
 {
 components = (
@@ -29192,7 +29196,7 @@ name = "heh-ar.init";
 },
 {
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 129, -318}";
+transform = "{1, 0, 0, 1, 120, -308}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -30441,7 +30445,7 @@ unicode = FBD8;
 },
 {
 glyphname = "yu-ar";
-lastChange = "2015-10-31 07:49:29 +0000";
+lastChange = "2015-11-24 06:42:22 +0000";
 layers = (
 {
 components = (
@@ -30450,7 +30454,7 @@ name = "waw-ar";
 },
 {
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 138, -372}";
+transform = "{1, 0, 0, 1, 129, -362}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -30476,7 +30480,7 @@ unicode = 06C8;
 },
 {
 glyphname = "yu-ar.fina";
-lastChange = "2015-10-31 07:47:24 +0000";
+lastChange = "2015-11-24 06:42:22 +0000";
 layers = (
 {
 components = (
@@ -30485,7 +30489,7 @@ name = "waw-ar.fina";
 },
 {
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 136, -417}";
+transform = "{1, 0, 0, 1, 127, -407}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
