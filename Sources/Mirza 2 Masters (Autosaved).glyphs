@@ -50392,7 +50392,7 @@ width = 986;
 {
 color = 4;
 glyphname = "heh_alefMaksura-ar";
-lastChange = "2015-11-24 07:25:55 +0000";
+lastChange = "2015-11-24 07:26:04 +0000";
 layers = (
 {
 anchors = (
@@ -50402,7 +50402,7 @@ position = "{712, -20}";
 },
 {
 name = bottom_2;
-position = "{223, 0}";
+position = "{290, -312}";
 },
 {
 name = caret_1;
@@ -50414,7 +50414,7 @@ position = "{601, 452}";
 },
 {
 name = top_2;
-position = "{263, 76}";
+position = "{263, 36}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
