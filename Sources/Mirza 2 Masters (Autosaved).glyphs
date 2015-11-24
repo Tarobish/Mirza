@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/theh-ar/meem-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -25621,7 +25618,7 @@ width = 716;
 },
 {
 glyphname = "meem-ar.fina";
-lastChange = "2015-11-24 06:31:16 +0000";
+lastChange = "2015-11-24 08:02:29 +0000";
 layers = (
 {
 anchors = (
@@ -25631,7 +25628,7 @@ position = "{140, -368}";
 },
 {
 name = top;
-position = "{271, 253}";
+position = "{262, 263}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -26153,7 +26150,7 @@ unicode = 08A7;
 },
 {
 glyphname = "meemThreedotsabove-ar.fina";
-lastChange = "2015-11-24 06:31:21 +0000";
+lastChange = "2015-11-24 08:02:31 +0000";
 layers = (
 {
 components = (
@@ -26162,7 +26159,7 @@ name = "meem-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 273, -417}";
+transform = "{1, 0, 0, 1, 264, -417}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
