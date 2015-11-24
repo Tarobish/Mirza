@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh-ar.init"
+"/dotlessbeh-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2697,7 +2697,7 @@ unicode = FE92;
 },
 {
 glyphname = "beh-ar.init";
-lastChange = "2015-10-29 21:29:47 +0000";
+lastChange = "2015-11-24 05:16:38 +0000";
 layers = (
 {
 components = (
@@ -2706,7 +2706,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 1, 146}";
+transform = "{1, 0, 0, 1, 1, 136}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -2837,7 +2837,7 @@ unicode = FB59;
 },
 {
 glyphname = "peh-ar.init";
-lastChange = "2015-10-30 21:37:12 +0000";
+lastChange = "2015-11-24 05:16:38 +0000";
 layers = (
 {
 components = (
@@ -2846,7 +2846,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 9, -26}";
+transform = "{1, 0, 0, 1, 9, -36}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -2977,7 +2977,7 @@ unicode = FB55;
 },
 {
 glyphname = "beeh-ar.init";
-lastChange = "2015-10-29 21:29:47 +0000";
+lastChange = "2015-11-24 05:16:38 +0000";
 layers = (
 {
 components = (
@@ -2986,7 +2986,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 1, 53}";
+transform = "{1, 0, 0, 1, 1, 43}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3117,7 +3117,7 @@ unicode = FB5D;
 },
 {
 glyphname = "beheh-ar.init";
-lastChange = "2015-10-29 21:29:47 +0000";
+lastChange = "2015-11-24 05:16:38 +0000";
 layers = (
 {
 components = (
@@ -3126,7 +3126,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "fourdotsbelow-ar";
-transform = "{1, 0, 0, 1, 9, -26}";
+transform = "{1, 0, 0, 1, 9, -36}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3257,7 +3257,7 @@ unicode = FE98;
 },
 {
 glyphname = "teh-ar.init";
-lastChange = "2015-10-30 21:13:55 +0000";
+lastChange = "2015-11-24 05:16:38 +0000";
 layers = (
 {
 components = (
@@ -3266,7 +3266,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, -7, -400}";
+transform = "{1, 0, 0, 1, -7, -390}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3466,7 +3466,7 @@ width = 924;
 },
 {
 glyphname = "tehThreedotsdown-ar.init";
-lastChange = "2015-10-29 21:25:19 +0000";
+lastChange = "2015-11-24 05:16:38 +0000";
 layers = (
 {
 components = (
@@ -3475,7 +3475,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, -7, -407}";
+transform = "{1, 0, 0, 1, -7, -397}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3639,7 +3639,7 @@ unicode = FE9C;
 },
 {
 glyphname = "theh-ar.init";
-lastChange = "2015-11-02 23:43:36 +0000";
+lastChange = "2015-11-24 05:16:38 +0000";
 layers = (
 {
 components = (
@@ -3648,7 +3648,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, -7, -407}";
+transform = "{1, 0, 0, 1, -7, -397}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3779,7 +3779,7 @@ unicode = FB69;
 },
 {
 glyphname = "tteh-ar.init";
-lastChange = "2015-11-24 05:12:00 +0000";
+lastChange = "2015-11-24 05:16:38 +0000";
 layers = (
 {
 components = (
@@ -3788,7 +3788,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, -11, -407}";
+transform = "{1, 0, 0, 1, -11, -397}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3919,7 +3919,7 @@ unicode = FB61;
 },
 {
 glyphname = "tteheh-ar.init";
-lastChange = "2015-10-29 21:25:19 +0000";
+lastChange = "2015-11-24 05:16:38 +0000";
 layers = (
 {
 components = (
@@ -3928,7 +3928,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "twodotsverticalabove-ar";
-transform = "{1, 0, 0, 1, -12, -410}";
+transform = "{1, 0, 0, 1, -12, -400}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4059,7 +4059,7 @@ unicode = FB65;
 },
 {
 glyphname = "teheh-ar.init";
-lastChange = "2015-10-29 21:25:19 +0000";
+lastChange = "2015-11-24 05:16:38 +0000";
 layers = (
 {
 components = (
@@ -4068,7 +4068,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "fourdotsabove-ar";
-transform = "{1, 0, 0, 1, -7, -301}";
+transform = "{1, 0, 0, 1, -7, -291}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
