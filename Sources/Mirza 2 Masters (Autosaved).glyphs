@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hah-ar/tcheh-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -5648,7 +5645,7 @@ unicode = FE9F;
 },
 {
 glyphname = "tcheh-ar";
-lastChange = "2015-11-24 05:52:03 +0000";
+lastChange = "2015-11-24 05:52:39 +0000";
 layers = (
 {
 components = (
@@ -5657,7 +5654,7 @@ name = "hah-ar";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 329, 47}";
+transform = "{1, 0, 0, 1, 329, 51}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -5790,7 +5787,7 @@ unicode = FB7C;
 },
 {
 glyphname = "tcheheh-ar";
-lastChange = "2015-10-30 20:14:54 +0000";
+lastChange = "2015-11-24 05:52:41 +0000";
 layers = (
 {
 components = (
@@ -5799,7 +5796,7 @@ name = "hah-ar";
 },
 {
 name = "fourdotsbelow-ar";
-transform = "{1, 0, 0, 1, 329, 47}";
+transform = "{1, 0, 0, 1, 329, 51}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -6076,7 +6073,7 @@ unicode = FB78;
 },
 {
 glyphname = "dyeh-ar";
-lastChange = "2015-10-30 21:35:59 +0000";
+lastChange = "2015-11-24 05:52:41 +0000";
 layers = (
 {
 components = (
@@ -6085,7 +6082,7 @@ name = "hah-ar";
 },
 {
 name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 321, 126}";
+transform = "{1, 0, 0, 1, 321, 130}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -6217,13 +6214,13 @@ unicode = FB74;
 },
 {
 glyphname = "hah-ar";
-lastChange = "2015-11-24 05:34:48 +0000";
+lastChange = "2015-11-24 05:52:39 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{324, 58}";
+position = "{324, 62}";
 },
 {
 name = center;
