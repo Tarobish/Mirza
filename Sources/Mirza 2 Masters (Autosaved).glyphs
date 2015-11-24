@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/wawring-ar"
+"/wawring-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -29737,7 +29737,7 @@ unicode = FEEE;
 },
 {
 glyphname = "wawring-ar";
-lastChange = "2015-11-02 22:53:46 +0000";
+lastChange = "2015-11-24 06:47:50 +0000";
 layers = (
 {
 components = (
@@ -29760,7 +29760,7 @@ name = "waw-ar";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 86, -220}";
+transform = "{0.8, 0, 0, 0.8, 86, -176}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
