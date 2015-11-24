@@ -38906,7 +38906,7 @@ width = 540;
 {
 color = 4;
 glyphname = "dotlessbeh_reh-ar.fina";
-lastChange = "2015-11-24 07:15:39 +0000";
+lastChange = "2015-11-24 07:15:48 +0000";
 layers = (
 {
 anchors = (
@@ -39014,11 +39014,11 @@ width = 533;
 anchors = (
 {
 name = bottom_1;
-position = "{481, 0}";
+position = "{363, -19}";
 },
 {
 name = bottom_2;
-position = "{160, 0}";
+position = "{9, -190}";
 },
 {
 name = caret_1;
@@ -39030,7 +39030,7 @@ position = "{330, 322}";
 },
 {
 name = top_2;
-position = "{52, 328}";
+position = "{53, 323}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
