@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/twodotshorizontalabove-ar/hahTahTwodotshorizontalabove-ar.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -8029,7 +8032,7 @@ width = 588;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.medi";
-lastChange = "2015-11-24 05:32:45 +0000";
+lastChange = "2015-11-24 05:37:52 +0000";
 layers = (
 {
 components = (
@@ -8184,7 +8187,7 @@ width = 630;
 {
 color = 0;
 glyphname = "hahFourbelow-ar.init";
-lastChange = "2015-11-02 20:41:22 +0000";
+lastChange = "2015-11-24 05:37:23 +0000";
 layers = (
 {
 components = (
@@ -60526,7 +60529,7 @@ unicode = FBBE;
 },
 {
 glyphname = "twodotshorizontalabove-ar";
-lastChange = "2015-10-19 03:21:13 +0000";
+lastChange = "2015-11-24 05:37:48 +0000";
 layers = (
 {
 anchors = (
