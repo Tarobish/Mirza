@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/afghani-ar"
+"/sindhipostpositionmen-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -56866,7 +56866,7 @@ unicode = 0608;
 {
 color = 9;
 glyphname = "afghani-ar";
-lastChange = "2015-11-09 02:55:48 +0000";
+lastChange = "2015-11-24 07:08:30 +0000";
 layers = (
 {
 components = (
@@ -58162,9 +58162,15 @@ unicode = 06E9;
 {
 color = 9;
 glyphname = "sindhipostpositionmen-ar";
-lastChange = "2015-11-04 19:19:30 +0000";
+lastChange = "2015-11-24 07:08:36 +0000";
 layers = (
 {
+anchors = (
+{
+name = "new anchor";
+position = "{250, 416}";
+}
+);
 components = (
 {
 name = uniFBBC;
