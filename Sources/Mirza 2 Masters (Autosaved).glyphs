@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_hah_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -48326,7 +48323,7 @@ unicode = FCCA;
 {
 color = 4;
 glyphname = "lam_hah_alefMaksura-ar";
-lastChange = "2015-11-24 07:33:21 +0000";
+lastChange = "2015-11-24 07:33:32 +0000";
 layers = (
 {
 anchors = (
@@ -48480,11 +48477,11 @@ width = 931;
 anchors = (
 {
 name = bottom_1;
-position = "{606, -265}";
+position = "{605, -265}";
 },
 {
 name = bottom_2;
-position = "{481, 0}";
+position = "{792, 59}";
 },
 {
 name = bottom_3;
