@@ -21439,7 +21439,7 @@ unicode = FB93;
 },
 {
 glyphname = "gaf-ar.medi";
-lastChange = "2015-11-24 06:24:30 +0000";
+lastChange = "2015-11-24 06:24:41 +0000";
 layers = (
 {
 anchors = (
@@ -21473,6 +21473,12 @@ nodes = (
 width = 371;
 },
 {
+anchors = (
+{
+name = top;
+position = "{129, 688}";
+}
+);
 components = (
 {
 name = "kaf-ar.medi";
