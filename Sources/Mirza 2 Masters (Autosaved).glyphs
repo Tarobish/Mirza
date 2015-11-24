@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dotlessbeh_hah-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -38154,7 +38151,7 @@ rightMetricsKey = "alefWasla-ar.fina";
 {
 color = 4;
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2015-11-24 07:21:30 +0000";
+lastChange = "2015-11-24 07:21:36 +0000";
 layers = (
 {
 anchors = (
@@ -38280,7 +38277,7 @@ nodes = (
 );
 }
 );
-width = 549;
+width = 579;
 },
 {
 anchors = (
