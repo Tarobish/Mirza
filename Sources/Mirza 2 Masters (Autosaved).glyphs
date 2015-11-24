@@ -4595,7 +4595,7 @@ width = 315;
 },
 {
 glyphname = "behThreedotsupbelow-ar";
-lastChange = "2015-11-24 05:26:28 +0000";
+lastChange = "2015-11-24 05:45:31 +0000";
 layers = (
 {
 components = (
@@ -4604,7 +4604,7 @@ name = "dotlessbeh-ar";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 413, 58}";
+transform = "{1, 0, 0, 1, 413, 48}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4630,7 +4630,7 @@ unicode = 0752;
 },
 {
 glyphname = "behThreedotsupbelow-ar.fina";
-lastChange = "2015-11-24 05:26:22 +0000";
+lastChange = "2015-11-24 05:45:31 +0000";
 layers = (
 {
 components = (
@@ -4639,7 +4639,7 @@ name = "dotlessbeh-ar.fina";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 420, 69}";
+transform = "{1, 0, 0, 1, 420, 59}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4664,7 +4664,7 @@ width = 924;
 },
 {
 glyphname = "behThreedotsupbelow-ar.init";
-lastChange = "2015-11-24 05:32:43 +0000";
+lastChange = "2015-11-24 05:45:31 +0000";
 layers = (
 {
 components = (
@@ -4673,7 +4673,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 16, 79}";
+transform = "{1, 0, 0, 1, 16, 69}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4698,7 +4698,7 @@ width = 244;
 },
 {
 glyphname = "behThreedotsupbelow-ar.medi";
-lastChange = "2015-11-24 05:34:30 +0000";
+lastChange = "2015-11-24 05:45:31 +0000";
 layers = (
 {
 components = (
@@ -4707,7 +4707,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 9, 79}";
+transform = "{1, 0, 0, 1, 9, 69}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4732,7 +4732,7 @@ width = 315;
 },
 {
 glyphname = "tehThreedotsupbelow-ar";
-lastChange = "2015-11-24 05:26:28 +0000";
+lastChange = "2015-11-24 05:45:24 +0000";
 layers = (
 {
 components = (
@@ -4741,7 +4741,7 @@ name = "dotlessbeh-ar";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 413, 58}";
+transform = "{1, 0, 0, 1, 413, 48}";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -4775,7 +4775,7 @@ unicode = 0753;
 },
 {
 glyphname = "tehThreedotsupbelow-ar.fina";
-lastChange = "2015-11-24 05:26:22 +0000";
+lastChange = "2015-11-24 05:45:31 +0000";
 layers = (
 {
 components = (
@@ -4784,7 +4784,7 @@ name = "dotlessbeh-ar.fina";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 420, 69}";
+transform = "{1, 0, 0, 1, 420, 59}";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -4817,7 +4817,7 @@ width = 924;
 },
 {
 glyphname = "tehThreedotsupbelow-ar.init";
-lastChange = "2015-11-24 05:32:43 +0000";
+lastChange = "2015-11-24 05:45:31 +0000";
 layers = (
 {
 components = (
@@ -4826,7 +4826,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 16, 79}";
+transform = "{1, 0, 0, 1, 16, 69}";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -4859,7 +4859,7 @@ width = 244;
 },
 {
 glyphname = "tehThreedotsupbelow-ar.medi";
-lastChange = "2015-11-24 05:34:30 +0000";
+lastChange = "2015-11-24 05:45:31 +0000";
 layers = (
 {
 components = (
@@ -4868,7 +4868,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 9, 79}";
+transform = "{1, 0, 0, 1, 9, 69}";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -61195,13 +61195,13 @@ unicode = FBB6;
 },
 {
 glyphname = "threedotsupbelow-ar";
-lastChange = "2015-10-19 03:22:08 +0000";
+lastChange = "2015-11-24 05:45:26 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{-2, -104}";
+position = "{-2, -94}";
 },
 {
 name = bottom;
@@ -61243,18 +61243,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"24 -210 OFFCURVE",
-"38 -195 OFFCURVE",
-"52 -179 CURVE",
-"40 -161 OFFCURVE",
-"17 -138 OFFCURVE",
-"-3 -124 CURVE",
-"-17 -140 OFFCURVE",
-"-39 -162 OFFCURVE",
-"-55 -177 CURVE",
-"-35 -193 OFFCURVE",
-"-18 -210 OFFCURVE",
-"0 -231 CURVE"
+"24 -200 OFFCURVE",
+"38 -185 OFFCURVE",
+"52 -169 CURVE",
+"40 -151 OFFCURVE",
+"17 -128 OFFCURVE",
+"-3 -114 CURVE",
+"-17 -130 OFFCURVE",
+"-39 -152 OFFCURVE",
+"-55 -167 CURVE",
+"-35 -183 OFFCURVE",
+"-18 -200 OFFCURVE",
+"0 -221 CURVE"
 );
 }
 );
