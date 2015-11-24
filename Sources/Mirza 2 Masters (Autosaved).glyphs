@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/highwaw-ar"
+"/lamAlefabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -68573,7 +68573,7 @@ unicode = 06DC;
 },
 {
 glyphname = "sukunround-ar";
-lastChange = "2015-11-06 19:12:05 +0000";
+lastChange = "2015-11-24 07:54:09 +0000";
 layers = (
 {
 anchors = (
@@ -68612,18 +68612,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"13 792 OFFCURVE",
-"32 780 OFFCURVE",
-"32 766 CURVE SMOOTH",
-"32 751 OFFCURVE",
-"15 751 OFFCURVE",
-"10 751 CURVE SMOOTH",
-"-13 751 OFFCURVE",
-"-30 763 OFFCURVE",
-"-30 778 CURVE SMOOTH",
-"-30 788 OFFCURVE",
-"-23 798 OFFCURVE",
-"-17 805 CURVE"
+"14 793 OFFCURVE",
+"34 780 OFFCURVE",
+"34 765 CURVE SMOOTH",
+"34 750 OFFCURVE",
+"16 750 OFFCURVE",
+"10 750 CURVE SMOOTH",
+"-14 750 OFFCURVE",
+"-32 762 OFFCURVE",
+"-32 778 CURVE SMOOTH",
+"-32 788 OFFCURVE",
+"-24 799 OFFCURVE",
+"-18 806 CURVE"
 );
 }
 );
