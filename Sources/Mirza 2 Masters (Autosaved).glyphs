@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehbarree-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -33239,17 +33242,17 @@ width = 680;
 },
 {
 glyphname = "yehbarree-ar";
-lastChange = "2015-11-03 06:47:19 +0000";
+lastChange = "2015-11-24 07:09:28 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{432, -17}";
+position = "{432, -27}";
 },
 {
 name = top;
-position = "{216, 284}";
+position = "{216, 304}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33380,7 +33383,7 @@ unicode = 06D2;
 },
 {
 glyphname = "yehbarree-ar.fina";
-lastChange = "2015-11-03 06:47:39 +0000";
+lastChange = "2015-11-24 07:09:33 +0000";
 layers = (
 {
 anchors = (
@@ -33390,7 +33393,7 @@ position = "{266, -294}";
 },
 {
 name = top;
-position = "{214, -23}";
+position = "{214, -13}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33519,7 +33522,7 @@ unicode = FBAF;
 },
 {
 glyphname = "yehbarreeHamzaabove-ar";
-lastChange = "2015-11-24 06:57:04 +0000";
+lastChange = "2015-11-24 07:09:30 +0000";
 layers = (
 {
 components = (
@@ -33528,7 +33531,7 @@ name = "yehbarree-ar";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 218, -396}";
+transform = "{1, 0, 0, 1, 218, -376}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
