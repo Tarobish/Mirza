@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf_kaf-ar.fina"
+"/dotlessfeh_alefMaksura-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -45090,9 +45090,31 @@ width = 668;
 {
 color = 4;
 glyphname = "dotlessfeh_alefMaksura-ar.fina";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 18:57:09 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{636, -200}";
+},
+{
+name = bottom_2;
+position = "{293, -344}";
+},
+{
+name = caret_1;
+position = "{398.5, 0}";
+},
+{
+name = top_1;
+position = "{620, 325}";
+},
+{
+name = top_2;
+position = "{253, -17}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -45210,6 +45232,28 @@ nodes = (
 width = 797;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{655, 0}";
+},
+{
+name = bottom_2;
+position = "{304, -363}";
+},
+{
+name = caret_1;
+position = "{437, 0}";
+},
+{
+name = top_1;
+position = "{655, 500}";
+},
+{
+name = top_2;
+position = "{218, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -45331,9 +45375,31 @@ width = 874;
 {
 color = 4;
 glyphname = "kaf_kaf-ar";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 18:56:23 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{782, -25}";
+},
+{
+name = bottom_2;
+position = "{384, -35}";
+},
+{
+name = caret_1;
+position = "{478, 0}";
+},
+{
+name = top_1;
+position = "{832, 556}";
+},
+{
+name = top_2;
+position = "{372, 167}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -45433,6 +45499,28 @@ nodes = (
 width = 956;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{807, -29}";
+},
+{
+name = bottom_2;
+position = "{422, -39}";
+},
+{
+name = caret_1;
+position = "{516.5, 0}";
+},
+{
+name = top_1;
+position = "{869, 599}";
+},
+{
+name = top_2;
+position = "{382, 199}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -45536,7 +45624,7 @@ width = 1033;
 {
 color = 4;
 glyphname = "kaf_kaf-ar.fina";
-lastChange = "2015-11-24 18:49:32 +0000";
+lastChange = "2015-11-24 18:55:32 +0000";
 layers = (
 {
 anchors = (
@@ -45675,6 +45763,28 @@ nodes = (
 width = 1073;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{825, -29}";
+},
+{
+name = bottom_2;
+position = "{415, -29}";
+},
+{
+name = caret_1;
+position = "{572.5, 0}";
+},
+{
+name = top_1;
+position = "{875, 598}";
+},
+{
+name = top_2;
+position = "{368, 199}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
