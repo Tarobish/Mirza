@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad_meem-ar"
+"/ain_meem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -42582,7 +42582,7 @@ unicode = FD2B;
 {
 color = 4;
 glyphname = "sad_meem-ar";
-lastChange = "2015-11-24 07:06:12 +0000";
+lastChange = "2015-11-24 07:06:18 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -42615,8 +42615,11 @@ nodes = (
 "226 156 OFFCURVE",
 "212 144 OFFCURVE",
 "196 122 CURVE SMOOTH",
-"174 91 OFFCURVE",
-"154 32 OFFCURVE",
+"186 107 OFFCURVE",
+"176 88 OFFCURVE",
+"168 68 CURVE SMOOTH",
+"160 46 OFFCURVE",
+"156 25 OFFCURVE",
 "158 10 CURVE",
 "118 -8 OFFCURVE",
 "99 -26 OFFCURVE",
