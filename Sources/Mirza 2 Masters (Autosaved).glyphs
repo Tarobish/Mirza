@@ -39073,13 +39073,13 @@ width = 642;
 {
 color = 4;
 glyphname = "dotlessbeh_meem-ar";
-lastChange = "2015-11-24 07:13:21 +0000";
+lastChange = "2015-11-24 07:13:36 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{352, 0}";
+position = "{312, -100}";
 },
 {
 name = bottom_2;
@@ -39095,7 +39095,7 @@ position = "{304, 227}";
 },
 {
 name = top_2;
-position = "{92, 98}";
+position = "{93, 98}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
