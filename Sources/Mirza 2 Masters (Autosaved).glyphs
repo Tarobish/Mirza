@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dadDotbelow-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -14393,7 +14390,7 @@ unicode = FEBF;
 {
 color = 0;
 glyphname = "dadDotbelow-ar";
-lastChange = "2015-11-02 20:30:29 +0000";
+lastChange = "2015-11-24 05:55:45 +0000";
 layers = (
 {
 components = (
@@ -14403,7 +14400,7 @@ name = "dad-ar";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 674, 152}";
+transform = "{1, 0, 0, 1, 674, 142}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14431,7 +14428,7 @@ unicode = 06FB;
 {
 color = 0;
 glyphname = "dadDotbelow-ar.fina";
-lastChange = "2015-11-02 20:30:26 +0000";
+lastChange = "2015-11-24 05:55:41 +0000";
 layers = (
 {
 components = (
@@ -14441,7 +14438,7 @@ name = "dad-ar.fina";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 693, 154}";
+transform = "{1, 0, 0, 1, 693, 144}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
