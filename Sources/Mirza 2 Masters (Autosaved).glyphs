@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sadTwodotsbelow-ar.fina"
+"/dadDotbelow-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -13973,7 +13973,7 @@ unicode = FEBB;
 {
 color = 0;
 glyphname = "sadTwodotsbelow-ar";
-lastChange = "2015-11-02 20:30:18 +0000";
+lastChange = "2015-11-24 05:55:36 +0000";
 layers = (
 {
 components = (
@@ -13983,7 +13983,7 @@ name = "sad-ar";
 {
 disableAlignment = 1;
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 688, 168}";
+transform = "{1, 0, 0, 1, 688, 158}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14011,7 +14011,7 @@ unicode = 069D;
 {
 color = 0;
 glyphname = "sadTwodotsbelow-ar.fina";
-lastChange = "2015-11-02 20:30:22 +0000";
+lastChange = "2015-11-24 05:55:32 +0000";
 layers = (
 {
 components = (
@@ -14021,7 +14021,7 @@ name = "sad-ar.fina";
 {
 disableAlignment = 1;
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 694, 166}";
+transform = "{1, 0, 0, 1, 694, 156}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
