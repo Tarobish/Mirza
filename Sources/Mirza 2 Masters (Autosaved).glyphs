@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kehehTwodotshorizontalabove-ar.init"
+"/kehehDotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -20673,7 +20673,7 @@ width = 883;
 },
 {
 glyphname = "kehehTwodotshorizontalabove-ar.init";
-lastChange = "2015-11-24 06:22:08 +0000";
+lastChange = "2015-11-24 06:22:41 +0000";
 layers = (
 {
 components = (
