@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alefHamzabelow-ar"
+"/lam_alefWavyhamzaabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -37779,7 +37779,7 @@ unicode = FEF8;
 {
 color = 0;
 glyphname = "lam_alefHamzabelow-ar";
-lastChange = "2015-11-24 07:01:31 +0000";
+lastChange = "2015-11-24 07:02:11 +0000";
 layers = (
 {
 components = (
@@ -37788,7 +37788,7 @@ name = "lam_alef-ar";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 137, 167}";
+transform = "{1, 0, 0, 1, 137, 157}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37817,7 +37817,7 @@ unicode = FEF9;
 {
 color = 0;
 glyphname = "lam_alefHamzabelow-ar.fina";
-lastChange = "2015-11-06 19:19:11 +0000";
+lastChange = "2015-11-24 07:02:15 +0000";
 layers = (
 {
 components = (
@@ -37826,7 +37826,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 157, 130}";
+transform = "{1, 0, 0, 1, 157, 120}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
