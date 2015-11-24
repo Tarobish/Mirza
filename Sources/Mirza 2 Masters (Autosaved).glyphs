@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/lamDotabove_alef-ar.isol"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -49148,7 +49151,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamVabove_alef-ar.isol";
-lastChange = "2015-11-08 18:26:53 +0000";
+lastChange = "2015-11-24 07:03:13 +0000";
 layers = (
 {
 components = (
@@ -49157,7 +49160,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 314, -132}";
+transform = "{1, 0, 0, 1, 314, -122}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -49184,7 +49187,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "lamDotabove_alef-ar.fina";
-lastChange = "2015-11-08 18:26:53 +0000";
+lastChange = "2015-11-24 07:03:17 +0000";
 layers = (
 {
 components = (
@@ -49193,7 +49196,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 318, -118}";
+transform = "{1, 0, 0, 1, 318, -108}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -49220,7 +49223,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamDotabove_alef-ar.isol";
-lastChange = "2015-11-24 07:03:04 +0000";
+lastChange = "2015-11-24 07:03:21 +0000";
 layers = (
 {
 components = (
@@ -49229,7 +49232,7 @@ name = "lam_alef-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 229, -116}";
+transform = "{1, 0, 0, 1, 229, -106}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
