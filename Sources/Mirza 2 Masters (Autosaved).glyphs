@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/sad_alefMaksura-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -42414,9 +42411,31 @@ unicode = FD17;
 {
 color = 4;
 glyphname = "sad_reh-ar";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 19:12:23 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{476, -35}";
+},
+{
+name = bottom_2;
+position = "{-17, -276}";
+},
+{
+name = caret_1;
+position = "{388.5, 0}";
+},
+{
+name = top_1;
+position = "{598, 352}";
+},
+{
+name = top_2;
+position = "{95, 146}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -42523,6 +42542,28 @@ nodes = (
 width = 777;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{529, -29}";
+},
+{
+name = bottom_2;
+position = "{19, -271}";
+},
+{
+name = caret_1;
+position = "{413.5, 0}";
+},
+{
+name = top_1;
+position = "{637, 392}";
+},
+{
+name = top_2;
+position = "{101, 193}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -42634,9 +42675,31 @@ unicode = FD0F;
 {
 color = 4;
 glyphname = "sad_reh-ar.fina";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 19:11:34 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{487, -28}";
+},
+{
+name = bottom_2;
+position = "{19, -278}";
+},
+{
+name = caret_1;
+position = "{401, 0}";
+},
+{
+name = top_1;
+position = "{589, 350}";
+},
+{
+name = top_2;
+position = "{114, 167}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -42752,6 +42815,28 @@ nodes = (
 width = 802;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{555, -29}";
+},
+{
+name = bottom_2;
+position = "{29, -271}";
+},
+{
+name = caret_1;
+position = "{428, 0}";
+},
+{
+name = top_1;
+position = "{628, 391}";
+},
+{
+name = top_2;
+position = "{119, 202}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -42872,9 +42957,31 @@ unicode = FD2B;
 {
 color = 4;
 glyphname = "sad_meem-ar";
-lastChange = "2015-11-24 07:06:18 +0000";
+lastChange = "2015-11-24 19:10:30 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{553, -35}";
+},
+{
+name = bottom_2;
+position = "{118, -498}";
+},
+{
+name = caret_1;
+position = "{420.5, 0}";
+},
+{
+name = top_1;
+position = "{652, 362}";
+},
+{
+name = top_2;
+position = "{161, 188}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -42987,6 +43094,28 @@ nodes = (
 width = 841;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{594, -29}";
+},
+{
+name = bottom_2;
+position = "{135, -462}";
+},
+{
+name = caret_1;
+position = "{444.5, 0}";
+},
+{
+name = top_1;
+position = "{689, 392}";
+},
+{
+name = top_2;
+position = "{185, 246}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -43104,9 +43233,31 @@ unicode = FC21;
 {
 color = 4;
 glyphname = "sad_meem-ar.init";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 19:09:32 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{445, 78}";
+},
+{
+name = bottom_2;
+position = "{128, -35}";
+},
+{
+name = caret_1;
+position = "{393, 0}";
+},
+{
+name = top_1;
+position = "{597, 465}";
+},
+{
+name = top_2;
+position = "{128, 313}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -43161,12 +43312,12 @@ nodes = (
 "184 8 OFFCURVE",
 "219 -11 CURVE",
 "231 18 OFFCURVE",
-"236 52 OFFCURVE",
-"234 84 CURVE",
-"212 90 OFFCURVE",
-"145 102 OFFCURVE",
-"145 142 CURVE SMOOTH",
-"145 169 OFFCURVE",
+"242 62 OFFCURVE",
+"240 94 CURVE",
+"218 100 OFFCURVE",
+"151 112 OFFCURVE",
+"151 152 CURVE SMOOTH",
+"151 179 OFFCURVE",
 "175 221 OFFCURVE",
 "239 221 CURVE SMOOTH",
 "279 221 OFFCURVE",
@@ -43217,6 +43368,28 @@ nodes = (
 width = 786;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{473, 78}";
+},
+{
+name = bottom_2;
+position = "{170, -54}";
+},
+{
+name = caret_1;
+position = "{403.5, 0}";
+},
+{
+name = top_1;
+position = "{607, 505}";
+},
+{
+name = top_2;
+position = "{128, 359}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -43332,9 +43505,31 @@ unicode = FCB3;
 {
 color = 4;
 glyphname = "sad_alefMaksura-ar";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 19:08:22 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{797, -25}";
+},
+{
+name = bottom_2;
+position = "{283, -313}";
+},
+{
+name = caret_1;
+position = "{547, 0}";
+},
+{
+name = top_1;
+position = "{905, 351}";
+},
+{
+name = top_2;
+position = "{223, 29}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -43471,6 +43666,28 @@ nodes = (
 width = 1094;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{834, -29}";
+},
+{
+name = bottom_2;
+position = "{292, -313}";
+},
+{
+name = caret_1;
+position = "{573.5, 0}";
+},
+{
+name = top_1;
+position = "{947, 392}";
+},
+{
+name = top_2;
+position = "{224, 85}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -43612,7 +43829,7 @@ unicode = FD05;
 {
 color = 4;
 glyphname = "sad_alefMaksura-ar.fina";
-lastChange = "2015-11-24 19:07:19 +0000";
+lastChange = "2015-11-24 19:07:30 +0000";
 layers = (
 {
 anchors = (
@@ -43797,11 +44014,11 @@ position = "{587.5, 0}";
 },
 {
 name = top_1;
-position = "{881, 500}";
+position = "{947, 391}";
 },
 {
 name = top_2;
-position = "{294, 500}";
+position = "{228, 90}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
