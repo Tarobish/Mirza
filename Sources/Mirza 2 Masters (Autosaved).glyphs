@@ -33892,9 +33892,8 @@ width = 315;
 );
 },
 {
-color = 9;
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-24 06:57:52 +0000";
+lastChange = "2015-11-24 06:58:03 +0000";
 layers = (
 {
 components = (
@@ -33927,9 +33926,8 @@ width = 716;
 );
 },
 {
-color = 9;
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-24 06:57:52 +0000";
+lastChange = "2015-11-24 06:58:05 +0000";
 layers = (
 {
 anchors = (
@@ -34098,7 +34096,7 @@ width = 716;
 {
 color = 0;
 glyphname = "highhamzaWaw-ar";
-lastChange = "2015-11-06 19:22:41 +0000";
+lastChange = "2015-11-24 06:58:08 +0000";
 layers = (
 {
 components = (
@@ -34108,7 +34106,7 @@ name = "waw-ar";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 222, -360}";
+transform = "{1, 0, 0, 1, 222, -350}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
