@@ -955,7 +955,7 @@ unicode = 007A;
 },
 {
 glyphname = "hamza-ar";
-lastChange = "2015-11-24 05:54:13 +0000";
+lastChange = "2015-11-24 05:54:22 +0000";
 layers = (
 {
 anchors = (
@@ -1029,6 +1029,16 @@ nodes = (
 width = 337;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{179, -49}";
+},
+{
+name = top;
+position = "{174, 232}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
