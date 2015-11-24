@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/lam_hah-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -48163,9 +48166,31 @@ unicode = FC40;
 {
 color = 4;
 glyphname = "lam_hah-ar.init";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 07:33:49 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{409, 0}";
+},
+{
+name = bottom_2;
+position = "{136, 0}";
+},
+{
+name = caret_1;
+position = "{272.5, 0}";
+},
+{
+name = top_1;
+position = "{153, 586}";
+},
+{
+name = top_2;
+position = "{58, 322}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
