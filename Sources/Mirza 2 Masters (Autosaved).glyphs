@@ -9506,7 +9506,7 @@ width = 564;
 },
 {
 glyphname = "dalVinvertedbelow-ar";
-lastChange = "2015-11-24 05:40:32 +0000";
+lastChange = "2015-11-24 05:40:41 +0000";
 layers = (
 {
 anchors = (
@@ -9529,13 +9529,19 @@ name = Regular;
 width = 443;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{221, -261}";
+}
+);
 components = (
 {
 name = "dal-ar";
 },
 {
 name = circumflex.below;
-transform = "{1, 0, 0, 1, 214, -40}";
+transform = "{1, 0, 0, 1, 214, 148}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
