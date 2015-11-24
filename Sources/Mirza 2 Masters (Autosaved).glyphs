@@ -49693,17 +49693,17 @@ rightMetricsKey = "alef-ar.isol";
 {
 color = 4;
 glyphname = "meem_meem-ar.init";
-lastChange = "2015-11-24 07:24:04 +0000";
+lastChange = "2015-11-24 07:24:15 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{264, -33}";
+position = "{242, -90}";
 },
 {
 name = bottom_2;
-position = "{44, -116}";
+position = "{42, -52}";
 },
 {
 name = caret_1;
@@ -49711,7 +49711,7 @@ position = "{179, 0}";
 },
 {
 name = top_1;
-position = "{254, 494}";
+position = "{244, 494}";
 },
 {
 name = top_2;
