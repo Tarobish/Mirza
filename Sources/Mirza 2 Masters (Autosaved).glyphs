@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/rehRing-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -10119,13 +10116,13 @@ width = 366;
 {
 color = 0;
 glyphname = "rehRing-ar";
-lastChange = "2015-11-24 05:46:36 +0000";
+lastChange = "2015-11-24 05:46:44 +0000";
 layers = (
 {
 anchors = (
 {
-name = "new anchor";
-position = "{37, -417}";
+name = bottom;
+position = "{-12, -351}";
 }
 );
 components = (
