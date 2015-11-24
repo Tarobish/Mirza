@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/noonRing-ar.init"
+"/noonRing-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -26965,7 +26965,7 @@ width = 678;
 },
 {
 glyphname = "noonRing-ar.init";
-lastChange = "2015-11-02 22:51:58 +0000";
+lastChange = "2015-11-24 06:43:19 +0000";
 layers = (
 {
 components = (
@@ -26988,7 +26988,7 @@ name = "noon-ar.init";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 50, -198}";
+transform = "{1, 0, 0, 1, 50, -195}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -26999,7 +26999,7 @@ width = 244;
 },
 {
 glyphname = "noonRing-ar.medi";
-lastChange = "2015-11-02 22:51:58 +0000";
+lastChange = "2015-11-24 06:43:26 +0000";
 layers = (
 {
 components = (
@@ -27022,7 +27022,7 @@ name = "noon-ar.medi";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 41, -256}";
+transform = "{1, 0, 0, 1, 41, -197}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
