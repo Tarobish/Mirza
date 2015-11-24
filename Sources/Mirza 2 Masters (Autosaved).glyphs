@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/tah-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -14446,7 +14449,7 @@ unicode = 06FB;
 {
 color = 0;
 glyphname = "dadDotbelow-ar.fina";
-lastChange = "2015-11-24 05:55:41 +0000";
+lastChange = "2015-11-24 08:09:21 +0000";
 layers = (
 {
 components = (
@@ -14461,7 +14464,7 @@ transform = "{1, 0, 0, 1, 693, 144}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 1061;
+width = 1072;
 },
 {
 components = (
@@ -14962,7 +14965,7 @@ unicode = FEC2;
 },
 {
 glyphname = "tah-ar.medi";
-lastChange = "2015-11-24 05:56:00 +0000";
+lastChange = "2015-11-24 08:09:19 +0000";
 layers = (
 {
 anchors = (
@@ -15038,8 +15041,8 @@ nodes = (
 "388 1 OFFCURVE",
 "409 0 OFFCURVE",
 "439 0 CURVE SMOOTH",
-"539 0 LINE",
-"539 98 LINE",
+"550 0 LINE",
+"550 98 LINE",
 "445 98 LINE SMOOTH"
 );
 },
@@ -15065,7 +15068,7 @@ nodes = (
 );
 }
 );
-width = 539;
+width = 550;
 },
 {
 anchors = (
@@ -15473,7 +15476,7 @@ width = 487;
 },
 {
 glyphname = "tahThreedots-ar.medi";
-lastChange = "2015-11-24 05:56:01 +0000";
+lastChange = "2015-11-24 08:09:21 +0000";
 layers = (
 {
 components = (
@@ -15487,7 +15490,7 @@ transform = "{1, 0, 0, 1, 283, -342}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 539;
+width = 550;
 },
 {
 components = (
@@ -15577,7 +15580,7 @@ unicode = FEC6;
 },
 {
 glyphname = "zah-ar.medi";
-lastChange = "2015-11-24 05:56:01 +0000";
+lastChange = "2015-11-24 08:09:21 +0000";
 layers = (
 {
 components = (
@@ -15591,7 +15594,7 @@ transform = "{1, 0, 0, 1, 278, -327}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 539;
+width = 550;
 },
 {
 components = (
@@ -15750,7 +15753,7 @@ width = 487;
 },
 {
 glyphname = "tahTwodotsabove-ar.medi";
-lastChange = "2015-11-24 05:56:01 +0000";
+lastChange = "2015-11-24 08:09:21 +0000";
 layers = (
 {
 components = (
@@ -15764,7 +15767,7 @@ transform = "{1, 0, 0, 1, 283, -335}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 539;
+width = 550;
 },
 {
 components = (
