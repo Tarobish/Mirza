@@ -48326,17 +48326,17 @@ unicode = FCCA;
 {
 color = 4;
 glyphname = "lam_hah_alefMaksura-ar";
-lastChange = "2015-11-24 07:32:49 +0000";
+lastChange = "2015-11-24 07:33:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{639, -218}";
+position = "{611, -237}";
 },
 {
 name = bottom_2;
-position = "{723, 74}";
+position = "{733, 74}";
 },
 {
 name = bottom_3;
@@ -48477,6 +48477,40 @@ nodes = (
 width = 931;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{802, 0}";
+},
+{
+name = bottom_2;
+position = "{481, 0}";
+},
+{
+name = bottom_3;
+position = "{160, 0}";
+},
+{
+name = caret_1;
+position = "{320.667, 0}";
+},
+{
+name = caret_2;
+position = "{641.333, 0}";
+},
+{
+name = top_1;
+position = "{802, 500}";
+},
+{
+name = top_2;
+position = "{481, 500}";
+},
+{
+name = top_3;
+position = "{160, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
