@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dammatan-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -64689,17 +64692,17 @@ unicode = 064B;
 },
 {
 glyphname = "dammatan-ar";
-lastChange = "2015-11-24 07:55:23 +0000";
+lastChange = "2015-11-24 08:10:40 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-2, 684}";
+position = "{-2, 681}";
 },
 {
 name = top;
-position = "{-2, 889}";
+position = "{-2, 896}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
