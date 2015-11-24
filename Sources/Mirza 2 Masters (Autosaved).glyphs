@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/behVinvertedbelow-ar.init"
+"/behVinvertedbelow-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -5162,7 +5162,7 @@ width = 924;
 },
 {
 glyphname = "behVinvertedbelow-ar.init";
-lastChange = "2015-11-24 23:19:24 +0000";
+lastChange = "2015-11-24 23:19:30 +0000";
 layers = (
 {
 components = (
@@ -5185,7 +5185,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = circumflex.below;
-transform = "{1, 0, 0, 1, 33, 187}";
+transform = "{1, 0, 0, 1, 33, 157}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -5196,7 +5196,7 @@ width = 244;
 },
 {
 glyphname = "behVinvertedbelow-ar.medi";
-lastChange = "2015-11-24 20:01:39 +0000";
+lastChange = "2015-11-24 23:19:37 +0000";
 layers = (
 {
 components = (
@@ -5205,7 +5205,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = circumflex.below;
-transform = "{1, 0, 0, 1, 11, -13}";
+transform = "{1, 0, 0, 1, 11, 159}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
