@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/fehThreedotsupbelow-ar.fina"
+"/noonTahabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -35637,7 +35637,7 @@ width = 444;
 },
 {
 glyphname = "meemDotabove-ar";
-lastChange = "2015-11-24 06:49:04 +0000";
+lastChange = "2015-11-24 06:59:50 +0000";
 layers = (
 {
 components = (
@@ -36048,7 +36048,7 @@ width = 315;
 },
 {
 glyphname = "noonTahabove-ar";
-lastChange = "2015-10-29 21:17:26 +0000";
+lastChange = "2015-11-24 06:59:57 +0000";
 layers = (
 {
 components = (
