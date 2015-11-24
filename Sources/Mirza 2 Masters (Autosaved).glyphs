@@ -50573,7 +50573,7 @@ unicode = FC53;
 },
 {
 glyphname = "heh_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:22:25 +0000";
+lastChange = "2015-11-24 07:22:36 +0000";
 layers = (
 {
 anchors = (
@@ -50716,7 +50716,7 @@ width = 993;
 anchors = (
 {
 name = bottom_1;
-position = "{768, 0}";
+position = "{753, -209}";
 },
 {
 name = bottom_2;
@@ -50728,11 +50728,11 @@ position = "{512, 0}";
 },
 {
 name = top_1;
-position = "{768, 500}";
+position = "{787, 257}";
 },
 {
 name = top_2;
-position = "{256, 500}";
+position = "{448, 280}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
