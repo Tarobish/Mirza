@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/ngoeh-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -23526,7 +23523,7 @@ unicode = FBD5;
 {
 color = 0;
 glyphname = "ngoeh-ar";
-lastChange = "2015-11-02 20:32:08 +0000";
+lastChange = "2015-11-24 06:27:02 +0000";
 layers = (
 {
 components = (
@@ -23536,7 +23533,7 @@ name = "gaf-ar";
 {
 disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 499, -123}";
+transform = "{1, 0, 0, 1, 536, -113}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23564,7 +23561,7 @@ unicode = 06B1;
 {
 color = 0;
 glyphname = "ngoeh-ar.fina";
-lastChange = "2015-11-02 20:32:08 +0000";
+lastChange = "2015-11-24 06:27:08 +0000";
 layers = (
 {
 components = (
@@ -23574,7 +23571,7 @@ name = "gaf-ar.fina";
 {
 disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 510, -123}";
+transform = "{1, 0, 0, 1, 530, -113}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23602,7 +23599,7 @@ unicode = FB9B;
 {
 color = 0;
 glyphname = "ngoeh-ar.medi";
-lastChange = "2015-11-02 20:32:08 +0000";
+lastChange = "2015-11-24 06:27:13 +0000";
 layers = (
 {
 components = (
@@ -23612,7 +23609,7 @@ name = "gaf-ar.medi";
 {
 disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 64, -126}";
+transform = "{1, 0, 0, 1, 84, -116}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
