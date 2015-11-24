@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_meem-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -48561,7 +48558,7 @@ width = 962;
 {
 color = 4;
 glyphname = "lam_meem-ar";
-lastChange = "2015-11-24 07:31:50 +0000";
+lastChange = "2015-11-24 07:31:54 +0000";
 layers = (
 {
 anchors = (
@@ -48657,7 +48654,7 @@ width = 403;
 anchors = (
 {
 name = bottom_1;
-position = "{293, -30}";
+position = "{290, -29}";
 },
 {
 name = bottom_2;
