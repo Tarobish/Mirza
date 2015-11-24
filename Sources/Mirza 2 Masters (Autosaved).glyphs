@@ -37485,17 +37485,17 @@ unicode = FEFB;
 },
 {
 glyphname = "lam_alef-ar.fina";
-lastChange = "2015-11-24 07:01:39 +0000";
+lastChange = "2015-11-24 07:01:42 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{162, -66}";
+position = "{162, -76}";
 },
 {
 name = bottom_2;
-position = "{162, -65}";
+position = "{162, -75}";
 },
 {
 name = caret_1;
