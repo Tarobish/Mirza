@@ -50573,7 +50573,7 @@ unicode = FC53;
 },
 {
 glyphname = "heh_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:22:17 +0000";
+lastChange = "2015-11-24 07:22:25 +0000";
 layers = (
 {
 anchors = (
@@ -50583,7 +50583,7 @@ position = "{742, -214}";
 },
 {
 name = bottom_2;
-position = "{282, -303}";
+position = "{282, -313}";
 },
 {
 name = caret_1;
@@ -50591,11 +50591,11 @@ position = "{496.5, 0}";
 },
 {
 name = top_1;
-position = "{742, 259}";
+position = "{712, 259}";
 },
 {
 name = top_2;
-position = "{248, 500}";
+position = "{216, 35}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -50713,6 +50713,28 @@ nodes = (
 width = 993;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{768, 0}";
+},
+{
+name = bottom_2;
+position = "{256, 0}";
+},
+{
+name = caret_1;
+position = "{512, 0}";
+},
+{
+name = top_1;
+position = "{768, 500}";
+},
+{
+name = top_2;
+position = "{256, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
