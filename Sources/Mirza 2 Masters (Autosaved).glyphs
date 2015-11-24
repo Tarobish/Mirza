@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/highhamzaWaw-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -34135,8 +34132,9 @@ width = 339;
 unicode = 0676;
 },
 {
+color = 0;
 glyphname = "highhamzaWaw-ar.fina";
-lastChange = "2015-11-24 06:58:20 +0000";
+lastChange = "2015-11-24 06:58:27 +0000";
 layers = (
 {
 anchors = (
@@ -34337,7 +34335,7 @@ width = 615;
 {
 color = 6;
 glyphname = "uHamzaabove-ar";
-lastChange = "2015-11-24 06:49:04 +0000";
+lastChange = "2015-11-24 06:58:31 +0000";
 layers = (
 {
 components = (
