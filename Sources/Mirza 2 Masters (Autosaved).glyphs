@@ -8980,7 +8980,7 @@ unicode = 0689;
 },
 {
 glyphname = "dalRing-ar.fina";
-lastChange = "2015-11-24 05:43:35 +0000";
+lastChange = "2015-11-24 05:43:46 +0000";
 layers = (
 {
 anchors = (
@@ -9003,13 +9003,19 @@ name = Regular;
 width = 533;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{228, -122}";
+}
+);
 components = (
 {
 name = "dal-ar.fina";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 222, -259}";
+transform = "{1, 0, 0, 1, 222, -199}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
