@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehKashmiri-ar.init"
+"/yehKashmiri-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -32949,7 +32949,7 @@ unicode = 0620;
 },
 {
 glyphname = "yehKashmiri-ar.fina";
-lastChange = "2015-11-24 06:55:47 +0000";
+lastChange = "2015-11-24 06:56:12 +0000";
 layers = (
 {
 components = (
@@ -32972,7 +32972,7 @@ name = "alefMaksura-ar.fina";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 301, -619}";
+transform = "{1, 0, 0, 1, 301, -569}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -32983,7 +32983,7 @@ width = 680;
 },
 {
 glyphname = "yehKashmiri-ar.init";
-lastChange = "2015-11-24 06:55:59 +0000";
+lastChange = "2015-11-24 06:56:02 +0000";
 layers = (
 {
 components = (
@@ -33006,7 +33006,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 48, -271}";
+transform = "{1, 0, 0, 1, 48, -301}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
