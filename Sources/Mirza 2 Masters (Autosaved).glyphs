@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hahTahbelow-ar.fina"
+"/hahTahbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -7757,7 +7757,7 @@ unicode = FEA7;
 {
 color = 0;
 glyphname = "hahTahbelow-ar";
-lastChange = "2015-11-02 20:41:18 +0000";
+lastChange = "2015-11-24 05:37:11 +0000";
 layers = (
 {
 components = (
@@ -7767,7 +7767,7 @@ name = "hah-ar";
 {
 disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 335, -852}";
+transform = "{1, 0, 0, 1, 335, -832}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -7795,7 +7795,7 @@ unicode = 076E;
 {
 color = 0;
 glyphname = "hahTahbelow-ar.fina";
-lastChange = "2015-11-02 20:41:18 +0000";
+lastChange = "2015-11-24 05:37:03 +0000";
 layers = (
 {
 components = (
@@ -7805,7 +7805,7 @@ name = "hah-ar.fina";
 {
 disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 327, -827}";
+transform = "{1, 0, 0, 1, 327, -807}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
