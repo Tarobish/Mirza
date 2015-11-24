@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dotlessfeh_alefMaksura-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -44683,9 +44680,31 @@ unicode = FCF7;
 {
 color = 4;
 glyphname = "ain_alefMaksura-ar.fina";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 19:01:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{559, -264}";
+},
+{
+name = bottom_2;
+position = "{281, -312}";
+},
+{
+name = caret_1;
+position = "{392.5, 0}";
+},
+{
+name = top_1;
+position = "{594, 293}";
+},
+{
+name = top_2;
+position = "{256, 7}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -44780,6 +44799,28 @@ nodes = (
 width = 785;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{594, -250}";
+},
+{
+name = bottom_2;
+position = "{291, -314}";
+},
+{
+name = caret_1;
+position = "{417, 0}";
+},
+{
+name = top_1;
+position = "{611, 334}";
+},
+{
+name = top_2;
+position = "{255, 56}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -44879,9 +44920,31 @@ unicode = FD13;
 {
 color = 4;
 glyphname = "dotlessfeh_alefMaksura-ar";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 18:59:21 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{456, -313}";
+},
+{
+name = bottom_2;
+position = "{236, -311}";
+},
+{
+name = caret_1;
+position = "{325, 0}";
+},
+{
+name = top_1;
+position = "{435, 394}";
+},
+{
+name = top_2;
+position = "{202, 29}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -44984,6 +45047,28 @@ nodes = (
 width = 650;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{492, -309}";
+},
+{
+name = bottom_2;
+position = "{226, -311}";
+},
+{
+name = caret_1;
+position = "{334, 0}";
+},
+{
+name = top_1;
+position = "{422, 429}";
+},
+{
+name = top_2;
+position = "{154, 91}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -45090,7 +45175,7 @@ width = 668;
 {
 color = 4;
 glyphname = "dotlessfeh_alefMaksura-ar.fina";
-lastChange = "2015-11-24 18:57:09 +0000";
+lastChange = "2015-11-24 18:57:25 +0000";
 layers = (
 {
 anchors = (
@@ -45235,11 +45320,11 @@ width = 797;
 anchors = (
 {
 name = bottom_1;
-position = "{655, 0}";
+position = "{639, -268}";
 },
 {
 name = bottom_2;
-position = "{304, -363}";
+position = "{314, -383}";
 },
 {
 name = caret_1;
@@ -45247,11 +45332,11 @@ position = "{437, 0}";
 },
 {
 name = top_1;
-position = "{655, 500}";
+position = "{669, 366}";
 },
 {
 name = top_2;
-position = "{218, 500}";
+position = "{269, -19}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
