@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/fehDotaboveDotbelow-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -17987,7 +17990,7 @@ width = 444;
 {
 color = 0;
 glyphname = "fehDotaboveDotbelow-ar";
-lastChange = "2015-11-24 05:57:19 +0000";
+lastChange = "2015-11-24 05:58:23 +0000";
 layers = (
 {
 components = (
@@ -18001,7 +18004,7 @@ transform = "{1, 0, 0, 1, 654, -211}";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 566, 135}";
+transform = "{1, 0, 0, 1, 566, 125}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18033,7 +18036,7 @@ unicode = 06A3;
 {
 color = 0;
 glyphname = "fehDotaboveDotbelow-ar.fina";
-lastChange = "2015-11-24 05:57:14 +0000";
+lastChange = "2015-11-24 05:58:17 +0000";
 layers = (
 {
 components = (
@@ -18047,7 +18050,7 @@ transform = "{1, 0, 0, 1, 726, -313}";
 {
 disableAlignment = 1;
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 695, 134}";
+transform = "{1, 0, 0, 1, 693, 134}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
