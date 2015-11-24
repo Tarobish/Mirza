@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/shadda-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -65273,7 +65276,7 @@ unicode = 0650;
 },
 {
 glyphname = "shadda-ar";
-lastChange = "2015-11-06 18:53:30 +0000";
+lastChange = "2015-11-24 07:56:07 +0000";
 layers = (
 {
 anchors = (
@@ -65296,18 +65299,18 @@ nodes = (
 "82 811 OFFCURVE",
 "80 810 CURVE",
 "76 777 OFFCURVE",
-"58 768 OFFCURVE",
-"39 768 CURVE SMOOTH",
-"12 768 OFFCURVE",
+"58 764 OFFCURVE",
+"39 764 CURVE SMOOTH",
+"12 764 OFFCURVE",
 "1 786 OFFCURVE",
 "1 802 CURVE",
 "-2 801 OFFCURVE",
 "-4 800 OFFCURVE",
 "-7 799 CURVE",
 "-8 769 OFFCURVE",
-"-18 745 OFFCURVE",
-"-54 745 CURVE SMOOTH",
-"-74 745 OFFCURVE",
+"-18 741 OFFCURVE",
+"-54 741 CURVE SMOOTH",
+"-74 741 OFFCURVE",
 "-84 764 OFFCURVE",
 "-81 780 CURVE",
 "-84 779 OFFCURVE",
