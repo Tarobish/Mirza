@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alefWavyhamzaabove-ar.fina"
+"/lam_alefWavyhamzabelow-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -37855,7 +37855,7 @@ unicode = FEFA;
 {
 color = 0;
 glyphname = "lam_alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-06 19:15:34 +0000";
+lastChange = "2015-11-24 07:02:21 +0000";
 layers = (
 {
 components = (
