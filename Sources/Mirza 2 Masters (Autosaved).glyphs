@@ -8032,7 +8032,7 @@ width = 588;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.medi";
-lastChange = "2015-11-24 05:38:14 +0000";
+lastChange = "2015-11-24 05:38:29 +0000";
 layers = (
 {
 components = (
@@ -8041,11 +8041,11 @@ name = "hah-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 165, -321}";
+transform = "{1, 0, 0, 1, 165, -316}";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 161, -201}";
+transform = "{1, 0, 0, 1, 161, -186}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -60529,17 +60529,17 @@ unicode = FBBE;
 },
 {
 glyphname = "twodotshorizontalabove-ar";
-lastChange = "2015-11-24 05:38:12 +0000";
+lastChange = "2015-11-24 05:38:29 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-2, 673}";
+position = "{-2, 668}";
 },
 {
 name = top;
-position = "{-2, 800}";
+position = "{-2, 810}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
