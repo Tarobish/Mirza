@@ -8990,7 +8990,7 @@ width = 564;
 },
 {
 glyphname = "dalDotbelow-ar";
-lastChange = "2015-11-24 05:35:27 +0000";
+lastChange = "2015-11-24 05:39:36 +0000";
 layers = (
 {
 components = (
@@ -9506,7 +9506,7 @@ width = 564;
 },
 {
 glyphname = "dalVinvertedbelow-ar";
-lastChange = "2015-11-24 05:39:22 +0000";
+lastChange = "2015-11-24 05:39:33 +0000";
 layers = (
 {
 components = (
@@ -9515,7 +9515,7 @@ name = "dal-ar";
 },
 {
 name = circumflex.below;
-transform = "{1, 0, 0, 1, 205, 160}";
+transform = "{1, 0, 0, 1, 205, 150}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
