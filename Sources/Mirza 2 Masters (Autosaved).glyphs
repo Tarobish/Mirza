@@ -5280,7 +5280,7 @@ unicode = 08A0;
 },
 {
 glyphname = "behVbelow-ar.fina";
-lastChange = "2015-11-24 05:41:46 +0000";
+lastChange = "2015-11-24 05:41:52 +0000";
 layers = (
 {
 anchors = (
@@ -5305,8 +5305,8 @@ width = 893;
 {
 anchors = (
 {
-name = "new anchor";
-position = "{546, -251}";
+name = bottom;
+position = "{408, -277}";
 }
 );
 components = (
