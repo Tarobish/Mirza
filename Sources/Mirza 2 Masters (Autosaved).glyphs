@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/rehLoop-ar.fina"
+"/theh-ar/meem-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -11259,7 +11259,7 @@ unicode = 08AA;
 },
 {
 glyphname = "rehLoop-ar.fina";
-lastChange = "2015-11-24 05:49:47 +0000";
+lastChange = "2015-11-24 08:01:29 +0000";
 layers = (
 {
 anchors = (
@@ -11425,8 +11425,8 @@ nodes = (
 "358 14 OFFCURVE",
 "383 0 OFFCURVE",
 "420 0 CURVE SMOOTH",
-"476 0 LINE",
-"476 98 LINE"
+"486 0 LINE",
+"486 98 LINE"
 );
 },
 {
@@ -11447,7 +11447,7 @@ nodes = (
 );
 }
 );
-width = 476;
+width = 486;
 }
 );
 },
@@ -25631,7 +25631,7 @@ position = "{140, -368}";
 },
 {
 name = top;
-position = "{271, 263}";
+position = "{271, 253}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
