@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem_alefMaksura-ar"
+"/meem_alefMaksura-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -49881,7 +49881,7 @@ unicode = FCD1;
 {
 color = 4;
 glyphname = "meem_alefMaksura-ar";
-lastChange = "2015-11-24 07:24:56 +0000";
+lastChange = "2015-11-24 07:25:01 +0000";
 layers = (
 {
 anchors = (
@@ -49995,7 +49995,7 @@ position = "{646, -200}";
 },
 {
 name = bottom_2;
-position = "{290, -291}";
+position = "{290, -311}";
 },
 {
 name = caret_1;
@@ -50007,7 +50007,7 @@ position = "{615, 342}";
 },
 {
 name = top_2;
-position = "{203, 500}";
+position = "{256, 77}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
