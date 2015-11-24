@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/lam_alef-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -37269,7 +37272,7 @@ unicode = 0640;
 },
 {
 glyphname = "lam_alef-ar";
-lastChange = "2015-10-29 21:23:05 +0000";
+lastChange = "2015-11-24 07:01:29 +0000";
 layers = (
 {
 anchors = (
@@ -37283,15 +37286,15 @@ position = "{164, -25}";
 },
 {
 name = caret_1;
-position = "{165, -26}";
+position = "{165, -36}";
 },
 {
 name = top_1;
-position = "{194, 547}";
+position = "{194, 557}";
 },
 {
 name = top_2;
-position = "{-21, 513}";
+position = "{-21, 523}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37372,7 +37375,7 @@ nodes = (
 );
 }
 );
-width = 337;
+width = 357;
 },
 {
 anchors = (
