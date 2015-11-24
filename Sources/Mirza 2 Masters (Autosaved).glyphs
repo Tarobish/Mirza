@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/hehDoachashmee-ar.fina",
+"/heh-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -27630,7 +27634,7 @@ unicode = FEEC;
 },
 {
 glyphname = "heh-ar.init";
-lastChange = "2015-11-24 06:44:28 +0000";
+lastChange = "2015-11-24 06:45:31 +0000";
 layers = (
 {
 anchors = (
@@ -27640,7 +27644,7 @@ position = "{155, -10}";
 },
 {
 name = top;
-position = "{126, 387}";
+position = "{126, 377}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28495,7 +28499,7 @@ unicode = 06BE;
 },
 {
 glyphname = "hehDoachashmee-ar.fina";
-lastChange = "2015-10-26 18:48:35 +0000";
+lastChange = "2015-11-24 06:45:23 +0000";
 layers = (
 {
 anchors = (
@@ -28505,7 +28509,7 @@ position = "{297, 0}";
 },
 {
 name = top;
-position = "{268, 362}";
+position = "{268, 372}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -29085,7 +29089,7 @@ unicode = 06FF;
 },
 {
 glyphname = "hehVinvertedabove-ar.fina";
-lastChange = "2015-11-06 19:02:44 +0000";
+lastChange = "2015-11-24 06:45:25 +0000";
 layers = (
 {
 components = (
@@ -29094,7 +29098,7 @@ name = "hehDoachashmee-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 266, -324}";
+transform = "{1, 0, 0, 1, 266, -314}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
