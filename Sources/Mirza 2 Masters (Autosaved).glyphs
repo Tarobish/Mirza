@@ -47305,13 +47305,13 @@ width = 872;
 {
 color = 4;
 glyphname = "kaf_lam_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:38:25 +0000";
+lastChange = "2015-11-24 07:38:37 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{703, -58}";
+position = "{720, -55}";
 },
 {
 name = bottom_2;
@@ -47331,7 +47331,7 @@ position = "{624, 0}";
 },
 {
 name = top_1;
-position = "{780, 500}";
+position = "{733, 568}";
 },
 {
 name = top_2;
@@ -47471,6 +47471,40 @@ nodes = (
 width = 936;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{830, 0}";
+},
+{
+name = bottom_2;
+position = "{498, 0}";
+},
+{
+name = bottom_3;
+position = "{166, 0}";
+},
+{
+name = caret_1;
+position = "{332, 0}";
+},
+{
+name = caret_2;
+position = "{664, 0}";
+},
+{
+name = top_1;
+position = "{830, 500}";
+},
+{
+name = top_2;
+position = "{498, 500}";
+},
+{
+name = top_3;
+position = "{166, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
