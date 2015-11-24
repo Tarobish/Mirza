@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gafThreedots-ar.init"
+"/kafswash-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -21790,7 +21790,7 @@ width = 883;
 {
 color = 0;
 glyphname = "gafThreedots-ar.init";
-lastChange = "2015-11-02 20:31:55 +0000";
+lastChange = "2015-11-24 06:25:51 +0000";
 layers = (
 {
 components = (
@@ -21800,7 +21800,7 @@ name = "gaf-ar.init";
 {
 disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 106, -107}";
+transform = "{1, 0, 0, 1, 106, -97}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21827,7 +21827,7 @@ width = 289;
 {
 color = 0;
 glyphname = "gafThreedots-ar.medi";
-lastChange = "2015-11-02 20:31:55 +0000";
+lastChange = "2015-11-24 06:25:55 +0000";
 layers = (
 {
 components = (
@@ -21837,7 +21837,7 @@ name = "gaf-ar.medi";
 {
 disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 120, -97}";
+transform = "{1, 0, 0, 1, 120, -87}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
