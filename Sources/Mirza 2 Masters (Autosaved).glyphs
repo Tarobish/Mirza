@@ -48705,17 +48705,17 @@ unicode = FC42;
 {
 color = 4;
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-11-24 07:30:15 +0000";
+lastChange = "2015-11-24 07:30:23 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{238, 0}";
+position = "{200, -137}";
 },
 {
 name = bottom_2;
-position = "{79, 0}";
+position = "{31, -25}";
 },
 {
 name = caret_1;
@@ -48723,7 +48723,7 @@ position = "{158.5, 0}";
 },
 {
 name = top_1;
-position = "{328, 577}";
+position = "{209, 568}";
 },
 {
 name = top_2;
