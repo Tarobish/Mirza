@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/keheh-ar"
+"/keheh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -20202,17 +20202,17 @@ unicode = FEDB;
 },
 {
 glyphname = "keheh-ar";
-lastChange = "2015-10-29 20:11:28 +0000";
+lastChange = "2015-11-24 06:22:13 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{395, -16}";
+position = "{395, -26}";
 },
 {
 name = top;
-position = "{363, 121}";
+position = "{363, 131}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20361,7 +20361,7 @@ unicode = 06A9;
 },
 {
 glyphname = "keheh-ar.fina";
-lastChange = "2015-11-06 20:35:22 +0000";
+lastChange = "2015-11-24 06:22:18 +0000";
 layers = (
 {
 anchors = (
@@ -20371,7 +20371,7 @@ position = "{376, -20}";
 },
 {
 name = top;
-position = "{338, 132}";
+position = "{338, 142}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20741,7 +20741,7 @@ width = 402;
 },
 {
 glyphname = "kehehThreedotsbelow-ar";
-lastChange = "2015-10-29 20:11:31 +0000";
+lastChange = "2015-11-24 06:22:15 +0000";
 layers = (
 {
 components = (
@@ -20750,7 +20750,7 @@ name = "keheh-ar";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 400, -27}";
+transform = "{1, 0, 0, 1, 400, -37}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21164,7 +21164,7 @@ width = 402;
 },
 {
 glyphname = "kehehThreedotsupbelow-ar";
-lastChange = "2015-11-24 05:45:46 +0000";
+lastChange = "2015-11-24 06:22:15 +0000";
 layers = (
 {
 components = (
@@ -21173,7 +21173,7 @@ name = "keheh-ar";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 397, 78}";
+transform = "{1, 0, 0, 1, 397, 68}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
