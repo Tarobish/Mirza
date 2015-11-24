@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gaf-ar.fina"
+"/gaf-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -21370,7 +21370,7 @@ unicode = 06AF;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2015-11-24 06:24:14 +0000";
+lastChange = "2015-11-24 06:24:17 +0000";
 layers = (
 {
 anchors = (
@@ -21407,7 +21407,7 @@ width = 848;
 anchors = (
 {
 name = top;
-position = "{614, 669}";
+position = "{616, 699}";
 }
 );
 components = (
@@ -21439,9 +21439,15 @@ unicode = FB93;
 },
 {
 glyphname = "gaf-ar.medi";
-lastChange = "2015-10-28 21:03:44 +0000";
+lastChange = "2015-11-24 06:24:30 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{127, 616}";
+}
+);
 components = (
 {
 name = "kaf-ar.medi";
