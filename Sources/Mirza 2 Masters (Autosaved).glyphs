@@ -48705,13 +48705,13 @@ unicode = FC42;
 {
 color = 4;
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-11-24 07:30:23 +0000";
+lastChange = "2015-11-24 07:30:35 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{200, -137}";
+position = "{186, -143}";
 },
 {
 name = bottom_2;
@@ -48784,6 +48784,28 @@ nodes = (
 width = 317;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{255, 0}";
+},
+{
+name = bottom_2;
+position = "{85, 0}";
+},
+{
+name = caret_1;
+position = "{170, 0}";
+},
+{
+name = top_1;
+position = "{193, 608}";
+},
+{
+name = top_2;
+position = "{85, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
