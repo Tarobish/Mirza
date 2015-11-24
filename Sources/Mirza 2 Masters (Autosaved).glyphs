@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/seenFourabove-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -36932,7 +36935,7 @@ width = 630;
 {
 color = 0;
 glyphname = "seenFourabove-ar";
-lastChange = "2015-11-02 21:48:16 +0000";
+lastChange = "2015-11-24 07:00:56 +0000";
 layers = (
 {
 components = (
@@ -36942,7 +36945,7 @@ name = "seen-ar";
 {
 disableAlignment = 1;
 name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 558, 77}";
+transform = "{0.8, 0, 0, 0.8, 558, 87}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -36971,7 +36974,7 @@ unicode = 077D;
 {
 color = 0;
 glyphname = "seenFourabove-ar.fina";
-lastChange = "2015-11-02 21:48:16 +0000";
+lastChange = "2015-11-24 07:01:00 +0000";
 layers = (
 {
 components = (
@@ -36982,7 +36985,7 @@ transform = "{1, 0, 0, 1, -10, 0}";
 {
 disableAlignment = 1;
 name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 561, 66}";
+transform = "{0.8, 0, 0, 0.8, 561, 76}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37010,7 +37013,7 @@ width = 936;
 {
 color = 0;
 glyphname = "seenFourabove-ar.init";
-lastChange = "2015-11-02 21:48:16 +0000";
+lastChange = "2015-11-24 07:01:04 +0000";
 layers = (
 {
 components = (
@@ -37020,7 +37023,7 @@ name = "seen-ar.init";
 {
 disableAlignment = 1;
 name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 206, 67}";
+transform = "{0.8, 0, 0, 0.8, 206, 77}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
