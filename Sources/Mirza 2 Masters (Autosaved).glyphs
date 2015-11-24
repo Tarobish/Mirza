@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehVabove-ar.init"
+"/yehVabove-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -31596,7 +31596,7 @@ width = 680;
 },
 {
 glyphname = "yehVabove-ar.init";
-lastChange = "2015-11-24 06:53:27 +0000";
+lastChange = "2015-11-24 06:53:32 +0000";
 layers = (
 {
 components = (
@@ -31606,7 +31606,7 @@ name = "dotlessbeh-ar.init";
 {
 disableAlignment = 1;
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, -12, -427}";
+transform = "{1, 0, 0, 1, 16, -437}";
 },
 {
 name = "twodotshorizontalbelow-ar";
