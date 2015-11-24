@@ -50097,7 +50097,7 @@ unicode = FC49;
 {
 color = 4;
 glyphname = "meem_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:25:23 +0000";
+lastChange = "2015-11-24 07:25:38 +0000";
 layers = (
 {
 anchors = (
@@ -50119,7 +50119,7 @@ position = "{734, 297}";
 },
 {
 name = top_2;
-position = "{265, 39}";
+position = "{265, 38}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -50244,6 +50244,28 @@ nodes = (
 width = 955;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{757, -50}";
+},
+{
+name = bottom_2;
+position = "{302, -311}";
+},
+{
+name = caret_1;
+position = "{493, 0}";
+},
+{
+name = top_1;
+position = "{754, 338}";
+},
+{
+name = top_2;
+position = "{293, 55}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
