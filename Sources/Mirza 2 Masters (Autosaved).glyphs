@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alef-ar.short/alefWavyhamzabelow-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1290,7 +1287,7 @@ unicode = FE8E;
 },
 {
 glyphname = "alef-ar.short";
-lastChange = "2015-11-24 05:21:33 +0000";
+lastChange = "2015-11-24 05:21:37 +0000";
 layers = (
 {
 anchors = (
@@ -1300,7 +1297,7 @@ position = "{77, -26}";
 },
 {
 name = top;
-position = "{84, 600}";
+position = "{84, 610}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1680,7 +1677,7 @@ unicode = 0672;
 {
 color = 0;
 glyphname = "alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-06 19:05:20 +0000";
+lastChange = "2015-11-24 05:21:43 +0000";
 layers = (
 {
 components = (
@@ -1690,7 +1687,7 @@ name = "alef-ar.fina.short";
 {
 disableAlignment = 1;
 name = "wavyhamzaabove-ar";
-transform = "{1, 0, 0, 1, 82, -180}";
+transform = "{1, 0, 0, 1, 82, -170}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
