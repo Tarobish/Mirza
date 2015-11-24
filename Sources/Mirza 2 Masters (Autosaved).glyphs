@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gafRing-ar.medi"
+"/gafThreedots-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -21715,7 +21715,7 @@ width = 402;
 {
 color = 0;
 glyphname = "gafThreedots-ar";
-lastChange = "2015-11-02 20:31:55 +0000";
+lastChange = "2015-11-24 06:25:43 +0000";
 layers = (
 {
 components = (
@@ -21725,7 +21725,7 @@ name = "gaf-ar";
 {
 disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 514, -136}";
+transform = "{1, 0, 0, 1, 514, -126}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21753,7 +21753,7 @@ unicode = 06B4;
 {
 color = 0;
 glyphname = "gafThreedots-ar.fina";
-lastChange = "2015-11-02 20:31:55 +0000";
+lastChange = "2015-11-24 06:25:47 +0000";
 layers = (
 {
 components = (
@@ -21763,7 +21763,7 @@ name = "gaf-ar.fina";
 {
 disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 505, -131}";
+transform = "{1, 0, 0, 1, 505, -121}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
