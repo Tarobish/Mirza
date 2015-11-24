@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lamDotabove_alef-ar.isol"
+"/lamThreedotsabove_alef-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -49259,7 +49259,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "lamThreedotsabove_alef-ar.fina";
-lastChange = "2015-11-08 18:26:53 +0000";
+lastChange = "2015-11-24 07:03:24 +0000";
 layers = (
 {
 components = (
@@ -49268,7 +49268,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 284, -133}";
+transform = "{1, 0, 0, 1, 284, -123}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
