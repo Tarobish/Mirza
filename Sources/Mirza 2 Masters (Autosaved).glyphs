@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/seenFourabove-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -36945,7 +36942,7 @@ name = "seen-ar";
 {
 disableAlignment = 1;
 name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 558, 87}";
+transform = "{0.8, 0, 0, 0.8, 558, 77}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -36985,7 +36982,7 @@ transform = "{1, 0, 0, 1, -10, 0}";
 {
 disableAlignment = 1;
 name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 561, 76}";
+transform = "{0.8, 0, 0, 0.8, 561, 66}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37023,7 +37020,7 @@ name = "seen-ar.init";
 {
 disableAlignment = 1;
 name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 206, 77}";
+transform = "{0.8, 0, 0, 0.8, 206, 67}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
