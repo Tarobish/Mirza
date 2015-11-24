@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/fehDotbelow-ar.fina",
-"/fehDotbelow-ar.medi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -17956,7 +17952,7 @@ width = 332;
 },
 {
 glyphname = "fehDotbelow-ar.medi";
-lastChange = "2015-11-24 05:57:55 +0000";
+lastChange = "2015-11-24 05:58:05 +0000";
 layers = (
 {
 components = (
