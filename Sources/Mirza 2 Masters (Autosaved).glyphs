@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefThreeabove-ar.fina"
+"/yehHamzaabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -31238,7 +31238,7 @@ width = 355;
 },
 {
 glyphname = "yeh-ar";
-lastChange = "2015-11-24 06:50:58 +0000";
+lastChange = "2015-11-24 06:52:38 +0000";
 layers = (
 {
 components = (
@@ -31379,7 +31379,7 @@ unicode = FEF3;
 {
 color = 0;
 glyphname = "yehHamzaabove-ar";
-lastChange = "2015-11-06 20:15:11 +0000";
+lastChange = "2015-11-24 06:52:46 +0000";
 layers = (
 {
 components = (
@@ -31389,7 +31389,7 @@ name = "alefMaksura-ar";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 201, -579}";
+transform = "{1, 0, 0, 1, 221, -569}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
