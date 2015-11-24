@@ -39073,7 +39073,7 @@ width = 642;
 {
 color = 4;
 glyphname = "dotlessbeh_meem-ar";
-lastChange = "2015-11-24 07:13:36 +0000";
+lastChange = "2015-11-24 07:13:41 +0000";
 layers = (
 {
 anchors = (
@@ -39083,7 +39083,7 @@ position = "{312, -100}";
 },
 {
 name = bottom_2;
-position = "{117, 0}";
+position = "{118, -502}";
 },
 {
 name = caret_1;
