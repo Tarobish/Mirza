@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/behThreedotshorizontalbelow-ar.fina",
-"/beeh-ar.fina"
+"/behThreedotshorizontalbelow-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -4130,13 +4129,13 @@ unicode = 0750;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.fina";
-lastChange = "2015-11-24 05:29:03 +0000";
+lastChange = "2015-11-24 05:29:24 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{416, -214}";
+position = "{416, -200}";
 }
 );
 components = (
@@ -4153,6 +4152,12 @@ name = Regular;
 width = 893;
 },
 {
+anchors = (
+{
+name = "new anchor";
+position = "{528, -276}";
+}
+);
 components = (
 {
 name = "dotlessbeh-ar.fina";
