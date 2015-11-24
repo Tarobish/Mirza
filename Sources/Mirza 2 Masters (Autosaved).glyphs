@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf-ar.fina"
+"/kaf-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -19691,13 +19691,13 @@ unicode = 0643;
 },
 {
 glyphname = "kaf-ar.fina";
-lastChange = "2015-11-24 06:21:51 +0000";
+lastChange = "2015-11-24 06:21:53 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{395, -25}";
+position = "{395, -35}";
 },
 {
 name = top;
@@ -19932,17 +19932,17 @@ unicode = FEDA;
 },
 {
 glyphname = "kaf-ar.medi";
-lastChange = "2015-10-29 20:10:16 +0000";
+lastChange = "2015-11-24 06:22:01 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{82, -24}";
+position = "{82, -34}";
 },
 {
 name = top;
-position = "{107, 520}";
+position = "{107, 530}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22824,7 +22824,7 @@ unicode = 06AC;
 },
 {
 glyphname = "kafDotabove-ar.fina";
-lastChange = "2015-10-30 20:31:22 +0000";
+lastChange = "2015-11-24 06:21:55 +0000";
 layers = (
 {
 components = (
@@ -22833,7 +22833,7 @@ name = "kaf-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 387, -328}";
+transform = "{1, 0, 0, 1, 387, -318}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22961,7 +22961,7 @@ unicode = 077F;
 },
 {
 glyphname = "kafTwodotshorizontalabove-ar.fina";
-lastChange = "2015-10-29 20:10:32 +0000";
+lastChange = "2015-11-24 06:21:55 +0000";
 layers = (
 {
 components = (
@@ -22970,7 +22970,7 @@ name = "kaf-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 392, -336}";
+transform = "{1, 0, 0, 1, 392, -326}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
