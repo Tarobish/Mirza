@@ -5280,13 +5280,13 @@ unicode = 08A0;
 },
 {
 glyphname = "behVbelow-ar.fina";
-lastChange = "2015-11-24 05:41:37 +0000";
+lastChange = "2015-11-24 05:41:46 +0000";
 layers = (
 {
 anchors = (
 {
-name = "new anchor";
-position = "{447, -308}";
+name = bottom;
+position = "{418, -250}";
 }
 );
 components = (
@@ -5303,6 +5303,12 @@ name = Regular;
 width = 893;
 },
 {
+anchors = (
+{
+name = "new anchor";
+position = "{546, -251}";
+}
+);
 components = (
 {
 name = "dotlessbeh-ar.fina";
