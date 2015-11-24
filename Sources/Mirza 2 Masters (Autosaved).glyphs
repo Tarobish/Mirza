@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/tcheh-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -5705,8 +5702,9 @@ width = 611;
 unicode = 0686;
 },
 {
+color = 0;
 glyphname = "tcheh-ar.fina";
-lastChange = "2015-11-24 06:01:58 +0000";
+lastChange = "2015-11-24 06:02:07 +0000";
 layers = (
 {
 components = (
@@ -5716,7 +5714,7 @@ name = "hah-ar.fina";
 {
 disableAlignment = 1;
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 310, 58}";
+transform = "{1, 0, 0, 1, 314, 64}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
