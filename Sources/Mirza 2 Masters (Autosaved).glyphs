@@ -4129,7 +4129,7 @@ unicode = 0750;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.fina";
-lastChange = "2015-11-24 05:29:24 +0000";
+lastChange = "2015-11-24 05:29:36 +0000";
 layers = (
 {
 anchors = (
@@ -4154,8 +4154,8 @@ width = 893;
 {
 anchors = (
 {
-name = "new anchor";
-position = "{528, -276}";
+name = bottom;
+position = "{412, -246}";
 }
 );
 components = (
