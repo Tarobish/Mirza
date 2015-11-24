@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefMaksura-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -30667,7 +30670,7 @@ unicode = FBDF;
 },
 {
 glyphname = "alefMaksura-ar";
-lastChange = "2015-11-24 06:50:57 +0000";
+lastChange = "2015-11-24 06:51:10 +0000";
 layers = (
 {
 anchors = (
@@ -30677,7 +30680,7 @@ position = "{285, -229}";
 },
 {
 name = top;
-position = "{160, 111}";
+position = "{160, 121}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -30854,17 +30857,17 @@ unicode = 0649;
 },
 {
 glyphname = "alefMaksura-ar.fina";
-lastChange = "2015-10-29 21:20:32 +0000";
+lastChange = "2015-11-24 06:51:31 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{283, -301}";
+position = "{293, -311}";
 },
 {
 name = top;
-position = "{139, 19}";
+position = "{159, 29}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31270,7 +31273,7 @@ unicode = 064A;
 },
 {
 glyphname = "yeh-ar.fina";
-lastChange = "2015-10-29 21:20:35 +0000";
+lastChange = "2015-11-24 06:51:33 +0000";
 layers = (
 {
 components = (
@@ -31279,7 +31282,7 @@ name = "alefMaksura-ar.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 285, -126}";
+transform = "{1, 0, 0, 1, 295, -136}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33079,7 +33082,7 @@ unicode = 06D0;
 },
 {
 glyphname = "e-ar.fina";
-lastChange = "2015-10-31 08:17:19 +0000";
+lastChange = "2015-11-24 06:51:33 +0000";
 layers = (
 {
 components = (
@@ -33088,7 +33091,7 @@ name = "alefMaksura-ar.fina";
 },
 {
 name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 280, -233}";
+transform = "{1, 0, 0, 1, 290, -243}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33201,6 +33204,7 @@ unicode = 06D1;
 },
 {
 glyphname = "yehThreedotsbelow-ar.fina";
+lastChange = "2015-11-24 06:51:33 +0000";
 layers = (
 {
 components = (
@@ -33209,7 +33213,7 @@ name = "alefMaksura-ar.fina";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 288, -312}";
+transform = "{1, 0, 0, 1, 298, -322}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
