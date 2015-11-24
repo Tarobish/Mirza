@@ -65411,17 +65411,17 @@ unicode = 0651;
 },
 {
 glyphname = "sukun-ar";
-lastChange = "2015-11-24 07:51:16 +0000";
+lastChange = "2015-11-24 08:05:00 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-1, 680}";
+position = "{-1, 675}";
 },
 {
 name = top;
-position = "{-1, 814}";
+position = "{-1, 823}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
