@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dalVinvertedbelow-ar"
+"/alefabove-ar/thalAlefabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -8676,7 +8676,7 @@ unicode = FEAC;
 },
 {
 glyphname = "thalAlefabove-ar";
-lastChange = "2015-11-24 05:35:35 +0000";
+lastChange = "2015-11-24 05:41:05 +0000";
 layers = (
 {
 components = (
@@ -8685,7 +8685,7 @@ name = "thal-ar";
 },
 {
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 222, -160}";
+transform = "{1, 0, 0, 1, 222, -150}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9506,7 +9506,7 @@ width = 564;
 },
 {
 glyphname = "dalVinvertedbelow-ar";
-lastChange = "2015-11-24 05:40:41 +0000";
+lastChange = "2015-11-24 05:40:45 +0000";
 layers = (
 {
 anchors = (
@@ -9532,7 +9532,7 @@ width = 443;
 anchors = (
 {
 name = bottom;
-position = "{221, -261}";
+position = "{217, -260}";
 }
 );
 components = (
@@ -62150,17 +62150,17 @@ unicode = FBBF;
 },
 {
 glyphname = "alefabove-ar";
-lastChange = "2015-11-06 18:32:17 +0000";
+lastChange = "2015-11-24 05:41:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-3, 695}";
+position = "{-3, 685}";
 },
 {
 name = top;
-position = "{-3, 784}";
+position = "{-3, 794}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
