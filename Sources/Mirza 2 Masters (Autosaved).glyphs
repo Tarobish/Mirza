@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/behVbelow-ar.fina"
+"/behVbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -5245,9 +5245,15 @@ unicode = 0756;
 },
 {
 glyphname = "behVbelow-ar";
-lastChange = "2015-11-24 05:26:28 +0000";
+lastChange = "2015-11-24 05:42:12 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{411, -261}";
+}
+);
 components = (
 {
 name = "dotlessbeh-ar";
@@ -5262,13 +5268,19 @@ name = Regular;
 width = 832;
 },
 {
+anchors = (
+{
+name = "new anchor";
+position = "{478, -354}";
+}
+);
 components = (
 {
 name = "dotlessbeh-ar";
 },
 {
 name = "vbelow-ar";
-transform = "{1, 0, 0, 1, 406, -43}";
+transform = "{1, 0, 0, 1, 408, 142}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
