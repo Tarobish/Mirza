@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/highhamzaYeh-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -34406,7 +34409,7 @@ width = 407;
 {
 color = 0;
 glyphname = "highhamzaYeh-ar";
-lastChange = "2015-11-06 19:19:49 +0000";
+lastChange = "2015-11-24 06:58:37 +0000";
 layers = (
 {
 components = (
@@ -34417,7 +34420,7 @@ name = "alefMaksura-ar";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 623, -283}";
+transform = "{1, 0, 0, 1, 623, -273}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -34445,7 +34448,7 @@ unicode = 0678;
 },
 {
 glyphname = "highhamzaYeh-ar.fina";
-lastChange = "2015-11-06 19:20:29 +0000";
+lastChange = "2015-11-24 06:58:44 +0000";
 layers = (
 {
 anchors = (
@@ -34455,13 +34458,13 @@ position = "{283, -301}";
 },
 {
 name = top;
-position = "{139, 19}";
+position = "{139, 29}";
 }
 );
 components = (
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 610, -558}";
+transform = "{1, 0, 0, 1, 610, -548}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
