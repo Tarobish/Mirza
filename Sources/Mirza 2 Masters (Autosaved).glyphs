@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf_alefMaksura-ar.fina"
+"/kaf_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -47570,9 +47570,31 @@ width = 996;
 {
 color = 4;
 glyphname = "kaf_alefMaksura-ar";
-lastChange = "2015-11-08 18:18:22 +0000";
+lastChange = "2015-11-24 07:37:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{453, 0}";
+},
+{
+name = bottom_2;
+position = "{282, -281}";
+},
+{
+name = caret_1;
+position = "{302, 0}";
+},
+{
+name = top_1;
+position = "{453, 500}";
+},
+{
+name = top_2;
+position = "{151, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -47752,7 +47774,7 @@ unicode = FC3D;
 {
 color = 4;
 glyphname = "kaf_alefMaksura-ar.fina";
-lastChange = "2015-11-24 07:36:55 +0000";
+lastChange = "2015-11-24 07:37:08 +0000";
 layers = (
 {
 anchors = (
@@ -47883,11 +47905,11 @@ width = 732;
 anchors = (
 {
 name = bottom_1;
-position = "{577, 0}";
+position = "{551, -279}";
 },
 {
 name = bottom_2;
-position = "{192, 0}";
+position = "{291, -331}";
 },
 {
 name = caret_1;
@@ -47895,11 +47917,11 @@ position = "{385, 0}";
 },
 {
 name = top_1;
-position = "{577, 500}";
+position = "{478, 580}";
 },
 {
 name = top_2;
-position = "{192, 500}";
+position = "{239, 47}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
