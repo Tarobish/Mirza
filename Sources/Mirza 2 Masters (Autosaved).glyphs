@@ -30165,11 +30165,12 @@ width = 407;
 },
 {
 glyphname = "wawDotcenter-ar";
-lastChange = "2015-10-31 07:43:58 +0000";
+lastChange = "2015-11-24 06:47:18 +0000";
 layers = (
 {
 components = (
 {
+disableAlignment = 1;
 name = "waw-ar";
 },
 {
