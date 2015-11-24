@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/waw-ar",
+"/waw-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -29358,7 +29362,7 @@ width = 462;
 },
 {
 glyphname = "waw-ar";
-lastChange = "2015-11-24 06:45:59 +0000";
+lastChange = "2015-11-24 06:46:26 +0000";
 layers = (
 {
 anchors = (
@@ -29547,13 +29551,13 @@ unicode = 0648;
 },
 {
 glyphname = "waw-ar.fina";
-lastChange = "2015-11-24 06:46:06 +0000";
+lastChange = "2015-11-24 06:46:31 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{50, -319}";
+position = "{44, -279}";
 },
 {
 name = top;
