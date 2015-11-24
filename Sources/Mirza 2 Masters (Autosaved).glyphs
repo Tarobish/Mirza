@@ -6141,7 +6141,7 @@ unicode = 0684;
 },
 {
 glyphname = "dyeh-ar.fina";
-lastChange = "2015-11-24 06:01:08 +0000";
+lastChange = "2015-11-24 06:03:36 +0000";
 layers = (
 {
 components = (
@@ -6149,8 +6149,9 @@ components = (
 name = "hah-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 286, -272}";
+transform = "{1, 0, 0, 1, 314, 141}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
