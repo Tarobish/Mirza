@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehTwoabove-farsi.medi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -32512,14 +32509,14 @@ width = 315;
 {
 color = 0;
 glyphname = "yehThreeabove-farsi";
-lastChange = "2015-11-02 23:13:15 +0000";
+lastChange = "2015-11-24 06:54:52 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, 150, -99}";
+transform = "{0.8, 0, 0, 0.8, 154, -99}";
 },
 {
 name = "alefMaksura-ar";
@@ -32550,14 +32547,14 @@ unicode = 0776;
 {
 color = 0;
 glyphname = "yehThreeabove-farsi.fina";
-lastChange = "2015-11-02 23:16:26 +0000";
+lastChange = "2015-11-24 06:54:57 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, 123, -188}";
+transform = "{0.8, 0, 0, 0.8, 173, -178}";
 },
 {
 name = "alefMaksura-ar.fina";
