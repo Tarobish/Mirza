@@ -50392,7 +50392,7 @@ width = 986;
 {
 color = 4;
 glyphname = "heh_alefMaksura-ar";
-lastChange = "2015-11-24 07:26:04 +0000";
+lastChange = "2015-11-24 07:26:14 +0000";
 layers = (
 {
 anchors = (
@@ -50570,6 +50570,28 @@ nodes = (
 width = 892;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{756, -29}";
+},
+{
+name = bottom_2;
+position = "{228, 0}";
+},
+{
+name = caret_1;
+position = "{457, 0}";
+},
+{
+name = top_1;
+position = "{605, 501}";
+},
+{
+name = top_2;
+position = "{228, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
