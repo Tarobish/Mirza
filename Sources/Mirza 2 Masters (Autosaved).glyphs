@@ -48821,7 +48821,7 @@ unicode = FCCC;
 {
 color = 4;
 glyphname = "lam_heh-ar.init";
-lastChange = "2015-11-24 07:29:05 +0000";
+lastChange = "2015-11-24 07:29:25 +0000";
 layers = (
 {
 anchors = (
@@ -48839,11 +48839,11 @@ position = "{209, 0}";
 },
 {
 name = top_1;
-position = "{101, 588}";
+position = "{201, 613}";
 },
 {
 name = top_2;
-position = "{-114, 500}";
+position = "{-6, 568}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
