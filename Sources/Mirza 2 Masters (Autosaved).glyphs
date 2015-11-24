@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/peh_meem-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -40551,17 +40548,12 @@ width = 795;
 },
 {
 glyphname = "peh_meem-ar";
-lastChange = "2015-11-24 23:12:52 +0000";
+lastChange = "2015-11-24 23:13:31 +0000";
 layers = (
 {
-components = (
-{
-name = "dotlessbeh_meem-ar";
-}
-);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 470;
+width = 529;
 },
 {
 components = (
