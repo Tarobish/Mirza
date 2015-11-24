@@ -47966,7 +47966,7 @@ unicode = FC83;
 {
 color = 4;
 glyphname = "lam_hah-ar";
-lastChange = "2015-11-24 07:36:09 +0000";
+lastChange = "2015-11-24 07:36:18 +0000";
 layers = (
 {
 anchors = (
@@ -48090,15 +48090,15 @@ width = 549;
 anchors = (
 {
 name = bottom_1;
-position = "{433, 0}";
+position = "{340, 74}";
 },
 {
 name = bottom_2;
-position = "{144, 0}";
+position = "{302, -340}";
 },
 {
 name = caret_1;
-position = "{275, -289}";
+position = "{289, 0}";
 },
 {
 name = top_1;
@@ -48106,7 +48106,7 @@ position = "{433, 500}";
 },
 {
 name = top_2;
-position = "{144, 500}";
+position = "{60, 363}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
