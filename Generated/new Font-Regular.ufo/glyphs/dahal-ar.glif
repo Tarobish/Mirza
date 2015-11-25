@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dahal-ar" format="1">
-  <advance width="443"/>
-  <unicode hex="068C"/>
-  <outline>
-    <component base="dal-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="221" yOffset="-275"/>
-  </outline>
-</glyph>

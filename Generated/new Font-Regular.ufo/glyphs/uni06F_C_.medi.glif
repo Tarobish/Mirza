@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06FC.medi" format="1">
+  <advance width="415"/>
+  <outline>
+    <component base="uniFECC"/>
+    <component base="uniFBB2" xOffset="176" yOffset="-372"/>
+    <component base="uniFBB3" xOffset="-258" yOffset="134"/>
+  </outline>
+</glyph>

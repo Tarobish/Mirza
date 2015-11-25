@@ -3,8 +3,8 @@
   <advance width="405"/>
   <unicode hex="FEFD"/>
   <outline>
-    <component base="lam_alef-ar"/>
-    <component base="fathatan-ar" yOffset="-127"/>
+    <component base="uniFEFB"/>
+    <component base="uni064B" yOffset="-117"/>
   </outline>
   <lib>
     <dict>

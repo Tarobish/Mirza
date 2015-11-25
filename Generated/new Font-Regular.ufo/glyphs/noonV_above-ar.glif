@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noonVabove-ar" format="1">
-  <advance width="588"/>
-  <unicode hex="0769"/>
-  <outline>
-    <component base="noon-ar"/>
-    <component base="vabove-ar" xOffset="275" yOffset="-534"/>
-  </outline>
-</glyph>

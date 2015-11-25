@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="behVinvertedbelow-ar.medi" format="1">
-  <advance width="315"/>
-  <outline>
-    <component base="dotlessbeh-ar.medi"/>
-    <component base="circumflex.below" xOffset="15" yOffset="-35"/>
-  </outline>
-</glyph>

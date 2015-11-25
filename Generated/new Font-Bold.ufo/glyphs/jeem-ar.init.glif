@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="jeem-ar.init" format="1">
-  <advance width="588"/>
-  <unicode hex="FE9F"/>
-  <outline>
-    <component base="hah-ar.init"/>
-    <component base="dotbelow-ar" xOffset="185" yOffset="107"/>
-  </outline>
-</glyph>

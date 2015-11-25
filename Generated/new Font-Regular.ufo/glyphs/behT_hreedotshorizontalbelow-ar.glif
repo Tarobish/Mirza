@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="behThreedotshorizontalbelow-ar" format="1">
-  <advance width="832"/>
-  <unicode hex="0750"/>
-  <outline>
-    <component base="dotlessbeh-ar"/>
-    <component base="dots.horz.below-ar" xOffset="412" yOffset="140"/>
-  </outline>
-</glyph>

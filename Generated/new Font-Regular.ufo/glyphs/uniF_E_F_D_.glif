@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFEFD" format="1">
-  <advance width="337"/>
+  <advance width="357"/>
   <unicode hex="FEFD"/>
   <outline>
-    <component base="lam_alef-ar"/>
-    <component base="fathatan-ar" xOffset="-10" yOffset="-179"/>
+    <component base="uniFEFB"/>
+    <component base="uni064B" xOffset="-10" yOffset="-179"/>
   </outline>
   <lib>
     <dict>

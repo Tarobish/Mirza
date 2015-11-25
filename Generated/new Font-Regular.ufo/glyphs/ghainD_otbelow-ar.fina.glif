@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ghainDotbelow-ar.fina" format="1">
-  <advance width="509"/>
-  <outline>
-    <component base="ain-ar.fina"/>
-    <component base="dotabove-ar" xOffset="284" yOffset="-382"/>
-    <component base="dotbelow-ar" xOffset="266" yOffset="135"/>
-  </outline>
-</glyph>

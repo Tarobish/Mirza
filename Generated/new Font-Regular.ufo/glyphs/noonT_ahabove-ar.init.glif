@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noonTahabove-ar.init" format="1">
-  <advance width="588"/>
-  <outline>
-    <component base="noonghunna-ar"/>
-    <component base="dotabove-ar" xOffset="275" yOffset="-646"/>
-    <component base="tahabove-ar" xOffset="276" yOffset="-534"/>
-  </outline>
-</glyph>

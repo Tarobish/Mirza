@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tteh-ar.medi" format="1">
-  <advance width="315"/>
-  <unicode hex="FB69"/>
-  <outline>
-    <component base="dotlessbeh-ar.medi"/>
-    <component base="tahabove-ar" xOffset="19" yOffset="-418"/>
-  </outline>
-</glyph>

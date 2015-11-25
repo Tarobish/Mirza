@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0750.fina" format="1">
+  <advance width="924"/>
+  <outline>
+    <component base="uni066E.fina"/>
+    <component base="dots.horz.below-ar" xOffset="410" yOffset="83"/>
+    <contour>
+      <point x="412" y="-256" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

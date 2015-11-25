@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rehTwodotsverticalabove-ar.fina" format="1">
-  <advance width="285"/>
-  <outline>
-    <component base="reh-ar.fina"/>
-    <component base="twodotsverticalabove-ar" xOffset="68" yOffset="-495"/>
-  </outline>
-</glyph>

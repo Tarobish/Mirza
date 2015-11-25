@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dalVinvertedbelow-ar" format="1">
-  <advance width="443"/>
-  <unicode hex="075A"/>
-  <outline>
-    <component base="dal-ar"/>
-    <component base="circumflex.below" xOffset="195" yOffset="-20"/>
-  </outline>
-</glyph>

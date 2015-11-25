@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ainThreedots-ar" format="1">
-  <advance width="515"/>
-  <unicode hex="06A0"/>
-  <outline>
-    <component base="ain-ar"/>
-    <component base="threedotsupabove-ar" xOffset="245" yOffset="-284"/>
-  </outline>
-</glyph>

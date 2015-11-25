@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="behVabove-ar.fina" format="1">
-  <advance width="893"/>
-  <outline>
-    <component base="dotlessbeh-ar.fina"/>
-    <component base="vabove-ar" xOffset="415" yOffset="-482"/>
-  </outline>
-</glyph>

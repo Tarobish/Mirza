@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dalRing-ar" format="1">
-  <advance width="443"/>
-  <unicode hex="0689"/>
-  <outline>
-    <component base="dal-ar"/>
-    <component base="ring-ar" xOffset="208" yOffset="-207"/>
-  </outline>
-</glyph>

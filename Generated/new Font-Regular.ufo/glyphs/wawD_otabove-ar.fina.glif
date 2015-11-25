@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="wawDotabove-ar.fina" format="1">
-  <advance width="365"/>
-  <outline>
-    <component base="waw-ar.fina"/>
-    <component base="dotabove-ar" xOffset="130" yOffset="-387"/>
-  </outline>
-</glyph>

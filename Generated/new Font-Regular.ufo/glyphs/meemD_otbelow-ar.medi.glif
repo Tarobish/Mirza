@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="meemDotbelow-ar.medi" format="1">
-  <advance width="491"/>
-  <outline>
-    <component base="meem-ar.medi"/>
-    <component base="dotbelow-ar" xOffset="163" yOffset="146"/>
-  </outline>
-</glyph>

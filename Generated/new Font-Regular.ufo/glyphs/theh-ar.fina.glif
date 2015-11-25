@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="theh-ar.fina" format="1">
-  <advance width="893"/>
-  <unicode hex="FE9A"/>
-  <outline>
-    <component base="dotlessbeh-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="420" yOffset="-482"/>
-  </outline>
-</glyph>

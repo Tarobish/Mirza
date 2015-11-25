@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06B60627.isol" format="1">
+  <advance width="405"/>
+  <outline>
+    <component base="uniFEFB"/>
+    <component base="uniFBB2" xOffset="258" yOffset="-33"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lamDotabove-ar.isol</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alef-ar.isol</string>
+    </dict>
+  </lib>
+</glyph>

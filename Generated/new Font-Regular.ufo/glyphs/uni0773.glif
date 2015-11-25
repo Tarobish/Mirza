@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0773" format="1">
+  <advance width="230"/>
+  <unicode hex="0773"/>
+  <outline>
+    <component base="uni0627.short" xOffset="75"/>
+    <component base="uni0662.small" xOffset="-1" yOffset="202" xScale="0.8" yScale="0.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

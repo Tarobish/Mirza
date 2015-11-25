@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kirghizyu-ar.fina" format="1">
-  <advance width="365"/>
-  <unicode hex="FBE3"/>
-  <outline>
-    <component base="waw-ar.fina"/>
-    <component base="vinvertedabove-ar" xOffset="131" yOffset="-408"/>
-  </outline>
-</glyph>

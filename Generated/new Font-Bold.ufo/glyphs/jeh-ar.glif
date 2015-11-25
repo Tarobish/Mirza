@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="jeh-ar" format="1">
-  <advance width="286"/>
-  <unicode hex="0698"/>
-  <outline>
-    <component base="reh-ar"/>
-    <component base="threedotsupabove-ar" xOffset="118" yOffset="-372"/>
-  </outline>
-</glyph>

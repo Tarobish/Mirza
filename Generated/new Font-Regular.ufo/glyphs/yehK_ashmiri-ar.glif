@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehKashmiri-ar" format="1">
-  <advance width="659"/>
-  <unicode hex="0620"/>
-  <outline>
-    <component base="alefMaksura-ar"/>
-    <component base="ring-ar" xOffset="290" yOffset="-453"/>
-  </outline>
-</glyph>

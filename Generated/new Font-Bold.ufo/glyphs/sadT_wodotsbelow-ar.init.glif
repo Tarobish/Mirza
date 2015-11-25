@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sadTwodotsbelow-ar.init" format="1">
-  <advance width="629"/>
-  <outline>
-    <component base="sad-ar.init"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="313" yOffset="112"/>
-  </outline>
-</glyph>

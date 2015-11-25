@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gafRing-ar.fina" format="1">
-  <advance width="883"/>
-  <outline>
-    <component base="gaf-ar.fina"/>
-    <component base="ring-ar" xOffset="675" yOffset="221" xScale="0.8" yScale="0.8"/>
-  </outline>
-</glyph>

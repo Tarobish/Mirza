@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="thal-ar.fina" format="1">
-  <advance width="533"/>
-  <unicode hex="FEAC"/>
-  <outline>
-    <component base="dal-ar.fina"/>
-    <component base="dotabove-ar" xOffset="277" yOffset="-291"/>
-  </outline>
-</glyph>

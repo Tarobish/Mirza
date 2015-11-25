@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eight-ar.small" format="1">
-  <advance width="214"/>
-  <outline>
-    <component base="eight-ar" xOffset="-6" yOffset="242" xScale="0.444" yScale="0.444"/>
-  </outline>
-</glyph>

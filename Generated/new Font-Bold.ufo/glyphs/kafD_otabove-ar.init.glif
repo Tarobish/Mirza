@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kafDotabove-ar.init" format="1">
-  <advance width="289"/>
-  <outline>
-    <component base="kaf-ar.init"/>
-    <component base="dotabove-ar" xOffset="117" yOffset="-61"/>
-  </outline>
-</glyph>

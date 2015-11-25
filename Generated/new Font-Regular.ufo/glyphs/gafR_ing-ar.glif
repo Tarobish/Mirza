@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gafRing-ar" format="1">
-  <advance width="733"/>
-  <unicode hex="06B0"/>
-  <outline>
-    <component base="gaf-ar"/>
-    <component base="ring-ar" xOffset="633" yOffset="268" xScale="0.8" yScale="0.8"/>
-  </outline>
-</glyph>
