@@ -38206,9 +38206,9 @@ leftMetricsKey = "lam-ar.init";
 rightMetricsKey = "alefWasla-ar.fina";
 },
 {
-color = 4;
+color = 11;
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2015-11-24 07:21:36 +0000";
+lastChange = "2015-11-25 00:54:12 +0000";
 layers = (
 {
 anchors = (
