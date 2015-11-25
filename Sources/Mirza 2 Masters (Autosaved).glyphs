@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.fina"
+"/beh-ar/alef-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -1213,13 +1213,13 @@ unicode = 0627;
 },
 {
 glyphname = "alef-ar.fina";
-lastChange = "2015-11-25 07:18:27 +0000";
+lastChange = "2015-11-25 07:18:39 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{113, -26}";
+position = "{93, -26}";
 },
 {
 name = top;
