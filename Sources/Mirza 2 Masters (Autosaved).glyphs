@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/beh-ar/alefMaksura-ar.fina/yeh-farsi.fina/beh-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -30905,7 +30908,7 @@ unicode = 0649;
 },
 {
 glyphname = "alefMaksura-ar.fina";
-lastChange = "2015-11-25 07:07:34 +0000";
+lastChange = "2015-11-25 07:08:23 +0000";
 layers = (
 {
 anchors = (
@@ -31042,12 +31045,12 @@ nodes = (
 "632 -24 OFFCURVE",
 "629 -11 OFFCURVE",
 "626 0 CURVE",
-"693 0 LINE",
-"693 139 LINE"
+"713 0 LINE",
+"713 139 LINE"
 );
 }
 );
-width = 693;
+width = 713;
 }
 );
 unicode = FEF0;
@@ -32046,7 +32049,7 @@ unicode = 06CC;
 },
 {
 glyphname = "yeh-farsi.fina";
-lastChange = "2015-11-25 07:07:34 +0000";
+lastChange = "2015-11-25 07:08:23 +0000";
 layers = (
 {
 components = (
@@ -32066,7 +32069,7 @@ name = "alefMaksura-ar.fina";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 693;
+width = 713;
 }
 );
 unicode = FBFD;
