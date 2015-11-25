@@ -4322,13 +4322,13 @@ width = 456;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.medi";
-lastChange = "2015-11-25 07:15:28 +0000";
+lastChange = "2015-11-25 07:15:43 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{144, -188}";
+position = "{154, -188}";
 },
 {
 name = top;
@@ -4338,7 +4338,7 @@ position = "{133, 198}";
 components = (
 {
 name = "dots.horz.below-ar";
-transform = "{1, 0, 0, 1, 143, 148}";
+transform = "{1, 0, 0, 1, 153, 148}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4399,7 +4399,7 @@ position = "{188, 262}";
 components = (
 {
 name = "dots.horz.below-ar";
-transform = "{1, 0, 0, 1, 169, 102}";
+transform = "{1, 0, 0, 1, 189, 102}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
