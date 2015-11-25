@@ -40151,9 +40151,9 @@ width = 978;
 );
 },
 {
-color = 4;
+color = 11;
 glyphname = "dotlessbeh_alefMaksura-ar";
-lastChange = "2015-11-24 21:10:31 +0000";
+lastChange = "2015-11-25 00:35:02 +0000";
 layers = (
 {
 anchors = (
@@ -40354,9 +40354,9 @@ width = 678;
 );
 },
 {
-color = 4;
+color = 11;
 glyphname = "dotlessbeh_alefMaksura-ar.fina";
-lastChange = "2015-11-24 21:09:50 +0000";
+lastChange = "2015-11-25 00:34:59 +0000";
 layers = (
 {
 anchors = (
