@@ -32825,7 +32825,7 @@ width = 244;
 {
 color = 0;
 glyphname = "yehFourbelow-farsi.medi";
-lastChange = "2015-11-24 22:21:35 +0000";
+lastChange = "2015-11-25 07:39:50 +0000";
 layers = (
 {
 components = (
@@ -32835,7 +32835,7 @@ name = "dotlessbeh-ar.medi";
 {
 disableAlignment = 1;
 name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, -63, -442}";
+transform = "{0.8, 0, 0, 0.8, -50, -442}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
