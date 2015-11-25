@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/kaf_kaf-ar.fina"
+"/kaf_kaf-ar.fina",
+"/kaf_kaf-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -46619,7 +46620,7 @@ width = 894;
 {
 color = 4;
 glyphname = "kaf_kaf-ar";
-lastChange = "2015-11-24 18:56:23 +0000";
+lastChange = "2015-11-25 08:30:51 +0000";
 layers = (
 {
 anchors = (
@@ -46641,7 +46642,7 @@ position = "{832, 556}";
 },
 {
 name = top_2;
-position = "{372, 167}";
+position = "{372, 341}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -46737,6 +46738,44 @@ nodes = (
 "764 301 OFFCURVE",
 "861 186 OFFCURVE",
 "861 139 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"457 240 OFFCURVE",
+"442 241 OFFCURVE",
+"410 241 CURVE SMOOTH",
+"384 241 OFFCURVE",
+"360 246 OFFCURVE",
+"360 265 CURVE",
+"377 279 OFFCURVE",
+"399 289 OFFCURVE",
+"424 297 CURVE",
+"432 307 OFFCURVE",
+"438 316 OFFCURVE",
+"443 327 CURVE",
+"430 324 OFFCURVE",
+"406 316 OFFCURVE",
+"384 304 CURVE SMOOTH",
+"352 287 OFFCURVE",
+"336 267 OFFCURVE",
+"336 243 CURVE SMOOTH",
+"336 228 OFFCURVE",
+"349 216 OFFCURVE",
+"384 214 CURVE SMOOTH",
+"412 212 OFFCURVE",
+"423 210 OFFCURVE",
+"423 203 CURVE SMOOTH",
+"423 183 OFFCURVE",
+"346 163 OFFCURVE",
+"300 149 CURVE",
+"330 147 OFFCURVE",
+"362 148 OFFCURVE",
+"396 152 CURVE",
+"440 178 OFFCURVE",
+"457 197 OFFCURVE",
+"457 219 CURVE SMOOTH"
 );
 }
 );
