@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 "/beh-ar/alef-ar.fina",
-"/beh-ar/alef-ar.fina.short"
+"/beh-ar/beh-ar/alef-ar.fina.short"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -1419,17 +1419,17 @@ width = 202;
 },
 {
 glyphname = "alef-ar.fina.short";
-lastChange = "2015-11-25 07:19:16 +0000";
+lastChange = "2015-11-25 07:19:24 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{85, -24}";
+position = "{95, -24}";
 },
 {
 name = top;
-position = "{97, 611}";
+position = "{107, 611}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1438,33 +1438,33 @@ paths = (
 {
 closed = 1;
 nodes = (
-"197 98 LINE SMOOTH",
-"169 98 OFFCURVE",
-"148 106 OFFCURVE",
-"134 122 CURVE SMOOTH",
-"123 135 OFFCURVE",
-"117 154 OFFCURVE",
-"116 178 CURVE SMOOTH",
-"106 499 LINE",
-"95 499 LINE",
-"85 485 OFFCURVE",
-"58 449 OFFCURVE",
-"40 419 CURVE",
-"49 362 OFFCURVE",
-"59 202 OFFCURVE",
-"61 146 CURVE SMOOTH",
-"63 102 OFFCURVE",
-"73 65 OFFCURVE",
-"93 38 CURVE SMOOTH",
-"112 13 OFFCURVE",
-"141 0 OFFCURVE",
-"179 0 CURVE SMOOTH",
-"242 0 LINE",
-"242 98 LINE"
+"207 98 LINE SMOOTH",
+"179 98 OFFCURVE",
+"158 106 OFFCURVE",
+"144 122 CURVE SMOOTH",
+"133 135 OFFCURVE",
+"127 154 OFFCURVE",
+"126 178 CURVE SMOOTH",
+"116 499 LINE",
+"105 499 LINE",
+"95 485 OFFCURVE",
+"68 449 OFFCURVE",
+"50 419 CURVE",
+"59 362 OFFCURVE",
+"69 202 OFFCURVE",
+"71 146 CURVE SMOOTH",
+"73 102 OFFCURVE",
+"83 65 OFFCURVE",
+"103 38 CURVE SMOOTH",
+"122 13 OFFCURVE",
+"151 0 OFFCURVE",
+"189 0 CURVE SMOOTH",
+"252 0 LINE",
+"252 98 LINE"
 );
 }
 );
-width = 242;
+width = 252;
 },
 {
 anchors = (
