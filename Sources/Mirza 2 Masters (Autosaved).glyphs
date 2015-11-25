@@ -1307,7 +1307,7 @@ unicode = FE8E;
 },
 {
 glyphname = "alef-ar.short";
-lastChange = "2015-11-24 21:48:53 +0000";
+lastChange = "2015-11-25 07:20:44 +0000";
 layers = (
 {
 anchors = (
@@ -1364,7 +1364,7 @@ width = 155;
 anchors = (
 {
 name = bottom;
-position = "{95, -25}";
+position = "{95, -35}";
 },
 {
 name = top;
@@ -1733,7 +1733,7 @@ width = 279;
 },
 {
 glyphname = "alefWavyhamzabelow-ar";
-lastChange = "2015-11-24 21:48:55 +0000";
+lastChange = "2015-11-25 07:20:45 +0000";
 layers = (
 {
 components = (
@@ -1756,7 +1756,7 @@ name = "alef-ar.short";
 },
 {
 name = "wavyhamzabelow-ar";
-transform = "{1, 0, 0, 1, 96, 158}";
+transform = "{1, 0, 0, 1, 96, 148}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
