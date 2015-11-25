@@ -39723,9 +39723,9 @@ width = 543;
 );
 },
 {
-color = 4;
+color = 11;
 glyphname = "dotlessbeh_noonghunna-ar";
-lastChange = "2015-11-24 21:42:15 +0000";
+lastChange = "2015-11-25 00:10:10 +0000";
 layers = (
 {
 anchors = (
@@ -39922,9 +39922,9 @@ width = 846;
 );
 },
 {
-color = 4;
+color = 11;
 glyphname = "dotlessbeh_noonghunna-ar.fina";
-lastChange = "2015-11-24 21:42:03 +0000";
+lastChange = "2015-11-25 00:10:07 +0000";
 layers = (
 {
 anchors = (
