@@ -38674,9 +38674,9 @@ width = 608;
 );
 },
 {
-color = 4;
+color = 11;
 glyphname = "dotlessbeh_hah_alefMaksura-ar";
-lastChange = "2015-11-24 21:15:20 +0000";
+lastChange = "2015-11-25 01:10:28 +0000";
 layers = (
 {
 anchors = (
