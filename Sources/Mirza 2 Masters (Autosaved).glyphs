@@ -1419,7 +1419,7 @@ width = 202;
 },
 {
 glyphname = "alef-ar.fina.short";
-lastChange = "2015-11-25 07:19:24 +0000";
+lastChange = "2015-11-25 07:19:43 +0000";
 layers = (
 {
 anchors = (
@@ -1470,7 +1470,7 @@ width = 252;
 anchors = (
 {
 name = bottom;
-position = "{163, -25}";
+position = "{73, -35}";
 },
 {
 name = top;
