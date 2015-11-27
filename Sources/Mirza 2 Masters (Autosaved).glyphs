@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/theh-ar/uHamzaabove-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -34382,13 +34379,13 @@ unicode = 0677;
 {
 color = 6;
 glyphname = "uHamzaabove-ar.fina";
-lastChange = "2015-11-27 04:24:52 +0000";
+lastChange = "2015-11-27 04:24:59 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{211, 519}";
+position = "{126, 479}";
 }
 );
 components = (
