@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/circumflex.below/behVinvertedbelow-ar"
+"/circumflex.below/behVinvertedbelow-ar",
+"/peh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -2752,7 +2753,7 @@ unicode = FE91;
 },
 {
 glyphname = "peh-ar";
-lastChange = "2015-11-24 05:30:25 +0000";
+lastChange = "2015-11-27 04:20:02 +0000";
 layers = (
 {
 components = (
@@ -5093,7 +5094,7 @@ width = 325;
 },
 {
 glyphname = "behVinvertedbelow-ar";
-lastChange = "2015-11-27 04:19:50 +0000";
+lastChange = "2015-11-27 04:20:07 +0000";
 layers = (
 {
 components = (
@@ -5102,7 +5103,7 @@ name = "dotlessbeh-ar";
 },
 {
 name = circumflex.below;
-transform = "{1, 0, 0, 1, 411, 147}";
+transform = "{1, 0, 0, 1, 411, 136}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -61542,13 +61543,13 @@ width = 0;
 },
 {
 glyphname = circumflex.below;
-lastChange = "2015-11-27 04:19:51 +0000";
+lastChange = "2015-11-27 04:20:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{-0, -193}";
+position = "{0, -182}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -61594,6 +61595,15 @@ nodes = (
 "-28 -280 OFFCURVE",
 "-43 -310 OFFCURVE",
 "-70 -339 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"370 -67 LINE",
+"492 -67 LINE",
+"492 -7 LINE",
+"370 -7 LINE"
 );
 }
 );
