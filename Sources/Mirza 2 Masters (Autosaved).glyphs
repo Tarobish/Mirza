@@ -34382,7 +34382,7 @@ unicode = 0677;
 {
 color = 6;
 glyphname = "uHamzaabove-ar.fina";
-lastChange = "2015-11-27 04:24:12 +0000";
+lastChange = "2015-11-27 04:24:21 +0000";
 layers = (
 {
 anchors = (
@@ -34509,16 +34509,6 @@ nodes = (
 width = 365;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{43, 331}";
-},
-{
-name = top;
-position = "{166, 539}";
-}
-);
 components = (
 {
 name = "waw-ar.fina";
