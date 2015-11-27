@@ -61543,7 +61543,7 @@ width = 0;
 },
 {
 glyphname = circumflex.below;
-lastChange = "2015-11-27 04:20:04 +0000";
+lastChange = "2015-11-27 04:20:15 +0000";
 layers = (
 {
 anchors = (
@@ -61596,20 +61596,17 @@ nodes = (
 "-43 -310 OFFCURVE",
 "-70 -339 CURVE"
 );
-},
-{
-closed = 1;
-nodes = (
-"370 -67 LINE",
-"492 -67 LINE",
-"492 -7 LINE",
-"370 -7 LINE"
-);
 }
 );
 width = 0;
 },
 {
+anchors = (
+{
+name = "new anchor";
+position = "{111, -163}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
