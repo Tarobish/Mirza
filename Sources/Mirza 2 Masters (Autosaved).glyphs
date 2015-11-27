@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/fathaRing-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -61890,9 +61887,19 @@ unicode = 060A;
 },
 {
 glyphname = circumflex.arabic;
-lastChange = "2015-11-06 18:40:47 +0000";
+lastChange = "2015-11-27 21:51:46 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{4, 680}";
+},
+{
+name = top;
+position = "{4, 860}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -65826,7 +65833,7 @@ unicode = FBBF;
 },
 {
 glyphname = "alefabove-ar";
-lastChange = "2015-11-24 19:59:59 +0000";
+lastChange = "2015-11-27 21:52:33 +0000";
 layers = (
 {
 anchors = (
@@ -65836,7 +65843,7 @@ position = "{6, 685}";
 },
 {
 name = top;
-position = "{-3, 794}";
+position = "{1, 819}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -73017,9 +73024,19 @@ unicode = 08E8;
 },
 {
 glyphname = "kasratanCurly-ar";
-lastChange = "2015-11-06 17:45:51 +0000";
+lastChange = "2015-11-27 21:55:20 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{1, -183}";
+},
+{
+name = bottom;
+position = "{1, -405}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -73523,9 +73540,19 @@ unicode = 08F1;
 {
 color = 9;
 glyphname = "openkasratan-ar";
-lastChange = "2015-11-06 19:28:10 +0000";
+lastChange = "2015-11-27 21:55:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{1, -185}";
+},
+{
+name = bottom;
+position = "{1, -388}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -73793,7 +73820,7 @@ unicode = 08F3;
 {
 color = 9;
 glyphname = "fathaRing-ar";
-lastChange = "2015-11-27 21:50:57 +0000";
+lastChange = "2015-11-27 21:51:06 +0000";
 layers = (
 {
 anchors = (
@@ -73803,7 +73830,7 @@ position = "{4, 680}";
 },
 {
 name = top;
-position = "{4, 848}";
+position = "{4, 828}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -74364,40 +74391,50 @@ unicode = 0604;
 {
 color = 9;
 glyphname = uniFBBC;
-lastChange = "2015-11-24 22:27:25 +0000";
+lastChange = "2015-11-27 21:55:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{1, -180}";
+},
+{
+name = bottom;
+position = "{1, -317}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"-93 -73 OFFCURVE",
-"-74 -106 OFFCURVE",
-"-80 -161 CURVE",
-"-64 -160 LINE",
-"-57 -114 OFFCURVE",
-"-65 -68 OFFCURVE",
-"-75 -46 CURVE",
-"-87 -51 OFFCURVE",
-"-95 -54 OFFCURVE",
-"-100 -60 CURVE"
+"-36 -227 OFFCURVE",
+"-17 -260 OFFCURVE",
+"-23 -315 CURVE",
+"-7 -314 LINE",
+"0 -268 OFFCURVE",
+"-8 -222 OFFCURVE",
+"-18 -200 CURVE",
+"-30 -205 OFFCURVE",
+"-38 -208 OFFCURVE",
+"-43 -214 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-40 -73 OFFCURVE",
-"-20 -106 OFFCURVE",
-"-26 -161 CURVE",
-"-10 -160 LINE",
-"-4 -114 OFFCURVE",
-"-12 -68 OFFCURVE",
-"-21 -46 CURVE",
-"-33 -51 OFFCURVE",
-"-41 -54 OFFCURVE",
-"-46 -60 CURVE"
+"17 -227 OFFCURVE",
+"37 -260 OFFCURVE",
+"31 -315 CURVE",
+"47 -314 LINE",
+"53 -268 OFFCURVE",
+"45 -222 OFFCURVE",
+"36 -200 CURVE",
+"24 -205 OFFCURVE",
+"16 -208 OFFCURVE",
+"11 -214 CURVE"
 );
 }
 );
@@ -74518,9 +74555,19 @@ unicode = FEFD;
 {
 color = 9;
 glyphname = "dots.horz.below-ar";
-lastChange = "2015-11-04 19:19:44 +0000";
+lastChange = "2015-11-27 21:56:02 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{1, -175}";
+},
+{
+name = bottom;
+position = "{4, -302}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
