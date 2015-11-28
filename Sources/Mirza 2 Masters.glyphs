@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alef-ar.fina.short"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 fontMaster = (
@@ -1415,7 +1418,7 @@ width = 202;
 },
 {
 glyphname = "alef-ar.fina.short";
-lastChange = "2015-11-28 07:46:36 +0000";
+lastChange = "2015-11-28 07:47:22 +0000";
 layers = (
 {
 anchors = (
