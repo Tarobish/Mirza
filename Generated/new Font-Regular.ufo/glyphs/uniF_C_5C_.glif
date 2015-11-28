@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFC5C" format="1">
-  <advance width="245"/>
-  <unicode hex="FC5C"/>
-  <outline>
-    <component base="uni0631"/>
-    <component base="uni0670" xOffset="67" yOffset="-452"/>
-  </outline>
-</glyph>

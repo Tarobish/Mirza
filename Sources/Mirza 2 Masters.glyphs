@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/ring-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -10114,7 +10117,7 @@ width = 366;
 {
 color = 0;
 glyphname = "rehRing-ar";
-lastChange = "2015-11-28 00:35:31 +0000";
+lastChange = "2015-11-28 00:50:59 +0000";
 layers = (
 {
 components = (
@@ -10124,7 +10127,7 @@ name = "reh-ar";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, -11, -15}";
+transform = "{1, 0, 0, 1, 122, 23}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -10139,7 +10142,7 @@ name = "reh-ar";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 12, 42}";
+transform = "{1, 0, 0, 1, 157, 72}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -10152,7 +10155,7 @@ unicode = 0693;
 {
 color = 0;
 glyphname = "rehRing-ar.fina";
-lastChange = "2015-11-28 00:35:41 +0000";
+lastChange = "2015-11-28 00:51:07 +0000";
 layers = (
 {
 components = (
@@ -10162,7 +10165,7 @@ name = "reh-ar.fina";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, -44, -64}";
+transform = "{1, 0, 0, 1, 99, -28}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -10177,7 +10180,7 @@ name = "reh-ar.fina";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 12, -37}";
+transform = "{1, 0, 0, 1, 151, -9}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -29673,7 +29676,7 @@ unicode = FEEE;
 },
 {
 glyphname = "wawring-ar";
-lastChange = "2015-11-28 00:29:49 +0000";
+lastChange = "2015-11-28 00:51:41 +0000";
 layers = (
 {
 components = (
@@ -29681,8 +29684,9 @@ components = (
 name = "waw-ar";
 },
 {
+disableAlignment = 1;
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 36, -135}";
+transform = "{0.8, 0, 0, 0.8, 132, 137}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -29699,7 +29703,7 @@ transform = "{1, 0, 0, 1, 20, 0}";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 89, -7}";
+transform = "{0.8, 0, 0, 0.8, 128, 189}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -65612,7 +65616,7 @@ unicode = 065F;
 },
 {
 glyphname = "ring-ar";
-lastChange = "2015-11-28 00:30:44 +0000";
+lastChange = "2015-11-28 00:54:28 +0000";
 layers = (
 {
 anchors = (
@@ -65622,7 +65626,7 @@ position = "{0, -166}";
 },
 {
 name = bottom;
-position = "{0, -320}";
+position = "{4, -315}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
