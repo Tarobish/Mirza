@@ -3,10 +3,7 @@
   <advance width="295"/>
   <outline>
     <component base="uniFEAE"/>
-    <component base="uniFBBF" xOffset="-55" yOffset="-476"/>
-    <contour>
-      <point x="-51" y="-399" type="move" name="bottom"/>
-    </contour>
+    <component base="uniFBBF" xOffset="-44" yOffset="-64"/>
   </outline>
   <lib>
     <dict>

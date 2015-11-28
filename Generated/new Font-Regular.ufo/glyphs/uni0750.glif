@@ -4,9 +4,6 @@
   <unicode hex="0750"/>
   <outline>
     <component base="uni066E"/>
-    <component base="dots.horz.below-ar" xOffset="412" yOffset="130"/>
-    <contour>
-      <point x="417" y="-210" type="move" name="bottom"/>
-    </contour>
+    <component base="dots.horz.below-ar" xOffset="410" yOffset="129"/>
   </outline>
 </glyph>

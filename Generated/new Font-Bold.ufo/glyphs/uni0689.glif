@@ -4,9 +4,6 @@
   <unicode hex="0689"/>
   <outline>
     <component base="uni062F"/>
-    <component base="uniFBBF" xOffset="228" yOffset="-204"/>
-    <contour>
-      <point x="233" y="-156" type="move" name="bottom"/>
-    </contour>
+    <component base="uniFBBF" xOffset="212" yOffset="230"/>
   </outline>
 </glyph>

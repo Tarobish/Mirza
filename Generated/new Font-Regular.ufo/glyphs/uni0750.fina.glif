@@ -3,9 +3,6 @@
   <advance width="893"/>
   <outline>
     <component base="uni066E.fina"/>
-    <component base="dots.horz.below-ar" xOffset="411" yOffset="130"/>
-    <contour>
-      <point x="416" y="-200" type="move" name="bottom"/>
-    </contour>
+    <component base="dots.horz.below-ar" xOffset="417" yOffset="140"/>
   </outline>
 </glyph>

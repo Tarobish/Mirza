@@ -50,7 +50,7 @@
       <point x="615" y="0" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="240" y="127" type="move" name="top"/>
+      <point x="240" y="139" type="move" name="top"/>
     </contour>
     <contour>
       <point x="277" y="-314" type="move" name="bottom"/>

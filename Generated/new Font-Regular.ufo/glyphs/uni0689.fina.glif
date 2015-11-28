@@ -3,9 +3,6 @@
   <advance width="533"/>
   <outline>
     <component base="uniFEAA"/>
-    <component base="uniFBBF" xOffset="201" yOffset="-206"/>
-    <contour>
-      <point x="209" y="-143" type="move" name="bottom"/>
-    </contour>
+    <component base="uniFBBF" xOffset="207" yOffset="207"/>
   </outline>
 </glyph>

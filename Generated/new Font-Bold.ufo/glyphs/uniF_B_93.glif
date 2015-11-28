@@ -14,8 +14,5 @@
       <point x="501" y="481" type="line"/>
     </contour>
     <component base="uniFB8F"/>
-    <contour>
-      <point x="616" y="699" type="move" name="top"/>
-    </contour>
   </outline>
 </glyph>

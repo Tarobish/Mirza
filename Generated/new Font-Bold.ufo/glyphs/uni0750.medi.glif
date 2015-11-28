@@ -37,12 +37,9 @@
       <point x="411" y="246"/>
       <point x="411" y="246" type="curve"/>
     </contour>
-    <component base="dots.horz.below-ar" xOffset="209" yOffset="102"/>
+    <component base="dots.horz.below-ar" xOffset="199" yOffset="102"/>
     <contour>
       <point x="208" y="262" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="211" y="-250" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -97,13 +97,11 @@
       <point x="-69" y="819"/>
       <point x="-62" y="830" type="curve"/>
     </contour>
+    <contour>
+      <point x="-1" y="904" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1" y="681" type="move" name="_top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>9</integer>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
-    </dict>
-  </lib>
 </glyph>

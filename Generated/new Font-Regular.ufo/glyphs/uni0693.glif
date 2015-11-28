@@ -4,10 +4,7 @@
   <unicode hex="0693"/>
   <outline>
     <component base="uni0631"/>
-    <component base="uniFBBF" xOffset="-17" yOffset="-428"/>
-    <contour>
-      <point x="-12" y="-351" type="move" name="bottom"/>
-    </contour>
+    <component base="uniFBBF" xOffset="-11" yOffset="-15"/>
   </outline>
   <lib>
     <dict>
