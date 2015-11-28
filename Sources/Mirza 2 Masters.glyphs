@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/ring-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -29715,7 +29712,7 @@ unicode = 06C4;
 },
 {
 glyphname = "wawring-ar.fina";
-lastChange = "2015-11-28 00:29:58 +0000";
+lastChange = "2015-11-28 00:55:04 +0000";
 layers = (
 {
 components = (
@@ -29723,8 +29720,9 @@ components = (
 name = "waw-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 63, -186}";
+transform = "{0.8, 0, 0, 0.8, 125, 81}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -29741,7 +29739,7 @@ transform = "{1, 0, 0, 1, 20, 0}";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 89, -83}";
+transform = "{0.8, 0, 0, 0.8, 129, 111}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";

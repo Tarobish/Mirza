@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni069C.fina" format="1">
+  <advance width="919"/>
+  <outline>
+    <component base="uniFEB2"/>
+    <component base="uniFBB6" xOffset="641" yOffset="-452"/>
+    <component base="uniFBB9" xOffset="664" yOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

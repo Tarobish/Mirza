@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06A3" format="1">
+  <advance width="843"/>
+  <unicode hex="06A3"/>
+  <outline>
+    <component base="uni06A1"/>
+    <component base="uniFBB2" xOffset="669" yOffset="-139"/>
+    <component base="uniFBB3" xOffset="598" yOffset="77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>
