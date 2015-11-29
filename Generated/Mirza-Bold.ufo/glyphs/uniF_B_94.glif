@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB94" format="1">
-  <advance width="289"/>
+  <advance width="299"/>
   <unicode hex="FB94"/>
   <outline>
-    <contour>
-      <point x="72" y="535"/>
-      <point x="148" y="578"/>
-      <point x="237" y="619" type="curve"/>
-      <point x="251" y="683" type="line"/>
-      <point x="170" y="647"/>
-      <point x="71" y="593"/>
-      <point x="1" y="549" type="curve"/>
-      <point x="-11" y="477" type="line"/>
-    </contour>
     <component base="uniFEDB"/>
+    <component base="gafbar-ar" xOffset="131" yOffset="-224"/>
   </outline>
 </glyph>

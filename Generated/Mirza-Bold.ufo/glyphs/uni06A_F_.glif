@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni06AF" format="1">
-  <advance width="779"/>
+  <advance width="789"/>
   <unicode hex="06AF"/>
   <outline>
-    <contour>
-      <point x="594" y="535"/>
-      <point x="670" y="578"/>
-      <point x="759" y="619" type="curve"/>
-      <point x="773" y="683" type="line"/>
-      <point x="692" y="647"/>
-      <point x="593" y="593"/>
-      <point x="523" y="549" type="curve"/>
-      <point x="511" y="477" type="line"/>
-    </contour>
     <component base="uni06A9"/>
+    <component base="gafbar-ar" xOffset="617" yOffset="-226"/>
   </outline>
 </glyph>

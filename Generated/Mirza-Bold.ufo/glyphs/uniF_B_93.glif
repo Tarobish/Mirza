@@ -3,16 +3,7 @@
   <advance width="883"/>
   <unicode hex="FB93"/>
   <outline>
-    <contour>
-      <point x="593" y="543"/>
-      <point x="652" y="578"/>
-      <point x="750" y="623" type="curve"/>
-      <point x="763" y="687" type="line"/>
-      <point x="676" y="648"/>
-      <point x="591" y="602"/>
-      <point x="513" y="553" type="curve"/>
-      <point x="501" y="481" type="line"/>
-    </contour>
     <component base="uniFB8F"/>
+    <component base="gafbar-ar" xOffset="625" yOffset="-221"/>
   </outline>
 </glyph>
