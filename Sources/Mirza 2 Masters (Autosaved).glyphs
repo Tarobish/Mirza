@@ -52419,7 +52419,7 @@ unicode = FCCC;
 },
 {
 glyphname = "lam_meem_alefMaksura-ar";
-lastChange = "2015-12-02 02:57:23 +0000";
+lastChange = "2015-12-02 02:57:53 +0000";
 layers = (
 {
 anchors = (
@@ -52449,7 +52449,7 @@ position = "{487, 568}";
 },
 {
 name = top_2;
-position = "{1070, 129}";
+position = "{767, 253}";
 },
 {
 name = top_3;
@@ -52545,6 +52545,40 @@ nodes = (
 width = 955;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{733, 0}";
+},
+{
+name = bottom_2;
+position = "{440, 0}";
+},
+{
+name = bottom_3;
+position = "{314, -312}";
+},
+{
+name = caret_1;
+position = "{293.333, 0}";
+},
+{
+name = caret_2;
+position = "{586.667, 0}";
+},
+{
+name = top_1;
+position = "{733, 500}";
+},
+{
+name = top_2;
+position = "{865, 312}";
+},
+{
+name = top_3;
+position = "{147, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
