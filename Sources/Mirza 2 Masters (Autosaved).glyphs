@@ -41278,7 +41278,7 @@ unicode = FCAA;
 },
 {
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2015-12-02 03:44:29 +0000";
+lastChange = "2015-12-02 03:44:44 +0000";
 layers = (
 {
 anchors = (
@@ -41439,6 +41439,40 @@ nodes = (
 width = 1112;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{965, 160}";
+},
+{
+name = bottom_2;
+position = "{579, 0}";
+},
+{
+name = bottom_3;
+position = "{308, -339}";
+},
+{
+name = caret_1;
+position = "{386, 0}";
+},
+{
+name = caret_2;
+position = "{772, 0}";
+},
+{
+name = top_1;
+position = "{965, 500}";
+},
+{
+name = top_2;
+position = "{579, 500}";
+},
+{
+name = top_3;
+position = "{193, 500}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
