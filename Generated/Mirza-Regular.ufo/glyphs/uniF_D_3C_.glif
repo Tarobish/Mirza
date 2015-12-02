@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFD3C" format="1">
+  <advance width="242"/>
+  <unicode hex="FD3C"/>
+  <outline>
+    <component base="uni064B" xOffset="83" yOffset="-190"/>
+    <component base="uniFE8E.short"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

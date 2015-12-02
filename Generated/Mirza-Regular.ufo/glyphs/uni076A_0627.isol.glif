@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni076A0627.isol" format="1">
+  <advance width="357"/>
+  <outline>
+    <component base="uniFEFB"/>
+    <component base="barlong" xOffset="254" yOffset="260"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lamBar-ar.isol</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alef-ar.isol</string>
+    </dict>
+  </lib>
+</glyph>
