@@ -41278,17 +41278,17 @@ unicode = FCAA;
 },
 {
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2015-12-02 03:44:12 +0000";
+lastChange = "2015-12-02 03:44:29 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{927, 0}";
+position = "{908, 152}";
 },
 {
 name = bottom_2;
-position = "{556, 0}";
+position = "{687, -143}";
 },
 {
 name = bottom_3;
@@ -41304,15 +41304,15 @@ position = "{741.333, 0}";
 },
 {
 name = top_1;
-position = "{927, 500}";
+position = "{745, 405}";
 },
 {
 name = top_2;
-position = "{556, 500}";
+position = "{486, 188}";
 },
 {
 name = top_3;
-position = "{185, 500}";
+position = "{237, -19}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
