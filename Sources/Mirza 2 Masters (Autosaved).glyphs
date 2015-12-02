@@ -41278,7 +41278,7 @@ unicode = FCAA;
 },
 {
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2015-12-02 03:44:55 +0000";
+lastChange = "2015-12-02 03:45:05 +0000";
 layers = (
 {
 anchors = (
@@ -41462,15 +41462,15 @@ position = "{772, 0}";
 },
 {
 name = top_1;
-position = "{965, 500}";
+position = "{793, 430}";
 },
 {
 name = top_2;
-position = "{579, 500}";
+position = "{476, 225}";
 },
 {
 name = top_3;
-position = "{193, 478}";
+position = "{246, 44}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
