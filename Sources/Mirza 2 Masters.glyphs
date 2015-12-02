@@ -1,9 +1,4 @@
 {
-DisplayStrings = (
-"/hah_meem_alefMaksura-ar",
-"/hah_meem-ar.init",
-"/ain_meem_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 fontMaster = (
@@ -41061,7 +41056,7 @@ unicode = FC18;
 {
 color = 4;
 glyphname = "hah_meem-ar.init";
-lastChange = "2015-11-24 20:39:35 +0000";
+lastChange = "2015-12-02 03:45:26 +0000";
 layers = (
 {
 anchors = (
@@ -41166,7 +41161,7 @@ nodes = (
 );
 }
 );
-width = 622;
+width = 632;
 },
 {
 anchors = (
@@ -41271,16 +41266,51 @@ nodes = (
 );
 }
 );
-width = 658;
+width = 668;
 }
 );
 unicode = FCAA;
 },
 {
+color = 4;
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2015-12-02 03:30:53 +0000";
+lastChange = "2015-12-02 03:45:31 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{908, 152}";
+},
+{
+name = bottom_2;
+position = "{687, -143}";
+},
+{
+name = bottom_3;
+position = "{302, -339}";
+},
+{
+name = caret_1;
+position = "{370.667, 0}";
+},
+{
+name = caret_2;
+position = "{741.333, 0}";
+},
+{
+name = top_1;
+position = "{745, 405}";
+},
+{
+name = top_2;
+position = "{486, 188}";
+},
+{
+name = top_3;
+position = "{237, -19}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -41402,9 +41432,43 @@ nodes = (
 );
 }
 );
-width = 1112;
+width = 1122;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{957, 160}";
+},
+{
+name = bottom_2;
+position = "{726, -103}";
+},
+{
+name = bottom_3;
+position = "{308, -339}";
+},
+{
+name = caret_1;
+position = "{386, 0}";
+},
+{
+name = caret_2;
+position = "{772, 0}";
+},
+{
+name = top_1;
+position = "{765, 443}";
+},
+{
+name = top_2;
+position = "{476, 225}";
+},
+{
+name = top_3;
+position = "{246, 44}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -41526,7 +41590,7 @@ nodes = (
 );
 }
 );
-width = 1158;
+width = 1168;
 }
 );
 },
