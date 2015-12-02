@@ -44486,7 +44486,7 @@ unicode = FCB3;
 },
 {
 glyphname = "sad_meem_alefMaksura-ar";
-lastChange = "2015-12-02 02:20:16 +0000";
+lastChange = "2015-12-02 02:20:42 +0000";
 layers = (
 {
 anchors = (
@@ -44496,7 +44496,7 @@ position = "{1071, 0}";
 },
 {
 name = bottom_2;
-position = "{642, 0}";
+position = "{728, -51}";
 },
 {
 name = bottom_3;
@@ -44512,11 +44512,11 @@ position = "{856.667, 0}";
 },
 {
 name = top_1;
-position = "{1071, 500}";
+position = "{1096, 465}";
 },
 {
 name = top_2;
-position = "{642, 500}";
+position = "{724, 321}";
 },
 {
 name = top_3;
