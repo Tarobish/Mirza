@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hamzabelowKasratan-ar" format="1">
-  <advance width="0"/>
-  <outline>
-    <component base="uni0655"/>
-    <component base="uni064D" xOffset="1" yOffset="-205"/>
-  </outline>
-</glyph>
