@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/rehStroke-ar.fina"
+"/rehLoop-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -10789,7 +10789,7 @@ unicode = 075B;
 {
 color = 0;
 glyphname = "rehStroke-ar.fina";
-lastChange = "2015-12-06 06:17:53 +0000";
+lastChange = "2015-12-06 06:17:55 +0000";
 layers = (
 {
 components = (
@@ -10800,7 +10800,7 @@ transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
 name = barlong;
-transform = "{1, 0, 0, 1, 173, -292}";
+transform = "{1, 0, 0, 1, 167, -292}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
