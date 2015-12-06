@@ -10163,7 +10163,7 @@ width = 396;
 {
 color = 0;
 glyphname = "rehRing-ar";
-lastChange = "2015-12-06 06:20:08 +0000";
+lastChange = "2015-12-06 06:20:30 +0000";
 layers = (
 {
 components = (
@@ -10188,7 +10188,7 @@ name = "reh-ar";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 157, 72}";
+transform = "{1, 0, 0, 1, 187, 72}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -10786,7 +10786,7 @@ unicode = 075B;
 {
 color = 0;
 glyphname = "rehStroke-ar.fina";
-lastChange = "2015-12-06 06:17:55 +0000";
+lastChange = "2015-12-06 06:20:25 +0000";
 layers = (
 {
 components = (
@@ -10813,7 +10813,7 @@ transform = "{1, 0, 0, 1, 80, 0}";
 },
 {
 name = barlong;
-transform = "{1, 0, 0, 1, 166, -266}";
+transform = "{1, 0, 0, 1, 196, -266}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
