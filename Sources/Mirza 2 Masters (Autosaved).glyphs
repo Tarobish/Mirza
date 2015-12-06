@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alef-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -1259,7 +1262,7 @@ unicode = 0627;
 },
 {
 glyphname = "alef-ar.fina";
-lastChange = "2015-12-06 06:15:33 +0000";
+lastChange = "2015-12-06 06:15:55 +0000";
 layers = (
 {
 anchors = (
@@ -1344,12 +1347,12 @@ nodes = (
 "121 16 OFFCURVE",
 "157 0 OFFCURVE",
 "201 0 CURVE SMOOTH",
-"284 0 LINE",
-"284 139 LINE"
+"294 0 LINE",
+"294 139 LINE"
 );
 }
 );
-width = 284;
+width = 294;
 }
 );
 unicode = FE8E;
@@ -1672,7 +1675,7 @@ unicode = 0625;
 },
 {
 glyphname = "alefHamzabelow-ar.fina";
-lastChange = "2015-12-06 06:15:34 +0000";
+lastChange = "2015-12-06 06:15:56 +0000";
 layers = (
 {
 components = (
@@ -1700,7 +1703,7 @@ transform = "{1, 0, 0, 1, 91, 159}";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 284;
+width = 294;
 }
 );
 unicode = FE88;
