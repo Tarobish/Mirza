@@ -76460,7 +76460,7 @@ unicode = FBBC;
 {
 color = 0;
 glyphname = uniFEFE;
-lastChange = "2015-11-28 00:33:01 +0000";
+lastChange = "2015-12-06 07:39:22 +0000";
 layers = (
 {
 components = (
@@ -76474,7 +76474,7 @@ transform = "{1, 0, 0, 1, 50, -172}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 549;
+width = 559;
 },
 {
 components = (
@@ -76496,7 +76496,7 @@ unicode = FEFE;
 {
 color = 0;
 glyphname = uniFEFD;
-lastChange = "2015-11-28 00:33:01 +0000";
+lastChange = "2015-12-06 07:39:22 +0000";
 layers = (
 {
 components = (
@@ -76510,7 +76510,7 @@ transform = "{1, 0, 0, 1, -10, -179}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 357;
+width = 437;
 },
 {
 components = (
