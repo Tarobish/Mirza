@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/rehLoop-ar"
+"/rehRing-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -10166,7 +10166,7 @@ width = 366;
 {
 color = 0;
 glyphname = "rehRing-ar";
-lastChange = "2015-12-06 06:17:31 +0000";
+lastChange = "2015-12-06 06:18:09 +0000";
 layers = (
 {
 components = (
@@ -10176,7 +10176,7 @@ name = "reh-ar";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 122, 23}";
+transform = "{1, 0, 0, 1, 152, 23}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -10204,7 +10204,7 @@ unicode = 0693;
 {
 color = 0;
 glyphname = "rehRing-ar.fina";
-lastChange = "2015-12-06 06:17:37 +0000";
+lastChange = "2015-12-06 06:18:16 +0000";
 layers = (
 {
 components = (
@@ -10214,7 +10214,7 @@ name = "reh-ar.fina";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 99, -28}";
+transform = "{1, 0, 0, 1, 109, -28}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
