@@ -9009,7 +9009,7 @@ unicode = FB83;
 },
 {
 glyphname = "dalRing-ar";
-lastChange = "2015-12-06 06:12:11 +0000";
+lastChange = "2015-12-06 06:12:20 +0000";
 layers = (
 {
 components = (
@@ -9034,7 +9034,7 @@ name = "dal-ar";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 212, 230}";
+transform = "{1, 0, 0, 1, 202, 230}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -9046,7 +9046,7 @@ unicode = 0689;
 },
 {
 glyphname = "dalRing-ar.fina";
-lastChange = "2015-12-06 06:12:16 +0000";
+lastChange = "2015-12-06 06:12:24 +0000";
 layers = (
 {
 components = (
@@ -9071,7 +9071,7 @@ name = "dal-ar.fina";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 214, 236}";
+transform = "{1, 0, 0, 1, 204, 236}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
