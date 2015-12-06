@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alef-ar.fina.short"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -1467,7 +1464,7 @@ width = 202;
 },
 {
 glyphname = "alef-ar.fina.short";
-lastChange = "2015-12-06 06:15:38 +0000";
+lastChange = "2015-12-06 06:15:40 +0000";
 layers = (
 {
 anchors = (
@@ -1512,7 +1509,7 @@ nodes = (
 );
 }
 );
-width = 252;
+width = 262;
 },
 {
 anchors = (
@@ -1603,7 +1600,7 @@ unicode = 0623;
 {
 color = 0;
 glyphname = "alefHamzaabove-ar.fina";
-lastChange = "2015-11-25 07:20:18 +0000";
+lastChange = "2015-12-06 06:15:41 +0000";
 layers = (
 {
 components = (
@@ -1618,7 +1615,7 @@ transform = "{1, 0, 0, 1, 92, -191}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 252;
+width = 262;
 },
 {
 components = (
@@ -1749,7 +1746,7 @@ unicode = 0672;
 {
 color = 0;
 glyphname = "alefWavyhamzaabove-ar.fina";
-lastChange = "2015-11-25 07:20:18 +0000";
+lastChange = "2015-12-06 06:15:41 +0000";
 layers = (
 {
 components = (
@@ -1764,7 +1761,7 @@ transform = "{1, 0, 0, 1, 82, -170}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 252;
+width = 262;
 },
 {
 components = (
@@ -1820,7 +1817,7 @@ unicode = 0673;
 },
 {
 glyphname = "alefWavyhamzabelow-ar.fina";
-lastChange = "2015-11-25 07:20:18 +0000";
+lastChange = "2015-12-06 06:15:41 +0000";
 layers = (
 {
 components = (
@@ -1834,7 +1831,7 @@ transform = "{1, 0, 0, 1, 95, 162}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 252;
+width = 262;
 },
 {
 components = (
@@ -1896,7 +1893,7 @@ unicode = 0622;
 {
 color = 0;
 glyphname = "alefMadda-ar.fina";
-lastChange = "2015-11-25 07:20:18 +0000";
+lastChange = "2015-12-06 06:15:41 +0000";
 layers = (
 {
 components = (
@@ -1912,7 +1909,7 @@ transform = "{1, 0, 0, 1, 113, -197}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 252;
+width = 262;
 },
 {
 components = (
@@ -2133,7 +2130,7 @@ unicode = 0675;
 {
 color = 0;
 glyphname = "highhamzaAlef-ar.fina";
-lastChange = "2015-11-25 07:20:18 +0000";
+lastChange = "2015-12-06 06:15:41 +0000";
 layers = (
 {
 components = (
@@ -2148,7 +2145,7 @@ transform = "{1, 0, 0, 1, 139, -167}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 252;
+width = 262;
 },
 {
 components = (
