@@ -30341,7 +30341,7 @@ unicode = 06C7;
 },
 {
 glyphname = "u-ar.fina";
-lastChange = "2015-12-06 06:25:39 +0000";
+lastChange = "2015-12-06 06:26:01 +0000";
 layers = (
 {
 components = (
@@ -30363,8 +30363,9 @@ components = (
 name = "waw-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "damma-ar";
-transform = "{1, 0, 0, 1, 189, -339}";
+transform = "{1, 0, 0, 1, 179, -339}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
