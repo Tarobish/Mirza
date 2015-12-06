@@ -1973,7 +1973,7 @@ unicode = 0671;
 {
 color = 0;
 glyphname = "alefWasla-ar.fina";
-lastChange = "2015-11-24 21:49:58 +0000";
+lastChange = "2015-12-06 06:27:49 +0000";
 layers = (
 {
 components = (
@@ -1989,7 +1989,7 @@ transform = "{1, 0, 0, 1, -18, 0}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 224;
+width = 244;
 },
 {
 components = (
@@ -2005,7 +2005,7 @@ transform = "{1, 0, 0, 1, -13, 0}";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 256;
+width = 276;
 }
 );
 unicode = FB51;
@@ -2053,14 +2053,14 @@ unicode = FD3D;
 {
 color = 0;
 glyphname = "alefFathatan-ar.fina";
-lastChange = "2015-11-28 00:34:37 +0000";
+lastChange = "2015-12-06 06:28:31 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 83, -190}";
+transform = "{1, 0, 0, 1, 79, -190}";
 },
 {
 locked = 1;
@@ -2069,13 +2069,13 @@ name = "alef-ar.fina.short";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 242;
+width = 262;
 },
 {
 components = (
 {
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 92, -110}";
+transform = "{1, 0, 0, 1, 88, -110}";
 },
 {
 locked = 1;
@@ -2084,7 +2084,7 @@ name = "alef-ar.fina.short";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 269;
+width = 289;
 }
 );
 unicode = FD3C;
