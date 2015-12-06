@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/kirghizoe-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -30202,7 +30199,7 @@ unicode = 06C5;
 },
 {
 glyphname = "kirghizoe-ar.fina";
-lastChange = "2015-12-06 06:24:09 +0000";
+lastChange = "2015-12-06 06:24:29 +0000";
 layers = (
 {
 components = (
@@ -30211,7 +30208,7 @@ name = "waw-ar.fina";
 },
 {
 name = barlong;
-transform = "{1, 0, 0, 1, 147, -292}";
+transform = "{1, 0, 0, 1, 167, -292}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
