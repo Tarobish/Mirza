@@ -38068,7 +38068,7 @@ unicode = FEFC;
 {
 color = 0;
 glyphname = "lam_alefHamzaabove-ar";
-lastChange = "2015-12-06 06:05:39 +0000";
+lastChange = "2015-12-06 06:08:14 +0000";
 layers = (
 {
 components = (
@@ -38091,7 +38091,7 @@ name = "lam_alef-ar";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 9, -110}";
+transform = "{1, 0, 0, 1, 39, -110}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
