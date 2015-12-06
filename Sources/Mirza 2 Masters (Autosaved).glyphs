@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alef-ar/lam_alefMadda-ar"
+"/lam_alef-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -37640,7 +37640,7 @@ unicode = 0640;
 },
 {
 glyphname = "lam_alef-ar";
-lastChange = "2015-12-06 06:05:37 +0000";
+lastChange = "2015-12-06 06:06:41 +0000";
 layers = (
 {
 anchors = (
@@ -37853,7 +37853,7 @@ unicode = FEFB;
 },
 {
 glyphname = "lam_alef-ar.fina";
-lastChange = "2015-12-06 06:05:09 +0000";
+lastChange = "2015-12-06 06:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -37976,11 +37976,11 @@ position = "{173, -62}";
 },
 {
 name = top_1;
-position = "{324, 591}";
+position = "{344, 601}";
 },
 {
 name = top_2;
-position = "{57, 568}";
+position = "{37, 568}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
