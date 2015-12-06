@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/wawring-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -29711,7 +29708,7 @@ transform = "{1, 0, 0, 1, 20, 0}";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 139, 111}";
+transform = "{0.8, 0, 0, 0.8, 149, 111}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
