@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dalRing-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -9012,7 +9009,7 @@ unicode = FB83;
 },
 {
 glyphname = "dalRing-ar";
-lastChange = "2015-12-06 06:11:19 +0000";
+lastChange = "2015-12-06 06:11:34 +0000";
 layers = (
 {
 components = (
@@ -9022,7 +9019,7 @@ name = "dal-ar";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 205, 207}";
+transform = "{1, 0, 0, 1, 185, 207}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9049,7 +9046,7 @@ unicode = 0689;
 },
 {
 glyphname = "dalRing-ar.fina";
-lastChange = "2015-12-06 06:11:27 +0000";
+lastChange = "2015-12-06 06:11:40 +0000";
 layers = (
 {
 components = (
@@ -9059,7 +9056,7 @@ name = "dal-ar.fina";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 207, 207}";
+transform = "{1, 0, 0, 1, 177, 207}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
