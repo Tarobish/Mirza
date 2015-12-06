@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kirghizoe-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -29681,7 +29684,7 @@ unicode = 06C4;
 },
 {
 glyphname = "wawring-ar.fina";
-lastChange = "2015-12-06 06:24:09 +0000";
+lastChange = "2015-12-06 06:24:19 +0000";
 layers = (
 {
 components = (
@@ -29691,7 +29694,7 @@ name = "waw-ar.fina";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 125, 81}";
+transform = "{0.8, 0, 0, 0.8, 145, 81}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -30162,7 +30165,7 @@ width = 457;
 },
 {
 glyphname = "kirghizoe-ar";
-lastChange = "2015-12-06 06:24:02 +0000";
+lastChange = "2015-12-06 06:24:25 +0000";
 layers = (
 {
 components = (
@@ -30171,7 +30174,7 @@ name = "waw-ar";
 },
 {
 name = barlong;
-transform = "{1, 0, 0, 1, 150, -234}";
+transform = "{1, 0, 0, 1, 170, -234}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
