@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/rehStroke-ar"
+"/rehStroke-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -10760,7 +10760,7 @@ transform = "{1, 0, 0, 1, 30, 0}";
 },
 {
 name = barlong;
-transform = "{1, 0, 0, 1, 160, -234}";
+transform = "{1, 0, 0, 1, 150, -234}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -10789,7 +10789,7 @@ unicode = 075B;
 {
 color = 0;
 glyphname = "rehStroke-ar.fina";
-lastChange = "2015-11-24 21:59:49 +0000";
+lastChange = "2015-12-06 06:17:53 +0000";
 layers = (
 {
 components = (
@@ -10800,7 +10800,7 @@ transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
 name = barlong;
-transform = "{1, 0, 0, 1, 123, -292}";
+transform = "{1, 0, 0, 1, 173, -292}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
