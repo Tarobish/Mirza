@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_alefMadda-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -38260,7 +38257,7 @@ rightMetricsKey = "alefWavyhamzaabove-ar.fina";
 {
 color = 0;
 glyphname = "lam_alefWavyhamzaabove-ar.isol";
-lastChange = "2015-12-06 06:05:39 +0000";
+lastChange = "2015-12-06 06:08:06 +0000";
 layers = (
 {
 components = (
@@ -38283,7 +38280,7 @@ name = "lam_alef-ar";
 },
 {
 name = "wavyhamzaabove-ar";
-transform = "{1, 0, 0, 1, 9, -95}";
+transform = "{1, 0, 0, 1, 49, -95}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -38409,7 +38406,7 @@ unicode = FEF5;
 {
 color = 0;
 glyphname = "lam_alefMadda-ar.fina";
-lastChange = "2015-12-06 06:07:33 +0000";
+lastChange = "2015-12-06 06:08:01 +0000";
 layers = (
 {
 components = (
@@ -38432,7 +38429,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 71, -102}";
+transform = "{1, 0, 0, 1, 71, -92}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
