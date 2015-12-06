@@ -34025,7 +34025,7 @@ width = 716;
 {
 color = 0;
 glyphname = "highhamzaWaw-ar";
-lastChange = "2015-12-06 06:25:12 +0000";
+lastChange = "2015-12-06 06:26:08 +0000";
 layers = (
 {
 components = (
@@ -34055,7 +34055,7 @@ transform = "{1, 0, 0, 1, 251, -288}";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 339;
+width = 359;
 }
 );
 unicode = 0676;
