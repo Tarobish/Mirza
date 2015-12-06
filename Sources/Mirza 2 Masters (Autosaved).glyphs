@@ -2056,7 +2056,7 @@ unicode = FD3D;
 {
 color = 0;
 glyphname = "alefFathatan-ar.fina";
-lastChange = "2015-12-06 06:27:07 +0000";
+lastChange = "2015-12-06 06:27:39 +0000";
 layers = (
 {
 components = (
@@ -2078,7 +2078,7 @@ width = 242;
 components = (
 {
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 90, -110}";
+transform = "{1, 0, 0, 1, 88, -110}";
 },
 {
 locked = 1;
@@ -2087,7 +2087,7 @@ name = "alef-ar.fina.short";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 269;
+width = 289;
 }
 );
 unicode = FD3C;
