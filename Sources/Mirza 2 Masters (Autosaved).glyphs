@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/gueh-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -23420,7 +23423,7 @@ unicode = FBD5;
 {
 color = 0;
 glyphname = "ngoeh-ar";
-lastChange = "2015-11-28 01:06:17 +0000";
+lastChange = "2015-12-06 06:13:59 +0000";
 layers = (
 {
 components = (
@@ -23450,7 +23453,7 @@ transform = "{1, 0, 0, 1, 549, -55}";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 779;
+width = 789;
 }
 );
 unicode = 06B1;
@@ -23534,7 +23537,7 @@ unicode = FB9D;
 {
 color = 0;
 glyphname = "ngoeh-ar.init";
-lastChange = "2015-11-28 01:06:11 +0000";
+lastChange = "2015-12-06 06:14:00 +0000";
 layers = (
 {
 components = (
@@ -23564,14 +23567,14 @@ transform = "{1, 0, 0, 1, 44, -51}";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 289;
+width = 299;
 }
 );
 unicode = FB9C;
 },
 {
 glyphname = "gueh-ar";
-lastChange = "2015-11-28 01:06:17 +0000";
+lastChange = "2015-12-06 06:14:00 +0000";
 layers = (
 {
 components = (
@@ -23599,7 +23602,7 @@ transform = "{1, 0, 0, 1, 390, -45}";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 779;
+width = 789;
 }
 );
 unicode = 06B3;
@@ -23676,7 +23679,7 @@ unicode = FB99;
 },
 {
 glyphname = "gueh-ar.init";
-lastChange = "2015-11-28 01:06:11 +0000";
+lastChange = "2015-12-06 06:14:07 +0000";
 layers = (
 {
 components = (
@@ -23704,7 +23707,7 @@ transform = "{1, 0, 0, 1, 75, -24}";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 289;
+width = 299;
 }
 );
 unicode = FB98;
