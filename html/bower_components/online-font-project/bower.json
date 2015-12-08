@@ -1,0 +1,26 @@
+{
+  "name": "online-font-project",
+  "homepage": "https://github.com/graphicore/online-font-project",
+  "authors": [
+    "Lasse Fister <commander@graphicore.de>"
+  ],
+  "description": "Bundles and configures a list of purely browser-based apps that can help you making fonts.",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "fonts"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "urlHosted": "~1.0.0"
+  }
+}

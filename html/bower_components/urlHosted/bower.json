@@ -1,0 +1,35 @@
+{
+  "name": "urlHosted",
+  "authors": [
+    "Lasse Fister <commander@graphicore.de>"
+  ],
+  "description": "Store the data of your blog (or anything else) in the \"#\" part of the URL as base64 encoded, zipped JSON.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "unhosted",
+    "hash",
+    "storage",
+    "fragment",
+    "identifier",
+    "storage"
+  ],
+  "license": "GPL v3",
+  "homepage": "github.com/graphicore/urlhosted",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "marked": "~0.3.5",
+    "pako": "~0.2.8",
+    "requirejs": "~2.1.20",
+    "requirejs-domready": "~2.0.1"
+  },
+  "main": "lib/main.js"
+}

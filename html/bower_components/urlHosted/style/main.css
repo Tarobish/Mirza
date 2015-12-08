@@ -1,0 +1,309 @@
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,200,300,600);
+
+/** absolute essentials **/
+form.edit {
+    display: none;
+}
+
+.editing form.edit{
+    display: block;
+}
+
+.info-box {
+    display: none;
+}
+
+.info-box.visible {
+    display: block;
+}
+
+.share-box {
+    display: none;
+}
+
+.share-box.visible {
+    display: block;
+}
+/** END absolute essentials **/
+
+
+html {
+    background: #ddd;
+    font-weight: 400;
+    overflow-y: scroll;
+}
+
+html, input, textarea, button {
+    font-family: 'Work Sans', sans-serif;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%
+}
+
+
+main {
+    width: 100%;
+    min-height: 100%;
+}
+
+main > header {
+    background: #9a9;
+    border-bottom: 1px solid black;
+    padding: .7em 0;
+    position: relative;
+    min-height: 28px;
+}
+
+main > header > *,
+form.edit label > textarea,
+article {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+main > header > *:first-child {
+    margin-top: 0;
+}
+main > header > *:last-child {
+    margin-bottom: 0;
+}
+
+main > header .controls {
+    position: relative;
+}
+
+main > header .app-title {
+    color: white;
+    font-size: 1.8em;
+    font-weight: 300;
+    vertical-align: middle;
+    line-height: 1;
+    position: absolute;
+    margin: 0;
+    top: 0;
+    right: 3px;
+}
+
+@media screen and (max-width: 350px){
+    main > header .app-title {
+        font-size: 2.8em;
+        font-weight: 200;
+        position: static;
+        margin-bottom: .3em;
+    }
+    main > header .controls {
+        text-align: center;
+    }
+
+}
+
+main > header a.about,
+main > header a.home {
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+
+
+button::-moz-focus-inner {
+    border: 0;
+}
+
+main header button {
+    cursor: pointer;
+    border: 3px solid white;
+    background: #ddd;
+    font-size: 1.1em;
+    font-weight: 400;
+    min-width: 4em;
+}
+
+.editing main header button.control-edit,
+.sharing main header button.control-generate {
+    border: 3px solid #bbb;
+    background: white;
+    color: #9a9;
+}
+
+main header button.control-edit .end,
+.editing main header button.control-edit .init{
+    display: none;
+}
+
+main header button.control-edit .init,
+.editing main header button.control-edit .end {
+    display: inline-block;
+}
+
+.share-box {
+    padding: 0.5em;
+    margin-top: 0.7em;
+    background: #ac6;
+    border: 3px solid white;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+}
+
+.share-box .call-to-action {
+    display: block;
+    font-size: 3.5em;
+    margin: 0.1em 0px;
+    font-weight: 200;
+}
+
+.share-box .tip{
+    font-weight: 400;
+    margin: 1em 0;
+}
+
+.share-box input.link {
+    width: 70%;
+}
+
+.info-box {
+    background-color: rgb(170, 153, 153);
+    border: 3px solid darkred;
+    box-sizing: border-box;
+    display: none;
+    margin-top: 0.7em;
+    padding: 1.5em 0.5em 0.5em;
+    color: white;
+    font-weight: 600;
+}
+
+.info-box > *{
+    font-size: 1.3em;
+}
+
+form.edit {
+    margin-top: .7em;
+}
+
+form.edit label {
+    display: block;
+    margin-bottom: .5em;
+}
+
+form.edit label:last-child{
+    margin-bottom: 0;
+}
+
+form.edit label > * {
+    vertical-align: top;
+}
+
+form.edit label >span {
+    display: inline-block;
+    width: 70px;
+}
+
+.share-box .link,
+form.edit label > input,
+form.edit label > textarea {
+    font-size: 1em;
+    font-family: "Work Sans",sans-serif;
+    font-weight: 400;
+    min-height: 2em;
+    border: 3px solid #ddd ;
+    background: white
+    padding: .5em;
+}
+
+form.edit label > input,
+form.edit label > textarea {
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+form.edit label .input-author{
+    width: 300px;
+}
+
+form.edit .input-content{
+    min-height: 8em;
+}
+
+
+article {
+    background: #ddd;
+    margin: 0 auto;
+    background: white;
+    box-sizing: border-box;
+    font-size: 1.2 em;
+    padding-bottom: 3em;
+}
+
+article header {
+    padding: 1em 1em 0.3em;
+    border-bottom: 3px dotted #9a9;
+    margin-bottom: 1em
+}
+
+.display-content {
+    padding:  0 1em;
+    font-size: 18px;
+}
+
+
+article header h1 {
+    margin: 0;
+    font-size: 4em;
+    font-weight: 200;
+    margin: .2em 0 .3em;
+}
+
+article header .author,
+article header .date{
+    font-size: .8em;
+}
+article header .date {
+    white-space: nowrap;
+}
+
+h1 {
+    color: darkred;
+    font-size: 2em;
+    font-weight: 300;
+    margin-bottom: .3em;
+}
+
+h2 {
+    color: darkred;
+    font-size: 2em;
+    font-weight: 300;
+    margin-bottom: .3em;
+}
+
+h3, h4 {
+    color: #555;
+    margin-bottom: .5em;
+}
+
+p {
+    margin: 0 0 1em 0;
+}
+
+hr {
+    color: darkred;
+    border: solid 1.5px;
+    margin-bottom: 1em;
+}
+
+em {
+    color: darkred;
+    font-style: normal;
+    font-weight: 300;
+}
+
+a {
+    color: darkred;
+}
+a:visited{
+    color: #555;
+}

@@ -1,0 +1,95 @@
+/******* essentials ********/
+
+.editing .url-hosted form.edit {
+    display: block;
+}
+.url-hosted form.edit {
+    display: none;
+}
+
+.editing .url-hosted .control-edit .init,
+.url-hosted .control-edit .end {
+    display: none;
+}
+.editing .url-hosted .control-edit .end,
+.url-hosted .control-edit .init {
+    display: inline;
+}
+
+
+.url-hosted .share-box {
+    display: none;
+}
+.url-hosted .share-box.visible{
+    display: block;
+}
+
+
+/******* cosmetics ******/
+
+html {
+    overflow-y: scroll;
+}
+
+.url-hosted form.edit label {
+    display: block;
+    margin-bottom: .5em;
+}
+
+
+.url-hosted > header > * {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+.url-hosted form.edit label > * {
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 0
+}
+
+.url-hosted form.edit label > span {
+    width: 15%;
+    text-align: right;
+    display: inline-block;
+    padding-right: 1em;
+}
+
+.url-hosted form.edit label > select.input-font,
+.url-hosted form.edit label > select.input-textdir,
+.url-hosted form.edit label > select.input-emsize,
+.url-hosted form.edit label > input.input-lang {
+    display: inline-block;
+    width: 85%;
+}
+
+
+.url-hosted .share-box {
+    background: #FEFEFE;
+    border: 3px solid #CCC;
+    text-align: center;
+    padding: 1em;
+    margin: .5em 0;
+}
+.url-hosted .share-box p {
+    margin-bottom: 0
+}
+
+.url-hosted article {
+    border-top: 3px solid #CCC;
+    margin-top: .5em;
+}
+
+.url-hosted article header {
+    border-bottom: 1px dotted #CCC;
+    padding: .5em;
+    color: #CCC;
+    margin-bottom: .5em;
+}
+
+.url-hosted article .display-content{
+    max-width: 1000px;
+    margin: 0 auto;
+}
