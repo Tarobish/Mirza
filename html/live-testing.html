@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>urlHosted</title>
+
+    <link rel="stylesheet"
+            type="text/css"
+            href="./bower_components/online-font-project/lib/css/liveTesting.css" />
+
+    <style type="text/css">
+        @font-face {
+            font-family: Mirza;
+            font-style: normal;
+            font-weight: 400;
+            src: url('../Generated/Mirza-Regular.ttf')  format('truetype');
+        }
+
+        @font-face {
+            font-family: Mirza;
+            font-style: normal;
+            font-weight: 500;
+            src: url('../Generated/Mirza-Medium.ttf')  format('truetype');
+        }
+
+        @font-face {
+            font-family: Mirza;
+            font-style: normal;
+            font-weight: 600;
+            src: url('../Generated/Mirza-SemiBold.ttf')  format('truetype');
+        }
+
+        @font-face {
+            font-family: Mirza;
+            font-style: normal;
+            font-weight: 700;
+            src: url('../Generated/Mirza-Bold.ttf')  format('truetype');
+        }
+
+        .Mirza-Regular-400 {
+            font-family: Mirza, sans-serif;
+            font-weight: 400;
+        }
+
+        .Mirza-Medium-500 {
+            font-family: Mirza, sans-serif;
+            font-weight: 500;
+        }
+
+        .Mirza-SemiBold-600 {
+            font-family: Mirza, sans-serif;
+            font-weight: 600;
+        }
+
+        .Mirza-Bold-700 {
+            font-family: Mirza, sans-serif;
+            font-weight: 700;
+        }
+
+        h1.app-title {
+            text-align: center
+        }
+    </style>
+
+    <script src="./bower_components/requirejs/require.js"></script>
+    <script>
+
+    define('ofp/config', [], {
+        liveTesting: {
+            fonts: {
+                w400: 'Mirza-Regular-400'
+              , w500: 'Mirza-Medium-500'
+              , w600: 'Mirza-SemiBold-600'
+              , w700: 'Mirza-Bold-700'
+
+            }
+          , controlsTemplate: '{edit} {generate} {shareBox} <a href="../">home</a>'
+        }
+    });
+
+    require(['./browserConfig.js'], function(){
+        require(['ofp/liveTestingMain']);
+    });
+    </script>
+</head>
+<body>
+    <h1 class="app-title">Mirza—Live Font Testing</h1>
+</body>
+</html>
