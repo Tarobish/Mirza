@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem_meem-ar.init"
+"/lam_meem-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -52640,7 +52640,7 @@ unicode = FC42;
 {
 color = 4;
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-12-02 03:00:42 +0000";
+lastChange = "2015-12-09 22:39:06 +0000";
 layers = (
 {
 anchors = (
@@ -52693,15 +52693,15 @@ nodes = (
 "88 14 OFFCURVE",
 "135 14 CURVE SMOOTH",
 "167 14 OFFCURVE",
-"200 5 OFFCURVE",
-"239 -16 CURVE",
-"251 14 OFFCURVE",
-"259 82 OFFCURVE",
-"256 114 CURVE",
-"238 121 OFFCURVE",
-"212 132 OFFCURVE",
-"196 142 CURVE SMOOTH",
-"159 166 OFFCURVE",
+"204 2 OFFCURVE",
+"243 -19 CURVE",
+"255 11 OFFCURVE",
+"263 87 OFFCURVE",
+"260 119 CURVE",
+"242 126 OFFCURVE",
+"212 137 OFFCURVE",
+"196 147 CURVE SMOOTH",
+"159 171 OFFCURVE",
 "154 179 OFFCURVE",
 "139 302 CURVE SMOOTH",
 "135 337 OFFCURVE",
