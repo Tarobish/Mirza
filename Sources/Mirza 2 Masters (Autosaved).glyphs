@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/ain_meem_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -46953,7 +46950,7 @@ unicode = FCBB;
 {
 color = 4;
 glyphname = "ain_meem_alefMaksura-ar";
-lastChange = "2015-12-09 22:53:46 +0000";
+lastChange = "2015-12-09 22:53:51 +0000";
 layers = (
 {
 anchors = (
@@ -47083,12 +47080,12 @@ nodes = (
 "778 45 OFFCURVE",
 "777 83 CURVE",
 "777 120 OFFCURVE",
-"761 159 OFFCURVE",
-"730 179 CURVE",
-"792 212 OFFCURVE",
-"862 231 OFFCURVE",
-"941 252 CURVE",
-"952 273 OFFCURVE",
+"762 159 OFFCURVE",
+"731 179 CURVE",
+"793 212 OFFCURVE",
+"862 228 OFFCURVE",
+"941 249 CURVE",
+"952 270 OFFCURVE",
 "957 287 OFFCURVE",
 "966 313 CURVE"
 );
