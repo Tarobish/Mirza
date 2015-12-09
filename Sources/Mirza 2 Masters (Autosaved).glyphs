@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/lam_meem-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -52449,7 +52452,7 @@ width = 972;
 {
 color = 4;
 glyphname = "lam_meem-ar";
-lastChange = "2015-11-24 20:58:10 +0000";
+lastChange = "2015-12-09 22:37:54 +0000";
 layers = (
 {
 anchors = (
@@ -52520,14 +52523,14 @@ nodes = (
 "93 -281 OFFCURVE",
 "98 -353 OFFCURVE",
 "101 -380 CURVE",
-"130 -371 LINE",
-"129 -285 OFFCURVE",
-"120 -208 OFFCURVE",
-"108 -97 CURVE SMOOTH",
-"103 -48 OFFCURVE",
-"101 -42 OFFCURVE",
-"95 -5 CURVE",
-"111 11 OFFCURVE",
+"134 -371 LINE",
+"133 -285 OFFCURVE",
+"124 -208 OFFCURVE",
+"112 -97 CURVE SMOOTH",
+"107 -48 OFFCURVE",
+"105 -42 OFFCURVE",
+"99 -5 CURVE",
+"115 11 OFFCURVE",
 "142 32 OFFCURVE",
 "199 34 CURVE SMOOTH",
 "251 36 OFFCURVE",
