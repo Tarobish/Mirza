@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ain_alefMaksura-ar"
+"/sad_meem-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -44932,7 +44932,7 @@ unicode = FC21;
 {
 color = 4;
 glyphname = "sad_meem-ar.init";
-lastChange = "2015-12-02 02:20:53 +0000";
+lastChange = "2015-12-09 22:40:40 +0000";
 layers = (
 {
 anchors = (
@@ -45008,15 +45008,15 @@ nodes = (
 "79 10 OFFCURVE",
 "126 10 CURVE SMOOTH",
 "146 10 OFFCURVE",
-"184 8 OFFCURVE",
-"219 -11 CURVE",
-"231 18 OFFCURVE",
-"242 62 OFFCURVE",
-"240 94 CURVE",
-"218 100 OFFCURVE",
-"151 112 OFFCURVE",
-"151 152 CURVE SMOOTH",
-"151 179 OFFCURVE",
+"188 5 OFFCURVE",
+"223 -14 CURVE",
+"235 15 OFFCURVE",
+"246 65 OFFCURVE",
+"244 97 CURVE",
+"222 103 OFFCURVE",
+"157 112 OFFCURVE",
+"157 152 CURVE SMOOTH",
+"157 179 OFFCURVE",
 "175 221 OFFCURVE",
 "239 221 CURVE SMOOTH",
 "279 221 OFFCURVE",
