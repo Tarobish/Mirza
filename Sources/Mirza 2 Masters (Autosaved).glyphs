@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ain_meem-ar.init"
+"/ain_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -46735,7 +46735,7 @@ unicode = FC2A;
 {
 color = 4;
 glyphname = "ain_meem-ar.init";
-lastChange = "2015-12-09 22:39:34 +0000";
+lastChange = "2015-12-09 22:39:41 +0000";
 layers = (
 {
 anchors = (
@@ -46817,7 +46817,7 @@ nodes = (
 "287 120 OFFCURVE",
 "271 159 OFFCURVE",
 "240 179 CURVE",
-"305 216 OFFCURVE",
+"305 212 OFFCURVE",
 "375 235 OFFCURVE",
 "454 256 CURVE",
 "465 277 OFFCURVE",
