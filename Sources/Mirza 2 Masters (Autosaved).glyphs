@@ -47996,7 +47996,7 @@ width = 688;
 {
 color = 4;
 glyphname = "dotlessfeh_alefMaksura-ar.fina";
-lastChange = "2015-12-09 22:48:46 +0000";
+lastChange = "2015-12-09 22:48:55 +0000";
 layers = (
 {
 anchors = (
@@ -48095,8 +48095,8 @@ nodes = (
 "589 -28 OFFCURVE",
 "531 -8 OFFCURVE",
 "491 3 CURVE",
-"512 16 OFFCURVE",
-"536 31 OFFCURVE",
+"512 18 OFFCURVE",
+"536 33 OFFCURVE",
 "560 47 CURVE",
 "591 18 OFFCURVE",
 "639 0 OFFCURVE",
