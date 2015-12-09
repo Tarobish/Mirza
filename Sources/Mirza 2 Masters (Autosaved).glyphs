@@ -47270,7 +47270,7 @@ width = 1074;
 {
 color = 4;
 glyphname = "ain_alefMaksura-ar";
-lastChange = "2015-12-09 22:39:58 +0000";
+lastChange = "2015-12-09 22:40:03 +0000";
 layers = (
 {
 anchors = (
@@ -47356,8 +47356,8 @@ nodes = (
 "590 5 OFFCURVE",
 "540 25 OFFCURVE",
 "496 37 CURVE",
-"570 80 OFFCURVE",
-"684 128 OFFCURVE",
+"570 75 OFFCURVE",
+"681 122 OFFCURVE",
 "794 156 CURVE",
 "805 177 OFFCURVE",
 "810 191 OFFCURVE",
