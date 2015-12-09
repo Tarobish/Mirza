@@ -41328,7 +41328,7 @@ unicode = FCAA;
 {
 color = 4;
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2015-12-09 22:37:16 +0000";
+lastChange = "2015-12-09 22:37:23 +0000";
 layers = (
 {
 anchors = (
@@ -41458,10 +41458,10 @@ nodes = (
 "778 45 OFFCURVE",
 "777 83 CURVE",
 "777 124 OFFCURVE",
-"760 167 OFFCURVE",
-"723 185 CURVE",
-"799 232 OFFCURVE",
-"902 228 OFFCURVE",
+"760 165 OFFCURVE",
+"723 183 CURVE",
+"797 227 OFFCURVE",
+"918 224 OFFCURVE",
 "1001 201 CURVE",
 "1026 225 OFFCURVE",
 "1036 249 OFFCURVE",
