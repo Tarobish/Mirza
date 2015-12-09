@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/hah_alefMaksura-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -41648,7 +41651,7 @@ width = 1168;
 {
 color = 4;
 glyphname = "hah_alefMaksura-ar";
-lastChange = "2015-12-02 02:21:15 +0000";
+lastChange = "2015-12-09 22:44:29 +0000";
 layers = (
 {
 anchors = (
@@ -41702,9 +41705,9 @@ nodes = (
 "675 173 OFFCURVE",
 "675 173 CURVE",
 "631 161 OFFCURVE",
-"592 148 OFFCURVE",
-"563 136 CURVE SMOOTH",
-"533 124 OFFCURVE",
+"591 151 OFFCURVE",
+"562 139 CURVE SMOOTH",
+"532 127 OFFCURVE",
 "468 88 OFFCURVE",
 "450 74 CURVE SMOOTH",
 "444 69 OFFCURVE",
