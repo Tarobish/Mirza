@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf_lam_alef-ar.fina"
+"/kaf_lam-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -50250,7 +50250,7 @@ width = 745;
 {
 color = 4;
 glyphname = "kaf_lam_alef-ar.fina";
-lastChange = "2015-11-24 18:42:54 +0000";
+lastChange = "2015-12-09 22:47:55 +0000";
 layers = (
 {
 anchors = (
@@ -50387,16 +50387,16 @@ nodes = (
 "566 112 OFFCURVE",
 "550 99 OFFCURVE",
 "511 98 CURVE",
-"486 99 OFFCURVE",
-"465 108 OFFCURVE",
-"451 125 CURVE SMOOTH",
-"440 139 OFFCURVE",
-"434 162 OFFCURVE",
-"432 178 CURVE SMOOTH",
-"424 243 OFFCURVE",
-"418 299 OFFCURVE",
-"412 354 CURVE",
-"441 331 OFFCURVE",
+"488 99 OFFCURVE",
+"467 108 OFFCURVE",
+"453 125 CURVE SMOOTH",
+"442 139 OFFCURVE",
+"436 162 OFFCURVE",
+"434 178 CURVE SMOOTH",
+"426 243 OFFCURVE",
+"420 299 OFFCURVE",
+"414 354 CURVE",
+"443 331 OFFCURVE",
 "485 281 OFFCURVE",
 "507 252 CURVE SMOOTH",
 "524 231 OFFCURVE",
