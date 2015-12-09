@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dotlessfeh_alefMaksura-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -47993,7 +47996,7 @@ width = 688;
 {
 color = 4;
 glyphname = "dotlessfeh_alefMaksura-ar.fina";
-lastChange = "2015-11-24 21:44:32 +0000";
+lastChange = "2015-12-09 22:48:46 +0000";
 layers = (
 {
 anchors = (
@@ -48090,10 +48093,10 @@ nodes = (
 "589 -116 OFFCURVE",
 "589 -92 CURVE SMOOTH",
 "589 -28 OFFCURVE",
-"526 -5 OFFCURVE",
-"486 6 CURVE",
-"507 19 OFFCURVE",
-"542 39 OFFCURVE",
+"531 -8 OFFCURVE",
+"491 3 CURVE",
+"512 16 OFFCURVE",
+"536 31 OFFCURVE",
 "560 47 CURVE",
 "591 18 OFFCURVE",
 "639 0 OFFCURVE",
