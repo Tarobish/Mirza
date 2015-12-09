@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf_lam_alefMaksura-ar"
+"/kaf_lam_alef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -50567,7 +50567,7 @@ width = 897;
 {
 color = 4;
 glyphname = "kaf_lam_alefMaksura-ar";
-lastChange = "2015-12-09 22:46:23 +0000";
+lastChange = "2015-12-09 22:46:48 +0000";
 layers = (
 {
 anchors = (
@@ -50680,13 +50680,13 @@ nodes = (
 "576 27 OFFCURVE",
 "617 -1 OFFCURVE",
 "669 0 CURVE",
-"740 0 OFFCURVE",
-"781 50 OFFCURVE",
-"781 128 CURVE SMOOTH",
-"781 192 OFFCURVE",
-"753 254 OFFCURVE",
-"720 297 CURVE SMOOTH",
-"699 324 OFFCURVE",
+"743 0 OFFCURVE",
+"784 50 OFFCURVE",
+"784 128 CURVE SMOOTH",
+"784 192 OFFCURVE",
+"756 254 OFFCURVE",
+"723 297 CURVE SMOOTH",
+"702 324 OFFCURVE",
 "667 353 OFFCURVE",
 "631 378 CURVE",
 "708 421 OFFCURVE",
@@ -50700,8 +50700,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"727 121 OFFCURVE",
-"695 98 OFFCURVE",
+"730 121 OFFCURVE",
+"698 98 OFFCURVE",
 "659 98 CURVE SMOOTH",
 "629 98 OFFCURVE",
 "606 107 OFFCURVE",
@@ -50713,8 +50713,8 @@ nodes = (
 "561 288 OFFCURVE",
 "556 337 CURVE",
 "632 302 OFFCURVE",
-"735 186 OFFCURVE",
-"735 139 CURVE"
+"738 186 OFFCURVE",
+"738 139 CURVE"
 );
 }
 );
