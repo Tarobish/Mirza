@@ -41901,7 +41901,7 @@ unicode = FCFF;
 {
 color = 4;
 glyphname = "hah_alefMaksura-ar.fina";
-lastChange = "2015-12-09 23:58:56 +0000";
+lastChange = "2015-12-09 23:59:09 +0000";
 layers = (
 {
 anchors = (
@@ -41967,8 +41967,8 @@ nodes = (
 "631 161 OFFCURVE",
 "590 148 OFFCURVE",
 "561 136 CURVE SMOOTH",
-"531 124 OFFCURVE",
-"468 89 OFFCURVE",
+"518 119 OFFCURVE",
+"471 94 OFFCURVE",
 "450 75 CURVE SMOOTH",
 "444 70 OFFCURVE",
 "426 42 OFFCURVE",
