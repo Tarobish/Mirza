@@ -45569,7 +45569,7 @@ width = 1357;
 {
 color = 4;
 glyphname = "sad_alefMaksura-ar";
-lastChange = "2015-12-09 23:59:36 +0000";
+lastChange = "2015-12-09 23:59:40 +0000";
 layers = (
 {
 anchors = (
@@ -45587,7 +45587,7 @@ position = "{547, 0}";
 },
 {
 name = top_1;
-position = "{905, 351}";
+position = "{915, 351}";
 },
 {
 name = top_2;
@@ -45727,7 +45727,7 @@ nodes = (
 );
 }
 );
-width = 1094;
+width = 1104;
 },
 {
 anchors = (
