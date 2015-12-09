@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_meem-ar"
+"/meem_meem-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -54438,7 +54438,7 @@ rightMetricsKey = "alef-ar.isol";
 {
 color = 4;
 glyphname = "meem_meem-ar.init";
-lastChange = "2015-11-24 21:07:14 +0000";
+lastChange = "2015-12-09 22:38:44 +0000";
 layers = (
 {
 anchors = (
@@ -54508,15 +54508,15 @@ nodes = (
 "89 15 OFFCURVE",
 "121 15 CURVE SMOOTH",
 "159 15 OFFCURVE",
-"190 4 OFFCURVE",
-"222 -13 CURVE",
-"234 17 OFFCURVE",
-"242 78 OFFCURVE",
-"239 110 CURVE",
-"218 124 OFFCURVE",
-"195 138 OFFCURVE",
-"165 155 CURVE SMOOTH",
-"125 178 OFFCURVE",
+"192 1 OFFCURVE",
+"224 -16 CURVE",
+"236 14 OFFCURVE",
+"244 83 OFFCURVE",
+"241 115 CURVE",
+"220 129 OFFCURVE",
+"195 143 OFFCURVE",
+"165 160 CURVE SMOOTH",
+"125 183 OFFCURVE",
 "109 200 OFFCURVE",
 "109 210 CURVE",
 "119 233 OFFCURVE",
