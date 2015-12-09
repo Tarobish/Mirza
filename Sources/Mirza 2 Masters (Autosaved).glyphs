@@ -45204,7 +45204,7 @@ unicode = FCB3;
 {
 color = 4;
 glyphname = "sad_meem_alefMaksura-ar";
-lastChange = "2015-12-09 22:41:12 +0000";
+lastChange = "2015-12-09 22:41:20 +0000";
 layers = (
 {
 anchors = (
@@ -45234,7 +45234,7 @@ position = "{1116, 465}";
 },
 {
 name = top_2;
-position = "{744, 321}";
+position = "{744, 324}";
 },
 {
 name = top_3;
@@ -45263,13 +45263,10 @@ nodes = (
 "833 233 OFFCURVE",
 "816 260 CURVE SMOOTH",
 "806 275 OFFCURVE",
-"799 294 OFFCURVE",
+"791 294 OFFCURVE",
 "764 294 CURVE SMOOTH",
-"742 294 OFFCURVE",
-"725 283 OFFCURVE",
-"706 270 CURVE SMOOTH",
-"690 259 OFFCURVE",
-"676 247 OFFCURVE",
+"726 294 OFFCURVE",
+"687 262 OFFCURVE",
 "660 225 CURVE SMOOTH",
 "641 199 OFFCURVE",
 "631 174 OFFCURVE",
