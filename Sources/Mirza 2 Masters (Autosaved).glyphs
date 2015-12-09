@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad_alefMaksura-ar"
+"/sad_alefMaksura-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -45569,7 +45569,7 @@ width = 1357;
 {
 color = 4;
 glyphname = "sad_alefMaksura-ar";
-lastChange = "2015-12-09 23:59:40 +0000";
+lastChange = "2015-12-09 23:59:48 +0000";
 layers = (
 {
 anchors = (
@@ -45591,7 +45591,7 @@ position = "{915, 351}";
 },
 {
 name = top_2;
-position = "{223, 29}";
+position = "{238, 29}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
