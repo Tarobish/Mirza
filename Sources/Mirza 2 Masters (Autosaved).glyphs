@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/seen_meem-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -42902,7 +42905,7 @@ unicode = FC1F;
 {
 color = 4;
 glyphname = "seen_meem-ar.init";
-lastChange = "2015-11-24 20:51:12 +0000";
+lastChange = "2015-12-09 22:34:48 +0000";
 layers = (
 {
 anchors = (
@@ -42989,15 +42992,15 @@ nodes = (
 "78 10 OFFCURVE",
 "126 10 CURVE SMOOTH",
 "162 10 OFFCURVE",
-"187 4 OFFCURVE",
-"219 -11 CURVE",
-"231 18 OFFCURVE",
-"240 62 OFFCURVE",
-"238 94 CURVE",
-"216 100 OFFCURVE",
-"149 112 OFFCURVE",
-"149 152 CURVE SMOOTH",
-"149 179 OFFCURVE",
+"187 1 OFFCURVE",
+"219 -14 CURVE",
+"231 15 OFFCURVE",
+"240 68 OFFCURVE",
+"238 100 CURVE",
+"220 106 OFFCURVE",
+"153 112 OFFCURVE",
+"153 152 CURVE SMOOTH",
+"153 179 OFFCURVE",
 "175 221 OFFCURVE",
 "238 221 CURVE SMOOTH",
 "275 221 OFFCURVE",
