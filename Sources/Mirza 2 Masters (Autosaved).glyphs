@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh_alefMaksura-ar.fina"
+"/meem_alefMaksura-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -54842,7 +54842,7 @@ unicode = FC49;
 {
 color = 4;
 glyphname = "meem_alefMaksura-ar.fina";
-lastChange = "2015-11-24 21:05:52 +0000";
+lastChange = "2015-12-09 22:56:16 +0000";
 layers = (
 {
 anchors = (
@@ -54938,18 +54938,18 @@ nodes = (
 "421 -268 OFFCURVE",
 "475 -240 CURVE SMOOTH",
 "527 -213 OFFCURVE",
-"563 -176 OFFCURVE",
-"584 -138 CURVE SMOOTH",
-"600 -109 OFFCURVE",
-"606 -82 OFFCURVE",
-"606 -62 CURVE SMOOTH",
-"606 -12 OFFCURVE",
-"570 13 OFFCURVE",
-"534 27 CURVE",
-"563 35 OFFCURVE",
-"596 64 OFFCURVE",
-"613 89 CURVE",
-"661 45 OFFCURVE",
+"566 -176 OFFCURVE",
+"587 -138 CURVE SMOOTH",
+"603 -109 OFFCURVE",
+"609 -82 OFFCURVE",
+"609 -62 CURVE SMOOTH",
+"609 -12 OFFCURVE",
+"577 13 OFFCURVE",
+"541 27 CURVE",
+"570 35 OFFCURVE",
+"596 61 OFFCURVE",
+"613 86 CURVE",
+"661 42 OFFCURVE",
 "712 14 OFFCURVE",
 "766 -8 CURVE",
 "783 6 OFFCURVE",
