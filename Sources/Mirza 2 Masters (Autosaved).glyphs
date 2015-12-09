@@ -54842,7 +54842,7 @@ unicode = FC49;
 {
 color = 4;
 glyphname = "meem_alefMaksura-ar.fina";
-lastChange = "2015-12-09 22:56:29 +0000";
+lastChange = "2015-12-09 22:56:51 +0000";
 layers = (
 {
 anchors = (
@@ -54947,9 +54947,9 @@ nodes = (
 "577 13 OFFCURVE",
 "541 27 CURVE",
 "572 37 OFFCURVE",
-"600 61 OFFCURVE",
-"613 86 CURVE",
-"661 42 OFFCURVE",
+"600 62 OFFCURVE",
+"614 84 CURVE",
+"662 40 OFFCURVE",
 "712 14 OFFCURVE",
 "766 -8 CURVE",
 "783 6 OFFCURVE",
