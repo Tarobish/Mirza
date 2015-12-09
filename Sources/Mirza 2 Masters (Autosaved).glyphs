@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hah_meem_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -41328,7 +41325,7 @@ unicode = FCAA;
 {
 color = 4;
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2015-12-09 22:37:23 +0000";
+lastChange = "2015-12-09 22:37:27 +0000";
 layers = (
 {
 anchors = (
@@ -41460,8 +41457,11 @@ nodes = (
 "777 124 OFFCURVE",
 "760 165 OFFCURVE",
 "723 183 CURVE",
-"797 227 OFFCURVE",
-"918 224 OFFCURVE",
+"759 204 OFFCURVE",
+"805 214 OFFCURVE",
+"853 217 CURVE SMOOTH",
+"905 219 OFFCURVE",
+"958 213 OFFCURVE",
 "1001 201 CURVE",
 "1026 225 OFFCURVE",
 "1036 249 OFFCURVE",
