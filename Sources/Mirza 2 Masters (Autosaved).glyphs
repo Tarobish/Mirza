@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dotlessbeh_meem-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -39858,7 +39861,7 @@ width = 475;
 {
 color = 4;
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-11-24 21:42:56 +0000";
+lastChange = "2015-12-09 23:57:43 +0000";
 layers = (
 {
 anchors = (
@@ -39911,20 +39914,20 @@ nodes = (
 "93 -375 OFFCURVE",
 "98 -447 OFFCURVE",
 "101 -474 CURVE",
-"130 -465 LINE",
-"129 -379 OFFCURVE",
-"120 -302 OFFCURVE",
-"108 -191 CURVE SMOOTH",
-"103 -142 OFFCURVE",
-"101 -136 OFFCURVE",
-"95 -99 CURVE",
-"122 -72 OFFCURVE",
+"134 -465 LINE",
+"133 -379 OFFCURVE",
+"124 -302 OFFCURVE",
+"112 -191 CURVE SMOOTH",
+"107 -142 OFFCURVE",
+"105 -136 OFFCURVE",
+"99 -99 CURVE",
+"126 -72 OFFCURVE",
 "142 -60 OFFCURVE",
 "199 -60 CURVE SMOOTH",
 "246 -60 OFFCURVE",
-"287 -68 OFFCURVE",
-"317 -75 CURVE",
-"336 -48 OFFCURVE",
+"287 -71 OFFCURVE",
+"317 -78 CURVE",
+"336 -51 OFFCURVE",
 "348 -24 OFFCURVE",
 "357 2 CURVE",
 "343 15 OFFCURVE",
