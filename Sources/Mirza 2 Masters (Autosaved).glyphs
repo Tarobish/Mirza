@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dotlessbeh_hah_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -38991,7 +38988,7 @@ width = 608;
 {
 color = 4;
 glyphname = "dotlessbeh_hah_alefMaksura-ar";
-lastChange = "2015-12-09 22:44:05 +0000";
+lastChange = "2015-12-09 22:44:11 +0000";
 layers = (
 {
 anchors = (
@@ -39134,7 +39131,7 @@ nodes = (
 "560 80 OFFCURVE",
 "614 98 CURVE SMOOTH",
 "650 110 OFFCURVE",
-"724 134 OFFCURVE",
+"718 134 OFFCURVE",
 "789 134 CURVE SMOOTH",
 "834 134 LINE",
 "854 167 OFFCURVE",
