@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/seen_meem_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -43765,7 +43762,7 @@ unicode = FD17;
 {
 color = 4;
 glyphname = "seen_meem_alefMaksura-ar";
-lastChange = "2015-12-09 22:35:18 +0000";
+lastChange = "2015-12-09 22:35:23 +0000";
 layers = (
 {
 anchors = (
@@ -43775,7 +43772,7 @@ position = "{979, 83}";
 },
 {
 name = bottom_2;
-position = "{738, -51}";
+position = "{734, -51}";
 },
 {
 name = bottom_3;
