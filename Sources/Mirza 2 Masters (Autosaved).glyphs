@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/sad_meem-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -44653,7 +44656,7 @@ unicode = FD2B;
 {
 color = 4;
 glyphname = "sad_meem-ar";
-lastChange = "2015-11-24 20:48:54 +0000";
+lastChange = "2015-12-09 22:33:30 +0000";
 layers = (
 {
 anchors = (
@@ -44723,14 +44726,14 @@ nodes = (
 "93 -375 OFFCURVE",
 "98 -448 OFFCURVE",
 "101 -474 CURVE",
-"130 -465 LINE",
-"129 -379 OFFCURVE",
-"120 -302 OFFCURVE",
-"108 -191 CURVE SMOOTH",
-"103 -142 OFFCURVE",
-"101 -136 OFFCURVE",
-"95 -99 CURVE",
-"122 -73 OFFCURVE",
+"134 -465 LINE",
+"133 -379 OFFCURVE",
+"124 -302 OFFCURVE",
+"112 -191 CURVE SMOOTH",
+"107 -142 OFFCURVE",
+"105 -136 OFFCURVE",
+"99 -99 CURVE",
+"126 -73 OFFCURVE",
 "142 -60 OFFCURVE",
 "199 -60 CURVE SMOOTH",
 "246 -60 OFFCURVE",
