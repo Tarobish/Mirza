@@ -47741,7 +47741,7 @@ unicode = FD13;
 {
 color = 4;
 glyphname = "dotlessfeh_alefMaksura-ar";
-lastChange = "2015-12-09 22:50:14 +0000";
+lastChange = "2015-12-09 22:50:23 +0000";
 layers = (
 {
 anchors = (
@@ -47790,12 +47790,12 @@ nodes = (
 "478 118 OFFCURVE",
 "503 143 CURVE",
 "507 114 OFFCURVE",
-"495 90 OFFCURVE",
-"471 71 CURVE SMOOTH",
-"453 56 OFFCURVE",
-"428 47 OFFCURVE",
-"398 47 CURVE SMOOTH",
-"393 47 OFFCURVE",
+"495 92 OFFCURVE",
+"471 73 CURVE SMOOTH",
+"453 58 OFFCURVE",
+"428 49 OFFCURVE",
+"398 49 CURVE",
+"396 40 OFFCURVE",
 "392 19 OFFCURVE",
 "389 -6 CURVE",
 "409 -10 OFFCURVE",
