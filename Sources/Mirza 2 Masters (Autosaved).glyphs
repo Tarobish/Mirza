@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/seen_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -43157,7 +43154,7 @@ unicode = FCB0;
 {
 color = 4;
 glyphname = "seen_alefMaksura-ar";
-lastChange = "2015-12-10 00:01:29 +0000";
+lastChange = "2015-12-10 00:01:34 +0000";
 layers = (
 {
 anchors = (
@@ -43302,7 +43299,7 @@ nodes = (
 );
 }
 );
-width = 1010;
+width = 1020;
 },
 {
 anchors = (
