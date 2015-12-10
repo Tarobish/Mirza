@@ -6,7 +6,7 @@ define([
   , './collisionsAbove-1'
   , './collisionsAbove-2'
   , './collisionsAbove-3'
-  , './texts/marks1'
+  , './data/marks1'
 
 ], function(
     domStuff
