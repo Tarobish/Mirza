@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad_reh-ar.fina"
+"/yehbarreeThreeabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -33678,7 +33678,7 @@ width = 315;
 {
 color = 0;
 glyphname = "yehbarreeThreeabove-ar";
-lastChange = "2015-11-24 22:22:51 +0000";
+lastChange = "2015-12-10 00:05:45 +0000";
 layers = (
 {
 components = (
@@ -33688,7 +33688,7 @@ name = "yehbarree-ar";
 {
 disableAlignment = 1;
 name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, 181, 100}";
+transform = "{0.882, 0, 0, 0.882, 173, 69}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33716,7 +33716,7 @@ unicode = 077B;
 {
 color = 0;
 glyphname = "yehbarreeThreeabove-ar.fina";
-lastChange = "2015-11-24 22:22:55 +0000";
+lastChange = "2015-12-10 00:05:39 +0000";
 layers = (
 {
 components = (
@@ -33726,7 +33726,7 @@ name = "yehbarree-ar.fina";
 {
 disableAlignment = 1;
 name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, 152, -193}";
+transform = "{0.882, 0, 0, 0.882, 144, -224}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
