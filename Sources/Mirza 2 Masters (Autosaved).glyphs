@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ain_alefMaksura-ar.fina"
+"/sad_reh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -47507,7 +47507,7 @@ unicode = FCF7;
 {
 color = 4;
 glyphname = "ain_alefMaksura-ar.fina";
-lastChange = "2015-12-10 00:04:35 +0000";
+lastChange = "2015-12-10 00:04:41 +0000";
 layers = (
 {
 anchors = (
@@ -47606,7 +47606,7 @@ nodes = (
 "577 -135 OFFCURVE",
 "592 -100 OFFCURVE",
 "592 -61 CURVE SMOOTH",
-"592 -11 OFFCURVE",
+"592 -15 OFFCURVE",
 "557 13 OFFCURVE",
 "521 27 CURVE",
 "553 41 OFFCURVE",
