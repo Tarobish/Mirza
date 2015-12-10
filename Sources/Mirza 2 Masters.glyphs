@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hamzabelow-ar/alefHamzabelow-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -61726,17 +61723,17 @@ unicode = FD3F;
 },
 {
 glyphname = space;
-lastChange = "2015-12-10 02:41:57 +0000";
+lastChange = "2015-12-10 03:14:46 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 250;
+width = 200;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 410;
+width = 300;
 }
 );
 unicode = 0020;
