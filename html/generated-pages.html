@@ -56,19 +56,83 @@
         h1.app-title {
             text-align: center
         }
+
+        .generated-pages {
+            padding: 0 .5em;
+        }
+
+        .generated-pages, .generated-pages-navigation {
+            display: inline-block;
+            vertical-align: top;
+            width: calc(100% - 20em);
+            box-sizing: border-box;
+        }
+        .generated-pages-navigation {
+            border: 3px solid #CCC;
+            width: 20em;
+            padding: .5em;
+        }
+        .generated-pages-navigation > ul {
+            margin:0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .generated-pages .testcontent {
+            border-collapse: collapse;
+        }
+
+        .generated-pages .testcontent th {
+            color: #aaa;
+            background: #333;
+        }
+
+        .generated-pages .testcontent th,
+        .generated-pages .testcontent td {
+            border: 3px solid #CCC;
+        }
+
+        .generated-pages .testcontent td {
+            line-height: 2em;
+            font-size: 3em;
+        }
+
+        @font-face {
+            font-family: Amiri;
+            font-style: normal;
+            font-weight: 400;
+            src: url('lib/generated-pages/fonts/amiri-bold.ttf')  format('truetype');
+        }
+
+        .generated-pages .testcontent .compare.duplicated {
+            background: lightyellow;
+            font-family: Amiri;
+            font-weight: 400;
+        }
+
     </style>
 
     <script src="./bower_components/requirejs/require.js"></script>
     <script>
 
-    define('ofp/config', [], {
-
+    define('ofp/config', ['test-pages/index'], function(pages) {
+        return {
+            generatedPages: {
+                // the format could be 'simpler' when using an array, however,
+                // this way it will be compatible to the setup of liveTesting
+                fonts: {
+                    w400: 'Mirza-Regular-400'
+                  , w500: 'Mirza-Medium-500'
+                  , w600: 'Mirza-SemiBold-600'
+                  , w700: 'Mirza-Bold-700'
+                }
+              , pages: pages
+            }
+        }
     });
 
-    require(['./browserConfig.js'], function(){
-        require(['generated-pages/router', './test-pages/index' ], function(router, pages) {
-            router(pages);
-        });
+    require(['./browserConfig.js'], function() {
+        require(['generated-pages/generatedPagesMain']);
     });
     </script>
 </head>
