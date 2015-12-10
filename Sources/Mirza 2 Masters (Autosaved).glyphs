@@ -43157,13 +43157,13 @@ unicode = FCB0;
 {
 color = 4;
 glyphname = "seen_alefMaksura-ar";
-lastChange = "2015-12-10 00:01:19 +0000";
+lastChange = "2015-12-10 00:01:29 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{757, -25}";
+position = "{767, -25}";
 },
 {
 name = bottom_2;
@@ -43175,7 +43175,7 @@ position = "{505, 0}";
 },
 {
 name = top_1;
-position = "{754, 229}";
+position = "{764, 229}";
 },
 {
 name = top_2;
@@ -43212,7 +43212,7 @@ nodes = (
 "735 94 OFFCURVE",
 "678 94 CURVE SMOOTH",
 "633 94 OFFCURVE",
-"603 111 OFFCURVE",
+"601 113 OFFCURVE",
 "568 165 CURVE SMOOTH",
 "552 190 OFFCURVE",
 "532 205 OFFCURVE",
