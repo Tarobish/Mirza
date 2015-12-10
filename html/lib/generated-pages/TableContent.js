@@ -9,17 +9,17 @@ define([
       , appendChildren = domStuff.appendChildren
       ;
 
-    function TableContent(infoSection, table) {
+    function TableContent(infoSection, tables) {
         this.body = createElement('article', null, infoSection);
-        this.table = table;
-        this.tableElement = renderTable(table, 'default');
+        this.tables = tables instanceof Array ? tables : [tables];
+        this.tableElements = this.tables.map(renderTable.bind(null, 'default'));
 
         this.modeSwitchElement = createModeSwitch(this.updateTableModeHandler.bind(this));
-        appendChildren(this.body, [
+        this.body.appendChild(
             createElement('label', {title: 'compare with Amiri Bold'}
                             , ['compare: ', this.modeSwitchElement])
-            , this.tableElement
-        ]);
+        );
+        appendChildren(this.body, this.tableElements);
     }
     var _p = TableContent.prototype;
 
@@ -39,19 +39,22 @@ define([
         return select;
     }
 
-    function renderTable(table, mode) {
+    function renderTable(mode, table) {
         var hasSectionLabel = true
           , hasRowLabel = true
           , hasColumnLabel = true
           ;
-        return createElement('table', {dir: 'RTL', 'class': 'testcontent'},
+        return createElement('div', null,
             table.render(mode, hasSectionLabel, hasRowLabel, hasColumnLabel));
     }
 
     _p.updateTableMode = function(mode) {
-        var newTable = renderTable(this.table, mode);
-        this.body.replaceChild(newTable, this.tableElement);
-        this.tableElement = newTable;
+        var newTables =  this.tables.map(renderTable.bind(null, mode))
+          , i, l
+          ;
+        for(i=0,l=newTables.length;i<l;i++)
+            this.body.replaceChild(newTables[i], this.tableElements[i]);
+        this.tableElements = newTables;
     };
     _p.updateTableModeHandler = function(event) {
         var select = this.modeSwitchElement

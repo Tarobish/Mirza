@@ -11,6 +11,7 @@ define([
     var createElement = domStuff.createElement
       , createFragment = domStuff.createFragment
       , appendChildren = domStuff.appendChildren
+      , appendMarkdown = domStuff.appendMarkdown
       // sub-modules defined in here
       , _Container, Parent, Section, Row
       ;
@@ -151,7 +152,7 @@ define([
      * TODO: describe the axes object, maybe an interface class would be good.
      * see setLayout for a description of the `layout` argument
      */
-    function Table(axes, layout) {
+    function Table(axes, layout, info) {
         Parent.call(this);
 
         this._axes = axes;
@@ -160,6 +161,7 @@ define([
         this._rowLabels = null;
         this._columnLabels = null;
         this._layout = null;
+        this._info = info;
 
         this.setLayout(layout);
     }
@@ -306,13 +308,15 @@ define([
           , _mode = modes.has(mode) ? mode : 'default'
           , colLabelWidth = (_mode === 'doubleColumns' ? 2 : 1)
           , rowLabelHeight = (_mode === 'doubleRows' ? 2 : 1)
-          , table = createFragment()
+          , container = createElement('div')
+          , table = createElement('table', {dir: 'RTL', 'class': 'testcontent'})
           , i, l
           , sections = this._items
           , columnLabels = showColumnLabel && this._columnLabels
           , hasSectionLabels = showSectionLabel && !!this._sectionLabels
           , rowLabels = showRowLabel && this._rowLabels
           , hasRowLabels = !!rowLabels
+          , info
           ;
         for(i=0,l=sections.length;i<l;i++) {
             appendChildren(table, [
@@ -325,7 +329,11 @@ define([
                   , sections[i].renderBody(_mode, rowLabels)
             ]);
         }
-        return table;
+
+        if(this._info)
+            appendMarkdown(container, this._info);
+        container.appendChild(table);
+        return container;
     };
 
     return Table;

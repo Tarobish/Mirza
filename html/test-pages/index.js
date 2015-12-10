@@ -7,6 +7,7 @@ define([
   , './collisionsAbove-2'
   , './collisionsAbove-3'
   , './data/marks1'
+  , './ligatures-1'
 
 ], function(
     domStuff
@@ -17,6 +18,7 @@ define([
   , collisionsAbove2
   , collisionsAbove3
   , marksText1
+  , ligatures1
 ){
     "use strict";
     /*global document:true window:true*/
@@ -34,8 +36,15 @@ define([
             title: 'About'
           , generate: fromMarkdown.bind(null, 'article', {'class': 'home'}, README)
         }
+
       , tests: {
             title: 'Generated Tests'
+            , '/': {
+                'ligatures1': ligatures1
+            }
+        }
+      , jomhuriaTests: {
+            title: 'Generated Tests (Jomhuria)'
           , '/': {
                 'collision-below-1': collisionsBelow1
               , 'collision-below-2': collisionsBelow2
