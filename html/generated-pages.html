@@ -61,14 +61,24 @@
     <script src="./bower_components/requirejs/require.js"></script>
     <script>
 
-    define('ofp/config', [], {
-
+    define('ofp/config', ['test-pages/index'], function(pages) {
+        return {
+            generatedPages: {
+                // the format could be 'simpler' when using an array, however,
+                // this way it will be compatible to the setup of liveTesting
+                fonts: {
+                    w400: 'Mirza-Regular-400'
+                  , w500: 'Mirza-Medium-500'
+                  , w600: 'Mirza-SemiBold-600'
+                  , w700: 'Mirza-Bold-700'
+                }
+              , pages: pages
+            }
+        }
     });
 
-    require(['./browserConfig.js'], function(){
-        require(['generated-pages/router', './test-pages/index' ], function(router, pages) {
-            router(pages);
-        });
+    require(['./browserConfig.js'], function() {
+        require(['generated-pages/generatedPagesMain']);
     });
     </script>
 </head>
