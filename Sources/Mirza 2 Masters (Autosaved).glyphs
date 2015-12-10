@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/sad_alefMaksura-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -45893,13 +45890,13 @@ unicode = FD05;
 {
 color = 4;
 glyphname = "sad_alefMaksura-ar.fina";
-lastChange = "2015-12-10 00:00:04 +0000";
+lastChange = "2015-12-10 00:00:09 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{790, -26}";
+position = "{800, -26}";
 },
 {
 name = bottom_2;
@@ -45911,7 +45908,7 @@ position = "{559, 0}";
 },
 {
 name = top_1;
-position = "{905, 350}";
+position = "{915, 350}";
 },
 {
 name = top_2;
@@ -46060,7 +46057,7 @@ nodes = (
 );
 }
 );
-width = 1158;
+width = 1168;
 },
 {
 anchors = (
