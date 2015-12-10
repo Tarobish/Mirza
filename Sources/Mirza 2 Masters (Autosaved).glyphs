@@ -47507,7 +47507,7 @@ unicode = FCF7;
 {
 color = 4;
 glyphname = "ain_alefMaksura-ar.fina";
-lastChange = "2015-12-10 00:04:20 +0000";
+lastChange = "2015-12-10 00:04:27 +0000";
 layers = (
 {
 anchors = (
@@ -47600,11 +47600,11 @@ nodes = (
 "341 -282 OFFCURVE",
 "404 -267 OFFCURVE",
 "458 -239 CURVE SMOOTH",
-"510 -212 OFFCURVE",
-"545 -173 OFFCURVE",
-"569 -137 CURVE SMOOTH",
-"588 -108 OFFCURVE",
-"592 -81 OFFCURVE",
+"495 -220 OFFCURVE",
+"528 -195 OFFCURVE",
+"552 -166 CURVE SMOOTH",
+"577 -135 OFFCURVE",
+"592 -100 OFFCURVE",
 "592 -61 CURVE SMOOTH",
 "592 -11 OFFCURVE",
 "556 14 OFFCURVE",
