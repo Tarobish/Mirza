@@ -69843,13 +69843,13 @@ width = 0;
 },
 {
 glyphname = "noonghunnaabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:46 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{4, 680}";
+position = "{4, 670}";
 },
 {
 name = top;
