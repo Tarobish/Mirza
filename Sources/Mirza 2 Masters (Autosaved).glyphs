@@ -1,4 +1,34 @@
 {
+classes = (
+{
+code = "";
+name = DevaIMatras;
+},
+{
+code = "";
+name = DevaIMatraRephs;
+},
+{
+code = "";
+name = DevaIMatraRephAnusvaras;
+},
+{
+code = "";
+name = DevaIMatraAnusvaras;
+},
+{
+code = "";
+name = DevaIMatraCandraBindus;
+},
+{
+code = "";
+name = DevaFullforms;
+},
+{
+code = "";
+name = DevaHalfforms;
+}
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
