@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotcenter-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-14" y="192"/>
+      <point x="-35" y="170"/>
+      <point x="-51" y="155" type="curve"/>
+      <point x="-31" y="139"/>
+      <point x="-14" y="122"/>
+      <point x="4" y="101" type="curve"/>
+      <point x="27" y="122"/>
+      <point x="42" y="137"/>
+      <point x="56" y="153" type="curve"/>
+      <point x="44" y="171"/>
+      <point x="21" y="193"/>
+      <point x="0" y="208" type="curve"/>
+    </contour>
+    <contour>
+      <point x="3" y="155" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>

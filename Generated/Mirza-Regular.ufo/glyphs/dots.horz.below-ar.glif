@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dots.horz.below-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-119" y="-264"/>
+      <point x="-102" y="-280"/>
+      <point x="-83" y="-302" type="curve"/>
+      <point x="-64" y="-285"/>
+      <point x="-50" y="-271"/>
+      <point x="-39" y="-258" type="curve"/>
+      <point x="-24" y="-271"/>
+      <point x="-10" y="-285"/>
+      <point x="4" y="-302" type="curve"/>
+      <point x="23" y="-285"/>
+      <point x="39" y="-269"/>
+      <point x="49" y="-258" type="curve"/>
+      <point x="64" y="-271"/>
+      <point x="78" y="-285"/>
+      <point x="92" y="-302" type="curve"/>
+      <point x="116" y="-280"/>
+      <point x="130" y="-266"/>
+      <point x="144" y="-250" type="curve"/>
+      <point x="132" y="-232"/>
+      <point x="109" y="-209"/>
+      <point x="88" y="-195" type="curve"/>
+      <point x="77" y="-208"/>
+      <point x="61" y="-224"/>
+      <point x="47" y="-238" type="curve"/>
+      <point x="34" y="-223"/>
+      <point x="17" y="-205"/>
+      <point x="1" y="-195" type="curve"/>
+      <point x="-12" y="-208"/>
+      <point x="-32" y="-229"/>
+      <point x="-41" y="-238" type="curve"/>
+      <point x="-54" y="-223"/>
+      <point x="-71" y="-205"/>
+      <point x="-87" y="-195" type="curve"/>
+      <point x="-101" y="-210"/>
+      <point x="-123" y="-232"/>
+      <point x="-139" y="-248" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1" y="-175" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="4" y="-302" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
