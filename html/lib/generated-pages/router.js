@@ -85,34 +85,44 @@ define([
         target.appendChild(createElement('ul', {dir:'LTR'}, children));
     }
 
-    function fontChangeHandler(fonts, classTarget) {
+    function langSelectChangeHandler(_, langTarget) {
+        langTarget.setAttribute('lang', this.value);
+    }
+
+    function classSelectChangeHandler(classes, classTarget) {
         var i,l;
-        for(i=0,l=fonts.length;i<l;i++)
-            classTarget.classList.remove.apply(classTarget.classList, fonts);
+        for(i=0,l=classes.length;i<l;i++)
+            classTarget.classList.remove.apply(classTarget.classList, classes);
         classTarget.classList.add(this.value);
     }
 
-    function makeFontSelect(fonts, classTarget) {
+    function makeSelect(items, target, handler) {
         var i,l,options = [], select;
-        for(i=0,l=fonts.length;i<l;i++)
-            options.push(createElement('option', null, fonts[i]));
+        for(i=0,l=items.length;i<l;i++)
+            options.push(createElement('option', null, items[i]));
         select = createElement('select', null, options);
-        select.addEventListener('change', fontChangeHandler.bind(
-                                            select, fonts, classTarget));
+        select.addEventListener('change', handler.bind(
+                                            select, items, target));
         return select;
     }
 
-    function router(pages, fonts) {
+
+    function router(pages, fonts, langs) {
         var body = document.body
           , content = createElement('main', {'class': 'generated-pages',lang: 'en', dir:'LTR'})
           , nav = createElement('div', {'class': 'generated-pages-navigation'})
           , currentPage
-          , fontSelect
+          , fontSelect, langSelect
           ;
 
         if(fonts) {
-            fontSelect = makeFontSelect(fonts, content);
-            fontChangeHandler.call(fontSelect, fonts, content);
+            fontSelect = makeSelect(fonts, content, classSelectChangeHandler);
+            classSelectChangeHandler.call(fontSelect, fonts, content);
+        }
+
+        if(langs) {
+            langSelect = makeSelect(langs, content, langSelectChangeHandler);
+            langSelectChangeHandler.call(langSelect, fonts, content);
         }
 
         function switchPageHandler(e) {
@@ -128,8 +138,13 @@ define([
             currentPage = loadPage(content, page);
         }
         body.appendChild(nav);
+
         if(fontSelect)
             nav.appendChild(fontSelect);
+
+        if(langSelect)
+            nav.appendChild(langSelect);
+
         body.appendChild(content);
         renderMenu(nav, pages);
         currentPage = loadPage(content, getPage(pages, 'index'));
