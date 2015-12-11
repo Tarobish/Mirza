@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/noonghunnaabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 fontMaster = (
@@ -73228,13 +73231,13 @@ unicode = 06E4;
 },
 {
 glyphname = "yehabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:37 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{0, 683}";
+position = "{0, 673}";
 },
 {
 name = top;
@@ -73369,13 +73372,13 @@ unicode = 06E7;
 },
 {
 glyphname = "noonabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{4, 682}";
+position = "{4, 672}";
 },
 {
 name = top;
