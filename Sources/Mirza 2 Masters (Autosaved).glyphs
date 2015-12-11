@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dadDotbelow_rehDotbelow-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -46063,20 +46060,39 @@ unicode = FD21;
 },
 {
 glyphname = "dadDotbelow_rehDotbelow-ar";
+lastChange = "2015-12-11 17:36:32 +0000";
 layers = (
 {
-components = (
+anchors = (
 {
-name = "dadDotbelow-ar.init";
-transform = "{1, 0, 0, 1, 375, 0}";
+name = bottom_1;
+position = "{542, -25}";
 },
 {
-name = "rehDotbelow-ar.fina";
+name = bottom_2;
+position = "{67, -270}";
+},
+{
+name = caret_1;
+position = "{418.5, 0}";
+},
+{
+name = top_1;
+position = "{647, 375}";
+},
+{
+name = top_2;
+position = "{181, 188}";
+}
+);
+components = (
+{
+name = "sad_reh-ar";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 983;
+width = 837;
 },
 {
 components = (
