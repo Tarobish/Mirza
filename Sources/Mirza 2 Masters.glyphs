@@ -69840,13 +69840,13 @@ width = 0;
 },
 {
 glyphname = "noonghunnaabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:46 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{4, 680}";
+position = "{4, 670}";
 },
 {
 name = top;
@@ -70787,13 +70787,13 @@ unicode = 065E;
 },
 {
 glyphname = "sadLamAlefMaksuraabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:00 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-3, 681}";
+position = "{-3, 671}";
 },
 {
 name = top;
@@ -71128,13 +71128,13 @@ unicode = 06D6;
 },
 {
 glyphname = "qafLamAlefMaksuraabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-7, 679}";
+position = "{-7, 669}";
 },
 {
 name = top;
@@ -71485,13 +71485,13 @@ unicode = 06D7;
 },
 {
 glyphname = "meemabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{1, 680}";
+position = "{1, 670}";
 },
 {
 name = top;
@@ -71648,13 +71648,13 @@ unicode = 06D8;
 },
 {
 glyphname = "meemStopabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:13 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-0, 685}";
+position = "{0, 675}";
 },
 {
 name = top;
@@ -71785,13 +71785,13 @@ unicode = 06E2;
 },
 {
 glyphname = "lamAlefabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:17 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{2, 680}";
+position = "{2, 670}";
 },
 {
 name = top;
@@ -71974,13 +71974,13 @@ unicode = 06D9;
 },
 {
 glyphname = "jeemabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:21 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{4, 685}";
+position = "{4, 675}";
 },
 {
 name = top;
@@ -72322,13 +72322,13 @@ unicode = 06DB;
 },
 {
 glyphname = "seenabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:25 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{4, 680}";
+position = "{4, 670}";
 },
 {
 name = top;
@@ -73228,13 +73228,13 @@ unicode = 06E4;
 },
 {
 glyphname = "yehabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:37 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{0, 683}";
+position = "{0, 673}";
 },
 {
 name = top;
@@ -73369,13 +73369,13 @@ unicode = 06E7;
 },
 {
 glyphname = "noonabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-11 19:29:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{4, 682}";
+position = "{4, 672}";
 },
 {
 name = top;
