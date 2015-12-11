@@ -17,7 +17,6 @@ name = aalt;
 {
 automatic = 1;
 code = "lookup arab_comb {\012\011script arab;\012\011sub hamzaabove-ar damma-ar by hamzaaboveDamma-ar;\012\011sub damma-ar hamzaabove-ar by hamzaaboveDamma-ar;\012\011sub hamzaabove-ar dammatan-ar by hamzaaboveDammatan-ar;\012\011sub dammatan-ar hamzaabove-ar by hamzaaboveDammatan-ar;\012\011sub hamzaabove-ar fatha-ar by hamzaaboveFatha-ar;\012\011sub fatha-ar hamzaabove-ar by hamzaaboveFatha-ar;\012\011sub hamzaabove-ar fathatan-ar by hamzaaboveFathatan-ar;\012\011sub fathatan-ar hamzaabove-ar by hamzaaboveFathatan-ar;\012\011sub hamzaabove-ar sukun-ar by hamzaaboveSukun-ar;\012\011sub sukun-ar hamzaabove-ar by hamzaaboveSukun-ar;\012\011sub hamzabelow-ar kasra-ar by hamzabelowKasra-ar;\012\011sub kasra-ar hamzabelow-ar by hamzabelowKasra-ar;\012\011sub hamzabelow-ar kasratan-ar by hamzabelowKasratan-ar;\012\011sub kasratan-ar hamzabelow-ar by hamzabelowKasratan-ar;\012\011sub shadda-ar alefabove-ar by shaddaAlefabove-ar;\012\011sub alefabove-ar shadda-ar by shaddaAlefabove-ar;\012\011sub shadda-ar damma-ar by shaddaDamma-ar;\012\011sub damma-ar shadda-ar by shaddaDamma-ar;\012\011sub shadda-ar dammatan-ar by shaddaDammatan-ar;\012\011sub dammatan-ar shadda-ar by shaddaDammatan-ar;\012\011sub shadda-ar fatha-ar by shaddaFatha-ar;\012\011sub fatha-ar shadda-ar by shaddaFatha-ar;\012\011sub shadda-ar fathatan-ar by shaddaFathatan-ar;\012\011sub fathatan-ar shadda-ar by shaddaFathatan-ar;\012\011sub shadda-ar kasra-ar by shaddaKasra-ar;\012\011sub kasra-ar shadda-ar by shaddaKasra-ar;\012\011sub shadda-ar kasratan-ar by shaddaKasratan-ar;\012\011sub kasratan-ar shadda-ar by shaddaKasratan-ar;\012\011sub hamzaabove-ar fathatan-ar by hamzaabove_fathatan-ar;\012\011sub fathatan-ar hamzaabove-ar by hamzaabove_fathatan-ar;\012\011sub hamzaabove-ar dammatan-ar by hamzaabove_dammatan-ar;\012\011sub dammatan-ar hamzaabove-ar by hamzaabove_dammatan-ar;\012\011sub hamzaabove-ar fatha-ar by hamzaabove_fatha-ar;\012\011sub fatha-ar hamzaabove-ar by hamzaabove_fatha-ar;\012\011sub hamzaabove-ar damma-ar by hamzaabove_damma-ar;\012\011sub damma-ar hamzaabove-ar by hamzaabove_damma-ar;\012\011sub hamzaabove-ar sukun-ar by hamzaabove_sukun-ar;\012\011sub sukun-ar hamzaabove-ar by hamzaabove_sukun-ar;\012\011sub hamzabelow-ar kasratan-ar by hamzabelow_kasratan-ar;\012\011sub kasratan-ar hamzabelow-ar by hamzabelow_kasratan-ar;\012\011sub hamzabelow-ar kasra-ar by hamzabelow_kasra-ar;\012\011sub kasra-ar hamzabelow-ar by hamzabelow_kasra-ar;\012} arab_comb;\012";
-disabled = 1;
 name = ccmp;
 },
 {
@@ -67855,40 +67854,6 @@ name = "hamzaabove-ar";
 disableAlignment = 1;
 name = "dammatan-ar";
 transform = "{1, 0, 0, 1, 7, 204}";
-}
-);
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 0;
-}
-);
-},
-{
-glyphname = "hamzaabove_fatha-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
-layers = (
-{
-components = (
-{
-name = "hamzaabove-ar";
-},
-{
-name = "fatha-ar";
-transform = "{1, 0, 0, 1, -1, 202}";
-}
-);
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 0;
-},
-{
-components = (
-{
-name = "hamzaabove-ar";
-},
-{
-name = "fatha-ar";
-transform = "{1, 0, 0, 1, 1, 207}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
