@@ -84,20 +84,6 @@
 	<string>gafbar-ar.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
-	<key>hamzaaboveDamma-ar</key>
-	<string>hamzaaboveD_amma-ar.glif</string>
-	<key>hamzaaboveDammatan-ar</key>
-	<string>hamzaaboveD_ammatan-ar.glif</string>
-	<key>hamzaaboveFatha-ar</key>
-	<string>hamzaaboveF_atha-ar.glif</string>
-	<key>hamzaaboveFathatan-ar</key>
-	<string>hamzaaboveF_athatan-ar.glif</string>
-	<key>hamzaaboveSukun-ar</key>
-	<string>hamzaaboveS_ukun-ar.glif</string>
-	<key>hamzabelowKasra-ar</key>
-	<string>hamzabelowK_asra-ar.glif</string>
-	<key>hamzabelowKasratan-ar</key>
-	<string>hamzabelowK_asratan-ar.glif</string>
 	<key>hamzacenter-ar</key>
 	<string>hamzacenter-ar.glif</string>
 	<key>hyphen</key>

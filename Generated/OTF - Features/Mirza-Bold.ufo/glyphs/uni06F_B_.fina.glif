@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni06FB.fina" format="1">
-  <advance width="1111"/>
-  <outline>
-    <component base="uniFEBE"/>
-    <component base="uniFBB3" xOffset="719" yOffset="91"/>
-  </outline>
-</glyph>

@@ -75,7 +75,7 @@
       <point x="2" y="911" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="2" y="680" type="move" name="_top"/>
+      <point x="2" y="670" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>
