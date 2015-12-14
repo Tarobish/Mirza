@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehFourbelow-farsi" format="1">
+  <advance width="659"/>
+  <unicode hex="0777"/>
+  <outline>
+    <component base="alefMaksura-ar"/>
+    <component base="four-persian.urdu.small" xOffset="199" yOffset="-690" xScale="0.882" yScale="0.882"/>
+  </outline>
+</glyph>

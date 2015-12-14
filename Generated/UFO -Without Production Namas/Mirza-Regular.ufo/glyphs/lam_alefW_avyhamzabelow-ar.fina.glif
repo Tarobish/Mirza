@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam_alefWavyhamzabelow-ar.fina" format="1">
+  <advance width="559"/>
+  <outline>
+    <component base="lam_alef-ar.fina"/>
+    <component base="wavyhamzabelow-ar" xOffset="161" yOffset="118"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alefWavyhamzabelow-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

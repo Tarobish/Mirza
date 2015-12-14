@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hahTahbelow-ar" format="1">
+  <advance width="578"/>
+  <unicode hex="076E"/>
+  <outline>
+    <component base="hah-ar"/>
+    <component base="tahabove-ar" xOffset="335" yOffset="-823"/>
+  </outline>
+</glyph>

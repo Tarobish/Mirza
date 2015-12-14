@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehVinverted-farsi.medi" format="1">
+  <advance width="301"/>
+  <outline>
+    <component base="yeh-ar.medi"/>
+    <component base="vinvertedabove-ar" xOffset="22" yOffset="-488"/>
+  </outline>
+</glyph>

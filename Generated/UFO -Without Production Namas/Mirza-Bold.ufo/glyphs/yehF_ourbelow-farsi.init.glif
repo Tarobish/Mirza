@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehFourbelow-farsi.init" format="1">
+  <advance width="244"/>
+  <outline>
+    <component base="dotlessbeh-ar.init"/>
+    <component base="four-persian.urdu.small" xOffset="-54" yOffset="-508" xScale="0.882" yScale="0.882"/>
+  </outline>
+</glyph>

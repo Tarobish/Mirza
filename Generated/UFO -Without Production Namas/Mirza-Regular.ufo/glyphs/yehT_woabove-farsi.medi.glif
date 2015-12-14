@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehTwoabove-farsi.medi" format="1">
+  <advance width="301"/>
+  <outline>
+    <component base="yeh-farsi.medi"/>
+    <component base="two-ar.small" xOffset="-26" yOffset="-67" xScale="0.882" yScale="0.882"/>
+  </outline>
+</glyph>

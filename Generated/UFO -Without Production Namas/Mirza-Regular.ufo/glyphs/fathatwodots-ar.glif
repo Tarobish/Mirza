@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fathatwodots-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="065E"/>
+  <outline>
+    <contour>
+      <point x="-68" y="806"/>
+      <point x="-59" y="797"/>
+      <point x="-50" y="786" type="curve"/>
+      <point x="-38" y="797"/>
+      <point x="-30" y="805"/>
+      <point x="-23" y="813" type="curve"/>
+      <point x="-29" y="822"/>
+      <point x="-41" y="833"/>
+      <point x="-52" y="841" type="curve"/>
+      <point x="-59" y="833"/>
+      <point x="-70" y="821"/>
+      <point x="-78" y="814" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-73" y="720"/>
+      <point x="-73" y="710"/>
+      <point x="-72" y="699" type="curve"/>
+      <point x="-72" y="699"/>
+      <point x="19" y="772"/>
+      <point x="73" y="807" type="curve"/>
+      <point x="75" y="820"/>
+      <point x="75" y="826"/>
+      <point x="74" y="836" type="curve"/>
+      <point x="18" y="801"/>
+      <point x="-25" y="768"/>
+      <point x="-72" y="727" type="curve"/>
+    </contour>
+    <contour>
+      <point x="23" y="720"/>
+      <point x="32" y="711"/>
+      <point x="41" y="700" type="curve"/>
+      <point x="53" y="711"/>
+      <point x="61" y="719"/>
+      <point x="68" y="727" type="curve"/>
+      <point x="62" y="736"/>
+      <point x="50" y="747"/>
+      <point x="39" y="755" type="curve"/>
+      <point x="32" y="747"/>
+      <point x="21" y="735"/>
+      <point x="13" y="728" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-2" y="861" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-2" y="699" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

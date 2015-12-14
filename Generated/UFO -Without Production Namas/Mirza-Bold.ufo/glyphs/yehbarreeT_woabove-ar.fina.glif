@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehbarreeTwoabove-ar.fina" format="1">
+  <advance width="615"/>
+  <outline>
+    <component base="yehbarree-ar.fina"/>
+    <component base="two-ar.small" xOffset="133" yOffset="-145" xScale="0.882" yScale="0.882"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>32</integer>
+          <key>y</key>
+          <integer>335</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

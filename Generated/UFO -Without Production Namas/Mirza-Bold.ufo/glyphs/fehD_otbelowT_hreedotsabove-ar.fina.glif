@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fehDotbelowThreedotsabove-ar.fina" format="1">
+  <advance width="954"/>
+  <outline>
+    <component base="dotlessfeh-ar.fina"/>
+    <component base="dotbelow-ar" xOffset="713" yOffset="77"/>
+    <component base="threedotsupabove-ar" xOffset="745" yOffset="-287"/>
+  </outline>
+</glyph>

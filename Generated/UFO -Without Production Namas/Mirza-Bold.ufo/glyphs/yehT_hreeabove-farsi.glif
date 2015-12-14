@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehThreeabove-farsi" format="1">
+  <advance width="679"/>
+  <unicode hex="0776"/>
+  <outline>
+    <component base="three-ar.small" xOffset="144" yOffset="-65" xScale="0.882" yScale="0.882"/>
+    <component base="alefMaksura-ar"/>
+  </outline>
+</glyph>

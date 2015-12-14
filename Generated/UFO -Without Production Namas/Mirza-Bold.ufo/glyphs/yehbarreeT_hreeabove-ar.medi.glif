@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehbarreeThreeabove-ar.medi" format="1">
+  <advance width="325"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+    <component base="three-ar.small" xOffset="-65" yOffset="4" xScale="0.882" yScale="0.882"/>
+  </outline>
+</glyph>
