@@ -43,7 +43,7 @@ texfiles:
 $(DDTOUT)/%.pdf: $(DDT)/%.tex
 	@echo "   GEN	$< $@"
 	@mkdir -p $(DDTOUT)
-	@latexmk -f --norc --xelatex --quiet --output-directory=${DDTOUT} $<
+	@latexmk --norc --xelatex --quiet --output-directory=${DDTOUT} $<
 
 $(RELEASE)/$(FAMILY)-$(VERSION):$(GEN)/$(NAME).ttf FONTLOG README
 	@echo "   GEN	$@"
