@@ -56378,22 +56378,6 @@ width = 413;
 unicode = 0664;
 },
 {
-glyphname = "four-ar.below";
-lastChange = "2015-12-16 20:31:23 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-},
-{
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 600;
-}
-);
-},
-{
 glyphname = "four-ar.small";
 lastChange = "2015-12-10 02:21:22 +0000";
 layers = (
