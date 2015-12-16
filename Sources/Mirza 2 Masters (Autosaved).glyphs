@@ -1,7 +1,5 @@
 {
 DisplayStrings = (
-"/threedotsdownbelow-ar",
-"/threedotscenter-ar",
 "/dotcenter-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -65891,13 +65889,13 @@ unicode = FBB3;
 },
 {
 glyphname = "dotcenter-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-16 23:04:00 +0000";
 layers = (
 {
 anchors = (
 {
 name = _center;
-position = "{3, 155}";
+position = "{4, 157}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
