@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hahTahTwodotshorizontalabove-ar.fina"
+"/hahTahTwodotshorizontalabove-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -8017,7 +8017,7 @@ unicode = 076F;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.fina";
-lastChange = "2015-12-16 20:49:36 +0000";
+lastChange = "2015-12-16 20:50:01 +0000";
 layers = (
 {
 components = (
@@ -8032,7 +8032,7 @@ transform = "{1, 0, 0, 1, 322, -867}";
 {
 disableAlignment = 1;
 name = "tahbelow-ar";
-transform = "{1, 0, 0, 1, 287, -129}";
+transform = "{1, 0, 0, 1, 324, 356}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8047,12 +8047,12 @@ name = "hah-ar.fina";
 {
 disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 360, -877}";
+transform = "{1, 0, 0, 1, 350, -877}";
 },
 {
 disableAlignment = 1;
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 356, -736}";
+name = "tahbelow-ar";
+transform = "{1, 0, 0, 1, 351, 376}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -8063,7 +8063,7 @@ width = 699;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.init";
-lastChange = "2015-12-16 20:42:30 +0000";
+lastChange = "2015-12-16 20:50:13 +0000";
 layers = (
 {
 components = (
@@ -8076,9 +8076,8 @@ name = "twodotshorizontalabove-ar";
 transform = "{1, 0, 0, 1, 164, -1040}";
 },
 {
-disableAlignment = 1;
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 160, -913}";
+name = "tahbelow-ar";
+transform = "{1, 0, 0, 1, 170, 187}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
