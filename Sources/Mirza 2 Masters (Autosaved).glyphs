@@ -6271,7 +6271,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{382, -43}";
+position = "{289, -366}";
 },
 {
 name = center;
@@ -51514,7 +51514,7 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-16 22:45:11 +0000";
+lastChange = "2015-12-16 22:46:24 +0000";
 layers = (
 {
 anchors = (
@@ -51524,15 +51524,15 @@ position = "{436, -298}";
 },
 {
 name = bottom_2;
-position = "{338, 49}";
+position = "{435, 98}";
 },
 {
 name = caret_1;
-position = "{298, -173}";
+position = "{-257, -161}";
 },
 {
 name = center;
-position = "{-123, -184}";
+position = "{-72, -78}";
 },
 {
 name = top_1;
