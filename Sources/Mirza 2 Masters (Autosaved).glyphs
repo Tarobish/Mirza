@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
-"/threedotsupbelow-ar",
-"/threedotsupcenter-ar"
+"/threedotsupcenter-ar",
+"/lam_hah-ar",
+"/hah-ar/tcheh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -6265,7 +6266,7 @@ unicode = FB74;
 },
 {
 glyphname = "hah-ar";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2015-12-16 23:44:45 +0000";
 layers = (
 {
 anchors = (
@@ -51514,7 +51515,7 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-16 23:06:46 +0000";
+lastChange = "2015-12-16 23:43:34 +0000";
 layers = (
 {
 anchors = (
@@ -51528,7 +51529,7 @@ position = "{338, 49}";
 },
 {
 name = caret_1;
-position = "{274.5, 0}";
+position = "{275, 0}";
 },
 {
 name = center;
@@ -66884,7 +66885,7 @@ unicode = FBB7;
 },
 {
 glyphname = "threedotsupcenter-ar";
-lastChange = "2015-12-16 23:42:31 +0000";
+lastChange = "2015-12-16 23:42:40 +0000";
 layers = (
 {
 anchors = (
