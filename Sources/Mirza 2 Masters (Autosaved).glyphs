@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/lam_hah-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -51510,7 +51513,7 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-16 20:01:22 +0000";
+lastChange = "2015-12-16 20:09:29 +0000";
 layers = (
 {
 anchors = (
@@ -51524,11 +51527,11 @@ position = "{338, 49}";
 },
 {
 name = caret_1;
-position = "{274.5, 0}";
+position = "{212, 0}";
 },
 {
 name = center;
-position = "{317, 0}";
+position = "{341, 0}";
 },
 {
 name = top_1;
