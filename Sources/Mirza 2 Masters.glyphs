@@ -6082,7 +6082,7 @@ unicode = FB79;
 },
 {
 glyphname = "nyeh-ar.init";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2015-12-16 20:41:53 +0000";
 layers = (
 {
 components = (
@@ -7931,7 +7931,7 @@ width = 674;
 },
 {
 glyphname = "hahTahbelow-ar.init";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2015-12-16 20:42:45 +0000";
 layers = (
 {
 components = (
@@ -7941,7 +7941,7 @@ name = "hah-ar.init";
 {
 disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 160, -883}";
+transform = "{1, 0, 0, 1, 160, -914}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -7967,7 +7967,7 @@ width = 588;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2015-12-16 20:40:35 +0000";
 layers = (
 {
 components = (
@@ -7975,12 +7975,14 @@ components = (
 name = "hah-ar";
 },
 {
+disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 274, -345}";
+transform = "{1, 0, 0, 1, 353, -896}";
 },
 {
+disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 270, -218}";
+transform = "{1, 0, 0, 1, 349, -778}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -7993,12 +7995,14 @@ components = (
 name = "hah-ar";
 },
 {
+disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 265, -290}";
+transform = "{1, 0, 0, 1, 384, -873}";
 },
 {
+disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 261, -117}";
+transform = "{1, 0, 0, 1, 380, -731}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -8010,7 +8014,7 @@ unicode = 076F;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.fina";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2015-12-16 20:41:12 +0000";
 layers = (
 {
 components = (
@@ -8018,12 +8022,14 @@ components = (
 name = "hah-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 273, -324}";
+transform = "{1, 0, 0, 1, 322, -867}";
 },
 {
+disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 269, -197}";
+transform = "{1, 0, 0, 1, 318, -756}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8036,12 +8042,14 @@ components = (
 name = "hah-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 275, -290}";
+transform = "{1, 0, 0, 1, 360, -877}";
 },
 {
+disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 271, -117}";
+transform = "{1, 0, 0, 1, 356, -736}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -8052,7 +8060,7 @@ width = 699;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.init";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2015-12-16 20:42:30 +0000";
 layers = (
 {
 components = (
@@ -8060,12 +8068,14 @@ components = (
 name = "hah-ar.init";
 },
 {
+disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 164, -342}";
+transform = "{1, 0, 0, 1, 164, -1040}";
 },
 {
+disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 160, -215}";
+transform = "{1, 0, 0, 1, 160, -913}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8078,12 +8088,14 @@ components = (
 name = "hah-ar.init";
 },
 {
+disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 209, -308}";
+transform = "{1, 0, 0, 1, 209, -1087}";
 },
 {
+disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 205, -135}";
+transform = "{1, 0, 0, 1, 205, -934}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -8094,7 +8106,7 @@ width = 588;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.medi";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2015-12-16 20:43:12 +0000";
 layers = (
 {
 components = (
@@ -8102,12 +8114,14 @@ components = (
 name = "hah-ar.medi";
 },
 {
+disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 165, -321}";
+transform = "{1, 0, 0, 1, 165, -1040}";
 },
 {
+disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 161, -194}";
+transform = "{1, 0, 0, 1, 161, -913}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -8120,12 +8134,14 @@ components = (
 name = "hah-ar.medi";
 },
 {
+disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 208, -287}";
+transform = "{1, 0, 0, 1, 208, -1108}";
 },
 {
+disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 204, -114}";
+transform = "{1, 0, 0, 1, 204, -935}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
