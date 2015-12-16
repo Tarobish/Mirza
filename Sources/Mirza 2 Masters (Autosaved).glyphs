@@ -51513,7 +51513,7 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-16 20:09:29 +0000";
+lastChange = "2015-12-16 20:09:39 +0000";
 layers = (
 {
 anchors = (
@@ -51645,7 +51645,7 @@ position = "{459, -300}";
 },
 {
 name = bottom_2;
-position = "{363, 89}";
+position = "{344, 89}";
 },
 {
 name = caret_1;
