@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hahFourbelow-ar.fina"
+"/hahFourbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -8143,7 +8143,7 @@ width = 674;
 },
 {
 glyphname = "hahFourbelow-ar";
-lastChange = "2015-12-16 21:16:52 +0000";
+lastChange = "2015-12-16 21:20:22 +0000";
 layers = (
 {
 components = (
@@ -8151,14 +8151,13 @@ components = (
 name = "hah-ar";
 },
 {
-disableAlignment = 1;
-name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 253, -349}";
+name = "four-ar.below";
+transform = "{1, 0, 0, 1, 293, -176}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 577;
+width = 578;
 },
 {
 components = (
@@ -8180,7 +8179,7 @@ unicode = 077C;
 },
 {
 glyphname = "hahFourbelow-ar.fina";
-lastChange = "2015-12-16 21:20:02 +0000";
+lastChange = "2015-12-16 21:20:14 +0000";
 layers = (
 {
 components = (
@@ -8204,13 +8203,13 @@ name = "hah-ar.fina";
 },
 {
 disableAlignment = 1;
-name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 227, -313}";
+name = "four-ar.below";
+transform = "{1, 0, 0, 1, 310, 287}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 677;
+width = 699;
 }
 );
 },
