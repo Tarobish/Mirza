@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/hah-ar/tcheh-ar"
+"/lam_hah-ar",
+"/hah-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -6264,13 +6265,13 @@ unicode = FB74;
 },
 {
 glyphname = "hah-ar";
-lastChange = "2015-12-16 22:39:20 +0000";
+lastChange = "2015-12-16 22:45:59 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{327, 9}";
+position = "{382, -43}";
 },
 {
 name = center;
@@ -51513,7 +51514,7 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-16 21:44:57 +0000";
+lastChange = "2015-12-16 22:45:11 +0000";
 layers = (
 {
 anchors = (
@@ -51527,11 +51528,11 @@ position = "{338, 49}";
 },
 {
 name = caret_1;
-position = "{274.5, 0}";
+position = "{298, -173}";
 },
 {
 name = center;
-position = "{317, 0}";
+position = "{-123, -184}";
 },
 {
 name = top_1;
