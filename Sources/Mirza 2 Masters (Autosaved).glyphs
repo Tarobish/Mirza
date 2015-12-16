@@ -1,8 +1,8 @@
 {
 DisplayStrings = (
-"/lam_hah-ar",
-"/hah-ar",
-"/tcheh-ar/kasra-ar"
+"/hah-ar/tcheh-ar",
+"/threedotscenterbelow-ar/threedotsdownbelow-ar/tcheh-ar",
+"/threedotscenterbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -76583,6 +76583,22 @@ nodes = (
 }
 );
 width = 0;
+}
+);
+},
+{
+glyphname = "threedotscenterbelow-ar";
+lastChange = "2015-12-16 22:51:40 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+},
+{
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 600;
 }
 );
 }
