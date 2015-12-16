@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 "/lam_hah-ar",
-"/hah-ar"
+"/hah-ar",
+"/tcheh-ar/kasra-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -5689,7 +5690,7 @@ unicode = FE9F;
 },
 {
 glyphname = "tcheh-ar";
-lastChange = "2015-12-16 22:39:07 +0000";
+lastChange = "2015-12-16 22:49:59 +0000";
 layers = (
 {
 components = (
@@ -5699,7 +5700,7 @@ name = "hah-ar";
 {
 disableAlignment = 1;
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 342, 56}";
+transform = "{1, 0, 0, 1, 332, 53}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -51514,33 +51515,33 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-16 22:46:24 +0000";
+lastChange = "2015-12-16 22:49:50 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{436, -298}";
+position = "{448, -302}";
 },
 {
 name = bottom_2;
-position = "{435, 98}";
+position = "{231, -354}";
 },
 {
 name = caret_1;
-position = "{-257, -161}";
+position = "{274.5, 0}";
 },
 {
 name = center;
-position = "{-72, -78}";
+position = "{280, -69}";
 },
 {
 name = top_1;
-position = "{234, 585}";
+position = "{207, 574}";
 },
 {
 name = top_2;
-position = "{87, 325}";
+position = "{107, 294}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
