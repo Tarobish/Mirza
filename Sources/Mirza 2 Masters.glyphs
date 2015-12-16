@@ -51510,17 +51510,17 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-16 20:01:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{436, 122}";
+position = "{436, -298}";
 },
 {
 name = bottom_2;
-position = "{287, -341}";
+position = "{338, 49}";
 },
 {
 name = caret_1;
@@ -51528,7 +51528,7 @@ position = "{274.5, 0}";
 },
 {
 name = center;
-position = "{264, -15}";
+position = "{317, 0}";
 },
 {
 name = top_1;
@@ -51638,19 +51638,19 @@ width = 549;
 anchors = (
 {
 name = bottom_1;
-position = "{464, 139}";
+position = "{459, -300}";
 },
 {
 name = bottom_2;
-position = "{302, -340}";
+position = "{363, 89}";
 },
 {
 name = caret_1;
-position = "{289, 0}";
+position = "{273, 0}";
 },
 {
 name = center;
-position = "{271, 0}";
+position = "{342, 0}";
 },
 {
 name = top_1;
