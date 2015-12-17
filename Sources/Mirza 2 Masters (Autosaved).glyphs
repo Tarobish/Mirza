@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hahTahbelow-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -66280,6 +66277,22 @@ width = 0;
 unicode = FBBE;
 },
 {
+glyphname = "twodotsverticalcenter-ar";
+lastChange = "2015-12-17 02:59:53 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+},
+{
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 600;
+}
+);
+},
+{
 glyphname = "twodotshorizontalabove-ar";
 lastChange = "2015-12-10 02:21:22 +0000";
 layers = (
@@ -66476,6 +66489,22 @@ width = 0;
 }
 );
 unicode = FBB5;
+},
+{
+glyphname = "twodotshorizontalcenter-ar";
+lastChange = "2015-12-17 03:00:37 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+},
+{
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 600;
+}
+);
 },
 {
 glyphname = "threedotsdownabove-ar";
@@ -66744,6 +66773,22 @@ width = 0;
 unicode = FBB9;
 },
 {
+glyphname = "threedotsdowncenter-ar";
+lastChange = "2015-12-17 03:01:12 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+},
+{
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 600;
+}
+);
+},
+{
 glyphname = "threedotsupabove-ar";
 lastChange = "2015-12-10 02:21:22 +0000";
 layers = (
@@ -67008,6 +67053,22 @@ width = 0;
 }
 );
 unicode = FBB7;
+},
+{
+glyphname = "threedotsupcenter-ar";
+lastChange = "2015-12-17 03:01:52 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+},
+{
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 600;
+}
+);
 },
 {
 glyphname = "fourdotsabove-ar";
