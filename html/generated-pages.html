@@ -110,6 +110,18 @@
             font-weight: 400;
         }
 
+        @font-face {
+            font-family: Jomhuria;
+            font-style: normal;
+            font-weight: 700;
+            src: url('lib/generated-pages/fonts/Jomhuria-Regular.ttf')  format('truetype');
+        }
+
+        .Jomhuria {
+            font-family: Jomhuria, sans-serif;
+            font-weight: 700;
+        }
+
     </style>
 
     <script src="./bower_components/requirejs/require.js"></script>
@@ -125,6 +137,7 @@
                   , w500: 'Mirza-Medium-500'
                   , w600: 'Mirza-SemiBold-600'
                   , w700: 'Mirza-Bold-700'
+                  , jomhuria: 'Jomhuria'
                 }
               , pages: pages
               , langs: ['ar', 'fa', 'ur', 'en']

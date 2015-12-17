@@ -8,7 +8,10 @@
                 "uni06B8.init",
                 "uni076A.init",
                 "uni08A6.init",
-                "uniFEDF"
+
+                "!uniFEDF",
+                "uni0644.init"
+
             ],
             [
                 "uni0681.fina",
@@ -21,19 +24,46 @@
                 "uni0772.fina",
                 "uni077C.fina",
                 "uni08A2.fina",
-                "uniFB73",
-                "uniFB77",
-                "uniFB7B",
-                "uniFB7F",
-                "uniFE9E",
-                "uniFEA2",
-                "uniFEA6"
+
+
+                "!uniFB73",
+                "uni0684.fina",
+
+                "!uniFB77",
+                "uni0683.fina",
+
+                "!uniFB7B",
+                "uni0686.fina",
+
+                "!uniFB7F",
+                "uni0687.fina",
+
+                "!uniFE9E",
+                "uni062C.fina",
+
+                "!uniFEA2",
+                "uni062D.fina",
+
+                "!uniFEA6",
+                "uni062E.fina"
             ]
         ],
         "info": "Issue #59: ligature 59 (uniFC40)",
         "description": "It has to be default for Arabic and style for the other scripts",
         "liga": "uniFC40",
-        "type": "ligature"
+        "type": "ligature",
+        "notes": ["From uniFB73 to the end is a WONTFIX, instead I will "
+                 ,"insert some.fina glyphs that don't exist, like uni0684.fina "
+                 ,"(which is in the end uniFB73 but that way we can create a fina "
+                 ,"feature triggering uni0684)"
+                 ,"uni076A.init and uni08A6.init require other ligatures, "
+                 ,"they are not well placed within this request. Do these "
+                 ,"ligatures exist?, Amiri shapes `:zwnj:\u076A\u0681:zwnj:` "
+                 ,"as uni076A.init_LamHaaInit and uni0681.fina_AboveHaaIsol2"
+                 ,"so there is no ligature, though the ligature way looks"
+                 ,"OK to me."
+                 ,"uniFEDF is a WONTFIX, instead: uni0644.init"
+                 ]
     },
     {
         "groups": [
@@ -44,7 +74,9 @@
                 "uni06B8.init",
                 "uni076A.init",
                 "uni08A6.init",
-                "uniFEDF"
+
+                "!uniFEDF",
+                "uni0644.init"
             ],
             [
                 "uni0681.medi",
@@ -57,19 +89,34 @@
                 "uni0772.medi",
                 "uni077C.medi",
                 "uni08A2.medi",
-                "uniFB75",
-                "uniFB79",
-                "uniFB7D",
-                "uniFB81",
-                "uniFEA0",
-                "uniFEA4",
-                "uniFEA8"
+
+                "!uniFB75",
+                "uni0684.medi",
+
+                "!uniFB79",
+                "uni0683.medi",
+
+                "!uniFB7D",
+                "uni0686.medi",
+
+                "!uniFB81",
+                "uni0687.medi",
+
+                "!uniFEA0",
+                "uni062C.medi",
+
+                "!uniFEA4",
+                "uni062D.medi",
+
+                "!uniFEA8",
+                "uni062E.medi"
             ]
         ],
         "info": "Issue #58: ligature 58 (uniFCCA)",
         "description": "It has to be default for Arabic and style for the other scripts",
         "liga": "uniFCCA",
-        "type": "ligature"
+        "type": "ligature",
+        "notes": "notes and changes of #59 apply here analogously"
     },
     {
         "groups": [
