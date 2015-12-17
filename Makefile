@@ -11,6 +11,7 @@ DDTOUT=$(GEN)/Documents
 RELEASE=$(DIST)/$(FAMILY)-$(VERSION)
 
 TEXTPL=$(wildcard $(DDT)/*.tex.tpl)
+TEXTS=$(wildcard $(DDT)/*.txt)
 TEXS=$(wildcard $(DDT)/*.tex)
 DDTDOCS=$(TEXS:$(DDT)/%.tex=$(DDTOUT)/%.pdf)
 
@@ -25,15 +26,17 @@ DOCSIZERANGE=7,13
 
 preparedoc: texfiles
 
-# run make `preparedoc` before `make doc`
+# run `make preparedoc` before `make doc`
 doc: $(DDTDOCS)
 release: RELEASE
 
 
 texfiles:
-	@for font in $(FONTS) ; do \
-		for tpl in $(TEXTPL) ; do \
-			$(GENTEX) $$tpl $$font $(DOCSIZERANGE); \
+	@for textfile in $(TEXTS) ; do \
+		for font in $(FONTS) ; do \
+			for tpl in $(TEXTPL) ; do \
+				$(GENTEX) $$tpl $$font $$textfile $(DOCSIZERANGE); \
+			done \
 		done \
 	done
 

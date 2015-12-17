@@ -7,6 +7,7 @@ define([
   , './collisionsAbove-2'
   , './collisionsAbove-3'
   , './data/marks1'
+  , './data/quran'
   , './ligatures-1'
 
 ], function(
@@ -18,6 +19,7 @@ define([
   , collisionsAbove2
   , collisionsAbove3
   , marksText1
+  , quranText
   , ligatures1
 ){
     "use strict";
@@ -57,6 +59,7 @@ define([
             title: 'Test-Texts'
           , '/': {
                 marks1: marksText1
+              , quran: quranText
             }
         }
     };
