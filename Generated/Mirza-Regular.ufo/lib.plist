@@ -911,12 +911,19 @@
 		<string>uni0661.small</string>
 		<string>uni0661.tab</string>
 		<string>uni0662</string>
+		<string>uni0662.above</string>
+		<string>uni0662.below</string>
 		<string>uni0662.small</string>
 		<string>uni0662.tab</string>
 		<string>uni0663</string>
+		<string>uni0663.above</string>
+		<string>uni0663.below</string>
 		<string>uni0663.small</string>
 		<string>uni0663.tab</string>
 		<string>uni0664</string>
+		<string>uni0664.above</string>
+		<string>uni0664.below</string>
+		<string>uni0664.center</string>
 		<string>uni0664.small</string>
 		<string>uni0664.tab</string>
 		<string>uni0665</string>
@@ -1016,6 +1023,8 @@
 		<string>uni0611</string>
 		<string>uni0614</string>
 		<string>uni0615</string>
+		<string>uni0615.alt</string>
+		<string>uniFBC1</string>
 		<string>uni0616</string>
 		<string>uni0617</string>
 		<string>uniFBB2</string>
@@ -1023,14 +1032,19 @@
 		<string>dotcenter-ar</string>
 		<string>uniFBBD</string>
 		<string>uniFBBE</string>
+		<string>twodotsverticalcenter-ar</string>
 		<string>uniFBB4</string>
 		<string>uniFBB5</string>
+		<string>twodotshorizontalcenter-ar</string>
 		<string>uniFBB8</string>
 		<string>uniFBB9</string>
+		<string>threedotsdowncenter-ar</string>
 		<string>uniFBB6</string>
 		<string>uniFBB7</string>
+		<string>threedotsupcenter-ar</string>
 		<string>uniFBBA</string>
 		<string>uniFBBB</string>
+		<string>fourdotscenter-ar</string>
 		<string>wasla-ar</string>
 		<string>wavyhamzaabove-ar</string>
 		<string>uni065F</string>
@@ -1110,6 +1124,11 @@
 		<string>dots.horz.below-ar</string>
 		<string>barlong</string>
 		<string>gafbar-ar</string>
+		<string>TahSmallTwoDotscenter-ar</string>
+		<string>TahSmallTwoDotsbelow-ar</string>
+		<string>TahSmallTwoDotsabove-ar</string>
+		<string>TahSmallDotbelow-ar</string>
+		<string>VaDotbelow-ar</string>
 	</array>
 </dict>
 </plist>

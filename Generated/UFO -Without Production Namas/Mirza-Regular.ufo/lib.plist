@@ -911,12 +911,19 @@
 		<string>one-ar.small</string>
 		<string>one-ar.tab</string>
 		<string>two-ar</string>
+		<string>two-ar.above</string>
+		<string>two-ar.below</string>
 		<string>two-ar.small</string>
 		<string>two-ar.tab</string>
 		<string>three-ar</string>
+		<string>three-ar.above</string>
+		<string>three-ar.below</string>
 		<string>three-ar.small</string>
 		<string>three-ar.tab</string>
 		<string>four-ar</string>
+		<string>four-ar.above</string>
+		<string>four-ar.below</string>
+		<string>four-ar.center</string>
 		<string>four-ar.small</string>
 		<string>four-ar.tab</string>
 		<string>five-ar</string>
@@ -1016,6 +1023,8 @@
 		<string>ainabove-ar</string>
 		<string>takhallusabove-ar</string>
 		<string>tahabove-ar</string>
+		<string>tahcenter-ar</string>
+		<string>tahbelow-ar</string>
 		<string>alefLamYehabove-ar</string>
 		<string>zainabove-ar</string>
 		<string>dotabove-ar</string>
@@ -1023,14 +1032,19 @@
 		<string>dotcenter-ar</string>
 		<string>twodotsverticalabove-ar</string>
 		<string>twodotsverticalbelow-ar</string>
+		<string>twodotsverticalcenter-ar</string>
 		<string>twodotshorizontalabove-ar</string>
 		<string>twodotshorizontalbelow-ar</string>
+		<string>twodotshorizontalcenter-ar</string>
 		<string>threedotsdownabove-ar</string>
 		<string>threedotsdownbelow-ar</string>
+		<string>threedotsdowncenter-ar</string>
 		<string>threedotsupabove-ar</string>
 		<string>threedotsupbelow-ar</string>
+		<string>threedotsupcenter-ar</string>
 		<string>fourdotsabove-ar</string>
 		<string>fourdotsbelow-ar</string>
+		<string>fourdotscenter-ar</string>
 		<string>wasla-ar</string>
 		<string>wavyhamzaabove-ar</string>
 		<string>wavyhamzabelow-ar</string>
@@ -1110,6 +1124,11 @@
 		<string>dots.horz.below-ar</string>
 		<string>barlong</string>
 		<string>gafbar-ar</string>
+		<string>TahSmallTwoDotscenter-ar</string>
+		<string>TahSmallTwoDotsbelow-ar</string>
+		<string>TahSmallTwoDotsabove-ar</string>
+		<string>TahSmallDotbelow-ar</string>
+		<string>VaDotbelow-ar</string>
 	</array>
 </dict>
 </plist>

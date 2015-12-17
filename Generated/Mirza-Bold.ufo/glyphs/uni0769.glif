@@ -3,7 +3,7 @@
   <advance width="618"/>
   <unicode hex="0769"/>
   <outline>
-    <component base="uni0646"/>
-    <component base="uni065A" xOffset="290" yOffset="-463"/>
+    <component base="uni06BA"/>
+    <component base="VaDotbelow-ar" xOffset="286" yOffset="-581"/>
   </outline>
 </glyph>

@@ -51,5 +51,8 @@
     <contour>
       <point x="71" y="-308" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="83" y="-21" type="move" name="center"/>
+    </contour>
   </outline>
 </glyph>

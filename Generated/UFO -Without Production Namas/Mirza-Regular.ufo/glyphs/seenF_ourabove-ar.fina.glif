@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seenFourabove-ar.fina" format="1">
-  <advance width="909"/>
+  <advance width="919"/>
   <outline>
-    <component base="seen-ar.fina" xOffset="-10"/>
-    <component base="four-persian.urdu.small" xOffset="561" yOffset="66" xScale="0.8" yScale="0.8"/>
+    <component base="seen-ar.fina"/>
+    <component base="four-ar.above" xOffset="637" yOffset="-320"/>
   </outline>
 </glyph>

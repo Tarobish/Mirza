@@ -3,6 +3,6 @@
   <advance width="583"/>
   <outline>
     <component base="yehbarree-ar.fina"/>
-    <component base="two-ar.small" xOffset="143" yOffset="-219" xScale="0.882" yScale="0.882"/>
+    <component base="two-ar.above" xOffset="274" yOffset="-522"/>
   </outline>
 </glyph>

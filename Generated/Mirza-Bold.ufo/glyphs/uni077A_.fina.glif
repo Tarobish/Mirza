@@ -3,7 +3,7 @@
   <advance width="615"/>
   <outline>
     <component base="uniFBAF"/>
-    <component base="uni0662.small" xOffset="133" yOffset="-145" xScale="0.882" yScale="0.882"/>
+    <component base="uni0662.above" xOffset="210" yOffset="-526"/>
   </outline>
   <lib>
     <dict>

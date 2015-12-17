@@ -2,7 +2,7 @@
 <glyph name="yehThreeabove-farsi.fina" format="1">
   <advance width="660"/>
   <outline>
-    <component base="three-ar.small" xOffset="195" yOffset="-209" xScale="0.882" yScale="0.882"/>
     <component base="alefMaksura-ar.fina"/>
+    <component base="three-ar.above" xOffset="301" yOffset="-559"/>
   </outline>
 </glyph>

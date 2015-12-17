@@ -2,7 +2,7 @@
 <glyph name="seenFourabove-ar.fina" format="1">
   <advance width="936"/>
   <outline>
-    <component base="seen-ar.fina" xOffset="9"/>
-    <component base="four-persian.urdu.small" xOffset="574" yOffset="145" xScale="0.8" yScale="0.8"/>
+    <component base="seen-ar.fina"/>
+    <component base="four-ar.above" xOffset="662" yOffset="-318"/>
   </outline>
 </glyph>

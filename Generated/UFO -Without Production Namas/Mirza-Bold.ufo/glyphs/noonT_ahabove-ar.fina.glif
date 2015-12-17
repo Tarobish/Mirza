@@ -3,7 +3,6 @@
   <advance width="698"/>
   <outline>
     <component base="noonghunna-ar.fina"/>
-    <component base="dotabove-ar" xOffset="290" yOffset="-668"/>
-    <component base="tahabove-ar" xOffset="290" yOffset="-545"/>
+    <component base="TahSmallDotbelow-ar" xOffset="315" yOffset="-671"/>
   </outline>
 </glyph>

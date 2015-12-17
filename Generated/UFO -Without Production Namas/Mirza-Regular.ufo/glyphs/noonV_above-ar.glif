@@ -3,7 +3,7 @@
   <advance width="588"/>
   <unicode hex="0769"/>
   <outline>
-    <component base="noon-ar"/>
-    <component base="vabove-ar" xOffset="273" yOffset="-524"/>
+    <component base="noonghunna-ar"/>
+    <component base="VaDotbelow-ar" xOffset="307" yOffset="-646"/>
   </outline>
 </glyph>

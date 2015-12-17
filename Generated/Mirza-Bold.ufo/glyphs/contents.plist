@@ -42,10 +42,20 @@
 	<string>S_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>TahSmallDotbelow-ar</key>
+	<string>T_ahS_mallD_otbelow-ar.glif</string>
+	<key>TahSmallTwoDotsabove-ar</key>
+	<string>T_ahS_mallT_woD_otsabove-ar.glif</string>
+	<key>TahSmallTwoDotsbelow-ar</key>
+	<string>T_ahS_mallT_woD_otsbelow-ar.glif</string>
+	<key>TahSmallTwoDotscenter-ar</key>
+	<string>T_ahS_mallT_woD_otscenter-ar.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
+	<key>VaDotbelow-ar</key>
+	<string>V_aD_otbelow-ar.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
 	<key>X</key>
@@ -78,6 +88,8 @@
 	<string>f.glif</string>
 	<key>filledbox</key>
 	<string>filledbox.glif</string>
+	<key>fourdotscenter-ar</key>
+	<string>fourdotscenter-ar.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>gafbar-ar</key>
@@ -128,6 +140,14 @@
 	<string>space.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>threedotsdowncenter-ar</key>
+	<string>threedotsdowncenter-ar.glif</string>
+	<key>threedotsupcenter-ar</key>
+	<string>threedotsupcenter-ar.glif</string>
+	<key>twodotshorizontalcenter-ar</key>
+	<string>twodotshorizontalcenter-ar.glif</string>
+	<key>twodotsverticalcenter-ar</key>
+	<string>twodotsverticalcenter-ar.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uni0600</key>
@@ -172,6 +192,8 @@
 	<string>uni0614.glif</string>
 	<key>uni0615</key>
 	<string>uni0615.glif</string>
+	<key>uni0615.alt</key>
+	<string>uni0615.alt.glif</string>
 	<key>uni0616</key>
 	<string>uni0616.glif</string>
 	<key>uni0617</key>
@@ -414,18 +436,32 @@
 	<string>uni0661.tab.glif</string>
 	<key>uni0662</key>
 	<string>uni0662.glif</string>
+	<key>uni0662.above</key>
+	<string>uni0662.above.glif</string>
+	<key>uni0662.below</key>
+	<string>uni0662.below.glif</string>
 	<key>uni0662.small</key>
 	<string>uni0662.small.glif</string>
 	<key>uni0662.tab</key>
 	<string>uni0662.tab.glif</string>
 	<key>uni0663</key>
 	<string>uni0663.glif</string>
+	<key>uni0663.above</key>
+	<string>uni0663.above.glif</string>
+	<key>uni0663.below</key>
+	<string>uni0663.below.glif</string>
 	<key>uni0663.small</key>
 	<string>uni0663.small.glif</string>
 	<key>uni0663.tab</key>
 	<string>uni0663.tab.glif</string>
 	<key>uni0664</key>
 	<string>uni0664.glif</string>
+	<key>uni0664.above</key>
+	<string>uni0664.above.glif</string>
+	<key>uni0664.below</key>
+	<string>uni0664.below.glif</string>
+	<key>uni0664.center</key>
+	<string>uni0664.center.glif</string>
 	<key>uni0664.small</key>
 	<string>uni0664.small.glif</string>
 	<key>uni0664.tab</key>
@@ -1748,6 +1784,8 @@
 	<string>uniF_B_B_E_.glif</string>
 	<key>uniFBBF</key>
 	<string>uniF_B_B_F_.glif</string>
+	<key>uniFBC1</key>
+	<string>uniF_B_C_1.glif</string>
 	<key>uniFBD4</key>
 	<string>uniF_B_D_4.glif</string>
 	<key>uniFBD5</key>

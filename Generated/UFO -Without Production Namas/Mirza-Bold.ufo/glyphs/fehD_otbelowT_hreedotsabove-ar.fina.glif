@@ -3,7 +3,7 @@
   <advance width="954"/>
   <outline>
     <component base="dotlessfeh-ar.fina"/>
-    <component base="dotbelow-ar" xOffset="713" yOffset="77"/>
     <component base="threedotsupabove-ar" xOffset="745" yOffset="-287"/>
+    <component base="dotcenter-ar" xOffset="700" yOffset="-289"/>
   </outline>
 </glyph>

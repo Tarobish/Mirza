@@ -17,7 +17,7 @@
       <point x="0" y="208" type="curve"/>
     </contour>
     <contour>
-      <point x="3" y="155" type="move" name="_center"/>
+      <point x="4" y="157" type="move" name="_center"/>
     </contour>
   </outline>
 </glyph>

@@ -4,7 +4,6 @@
   <unicode hex="0768"/>
   <outline>
     <component base="uni06BA"/>
-    <component base="uniFBB2" xOffset="275" yOffset="-646"/>
-    <component base="uni0615" xOffset="276" yOffset="-537"/>
+    <component base="TahSmallDotbelow-ar" xOffset="306" yOffset="-644"/>
   </outline>
 </glyph>

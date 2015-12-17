@@ -5,6 +5,6 @@
   <outline>
     <component base="seen-ar"/>
     <component base="threedotsupabove-ar" xOffset="644" yOffset="-449"/>
-    <component base="dotbelow-ar" xOffset="656" yOffset="135"/>
+    <component base="dotcenter-ar" xOffset="650" yOffset="-258"/>
   </outline>
 </glyph>

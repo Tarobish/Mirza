@@ -4,6 +4,6 @@
   <unicode hex="FBB1"/>
   <outline>
     <component base="yehbarree-ar.fina"/>
-    <component base="hamzaabove-ar" xOffset="283" yOffset="-603"/>
+    <component base="hamzaabove-ar" xOffset="263" yOffset="-603"/>
   </outline>
 </glyph>

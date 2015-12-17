@@ -42,10 +42,20 @@
 	<string>S_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>TahSmallDotbelow-ar</key>
+	<string>T_ahS_mallD_otbelow-ar.glif</string>
+	<key>TahSmallTwoDotsabove-ar</key>
+	<string>T_ahS_mallT_woD_otsabove-ar.glif</string>
+	<key>TahSmallTwoDotsbelow-ar</key>
+	<string>T_ahS_mallT_woD_otsbelow-ar.glif</string>
+	<key>TahSmallTwoDotscenter-ar</key>
+	<string>T_ahS_mallT_woD_otscenter-ar.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
+	<key>VaDotbelow-ar</key>
+	<string>V_aD_otbelow-ar.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
 	<key>X</key>
@@ -536,6 +546,12 @@
 	<string>footnotemarker-ar.glif</string>
 	<key>four-ar</key>
 	<string>four-ar.glif</string>
+	<key>four-ar.above</key>
+	<string>four-ar.above.glif</string>
+	<key>four-ar.below</key>
+	<string>four-ar.below.glif</string>
+	<key>four-ar.center</key>
+	<string>four-ar.center.glif</string>
 	<key>four-ar.small</key>
 	<string>four-ar.small.glif</string>
 	<key>four-ar.tab</key>
@@ -556,6 +572,8 @@
 	<string>fourdotsabove-ar.glif</string>
 	<key>fourdotsbelow-ar</key>
 	<string>fourdotsbelow-ar.glif</string>
+	<key>fourdotscenter-ar</key>
+	<string>fourdotscenter-ar.glif</string>
 	<key>fourthroot-ar</key>
 	<string>fourthroot-ar.glif</string>
 	<key>fourthroot-ar.pt</key>
@@ -1676,6 +1694,10 @@
 	<string>tah_alefM_aksura-ar.glif</string>
 	<key>tahabove-ar</key>
 	<string>tahabove-ar.glif</string>
+	<key>tahbelow-ar</key>
+	<string>tahbelow-ar.glif</string>
+	<key>tahcenter-ar</key>
+	<string>tahcenter-ar.glif</string>
 	<key>takhallusabove-ar</key>
 	<string>takhallusabove-ar.glif</string>
 	<key>tcheh-ar</key>
@@ -1760,6 +1782,10 @@
 	<string>thousandseparator-ar.glif</string>
 	<key>three-ar</key>
 	<string>three-ar.glif</string>
+	<key>three-ar.above</key>
+	<string>three-ar.above.glif</string>
+	<key>three-ar.below</key>
+	<string>three-ar.below.glif</string>
 	<key>three-ar.small</key>
 	<string>three-ar.small.glif</string>
 	<key>three-ar.tab</key>
@@ -1776,10 +1802,14 @@
 	<string>threedotsdownabove-ar.glif</string>
 	<key>threedotsdownbelow-ar</key>
 	<string>threedotsdownbelow-ar.glif</string>
+	<key>threedotsdowncenter-ar</key>
+	<string>threedotsdowncenter-ar.glif</string>
 	<key>threedotsupabove-ar</key>
 	<string>threedotsupabove-ar.glif</string>
 	<key>threedotsupbelow-ar</key>
 	<string>threedotsupbelow-ar.glif</string>
+	<key>threedotsupcenter-ar</key>
+	<string>threedotsupcenter-ar.glif</string>
 	<key>tteh-ar</key>
 	<string>tteh-ar.glif</string>
 	<key>tteh-ar.fina</key>
@@ -1798,6 +1828,10 @@
 	<string>tteheh-ar.medi.glif</string>
 	<key>two-ar</key>
 	<string>two-ar.glif</string>
+	<key>two-ar.above</key>
+	<string>two-ar.above.glif</string>
+	<key>two-ar.below</key>
+	<string>two-ar.below.glif</string>
 	<key>two-ar.small</key>
 	<string>two-ar.small.glif</string>
 	<key>two-ar.tab</key>
@@ -1812,10 +1846,14 @@
 	<string>twodotshorizontalabove-ar.glif</string>
 	<key>twodotshorizontalbelow-ar</key>
 	<string>twodotshorizontalbelow-ar.glif</string>
+	<key>twodotshorizontalcenter-ar</key>
+	<string>twodotshorizontalcenter-ar.glif</string>
 	<key>twodotsverticalabove-ar</key>
 	<string>twodotsverticalabove-ar.glif</string>
 	<key>twodotsverticalbelow-ar</key>
 	<string>twodotsverticalbelow-ar.glif</string>
+	<key>twodotsverticalcenter-ar</key>
+	<string>twodotsverticalcenter-ar.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>u-ar</key>

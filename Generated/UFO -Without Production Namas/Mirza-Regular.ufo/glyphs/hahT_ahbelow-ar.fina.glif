@@ -3,6 +3,6 @@
   <advance width="651"/>
   <outline>
     <component base="hah-ar.fina"/>
-    <component base="tahabove-ar" xOffset="327" yOffset="-807"/>
+    <component base="tahcenter-ar" xOffset="317" yOffset="-306"/>
   </outline>
 </glyph>

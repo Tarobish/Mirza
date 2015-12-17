@@ -3,7 +3,7 @@
   <advance width="659"/>
   <unicode hex="0776"/>
   <outline>
-    <component base="three-ar.small" xOffset="145" yOffset="-130" xScale="0.882" yScale="0.882"/>
     <component base="alefMaksura-ar"/>
+    <component base="three-ar.above" xOffset="247" yOffset="-467"/>
   </outline>
 </glyph>

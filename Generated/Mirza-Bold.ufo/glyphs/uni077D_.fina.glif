@@ -2,7 +2,7 @@
 <glyph name="uni077D.fina" format="1">
   <advance width="936"/>
   <outline>
-    <component base="uniFEB2" xOffset="9"/>
-    <component base="uni06F4.urdu.small" xOffset="574" yOffset="145" xScale="0.8" yScale="0.8"/>
+    <component base="uniFEB2"/>
+    <component base="uni0664.above" xOffset="662" yOffset="-318"/>
   </outline>
 </glyph>

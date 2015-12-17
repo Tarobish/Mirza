@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threedotsdowncenter-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="81" y="375"/>
+      <point x="58" y="398"/>
+      <point x="37" y="412" type="curve"/>
+      <point x="26" y="401"/>
+      <point x="10" y="383"/>
+      <point x="-4" y="370" type="curve"/>
+      <point x="-17" y="386"/>
+      <point x="-34" y="402"/>
+      <point x="-50" y="412" type="curve"/>
+      <point x="-64" y="397"/>
+      <point x="-86" y="375"/>
+      <point x="-102" y="360" type="curve"/>
+      <point x="-82" y="344"/>
+      <point x="-65" y="327"/>
+      <point x="-46" y="305" type="curve"/>
+      <point x="-27" y="324"/>
+      <point x="-13" y="336"/>
+      <point x="-2" y="349" type="curve"/>
+      <point x="13" y="336"/>
+      <point x="27" y="322"/>
+      <point x="41" y="305" type="curve"/>
+      <point x="65" y="327"/>
+      <point x="79" y="342"/>
+      <point x="93" y="357" type="curve"/>
+    </contour>
+    <contour>
+      <point x="42" y="268"/>
+      <point x="19" y="291"/>
+      <point x="-2" y="305" type="curve"/>
+      <point x="-15" y="290"/>
+      <point x="-37" y="268"/>
+      <point x="-53" y="252" type="curve"/>
+      <point x="-34" y="236"/>
+      <point x="-17" y="220"/>
+      <point x="2" y="198" type="curve"/>
+      <point x="26" y="220"/>
+      <point x="40" y="234"/>
+      <point x="54" y="250" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-5" y="325" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>
