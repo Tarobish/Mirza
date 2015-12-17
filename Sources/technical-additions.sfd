@@ -1,0 +1,139 @@
+SplineFontDB: 3.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Book
+Copyright: Copyright (c) 2015, commander,,,
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -150
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 638 -7521930 10314135]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1450271939
+ModificationTime: 1450275240
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+Panose: 2 0 5 3 0 0 0 0 0 0
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
+OS2TypoLinegap: 90
+OS2WinAscent: 666
+OS2WinAOffset: 0
+OS2WinDescent: 0
+OS2WinDOffset: 0
+HheadAscent: 666
+HheadAOffset: 0
+HheadDescent: 0
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 700
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 650
+OS2SupYSize: 700
+OS2SupXOff: 0
+OS2SupYOff: 480
+OS2StrikeYSize: 49
+OS2StrikeYPos: 258
+OS2Vendor: 'PfEd'
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 80000000.00000000.00000000.00000000
+MarkAttachClasses: 1
+DEI: 91125
+ShortTable: cvt  2
+  33
+  633
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  5
+  16
+  2
+  0
+  0
+  2
+  0
+  1
+  1
+  0
+  64
+  46
+  0
+  0
+EndShort
+LangName: 1033 "" "" "Regular" "FontForge 2.0 : Untitled1 : 16-12-2015"
+GaspTable: 1 65535 2 0
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 27 14
+BeginChars: 65539 2
+
+StartChar: uni200C
+Encoding: 8204 8204 0
+Width: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-36 0 m 1,0,-1
+ -36 580 l 1,1,-1
+ 36 580 l 1,2,-1
+ 36 0 l 1,3,-1
+ -36 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni200D
+Encoding: 8205 8205 1
+Width: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-36 0 m 1,0,-1
+ -36 345 l 1,1,-1
+ 36 345 l 1,2,-1
+ 36 0 l 1,3,-1
+ -36 0 l 1,0,-1
+-37 370 m 1,4,-1
+ -112 370 l 1,5,-1
+ -38 475 l 1,6,-1
+ -112 580 l 1,7,-1
+ -37 580 l 1,8,-1
+ 0 528 l 1,9,-1
+ 37 580 l 1,10,-1
+ 112 580 l 1,11,-1
+ 37 475 l 1,12,-1
+ 112 370 l 1,13,-1
+ 37 370 l 1,14,-1
+ 0 422 l 1,15,-1
+ -37 370 l 1,4,-1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

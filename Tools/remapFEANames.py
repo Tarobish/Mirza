@@ -99,6 +99,11 @@ class Translator(object):
         warn('Can\'t translate: {0}'.format(word))
         return None
 
+def translateGlyphs(translate, gstring):
+    glyphs = [ (g and translate(g) or g).replace('-', '')
+                                            for g in gstring.split(' ')]
+    return ' '.join(glyphs)
+
 def translateLine(line, translate):
     # only checking for sub . . . by . . .;
     # sub must be at the beginning of the line. The source has only self
@@ -116,9 +121,9 @@ def translateLine(line, translate):
     endIndex = line.find(';')
 
     sub = line[:subIndex + 4]
-    inGlyphs = ' '.join([g and translate(g) or g for g in line[subIndex + 4:byIndex].split(' ')])
+    inGlyphs = translateGlyphs(translate, line[subIndex + 4:byIndex])
     by = line[byIndex:byIndex + 4]
-    outGlyphs = ' '.join([g and translate(g) or g for g in line[byIndex + 4:endIndex].split(' ')])
+    outGlyphs = translateGlyphs(translate, line[byIndex + 4:endIndex])
     end = line[endIndex:]
     return ''.join([sub, inGlyphs, by, outGlyphs, end])
 
