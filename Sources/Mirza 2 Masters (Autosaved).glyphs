@@ -66778,9 +66778,15 @@ unicode = FBB9;
 },
 {
 glyphname = "threedotsdowncenter-ar";
-lastChange = "2015-12-17 03:02:41 +0000";
+lastChange = "2015-12-17 03:03:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = _center;
+position = "{-5, 305}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -66831,9 +66837,15 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 },
 {
+anchors = (
+{
+name = _center;
+position = "{2, 312}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
@@ -66884,7 +66896,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 }
 );
 },
