@@ -17,39 +17,21 @@ define([], function() {
       , dottedCircle = String.fromCodePoint(0x25CC)// DOTTED CIRCLE
       ;
 
-    /**
-     * Be intelligent about Jomhuria char names
-     *
-     * returns a struct:
-     * {
-     *       name: name // same as input argument
-     *     , code: null || int unicode codepoint
-     *     , char: null || str the char for the codepoint
-     *     , type: null || anthing after the '.' if the dot follows the unicode
-     *     , mainType: null || if there is a type anything before the first '_' in the type
-     *     , subType: null || if there is a type anything after the first '_' in the type
-     * }
-     */
     function parseName(name) {
-        var glyph = {
-                name: name
-              , code: null
-              , baseName: null
-              , type: null
-            }
-          , codeRegEx = /^(uni|u)([A-F0-9]{4,}).*/ // matches things like u1EE29* or uni1234*
+        var codeRegEx = /^(uni|u)([A-F0-9]{4,}).*/ // matches things like u1EE29* or uni1234*
           , codeMatch
           , typeDivider
+          , glyph = {}
           ;
         codeMatch = name.match(codeRegEx);
         if(codeMatch === null)
-            return glyph;
+            return null;
         typeDivider = codeMatch[1].length + codeMatch[2].length;
 
         // If codeMatch[2] is not the end of the name and not followed by a dot
         // we refuse to parse the name.
         if(name.length !== typeDivider && name[typeDivider] !== '.')
-            return glyph;
+             return null;
 
         glyph.baseName = codeMatch[1] + codeMatch[2];
         glyph.code = parseInt(codeMatch[2], 16);
@@ -63,6 +45,50 @@ define([], function() {
         glyph.type = name.slice(8);
         return glyph;
     }
+    /**
+     * Be intelligent about char names
+     *
+     * returns a struct:
+     * {
+     *       name: name // same as input argument
+     *     , code: null || int unicode codepoint
+     *     , char: null || str the char for the codepoint
+     *     , type: null || anthing after the '.' if the dot follows the unicode
+     *     , mainType: null || if there is a type anything before the first '_' in the type
+     *     , subType: null || if there is a type anything after the first '_' in the type
+     * }
+     */
+
+    function parseNames(name) {
+        var glyph = {
+                name: name
+              , code: null
+              , baseName: null
+              , type: null
+            }
+          , names = name.split(' ')
+          , codes = []
+          , baseNames = []
+          , type = null
+          , data
+          , i,l
+          ;
+        for(i=0,l=names.length;i<l;i++) {
+            data = parseName(names[i]);
+            if(data === null)
+                return glyph;
+            codes.push(data.code);
+            baseNames.push(data.baseName);
+            // the last type is used as the glyph type
+            type = data.type;
+        }
+        glyph.code = codes;
+        glyph.baseName = baseNames.join(' ');
+        glyph.type = type;
+        return glyph;
+    }
+
+
 
     var Glyph = (function(parseName) {
         function Glyph(name, baseName, code, type) {
@@ -77,7 +103,7 @@ define([], function() {
         _p.constructor = Glyph;
 
         Glyph.factory = function(name) {
-            var data = parseName(name);
+            var data = parseNames(name);
             return new Glyph(data.name, data.baseName, data.code, data.type);
         };
 
@@ -85,7 +111,7 @@ define([], function() {
             get: function() {
                 if(this.code === null)
                     return null;
-                return String.fromCodePoint(this.code);
+                return this.code.map(function(str){ return String.fromCodePoint(str);}).join('');
             }
         });
 

@@ -1,3 +1,5 @@
+/*jshint laxcomma:true */
+
 define([
     'dom-tool'
   , './char-tool'
@@ -17,20 +19,24 @@ define([
       ;
 
 
-    _Container = Parent =(function() {
+    _Container = Parent = (function() {
         /*jshint validthis: true*/
         function _Container(){
-            this._items = [];
+            this._reset();
         }
         var _p = _Container.prototype;
         _p.constructor = _Container;
 
+        _p._reset = function(){
+            this._items = new Map();
+        };
+
         _p.set = function(index, item) {
-            this._items[index] = item;
+            this._items.set(index, item);
         };
 
         _p.get = function(index) {
-            return this._items[index];
+            return this._items.get(index);
         };
 
         return _Container;
@@ -70,16 +76,23 @@ define([
                 rowA.push(createElement('th', labelAttr, rowLabel[1], true));
 
             }
-
-            for(i=0,l=items.length;i<l;i++) {
-                item = items[i];
+            items.forEach(function(item,i) {
                 rowA.push(this._renderData(item));
                 if(duplicationRow) {
                     duplicateElement = this._renderData(item);
                     duplicateElement.classList.add.apply(duplicateElement.classList, duplicateClasses);
                     duplicationRow.push(duplicateElement);
                 }
-            }
+            }.bind(this));
+            //for(i=0,l=items.length;i<l;i++) {
+            //    item = items[i];
+            //    rowA.push(this._renderData(item));
+            //    if(duplicationRow) {
+            //        duplicateElement = this._renderData(item);
+            //        duplicateElement.classList.add.apply(duplicateElement.classList, duplicateClasses);
+            //        duplicationRow.push(duplicateElement);
+            //    }
+            //}
 
             result.push(createElement('tr', null, rowA));
             if(doubleRows)
@@ -139,8 +152,12 @@ define([
         _p.renderBody = function(mode, rowLabels) {
             var body = [], i,l, rows = this._items;
 
-            for(i=0,l=rows.length;i<l;i++)
-                body.push(rows[i].render(mode, rowLabels && rowLabels[i]));
+            rows.forEach(function(value, i) {
+                body.push(value.render(mode, rowLabels && rowLabels[i]));
+            });
+
+            //for(i=0,l=rows.length;i<l;i++)
+            //    body.push(rows[i].render(mode, rowLabels && rowLabels[i]));
             return createFragment(body);
         };
 
@@ -154,6 +171,7 @@ define([
      */
     function Table(axes, layout, info) {
         Parent.call(this);
+        this._iitems = [];
 
         this._axes = axes;
 
@@ -245,7 +263,7 @@ define([
         this._sectionLabels = null;
         this._rowLabels = null;
         this._columnLabels = null;
-        this._items = [];
+        this._reset();
 
         // set all data
         for(x=0; x<xsLen; x++) {
@@ -269,14 +287,22 @@ define([
     };
 
     _p._setData = function(x,y,z, data) {
+        // console.log(x,y,z, data, this.constructor.name, this._items.constructor);
         var section = this.get(x)
           , row
           ;
+        //// section may never be an array!
+        //if(section instanceof Array) {
+        //    console.log(JSON.stringify(this._items))
+        //    console.log(this)
+        //    console.log('!',this.get(x), this._items[0], this.get, data)
+        //}
+
+
         if(!section) {
             section = new Section();
             this.set(x, section);
         }
-
         row = section.get(y);
         if(!row) {
             row = new Row();
@@ -318,17 +344,29 @@ define([
           , hasRowLabels = !!rowLabels
           , info
           ;
-        for(i=0,l=sections.length;i<l;i++) {
+        sections.forEach(function(value, i) {
             appendChildren(table, [
-                    sections[i].renderHead(
+                    value.renderHead(
                             hasSectionLabels && this._sectionLabels[i]
                           , columnLabels
                           , colLabelWidth
                           , hasRowLabels
                     )
-                  , sections[i].renderBody(_mode, rowLabels)
+                  , value.renderBody(_mode, rowLabels)
             ]);
-        }
+
+        }.bind(this));
+        //for(i=0,l=sections.length;i<l;i++) {
+        //    appendChildren(table, [
+        //            sections[i].renderHead(
+        //                    hasSectionLabels && this._sectionLabels[i]
+        //                  , columnLabels
+        //                  , colLabelWidth
+        //                  , hasRowLabels
+        //            )
+        //          , sections[i].renderBody(_mode, rowLabels)
+        //    ]);
+        //}
 
         if(this._info)
             appendMarkdown(container, this._info);
