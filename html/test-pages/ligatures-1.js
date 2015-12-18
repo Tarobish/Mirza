@@ -54,6 +54,7 @@ define([
           , content
           , title
           ;
+
         switch(firstGlyph.getType('_nocontext_')) {
             case 'init':
                 first = [zwnj, firstGlyph.char];
@@ -103,8 +104,8 @@ define([
                 default:
                     third = [thirdGlyph.char, zwnj];
             }
-            Array.prototype.push(content, third);
-            Array.prototype.push(title, thirdGlyph.name);
+            Array.prototype.push.apply(content, third);
+            title.push(thirdGlyph.name);
         }
 
         return [
@@ -133,7 +134,7 @@ define([
 
         infoMD = '### ' + data.info + '\n\n' + data.description;
 
-        return new Table(axes, [2, 0, 1], infoMD);//[sectionAxis, rowAxis, columnAxis]
+        return new Table(axes, [2, 0, 1]/* 0, 1, 2 */, infoMD);//[sectionAxis, rowAxis, columnAxis]
     }
 
     function main() {
@@ -141,7 +142,7 @@ define([
                 createElement('h1', null, 'Collisions above the baseline')
               , createElement('p', null, 'The glyphs should not collide.')
             ]
-          , tables = ligaData.map(buildTable)
+          , tables = ligaData.slice(13,20).map(buildTable)
           , state = new TableContent(info, tables)
           ;
         return state.body;

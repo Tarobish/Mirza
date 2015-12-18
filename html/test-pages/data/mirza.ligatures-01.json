@@ -121,6 +121,147 @@
     {
         "groups": [
             [
+                "!uniFEDC",
+                "uni0643.medi",
+                "uni063B.medi",
+                "!uniFB91",
+                "uni06A9.medi", "!this is odd, because it is unlike uni0643.medi",
+                "uni0763.medi",
+                "uni0762.medi",
+                "uni063C.medi",
+                "uni06B0.medi", "!needs extra ligature OR marks that work with it",
+
+                "!uniFB95",
+                "uni06AF.medi",
+                "uni0764.medi",
+                "uni06AB.medi", "!as uni06B0.medi above",
+                "uni06B4.medi",
+                "uni06AE.medi",
+                "uni077F.medi",
+                "uni06AC.medi",
+                "!uniFB99",
+                "uni06B3.medi",
+                "!uniFB9D",
+                "uni06B1.medi",
+                "!uniFBD6",
+                "uni06AD.medi",
+                "uni06B2.medi"
+            ],
+            [
+                "uni06B5.medi",
+                "!uniFEE0",
+                "uni0644.medi",
+                "uni06B8.medi",
+                "uni06B7.medi",
+                "uni06B6.medi",
+                "uni08A6.medi",
+                "uni076A.medi"
+            ],
+            [
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF2",
+                "uni064A.fina",
+                "!uniFC90",
+                "uniFC5D.fina", "!// will be decomposed",
+                "uni063D.fina",
+                "uni08A9.fina",
+                "uni06CE.fina",
+                "uni063F.fina",
+                "uni063E.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "uni0777.fina",
+                "uni0776.fina",
+                "uni0775.fina",
+                "!uniFBE5",
+                "uni06D0.fina",
+                "uni0620.fina",
+                "uni06CD.fina",
+                "uni06D1.fina"
+            ]
+        ],
+        "info": "Issue #57: ligature 57 (uni064306440649.fina)",
+        "description": "It has to be default for Arabic and style for the other scripts",
+        "description2": "This case, it is a combination of three characters, it means whatever we have in ligature \"uniFCEB\"",
+        "liga": "uni064306440649.fina",
+        "type": "ligature"
+    },
+    {
+        "groups": [
+            [
+                "uni063B.init",
+                "uni063C.init",
+                "uni06AB.init",
+                "uni06AC.init",
+                "uni06AE.init",
+                "uni06B0.init",
+                "uni06B2.init",
+                "uni06B4.init",
+                "uni0762.init",
+                "uni0763.init",
+                "uni0764.init",
+                "uni077F.init",
+                "!uniFB91",
+                "uni06A9.init",
+                "!uniFB95",
+                "uni06AF.init",
+                "!uniFB99",
+                "uni06B3.init",
+                "!uniFB9D",
+                "uni06B1.init",
+                "!uniFBD6",
+                "uni06AD.init",
+                "!uniFEDC",
+                "uni0643.init"
+            ],
+            [
+                "uni06B5.medi",
+                "uni06B6.medi",
+                "uni06B7.medi",
+                "uni06B8.medi",
+                "uni076A.medi",
+                "uni08A6.medi",
+                "!uniFEE0",
+                "uni0644.medi"
+            ],
+            [
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF2",
+                "uni064A.fina",
+                "!uniFC90",
+                "uniFC5D.fina",
+                "uni063D.fina",
+                "uni08A9.fina",
+                "uni06CE.fina",
+                "uni063F.fina",
+                "uni063E.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "uni0777.fina",
+                "uni0776.fina",
+                "uni0775.fina",
+                "!uniFBE5",
+                "uni06D0.fina",
+                "uni0620.fina",
+                "uni06CD.fina",
+                "uni06D1.fina"
+            ]
+        ],
+        "info": "Issue #56: ligature 56 (uni064306440649)",
+        "description": "It has to be default for Arabic and style for the other scripts",
+        "description2": "This case, it is a combination of three characters, it means whatever we have in ligature \"uniFCC7\"",
+        "liga": "uni064306440649",
+        "type": "ligature"
+    },
+    {
+        "groups": [
+            [
                 "uni063B.medi",
                 "uni063C.medi",
                 "uni06AB.medi",
@@ -133,27 +274,54 @@
                 "uni0763.medi",
                 "uni0764.medi",
                 "uni077F.medi",
-                "uniFB91",
-                "uniFB95",
-                "uniFB99",
-                "uniFB9D",
-                "uniFBD6",
-                "uniFEDC"
+                "!uniFB91",
+                "uni06A9.medi",
+                "!uniFB95",
+                "uni06AF.medi",
+                "!uniFB99",
+                "uni06B3.medi",
+                "!uniFB9D",
+                "uni06B1.medi",
+                "!uniFBD6",
+                "uni06AD.medi",
+                "!uniFEDC",
+                "uni0643.medi"
             ],
             [
-                "uni06440671.fina",
-                "uni06440672.fina",
-                "uni06440673.fina",
-                "uni06B50627.fina",
-                "uni06B50627.isol",
-                "uni06B60627.fina",
-                "uni06B70627.fina",
-                "uni06B80627.fina",
-                "uni076A0627.fina",
-                "uniFEF6",
-                "uniFEF8",
-                "uniFEFA",
-                "uniFEFC"
+                "!uni06440671.fina",
+                "uni0644.medi uni0671.fina",
+                "!uni06440672.fina",
+                "uni0644.medi uni0672.fina",
+                "!uni06440673.fina",
+                "uni0644.medi uni0673.fina",
+                "!uni06B50627.fina",
+                "uni06B5 uni0627.fina",
+                "!uni06B60627.fina",
+                "uni06B6 uni0627.fina",
+                "!uni06B70627.fina",
+                "uni06B7 uni0627.fina",
+                "!uni06B80627.fina",
+                "uni06B8 uni0627.fina",
+                "!uni076A0627.fina",
+                "uni076A uni0627.fina",
+
+                "!uniFEF6",
+                "!uniFEF5.fina => uniFEE0 uniFE82",
+                "uni0644.medi uni0622.fina",
+
+                "!uniFEF8",
+                "!uniFEF7.fina => uniFEE0 uniFE84",
+                "uni0644.medi uni0623.fina",
+
+
+                "!uniFEFA => uniFEE0 uniFE88",
+                "!uniFEF9.fina",
+                "uni0644.medi uni0625.fina",
+
+                "!uniFEFC => uniFEE0 uniFE8E",
+                "!uniFEFB.fina",
+                "uni0644.medi uni0627.fina"
+
             ]
         ],
         "info": "Issue #55: ligature 55 (uni064306440627.fina)",
@@ -176,27 +344,49 @@
                 "uni0763.init",
                 "uni0764.init",
                 "uni077F.init",
-                "uniFB90",
-                "uniFB94",
-                "uniFB98",
-                "uniFB9C",
-                "uniFBD5",
-                "uniFEDB"
+                "!uniFB90",
+                "uni06A9.init",
+                "!uniFB94",
+                "uni06AF.init",
+                "!uniFB98",
+                "uni06B3.init",
+                "!uniFB9C",
+                "uni06B1.init",
+                "!uniFBD5",
+                "uni06AD.init",
+                "!uniFEDB",
+                "uni0643.init"
             ],
             [
-                "uni06440671.fina",
-                "uni06440672.fina",
-                "uni06440673.fina",
-                "uni06B50627.fina",
-                "uni06B50627.isol",
-                "uni06B60627.fina",
-                "uni06B70627.fina",
-                "uni06B80627.fina",
-                "uni076A0627.fina",
-                "uniFEF6",
-                "uniFEF8",
-                "uniFEFA",
-                "uniFEFC"
+                "!uni06440671.fina",
+                "uni0644.medi uni0671.fina",
+                "!uni06440672.fina",
+                "uni0644.medi uni0672.fina",
+                "!uni06440673.fina",
+                "uni0644.medi uni0673.fina",
+                "!uni06B50627.fina",
+                "uni06B5 uni0627.fina",
+                "!uni06B60627.fina",
+                "uni06B6 uni0627.fina",
+                "!uni06B70627.fina",
+                "uni06B7 uni0627.fina",
+                "!uni06B80627.fina",
+                "uni06B8 uni0627.fina",
+                "!uni076A0627.fina",
+                "uni076A uni0627.fina",
+
+                "!uniFEF6",
+                "!uniFEF5.fina => uniFEE0 uniFE82",
+                "uni0644 uni0622.fina",
+                "!uniFEF8",
+                "!uniFEF7.fina => uniFEE0 uniFE84",
+                "uni0644 uni0623.fina",
+                "!uniFEFA => uniFEE0 uniFE88",
+                "!uniFEF9.fina",
+                "uni0644 uni0625.fina",
+                "!uniFEFC => uniFEE0 uniFE8E",
+                "!uniFEFB.fina",
+                "uni0644 uni0627.fina"
             ]
         ],
         "info": "Issue #54: ligature 54 (uni064306440627)",
@@ -219,12 +409,18 @@
                 "uni0763.init",
                 "uni0764.init",
                 "uni077F.init",
-                "uniFB90",
-                "uniFB94",
-                "uniFB98",
-                "uniFB9C",
-                "uniFBD5",
-                "uniFEDB"
+                "!uniFB90",
+                "uni06A9.init",
+                "!uniFB94",
+                "uni06AF.init",
+                "!uniFB98",
+                "uni06B3.init",
+                "!uniFB9C",
+                "uni06B1.init",
+                "!uniFBD5",
+                "uni06AD.init",
+                "!uniFEDB",
+                "uni0643.init"
             ],
             [
                 "uni06B5.medi",
@@ -233,7 +429,8 @@
                 "uni06B8.medi",
                 "uni076A.medi",
                 "uni08A6.medi",
-                "uniFEE0"
+                "!uniFEE0",
+                "uni0644.medi"
             ]
         ],
         "info": "Issue #53: ligature 53 (uniFCC7)",
@@ -256,12 +453,18 @@
                 "uni0763.medi",
                 "uni0764.medi",
                 "uni077F.medi",
-                "uniFB91",
-                "uniFB95",
-                "uniFB99",
-                "uniFB9D",
-                "uniFBD6",
-                "uniFEDC"
+                "!uniFB91",
+                "uni06A9.medi",
+                "!uniFB95",
+                "uni06AF.medi",
+                "!uniFB99",
+                "uni06B3.medi",
+                "!uniFB9D",
+                "uni06B1.medi",
+                "!uniFBD6",
+                "uni06AD.medi",
+                "!uniFEDC",
+                "uni0643.medi"
             ],
             [
                 "uni06B5.medi",
@@ -270,7 +473,8 @@
                 "uni06B8.medi",
                 "uni076A.medi",
                 "uni08A6.medi",
-                "uniFEE0"
+                "!uniFEE0",
+                "uni0644.medi"
             ]
         ],
         "info": "Issue #52: ligature 52 (uniFCEB)",
@@ -293,12 +497,18 @@
                 "uni0763.medi",
                 "uni0764.medi",
                 "uni077F.medi",
-                "uniFB91",
-                "uniFB95",
-                "uniFB99",
-                "uniFB9D",
-                "uniFBD6",
-                "uniFEDC"
+                "!uniFB91",
+                "uni06A9.medi",
+                "!uniFB95",
+                "uni06AF.medi",
+                "!uniFB99",
+                "uni06B3.medi",
+                "!uniFB9D",
+                "uni06B1.medi",
+                "!uniFBD6",
+                "uni06AD.medi",
+                "!uniFEDC",
+                "uni0643.medi"
             ],
             [
                 "uni06B5.fina",
@@ -307,7 +517,8 @@
                 "uni06B8.fina",
                 "uni076A.fina",
                 "uni08A6.fina",
-                "uniFEDE"
+                "!uniFEDE",
+                "uni0644.fina"
             ]
         ],
         "info": "Issue #51: ligature 51 (uniFC81)",
@@ -330,12 +541,18 @@
                 "uni0763.init",
                 "uni0764.init",
                 "uni077F.init",
-                "uniFB90",
-                "uniFB94",
-                "uniFB98",
-                "uniFB9C",
-                "uniFBD5",
-                "uniFEDB"
+                "!uniFB90",
+                "uni06A9.init",
+                "!uniFB94",
+                "uni06AF.init",
+                "!uniFB98",
+                "uni06B3.init",
+                "!uniFB9C",
+                "uni06B1.init",
+                "!uniFBD5",
+                "uni06AD.init",
+                "!uniFEDB",
+                "uni0643.init"
             ],
             [
                 "uni06B5.fina",
@@ -344,7 +561,8 @@
                 "uni06B8.fina",
                 "uni076A.fina",
                 "uni08A6.fina",
-                "uniFEDE"
+                "!uniFEDE",
+                "uni0644.fina"
             ]
         ],
         "info": "Issue #50: ligature 50 (uniFC3B)",
@@ -367,19 +585,27 @@
                 "uni0763.medi",
                 "uni0764.medi",
                 "uni077F.medi",
-                "uniFB91",
-                "uniFB95",
-                "uniFB99",
-                "uniFB9D",
-                "uniFBD6",
-                "uniFEDC"
+                "!uniFB91",
+                "uni06A9.medi",
+                "!uniFB95",
+                "uni06AF.medi",
+                "!uniFB99",
+                "uni06B3.medi",
+                "!uniFB9D",
+                "uni06B1.medi",
+                "!uniFBD6",
+                "uni06AD.medi",
+                "!uniFEDC",
+                "uni0643.medi"
             ],
             [
                 "uni06AC.fina",
                 "uni06AE.fina",
                 "uni077F.fina",
-                "uniFBD4",
-                "uniFEDA"
+                "!uniFBD4",
+                "uni06AD.fina",
+                "!uniFEDA",
+                "uni0643.fina"
             ]
         ],
         "info": "Issue #49: ligature 49 (uni06430643.fina)",
@@ -402,19 +628,27 @@
                 "uni0763.init",
                 "uni0764.init",
                 "uni077F.init",
-                "uniFB90",
-                "uniFB94",
-                "uniFB98",
-                "uniFB9C",
-                "uniFBD5",
-                "uniFEDB"
+                "!uniFB90",
+                "uni06A9.init",
+                "!uniFB94",
+                "uni06AF.init",
+                "!uniFB98",
+                "uni06B3.init",
+                "!uniFB9C",
+                "uni06B1.init",
+                "!uniFBD5",
+                "uni06AD.init",
+                "!uniFEDB",
+                "uni0643.init"
             ],
             [
                 "uni06AC.fina",
                 "uni06AE.fina",
                 "uni077F.fina",
-                "uniFBD4",
-                "uniFEDA"
+                "!uniFBD4",
+                "uni06AD.fina",
+                "!uniFEDA",
+                "uni0643.fina"
             ]
         ],
         "info": "Issue #48: ligature 48 (uni06430643)",
@@ -431,13 +665,92 @@
                 "uni06B8.init",
                 "uni076A.init",
                 "uni08A6.init",
-                "uniFEDF"
+
+                "!uniFEDF",
+                "uni0644.init"
+            ],
+            [
+                "uni0681.medi",
+                "uni0682.medi",
+                "uni0685.medi",
+                "uni0757.medi",
+                "uni0758.medi",
+                "uni076E.medi",
+                "uni076F.medi",
+                "uni0772.medi",
+                "uni077C.medi",
+                "uni08A2.medi",
+
+                "!uniFB75",
+                "uni0684.medi",
+
+                "!uniFB79",
+                "uni0683.medi",
+
+                "!uniFB7D",
+                "uni0686.medi",
+
+                "!uniFB81",
+                "uni0687.medi",
+
+                "!uniFEA0",
+                "uni062C.medi",
+
+                "!uniFEA4",
+                "uni062D.medi",
+
+                "!uniFEA8",
+                "uni062E.medi"
+            ],
+            [
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF2",
+                "uni064A.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "uni08A9.fina",
+                "uni06CE.fina",
+                "uni063F.fina",
+                "uni063E.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "uni0777.fina",
+                "uni0776.fina",
+                "uni0775.fina",
+                "!uniFBE5",
+                "uni06D0.fina",
+                "uni0620.fina",
+                "uni06CD.fina",
+                "uni06D1.fina"
+            ]
+        ],
+        "info": "Issue ligature 47 (uni0644062D0649)",
+        "description": "It has to be default for Arabic and style for the other scripts",
+        "description2": "This case, it is a combination of three characters, it means whatever we have in ligature \"uniFCCA\"",
+        "liga": "uni0644062D0649",
+        "type": "ligature"
+    },
+    {
+        "groups": [
+            [
+                "uni06B5.init",
+                "uni06B6.init",
+                "uni06B7.init",
+                "uni06B8.init",
+                "uni076A.init",
+                "uni08A6.init",
+                "!uniFEDF",
+                "uni0644.init"
             ],
             [
                 "uni0765.fina",
                 "uni0766.fina",
                 "uni08A7.fina",
-                "uniFEE2"
+                "!uniFEE2",
+                "uni0645.fina"
             ]
         ],
         "info": "Issue #46: ligature 46 (uniFC42)",
@@ -454,13 +767,15 @@
                 "uni06B8.init",
                 "uni076A.init",
                 "uni08A6.init",
-                "uniFEDF"
+                "!uniFEDF",
+                "uni0644.init"
             ],
             [
                 "uni0765.medi",
                 "uni0766.medi",
                 "uni08A7.medi",
-                "uniFEE4"
+                "!uniFEE4",
+                "uni0645.medi"
             ]
         ],
         "info": "Issue #45: ligature 45 (uniFCCC)",
@@ -477,10 +792,12 @@
                 "uni06B8.init",
                 "uni076A.init",
                 "uni08A6.init",
-                "uniFEDF"
+                "!uniFEDF",
+                "uni0644.init"
             ],
             [
-                "uniFEEC"
+                "!uniFEEC",
+                "uni0647.medi"
             ]
         ],
         "info": "Issue #44: ligature 44 (uniFCCD)",
@@ -494,13 +811,15 @@
                 "uni0765.init",
                 "uni0766.init",
                 "uni08A7.init",
-                "uniFEE3"
+                "!uniFEE3",
+                "uni0645.init"
             ],
             [
                 "uni0765.medi",
                 "uni0766.medi",
                 "uni08A7.medi",
-                "uniFEE4"
+                "!uniFEE4",
+                "uni0645.medi"
             ]
         ],
         "info": "Issue #43: ligature 43 (uniFCD1)",
@@ -511,7 +830,8 @@
     {
         "groups": [
             [
-                "uniFBA9"
+                "!uniFBA9",
+                "uni06C1.medi"
             ],
             [
                 "uni0620.fina",
@@ -525,12 +845,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #42: ligature 42 (uniFC53.fina)",
@@ -541,13 +867,14 @@
     {
         "groups": [
             [
-                "uni06BE",
+                "uni06BE.init",
                 "uni06C2.init",
-                "uni06FF",
                 "uni06FF.init",
-                "uniFBAC",
-                "uniFCD9",
-                "uniFEEB"
+                "uni06FF.init",
+                "! uniFBAC is uni06BE.init",
+                "!uniFCD9",
+                "!uniFEEB",
+                "uni0647.init"
             ],
             [
                 "uni0620.fina",
@@ -561,12 +888,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #41: ligature 41 (uniFC53)",
@@ -580,7 +913,8 @@
                 "uni0765.medi",
                 "uni0766.medi",
                 "uni08A7.medi",
-                "uniFEE4"
+                "!uniFEE4",
+                "uni0645.medi"
             ],
             [
                 "uni0620.fina",
@@ -594,12 +928,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #40: ligature 40 (uniFC49.fina)",
@@ -613,7 +953,8 @@
                 "uni0765.init",
                 "uni0766.init",
                 "uni08A7.init",
-                "uniFEE3"
+                "!uniFEE3",
+                "uni0645.init"
             ],
             [
                 "uni0620.fina",
@@ -627,12 +968,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #39: ligature 39 (uniFC49)",
@@ -649,7 +996,8 @@
                 "uni06B8.medi",
                 "uni076A.medi",
                 "uni08A6.medi",
-                "uniFEE0"
+                "!uniFEE0",
+                "uni0644.medi"
             ],
             [
                 "uni0620.fina",
@@ -663,12 +1011,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #38: ligature 38 (uniFC86)",
@@ -685,7 +1039,8 @@
                 "uni06B8.init",
                 "uni076A.init",
                 "uni08A6.init",
-                "uniFEDF"
+                "!uniFEDF",
+                "uni0644.init"
             ],
             [
                 "uni0620.fina",
@@ -699,12 +1054,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #37: ligature 37 (uniFC43)",
@@ -727,12 +1088,18 @@
                 "uni0763.medi",
                 "uni0764.medi",
                 "uni077F.medi",
-                "uniFB91",
-                "uniFB95",
-                "uniFB99",
-                "uniFB9D",
-                "uniFBD6",
-                "uniFEDC"
+                "!uniFB91",
+                "uni06A9.medi",
+                "!uniFB95",
+                "uni06AF.medi",
+                "!uniFB99",
+                "uni06B3.medi",
+                "!uniFB9D",
+                "uni06B1.medi",
+                "!uniFBD6",
+                "uni06AD.medi",
+                "!uniFEDC",
+                "uni0643.medi"
             ],
             [
                 "uni0620.fina",
@@ -746,12 +1113,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #36: ligature 36 (uniFC83)",
@@ -793,12 +1166,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #35: ligature 35 (uniFC3D)",
@@ -833,12 +1212,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #34: ligature 34 (uni06A10649.fina)",
@@ -874,12 +1259,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #33: ligature 33 (uni06A10649)",
@@ -910,12 +1301,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #32: ligature 32 (uniFD13)",
@@ -946,12 +1343,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #31: ligature 31 (uniFCF7)",
@@ -974,7 +1377,8 @@
                 "uni0765.medi",
                 "uni0766.medi",
                 "uni08A7.medi",
-                "uniFEE4"
+                "!uniFEE4",
+                "uni0645.medi"
             ]
         ],
         "info": "Issue #30: ligature 30 (uniFCBB)",
@@ -1025,12 +1429,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #28: ligature 28 (uniFCF5)",
@@ -1059,12 +1469,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #27: ligature 27 (uniFD21)",
@@ -1093,12 +1509,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #26: ligature 26 (uniFD05)",
@@ -1119,7 +1541,8 @@
                 "uni0765.medi",
                 "uni0766.medi",
                 "uni08A7.medi",
-                "uniFEE4"
+                "!uniFEE4",
+                "uni0645.medi"
             ]
         ],
         "info": "Issue #25: ligature 25 (uniFCB3)",
@@ -1262,7 +1685,8 @@
                 "uni0765.medi",
                 "uni0766.medi",
                 "uni08A7.medi",
-                "uniFEE4"
+                "!uniFEE4",
+                "uni0645.medi"
             ]
         ],
         "info": "Issue #20: ligature 20 (uniFCB0)",
@@ -1297,12 +1721,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #19: ligature 19 (uniFCFB)",
@@ -1337,12 +1767,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #18: ligature 18 (uniFD17)",
@@ -1463,12 +1899,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #14: ligature 14 (uniFD1B)",
@@ -1509,12 +1951,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #13: ligature 13 (uniFCFF)",
@@ -1716,7 +2164,8 @@
                 "uni0765.medi",
                 "uni0766.medi",
                 "uni08A7.medi",
-                "uniFEE4"
+                "!uniFEE4",
+                "uni0645.medi"
             ]
         ],
         "info": "Issue #9: ligature 09 (uniFCAA)",
@@ -1779,12 +2228,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #8: Ligature 08 (uni066E0649.fina)",
@@ -1847,12 +2302,18 @@
                 "uni0776.fina",
                 "uni0777.fina",
                 "uni08A9.fina",
-                "uniFBE5",
-                "uniFBFD",
-                "uniFC90",
-                "uniFE8A",
-                "uniFEF0",
-                "uniFEF2"
+                "!uniFBE5",
+                "uni06D0.fina",
+                "!uniFBFD",
+                "uni06CC.fina",
+                "!uniFC90",
+                "uni063D.fina",
+                "!uniFE8A",
+                "uni0626.fina",
+                "!uniFEF0",
+                "uni0649.fina",
+                "!uniFEF2",
+                "uni064A.fina"
             ]
         ],
         "info": "Issue #7: Ligature 07 (uni066E0649)",
