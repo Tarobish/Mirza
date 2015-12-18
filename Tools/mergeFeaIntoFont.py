@@ -3,8 +3,11 @@
 
 """
 CAUTION: this overides the input font(s)!
-usage:
+usage examples:
 $ ./Tools/mergeFeaIntoFont.py Sources/mirza.ligatures-01.fea Generated/*.ttf
+
+$ ./Tools/mergeFeaIntoFont.py -dGSUB Sources/combined.fea Generated/*.ttf
+
 """
 
 
@@ -16,7 +19,7 @@ from fontTools.merge import Merger
 
 import sys
 
-def main(fea, fontTarget):
+def main(dropOldGSUB, dropOldGPOS, fea, fontTarget):
     target = ttLib.TTFont(fontTarget)
 
     # make a font that only has the tables from the fea
@@ -27,14 +30,27 @@ def main(fea, fontTarget):
     merger.duplicateGlyphsPerFont = [{}]
     tables = [(k, feaFont[k]) for k in feaFont.keys() if k != 'GlyphOrder']
     for k,table in tables:
-        if k in target:
+        if k not in target \
+                or (k == 'GSUB' and dropOldGSUB) \
+                or (k == 'GPOS' and dropOldGPOS):
+            print('replacing: ', k)
+            target[k] = table
+        else: # merge
             target[k].merge(merger, [table])
 
     target.save(fontTarget)
     target.close()
 
 if __name__ == '__main__':
-    fea = sys.argv[1]
-    fonts = sys.argv[2:]
+    args = sys.argv[1:]
+
+    dropOldGSUB = '-dGSUB' in args
+    dropOldGPOS = '-dGPOS' in args
+    if dropOldGSUB or dropOldGPOS:
+        args = [x for x in args if x not in ('-dGSUB', '-dGPOS')]
+
+
+    fea = args[0]
+    fonts = args[1:]
     for font in fonts:
-        main(fea, font)
+        main(dropOldGSUB, dropOldGPOS, fea, font)

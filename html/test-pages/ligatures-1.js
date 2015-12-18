@@ -31,7 +31,10 @@ define([
       ;
 
     function filterApplicableTypes(glyph) {
-        var type = glyph.getType('_nocontext_');
+        var type;
+        if(glyph.name[0] === '!')
+            return false;
+        type = glyph.getType('_nocontext_');
         return applicableTypes.has(type);
     }
 

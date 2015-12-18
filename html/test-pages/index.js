@@ -6,6 +6,8 @@ define([
   , './collisionsAbove-1'
   , './collisionsAbove-2'
   , './collisionsAbove-3'
+  , './KafLamAlf-1'
+  , './KafLamAlf-2'
   , './data/marks1'
   , './data/quran'
   , './ligatures-1'
@@ -18,6 +20,8 @@ define([
   , collisionsAbove1
   , collisionsAbove2
   , collisionsAbove3
+  , kafLamAlf1
+  , kafLamAlf2
   , marksText1
   , quranText
   , ligatures1
@@ -53,6 +57,8 @@ define([
               , 'collision-above-1': collisionsAbove1
               , 'collision-above-2': collisionsAbove2
               , 'collision-above-3': collisionsAbove3
+              , 'kaf-lam-alf-1': kafLamAlf1
+              , 'kaf-lam-alf-2': kafLamAlf2
             }
         }
       , texts: {
