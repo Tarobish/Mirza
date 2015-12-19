@@ -65,7 +65,7 @@ lookup arab_decompose {
 	# also, some of these replacements will not have a corresponding  version
 	# in each position
 
-	# made for the 1st chars of issue#57, maybe have to port to medi (also init?
+	# made for the 1st chars of ligature #57, maybe have to port to medi (also init?
 	# there is a corresponding initial ligature uni064306440649 uni064306440649.fina)
 	sub uni063B by uni06A9 uniFBB4;
 	sub uni0762 by uni06A9 uniFBB2;
@@ -78,30 +78,11 @@ lookup arab_decompose {
 	sub uni06B1 by uni06A9 gafbarar uniFBB4;
 	sub uni06B2 by uni06A9 gafbarar uniFBB5;
 
-	# made for the 2nd chars of issue#57,55 , maybe have to port to medi
+	# made for the 2nd chars of ligature #57,55 , maybe have to port to medi
 	sub uni06B5 by uni0644 uni065A;
 	sub uni06B6 by uni0644 uniFBB2;
 	sub uni06B7 by uni0644 uniFBB6;
 	sub uni06B8 by uni0644 uniFBB9;
-
-
-	# made for the fina chars of issue#57, maybe have to port to fina
-	# as uni0649 has no appropriate init and medi char as it seems.
-	# (maybe we can also improvise something)
-	sub uni0626 by uni0649 uni0654;
-	sub uni064A by uni0649 uniFBB5;
-
-	sub uni063D by uni0649 uni065B;
-	sub uni08A9 by uni0649 uniFBB2 uniFBB5;
-	sub uni06CE by uni0649 uni065A;
-	sub uni063F by uni0649 uniFBB6;
-	sub uni063E by uni0649 uniFBB4;
-	sub uni0777 by uni0649 uni0664.below;
-	sub uni0776 by uni0649 uni0663.above;
-	sub uni0775 by uni0649 uni0662.above;
-	sub uni06D0 by uni0649 uniFBBE;
-	sub uni0620 by uni0649 uniFBBF;
-	sub uni06D1 by uni0649 uniFBB9;
 } arab_decompose;
 
 
@@ -127,75 +108,136 @@ sub uni06F7 by uni06F7.urdu;
 feature init {
 lookupflag IgnoreMarks;
 ## automatic
-sub uni066E by uni066E.init;
-sub uni0628 by uniFE91;
-sub uni067E by uniFB58;
-sub uni067B by uniFB54;
-sub uni0680 by uniFB5C;
-sub uni062A by uniFE97;
-sub uni067C by uni067C.init;
-sub uni067D by uni067D.init;
-sub uni062B by uniFE9B;
-sub uni0679 by uniFB68;
-sub uni067A by uniFB60;
-sub uni067F by uniFB64;
+
 sub uni0750 by uni0750.init;
-sub uni0751 by uni0751.init;
-sub uni0752 by uni0752.init;
-sub uni0753 by uni0753.init;
-sub uni0754 by uni0754.init;
-sub uni0755 by uni0755.init;
-sub uni08A0 by uni08A0.init;
-sub uni0756 by uni0756.init;
-sub uni062C by uniFE9F;
-sub uni0686 by uniFB7C;
-sub uni0687 by uniFB80;
-sub uni0683 by uniFB78;
-sub uni0684 by uniFB74;
+
+
+
+
+
+# ligature #13
 sub uni062D by uniFEA3;
-
-
+# sub uni0681 by uni0681.init;
 sub uni0681 by uniFEA3 uni0654;
+#sub uni0682 by uni0682.init;
+sub uni0682 by uniFEA3 uniFBBD;
+#sub uni0685 by uni0685.init;
+sub uni0685 by uniFEA3 uniFBB6;
+#sub uni0757 by uni0757.init;
+sub uni0757 by uniFEA3 uniFBB4;
+#sub uni0758 by uni0758.init;
+sub uni0758 by uniFEA3 uniFBB7;
+#sub uni076E by uni076E.init;
+sub uni076E by uniFEA3 uniFBC1;
+#sub uni076F by uni076F.init;
+sub uni076F by uniFEA3 TahSmallTwoDotsbelowar;
+#sub uni0772 by uni0772.init;
+sub uni0772 by uniFEA3 uni0615;
+#sub uni077C by uni077C.init;
+sub uni077C by uniFEA3 uni0664.below;
+#sub uni08A2 by uni08A2.init;
+sub uni08A2 by uniFEA3 uniFBB4 uniFBB3;
+#sub uni0684 by uniFB74;
+sub uni0684 by uniFEA3 uniFBBE;
+#sub uni0683 by uniFB78;
+sub uni0683 by uniFEA3 uniFBB5;
+#sub uni0686 by uniFB7C;
+sub uni0686 by uniFEA3 uniFBB9;
+#sub uni0687 by uniFB80;
+sub uni0687 by uniFEA3 uniFBBB;
+#sub uni062C by uniFE9F;
+sub uni062C by uniFEA3 uniFBB3;
+#sub uni062E by uniFEA7;
+sub uni062E by uniFEA3 uniFBB2;
 
 
-sub uni0682 by uni0682.init;
-sub uni0757 by uni0757.init;
-sub uni0685 by uni0685.init;
-sub uni0758 by uni0758.init;
-sub uni062E by uniFEA7;
-sub uni076E by uni076E.init;
-sub uni076F by uni076F.init;
-sub uni077C by uni077C.init;
-sub uni08A2 by uni08A2.init;
+
+# ligature #21
 sub uni0633 by uniFEB3;
-sub uni069A by uni069A.init;
-sub uni069B by uni069B.init;
-sub uni069C by uni069C.init;
-sub uni0634 by uniFEB7;
-sub uni06FA by uni06FA.init;
+# sub uni0634 by uniFEB7;
+sub uni0634 by uniFEB3 uniFBB6;
+# sub uni069A by uni069A.init;
+sub uni069A by uniFEB3 uniFBB2 uniFBB3;
+# sub uni069B by uni069B.init;
+sub uni069B by uniFEB3 uniFBB9;
+# sub uni069C by uni069C.init;
+sub uni069C by uniFEB3 uniFBB6 uniFBB9;
+# sub uni06FA by uni06FA.init;
+sub uni06FA by uniFEB3 uniFBB6 uniFBB3;
+# sub uni075C by uni075C.init;
+sub uni075C by uniFEB3 uniFBBA;
+# sub uni076D by uni076D.init;
+sub uni076D by uniFEB3 uniFBBD;
+# sub uni0770 by uni0770.init;
+sub uni0770 by uniFEB3 TahSmallTwoDotsabovear;
+# sub uni077D by uni077D.init;
+sub uni077D by uniFEB3 uni0664.above;
+# sub uni077E by uni077E.init;
+sub uni077E by uniFEB3 uni065B;
+
+# ligature #26
 sub uni0635 by uniFEBB;
-sub uni069D by uni069D.init;
-sub uni069E by uni069E.init;
-sub uni0636 by uniFEBF;
-sub uni06FB by uni06FB.init;
+#sub uni0636 by uniFEBF;
+sub uni0636 by uniFEBB uniFBB2;
+#sub uni069D by uni069D.init;
+sub uni069D by uniFEBB uniFBB5;
+#sub uni069E by uni069E.init;
+sub uni069E by uniFEBB uniFBB6;
+#sub uni06FB by uni06FB.init;
+sub uni06FB by uniFEBB uniFBB2 uniFBB3;
+
+
+
+# ligature #28
 sub uni0637 by uniFEC3;
-sub uni069F by uni069F.init;
-sub uni0638 by uniFEC7;
-sub uni08A3 by uni08A3.init;
+#sub uni0638 by uniFEC7;
+sub uni0638 by uniFEC3 uniFBB2;
+#sub uni069F by uni069F.init;
+sub uni069F by uniFEC3 uniFBB6;
+#sub uni08A3 by uni08A3.init;
+sub uni08A3 by uniFEC3 uniFBB4;
+
+
+
+# ligature #31
 sub uni0639 by uniFECB;
-sub uni06A0 by uni06A0.init;
-sub uni063A by uniFECF;
-sub uni06FC by uni06FC.init;
-sub uni0641 by uniFED3;
-sub uni06A4 by uniFB6C;
+#sub uni063A by uniFECF;
+sub uni063A by uniFECB uniFBB2;
+#sub uni06A0 by uni06A0.init;
+sub uni06A0 by uniFECB uniFBB6;
+#sub uni06FC by uni06FC.init;
+sub uni06FC by uniFECB uniFBB2 uniFBB3;
+#sub uni075D by uni075D.init;
+sub uni075D by uniFECB uniFBB4;
+#sub uni075E by uni075E.init;
+sub uni075E by uniFECB uniFBB8;
+#sub uni075F by uni075F.init;
+sub uni075F by uniFECB uniFBBD;
+
+# ligature #33
+# sub uni0641 by uniFED3;
+sub uni0641 by uni06A1.init uniFBB2;
+# sub uni06A4 by uniFB6C;
+sub uni06A4 by uni06A1.init uniFBB6;
+# sub uni06A6 by uniFB70;
+sub uni06A6 by uni06A1.init uniFBBA;
+# sub uni0642 by uniFED7;
+sub uni0642 by uni06A1.init uniFBB4;
 sub uni06A1 by uni06A1.init;
-sub uni06A2 by uni06A2.init;
-sub uni06A3 by uni06A3.init;
-sub uni06A5 by uni06A5.init;
-sub uni08A4 by uni08A4.init;
-sub uni06A6 by uniFB70;
-sub uni0642 by uniFED7;
-sub uni08A5 by uni08A5.init;
+# sub uni06A2 by uni06A2.init;
+sub uni06A2 by uni06A1.init uniFBB3;
+# sub uni06A3 by uni06A3.init;
+sub uni06A3 by uni06A1.init uniFBB2 uniFBB3;
+# sub uni06A5 by uni06A5.init;
+sub uni06A5 by uni06A1.init uniFBB9;
+# sub uni0760 by uni0760.init;
+sub uni0760 by uni06A1.init uniFBB5;
+# sub uni0761 by uni0761.init;
+sub uni0761 by uni06A1.init uniFBB7;
+# sub uni08A4 by uni08A4.init;
+sub uni08A4 by uni06A1.init uniFBB6 uniFBB3;
+# sub uni08A5 by uni08A5.init;
+sub uni08A5 by uni06A1.init uniFBB4 uniFBB3;
 
 sub uni0643 by uniFEDB;
 
@@ -213,7 +255,7 @@ sub uni06AB by uni06AB.init;
 
 
 
-# issue #57 first char row
+# ligature #57 first char row
 #sub uni06AE by uni06AE.init;
 sub uni06AE by uniFEDB uniFBB9;
 #sub uni077F by uni077F.init;
@@ -227,7 +269,7 @@ sub uni06B2 by uni06B2.init;
 
 
 
-# issue #54
+# ligature #54
 # sub uni06B3 by uniFB98;
 sub uni06B3 by uniFEDB gafbarar uniFBBE;
 #sub uni06B1 by uniFB9C;
@@ -248,38 +290,97 @@ sub uni06B8 by uniFEDF uniFBB9;
 
 sub uni08A6 by uni08A6.init;
 sub uni0645 by uniFEE3;
-
-sub uni0646 by uniFEE7;
-sub uni06B9 by uni06B9.init;
-sub uni06BC by uni06BC.init;
 sub uni0647 by uniFEEB;
 sub uni06C1 by uniFBA8;
-sub uni06C2 by uni06C2.init;
+
+
+# ligature #41
+# sub uni06C2 by uni06C2.init;
+sub uni06C2 by uniFEEB uni0654;
+# sub uni06FF by uni06FF.init;
+sub uni06FF by uniFBAC uni065B;
+
+# ligature #15
+sub uni066E by uni066E.init;
+#sub uni0620 by uni0620.init;
+sub uni0620 by uni066E.init uniFBBE;
+#sub uni063D by uni063D.init;
+sub uni063D by uni066E.init uni065B uniFBB5;
+#sub uni063E by uni063E.init;
+sub uni063E by uni066E.init uniFBB4 uniFBB5;
+#sub uni063F by uni063F.init;
+sub uni063F by uni066E.init uniFBB6 uniFBB5;
+#sub uni067C by uni067C.init;
+sub uni067C by uni066E.init;
+#sub uni067D by uni067D.init;
+sub uni067D by uni066E.init uniFBB8;
+#sub uni06B9 by uni06B9.init;
+sub uni06B9 by uni066E.init uniFBB2 uniFBB3;
+# FIXME: Won't decompose: ring is merged into base form and dot is in glyph
+sub uni06BC by uni06BC.init;
+#sub uni06CE by uni06CE.init;
+sub uni06CE by uni066E.init uni065A uniFBB5;
+#sub uni0751 by uni0751.init;
+sub uni0751 by uni066E.init uniFBB6 uniFBB3;
+#sub uni0752 by uni0752.init;
+sub uni0752 by uni066E.init uniFBB7;
+#sub uni0753 by uni0753.init;
+sub uni0753 by uni066E.init uniFBB4 uniFBB7;
+#sub uni0754 by uni0754.init;
+sub uni0754 by uni066E.init uniFBB2 uniFBB5;
+#sub uni0755 by uni0755.init;
+sub uni0755 by uni066E.init circumflex.below;
+#sub uni0756 by uni0756.init;
+sub uni0756 by uni066E.init uni065A;
+#sub uni0767 by uni0767.init;
+sub uni0767 by uni066E.init uniFBB2 uniFBB5;
+#sub uni0769 by uni0769.init;
+sub uni0769 by uni066E.init uniFBB2 uni065A;
+#sub uni0775 by uni0775.init;
+sub uni0775 by uni066E.init uni0662.above uniFBB5;
+#sub uni0776 by uni0776.init;
+sub uni0776 by uni066E.init uni0663.above uniFBB5;
+#sub uni0777 by uni0777.init;
+sub uni0777 by uni066E.init uni0664.below;
+#sub uni08A0 by uni08A0.init;
+sub uni08A0 by uni066E.init vbelowar;
+#sub uni08A9 by uni08A9.init;
+sub uni08A9 by uni066E.init uniFBB2 uniFBB5;
+#sub uni067B by uniFB54;
+sub uni067B by uni066E.init uniFBBE;
+#sub uni067E by uniFB58;
+sub uni067E by uni066E.init uniFBB9;
+#sub uni0680 by uniFB5C;
+sub uni0680 by uni066E.init uniFBBB;
+#sub uni067A by uniFB60;
+sub uni067A by uni066E.init uniFBBD;
+#sub uni067F by uniFB64;
+sub uni067F by uni066E.init uniFBBA;
+#sub uni0679 by uniFB68;
+sub uni0679 by uni066E.init uni0615;
+#sub uni0628 by uniFE91;
+sub uni0628 by uni066E.init uniFBB3;
+#sub uni062A by uniFE97;
+sub uni062A by uni066E.init uniFBB4;
+#sub uni062B by uniFE9B;
+sub uni062B by uni066E.init uniFBB6;
+#sub uni06D0 by uniFBE6;
+sub uni06D0 by uni066E.init uniFBBE;
+#sub uni06CC by uniFBFE;
+sub uni06CC by uni066E.init uniFBB5;
+#sub uni0626 by uniFE8B;
+sub uni0626 by uni066E.init uni0654;
+#sub uni064A by uniFEF3;
+sub uni064A by uni066E.init uniFBB5;
+#sub uni0646 by uniFEE7;
+sub uni0646 by uni066E.init uniFBB2;
+#sub uni077A by uni077A.init;
+sub uni077A by uni066E.init uni0662.above;
+
+
 sub uni06BE by uniFBAC;
-sub uni06FF by uni06FF.init;
-sub uni064A by uniFEF3;
-sub uni0626 by uniFE8B;
-sub uni06CE by uni06CE.init;
-sub uni08A9 by uni08A9.init;
-sub uni063D by uni063D.init;
-sub uni06CC by uniFBFE;
-sub uni063E by uni063E.init;
-sub uni063F by uni063F.init;
-sub uni0775 by uni0775.init;
-sub uni0776 by uni0776.init;
-sub uni0777 by uni0777.init;
-sub uni0620 by uni0620.init;
-sub uni06D0 by uniFBE6;
-sub uni077A by uni077A.init;
 sub uni077B by uni077B.init;
 sub uni0678 by uni0678.init;
-sub uni075C by uni075C.init;
-sub uni075D by uni075D.init;
-sub uni075E by uni075E.init;
-sub uni075F by uni075F.init;
-sub uni0760 by uni0760.init;
-sub uni0761 by uni0761.init;
-
 
 
 # issue 43
@@ -290,54 +391,111 @@ sub uni0766 by uniFEE3 uniFBB3;
 # sub uni08A7 by uni08A7.init;
 sub uni08A7 by uniFEE3 uniFBB6;
 
-sub uni0767 by uni0767.init;
+
 sub uni0768 by uni0768.init;
-sub uni0769 by uni0769.init;
 sub uni076A by uni076A.init;
-sub uni076D by uni076D.init;
-sub uni0770 by uni0770.init;
-sub uni0772 by uni0772.init;
-sub uni077D by uni077D.init;
-sub uni077E by uni077E.init;
-sub uni066E062D by uni066E062D.init;
-sub uniFC18 by uniFCAA;
-sub uniFC1F by uniFCB0;
-sub uniFC21 by uniFCB3;
-sub uniFC2A by uniFCBB;
-sub uniFC3B by uniFCC7;
-sub uniFC40 by uniFCCA;
-sub uniFC42 by uniFCCC;
+
+
+# sub uni066E062D by uni066E062D.init;
+# sub uniFC18 by uniFCAA;
+# sub uniFC1F by uniFCB0;
+# sub uniFC21 by uniFCB3;
+# sub uniFC2A by uniFCBB;
+# sub uniFC3B by uniFCC7;
+# sub uniFC40 by uniFCCA;
+# sub uniFC42 by uniFCCC;
 } init;
 
 
 feature medi {
 lookupflag IgnoreMarks;
 # automatic
+
+# ligature #8
 sub uni066E by uni066E.medi;
-sub uni0628 by uniFE92;
-sub uni067E by uniFB59;
-sub uni067B by uniFB55;
-sub uni0680 by uniFB5D;
-sub uni062A by uniFE98;
-sub uni067C by uni067C.medi;
-sub uni067D by uni067D.medi;
-sub uni062B by uniFE9C;
-sub uni0679 by uniFB69;
-sub uni067A by uniFB61;
-sub uni067F by uniFB65;
+#sub uni0620 by uni0620.medi;
+sub uni0620 by uni066E.medi uniFBBF;
+#sub uni063D by uni063D.medi;
+sub uni063D by uni066E.medi uni065B uniFBB5;
+#sub uni063E by uni063E.medi;
+sub uni063E by uni066E.medi uniFBB4 uniFBB5;
+#sub uni063F by uni063F.medi;
+sub uni063F by uni066E.medi uniFBB6 uniFBB5;
+#sub uni067C by uni067C.medi;
+sub uni067C by uni066E.medi;
+#sub uni067D by uni067D.medi;
+sub uni067D by uni066E.medi uniFBB8;
+#sub uni06B9 by uni06B9.medi;
+sub uni06B9 by uni066E.medi uniFBB2 uniFBB3;
+# FIXME: Won't decompose, stuff is merged into the base
+sub uni06BC by uni06BC.medi;
+#sub uni06CE by uni06CE.medi;
+sub uni06CE by uni066E.medi uni065A uniFBB5;
+#sub uni0751 by uni0751.medi;
+sub uni0751 by uni066E.medi uniFBB6 uniFBB3;
+#sub uni0752 by uni0752.medi;
+sub uni0752 by uni066E.medi uniFBB7;
+#sub uni0753 by uni0753.medi;
+sub uni0753 by uni066E.medi uniFBB4 uniFBB7;
+#sub uni0754 by uni0754.medi;
+sub uni0754 by uni066E.medi uniFBB2 uniFBB5;
+#sub uni0755 by uni0755.medi;
+sub uni0755 by uni066E.medi circumflex.below;
+#sub uni0756 by uni0756.medi;
+sub uni0756 by uni066E.medi uni065A;
+#sub uni0767 by uni0767.medi;
+sub uni0767 by uni066E.medi uniFBB2 uniFBB5;
+#sub uni0769 by uni0769.medi;
+sub uni0769 by uni066E.medi uniFBB2 uni065A;
+#sub uni0775 by uni0775.medi;
+sub uni0775 by uni066E.medi uni0662.above uniFBB5;
+#sub uni0776 by uni0776.medi;
+sub uni0776 by uni066E.medi uni0663.above uniFBB5;
+#sub uni0777 by uni0777.medi;
+sub uni0777 by uni066E.medi uni0664.below;
+#sub uni077A by uni077A.medi;
+sub uni077A by uni066E.medi uni0662.above;
+#sub uni077B by uni077B.medi;
+sub uni077B by uni066E.medi uni0663.above;
+#sub uni08A0 by uni08A0.medi;
+sub uni08A0 by uni066E.medi vbelowar;
+#sub uni08A9 by uni08A9.medi;
+sub uni08A9 by uni066E.medi uniFBB2 uniFBB5;
+#sub uni067B by uniFB55;
+sub uni067B by uni066E.medi uniFBBE;
+#sub uni067E by uniFB59;
+sub uni067E by uni066E.medi uniFBB9;
+#sub uni0680 by uniFB5D;
+sub uni0680 by uni066E.medi uniFBBB;
+#sub uni067A by uniFB61;
+sub uni067A by uni066E.medi uniFBBD;
+#sub uni067F by uniFB65;
+sub uni067F by uni066E.medi uniFBBA;
+#sub uni0679 by uniFB69;
+sub uni0679 by uni066E.medi uni0615;
+#sub uni06D0 by uniFBE7;
+sub uni06D0 by uni066E.medi uniFBBE;
+#sub uni06CC by uniFBFF;
+sub uni06CC by uni066E.medi uniFBB5;
+#sub uni0626 by uniFE8C;
+sub uni0626 by uni066E.medi uni0654;
+#sub uni0628 by uniFE92;
+sub uni0628 by uni066E.medi uniFBB3;
+#sub uni062A by uniFE98;
+sub uni062A by uni066E.medi uniFBB4;
+#sub uni062B by uniFE9C;
+sub uni062B by uni066E.medi uniFBB6;
+#sub uni0646 by uniFEE8;
+sub uni0646 by uni066E.medi uniFBB2;
+#sub uni064A by uniFEF4;
+sub uni064A by uni066E.medi uniFBB5;
+
+
 sub uni0750 by uni0750.medi;
-sub uni0751 by uni0751.medi;
-sub uni0752 by uni0752.medi;
-sub uni0753 by uni0753.medi;
-sub uni0754 by uni0754.medi;
-sub uni0755 by uni0755.medi;
-sub uni08A0 by uni08A0.medi;
-sub uni0756 by uni0756.medi;
 
-# start of issue #58
 
+# start of ligature #58
 sub uni062D by uniFEA4;
-
 #sub uni062C by uniFEA0;
 sub uni062C by uniFEA4 dotcenterar;
 #sub uni0686 by uniFB7D;
@@ -348,11 +506,8 @@ sub uni0687 by uniFEA4 uniFBBB;
 sub uni0683 by uniFEA4 uniFBB5;
 #sub uni0684 by uniFB75;
 sub uni0684 by uniFEA4 uniFBBE;
-
 #sub uni0681 by uni0681.medi;
 sub uni0681 by uniFEA4 uni0654;
-
-
 #sub uni0682 by uni0682.medi;
 sub uni0682 by uniFEA4 uniFBBD;
 #sub uni0757 by uni0757.medi;
@@ -361,59 +516,100 @@ sub uni0757 by uniFEA4 uniFBB4;
 sub uni0685 by uniFEA4 uniFBB6;
 #sub uni0758 by uni0758.medi;
 sub uni0758 by uniFEA4 uniFBB7;
-
 #sub uni076E by uni076E.medi;
 sub uni076E by uniFEA4 uniFBC1;
-
-
 #sub uni062E by uniFEA8;
 sub uni062E by uniFEA4 uniFBB2;
-
 #sub uni076F by uni076F.medi;
 sub uni076F by uniFEA4 uniFBB5 uniFBC1;
-
-# FIXME: uni0664.below is missing (ARABIC-INDIC DIGIT FOUR BELOW)
-# sub uni077C by uniFEA4 uni0664.below
-sub uni077C by uni077C.medi;
-
-
+# sub uni077C by uni077C.medi;
+sub uni077C by uniFEA4 uni0664.below;
 #sub uni08A2 by uni08A2.medi;
 sub uni08A2 by uniFEA4 dotcenterar;
-
 #sub uni0772 by uni0772.medi;
 sub uni0772 by uniFEA4 uni0615;
 
-#end of issue #58
 
+# ligature #18 #17
 sub uni0633 by uniFEB4;
-sub uni069A by uni069A.medi;
-sub uni069B by uni069B.medi;
-sub uni069C by uni069C.medi;
-sub uni0634 by uniFEB8;
-sub uni06FA by uni06FA.medi;
+#sub uni0634 by uniFEB8;
+sub uni0634 by uniFEB4 uniFBB6;
+#sub uni069A by uni069A.medi;
+sub uni069A by uniFEB4 uniFBB2 uniFBB3;
+#sub uni069B by uni069B.medi;
+sub uni069B by uniFEB4 uniFBB9;
+#sub uni069C by uni069C.medi;
+sub uni069C by uniFEB4 uniFBB6 uniFBB9;
+#sub uni06FA by uni06FA.medi;
+sub uni06FA by uniFEB4 uniFBB6 uniFBB3;
+#sub uni075C by uni075C.medi;
+sub uni075C by uniFEB4 uniFBBA;
+#sub uni076D by uni076D.medi;
+sub uni076D by uniFEB4 uniFBBD;
+#sub uni0770 by uni0770.medi;
+sub uni0770 by uniFEB4 TahSmallTwoDotsabovear;
+#sub uni077D by uni077D.medi;
+sub uni077D by uniFEB4 uni0664.above;
+#sub uni077E by uni077E.medi;
+sub uni077E by uniFEB4 uni065B;
+
+
+# ligature #27
 sub uni0635 by uniFEBC;
-sub uni069D by uni069D.medi;
-sub uni069E by uni069E.medi;
-sub uni0636 by uniFEC0;
-sub uni06FB by uni06FB.medi;
+#sub uni0636 by uniFEC0;
+sub uni0636 by uniFEBC uniFBB2;
+#sub uni069D by uni069D.medi;
+sub uni069D by uniFEBC uniFBB5;
+#sub uni069E by uni069E.medi;
+sub uni069E by uniFEBC uniFBB6;
+#sub uni06FB by uni06FB.medi;
+sub uni06FB by uniFEBC uniFBB2 uniFBB3;
+
+
 sub uni0637 by uniFEC4;
 sub uni069F by uni069F.medi;
 sub uni0638 by uniFEC8;
 sub uni08A3 by uni08A3.medi;
+
+# ligature #32
 sub uni0639 by uniFECC;
-sub uni06A0 by uni06A0.medi;
-sub uni063A by uniFED0;
-sub uni06FC by uni06FC.medi;
-sub uni0641 by uniFED4;
-sub uni06A4 by uniFB6D;
+#sub uni063A by uniFED0;
+sub uni063A by uniFECC uniFBB2;
+#sub uni06A0 by uni06A0.medi;
+sub uni06A0 by uniFECC uniFBB6;
+#sub uni06FC by uni06FC.medi;
+sub uni06FC by uniFECC uniFBB2 uniFBB3;
+#sub uni075D by uni075D.medi;
+sub uni075D by uniFECC uniFBB4;
+#sub uni075E by uni075E.medi;
+sub uni075E by uniFECC uniFBB8;
+#sub uni075F by uni075F.medi;
+sub uni075F by uniFECC uniFBBD;
+
+# ligature #34
+#sub uni0641 by uniFED4;
+sub uni0641 by uni06A1.medi uniFBB2;
+#sub uni0642 by uniFED8;
+sub uni0642 by uni06A1.medi uniFBB4;
 sub uni06A1 by uni06A1.medi;
-sub uni06A2 by uni06A2.medi;
-sub uni06A3 by uni06A3.medi;
-sub uni06A5 by uni06A5.medi;
-sub uni08A4 by uni08A4.medi;
-sub uni06A6 by uniFB71;
-sub uni0642 by uniFED8;
-sub uni08A5 by uni08A5.medi;
+#sub uni06A2 by uni06A2.medi;
+sub uni06A2 by uni06A1.medi uniFBB3;
+#sub uni06A3 by uni06A3.medi;
+sub uni06A3 by uni06A1.medi uniFBB2 uniFBB3;
+# sub uni0760 by uni0760.medi;
+sub uni0760 by  uni06A1.medi uniFBB5;
+
+#sub uni06A4 by uniFB6D;
+sub uni06A4 by uni06A1.medi uniFBB6;
+#sub uni06A5 by uni06A5.medi;
+sub uni06A5 by uni06A1.medi uniFBB9;
+#sub uni06A6 by uniFB71;
+sub uni06A6 by uni06A1.medi uniFBBA;
+# sub uni08A4 by uni08A4.medi;
+sub uni08A4 by uni06A1.medi uniFBB6 uniFBB3;
+#sub uni08A5 by uni08A5.medi;
+sub uni08A5 by uni06A1.medi uniFBB4 uniFBB3;
+
 sub uni0643 by uniFEDC;
 sub uni06A9 by uniFB91;
 
@@ -431,7 +627,7 @@ sub uni06AA by uni06AA.medi;
 sub uni06AB by uni06AB.medi;
 
 
-#issue #57 first char row
+#ligature #57 first char row
 #sub uni06AE by uni06AE.medi;
 sub uni06AE by uniFEDC uniFBB9;
 # sub uni077F by uni077F.medi;
@@ -455,35 +651,14 @@ sub uni06B8 by uni06B8.medi;
 sub uni08A6 by uni08A6.medi;
 sub uni0645 by uniFEE4;
 
-sub uni0646 by uniFEE8;
-sub uni06B9 by uni06B9.medi;
-sub uni06BC by uni06BC.medi;
 sub uni0647 by uniFEEC;
 sub uni06C1 by uniFBA9;
 sub uni06C2 by uni06C2.medi;
 sub uni06BE by uniFBAD;
 sub uni06FF by uni06FF.medi;
-sub uni064A by uniFEF4;
-sub uni0626 by uniFE8C;
-sub uni06CE by uni06CE.medi;
-sub uni08A9 by uni08A9.medi;
-sub uni063D by uni063D.medi;
-sub uni06CC by uniFBFF;
-sub uni063E by uni063E.medi;
-sub uni063F by uni063F.medi;
-sub uni0775 by uni0775.medi;
-sub uni0776 by uni0776.medi;
-sub uni0777 by uni0777.medi;
-sub uni0620 by uni0620.medi;
-sub uni06D0 by uniFBE7;
-sub uni077A by uni077A.medi;
-sub uni077B by uni077B.medi;
+
+
 sub uni0678 by uni0678.medi;
-sub uni075C by uni075C.medi;
-sub uni075D by uni075D.medi;
-sub uni075E by uni075E.medi;
-sub uni075F by uni075F.medi;
-sub uni0760 by uni0760.medi;
 sub uni0761 by uni0761.medi;
 
 # issue 45
@@ -494,16 +669,12 @@ sub uni0766 by uniFEE4 uniFBB3;
 # sub uni08A7 by uni08A7.medi;
 sub uni08A7 by uniFEE4 uniFBB6;
 
-sub uni0767 by uni0767.medi;
-sub uni0768 by uni0768.medi;
-sub uni0769 by uni0769.medi;
-sub uni076A by uni076A.medi;
-sub uni076D by uni076D.medi;
-sub uni0770 by uni0770.medi;
 
-sub uni077D by uni077D.medi;
-sub uni077E by uni077E.medi;
-sub uniFC3B by uniFCEB;
+
+sub uni0768 by uni0768.medi;
+
+sub uni076A by uni076A.medi;
+# sub uniFC3B by uniFCEB;
 } medi;
 
 
@@ -553,8 +724,7 @@ sub uni08A0 by uni08A0.fina;
 sub uni0756 by uni0756.fina;
 
 
-# start of issue #59
-
+# start of ligature #59
 # sub uni0684 by uniFB73;
 sub uni0684 by uniFEA2 uniFBBE;
 # sub uni0683 by uniFB77;
@@ -565,32 +735,23 @@ sub uni0686 by uniFEA2 uniFBB9;
 sub uni0687 by uniFEA2 uniFBBB;
 # sub uni062C by uniFE9E;
 sub uni062C by uniFEA2 dotcenterar;
-
 sub uni062D by uniFEA2;
 sub uni0681 by uniFEA2 uni0654;
 sub uni0682 by uniFEA2 uniFBBD;
 sub uni0757 by uniFEA2 uniFBB4;
 sub uni0685 by uniFEA2 uniFBB6;
 sub uni0758 by uniFEA2 uniFBB7;
-
 sub uni076E by uniFEA2 uni0615.alt;
-
 sub uni076F by uniFEA2 uniFBB5 uni0615.alt;
-
 sub uni0772 by uniFEA2 uni0615;
-
 # FIXME: uni0664.below is missing (ARABIC-INDIC DIGIT FOUR BELOW)
 # TODO: maybe we should rather make this a blanco uni0664
 # and the make a uni0664.center in calt
 sub uni077C by uniFEA2 uni0664.center;
 #sub uni077C by uni077C.fina;
-
 sub uni08A2 by uniFEA2 uniFBB4 dotcenterar;
-
 # sub uni062E by uniFEA6;
 sub uni062E by uniFEA2 uniFBB2;
-
-# end of issue #59
 
 
 sub uni062F by uniFEAA;
@@ -607,23 +768,44 @@ sub uni0690 by uni0690.fina;
 sub uni06EE by uni06EE.fina;
 sub uni0759 by uni0759.fina;
 sub uni075A by uni075A.fina;
+
+
+# ligature #23
 sub uni0631 by uniFEAE;
-sub uni0632 by uniFEB0;
-sub uni0691 by uniFB8D;
-sub uni0692 by uni0692.fina;
+# sub uni0698 by uniFB8B;
+sub uni0698 by uniFEAE uniFBB6;
+# sub uni0691 by uniFB8D;
+sub uni0691 by uniFEAE uni0615;
+# sub uni0632 by uniFEB0;
+sub uni0632 by uniFEAE uniFBB2;
+# sub uni0692 by uni0692.fina;
+sub uni0692 by uniFEAE uni065A;
+# FIXME: can't decompose, has a ring merged into the base.
 sub uni0693 by uni0693.fina;
-sub uni0694 by uni0694.fina;
-sub uni0695 by uni0695.fina;
-sub uni0696 by uni0696.fina;
-sub uni0697 by uni0697.fina;
-sub uni0698 by uniFB8B;
-sub uni0699 by uni0699.fina;
-sub uni06EF by uni06EF.fina;
+# sub uni0694 by uni0694.fina;
+sub uni0694 by uniFEAE uniFBB3;
+# sub uni0695 by uni0695.fina;
+sub uni0695 by uniFEAE vbelowar;
+# sub uni0696 by uni0696.fina;
+sub uni0696 by uniFEAE dotcenterar uniFBB3;
+# sub uni0697 by uni0697.fina;
+sub uni0697 by uniFEAE uniFBB4;
+# sub uni0699 by uni0699.fina;
+sub uni0699 by uniFEAE uniFBBA;
+# sub uni06EF by uni06EF.fina;
+sub uni06EF by uniFEAE uni065B;
+# FIXME: can't decompose, has a bar merged into the base.
 sub uni075B by uni075B.fina;
-sub uni076B by uni076B.fina;
-sub uni076C by uni076C.fina;
-sub uni0771 by uni0771.fina;
+# sub uni076B by uni076B.fina;
+sub uni076B by uniFEAE uniFBBD;
+# sub uni076C by uni076C.fina;
+sub uni076C by uniFEAE uni0654;
+# sub uni0771 by uni0771.fina;
+sub uni0771 by uniFEAE TahSmallTwoDotsabovear;
+# Can't decompose into uniFEAE. It's a different glyph
 sub uni08AA by uni08AA.fina;
+
+
 sub uni0633 by uniFEB2;
 sub uni069A by uni069A.fina;
 sub uni069B by uni069B.fina;
@@ -669,7 +851,8 @@ sub uni06B4 by uni06B4.fina;
 sub uni06AA by uni06AA.fina;
 sub uni06AB by uni06AB.fina;
 
-# issue #49
+
+# ligature #49
 #sub uni06AC by uni06AC.fina;
 sub uni06AC by uniFEDA uniFBB2;
 # sub uni06AE by uni06AE.fina;
@@ -678,6 +861,7 @@ sub uni06AE by uniFEDA uniFBB9;
 sub uni077F by uniFEDA uniFBB4;
 # sub uni06AD by uniFBD4;
 sub uni06AD by uniFEDA uniFBB6;
+
 
 sub uni06B2 by uni06B2.fina;
 
@@ -691,12 +875,27 @@ sub uni06B8 by uni06B8.fina;
 sub uni08A6 by uni08A6.fina;
 sub uni0645 by uniFEE2;
 
-sub uni0646 by uniFEE6;
-sub uni06B9 by uni06B9.fina;
+
+# ligature #6
 sub uni06BA by uniFB9F;
-sub uni06BB by uniFBA1;
+#sub uni06B9 by uni06B9.fina;
+sub uni06B9 by uniFB9F uniFBB2 uniFBB3;
+# FIXME: Won\'t decompose stuff merged into the base
 sub uni06BC by uni06BC.fina;
-sub uni06BD by uni06BD.fina;
+#sub uni06BD by uni06BD.fina;
+sub uni06BD by uniFB9F uniFBB6;
+#sub uni0767 by uni0767.fina;
+sub uni0767 by uniFB9F uniFBB2 uniFBB5;
+#sub uni0768 by uni0768.fina;
+sub uni0768 by uniFB9F TahSmallDotbelowar;
+#sub uni0769 by uni0769.fina;
+sub uni0769 by uniFB9F uniFBB2 uni065A;
+#sub uni06BB by uniFBA1;
+sub uni06BB by uniFB9F uni0615;
+#sub uni0646 by uniFEE6;
+sub uni0646 by uniFB9F uniFBB2;
+
+
 sub uni0647 by uniFEEA;
 sub uni06C1 by uniFBA7;
 sub uni06C2 by uni06C2.fina;
@@ -719,34 +918,45 @@ sub uni06C8 by uniFBDC;
 sub uni06C9 by uniFBE3;
 sub uni06CB by uniFBDF;
 
+
+# ligature #57
 sub uni0649 by uniFEF0;
-sub uniFC5D by uniFC90;
+sub uni06CC by uniFEF0;
+#sub uni0626 by uniFE8A;
+sub uni0626 by uniFEF0 uni0654;
+#sub uni064A by uniFEF2;
+sub uni064A by uniFEF0 uniFBB5;
+#sub uni063D by uni063D.fina;
+sub uni063D by uniFEF0 uni065B;
+#sub uni06CE by uni06CE.fina;
+sub uni06CE by uniFEF0 uni065A;
+#sub uni063F by uni063F.fina;
+sub uni063F by uniFEF0 uniFBB6;
+#sub uni063E by uni063E.fina;
+sub uni063E by uniFEF0 uniFBB4;
+#sub uni0775 by uni0775.fina;
+sub uni0775 by uniFEF0 uni0662.above;
+#sub uni0776 by uni0776.fina;
+sub uni0776 by uniFEF0 uni0663.above;
+#sub uni0777 by uni0777.fina;
+sub uni0777 by uniFEF0 uni0664.below;
+#sub uni08A9 by uni08A9.fina;
+sub uni08A9 by uniFEF0 uniFBB2 uniFBB5;
+#sub uni06D0 by uniFBE5;
+sub uni06D0 by uniFEF0 uniFBBE;
+#sub uni0620 by uni0620.fina;
+sub uni0620 by uniFEF0 uniFBBF;
+#sub uni06D1 by uni06D1.fina;
+sub uni06D1 by uniFEF0 uniFBB9;
+#sub uniFC5D by uniFEF0;
+sub uniFC5D by uniFEF0 uni0670;
+# Won't decompose! I'ts a uniFEF0 with a tail
+sub uni06CD by uni06CD.fina;
+
 
 sub uni0773 by uni0773.fina;
 sub uni0774 by uni0774.fina;
-sub uni064A by uniFEF2;
-sub uni0626 by uniFE8A;
-sub uni06CE by uni06CE.fina;
-sub uni08A9 by uni08A9.fina;
-sub uni063D by uni063D.fina;
 
-# like uni0649.fina i.e. uniFEF0
-sub uni06CC by uniFEF0;
-
-
-sub uni063E by uni063E.fina;
-sub uni063F by uni063F.fina;
-sub uni0775 by uni0775.fina;
-sub uni0776 by uni0776.fina;
-sub uni0777 by uni0777.fina;
-sub uni06CD by uni06CD.fina;
-
-# issue #41 (this is done in ccmp via 0649)
-# sub uni0620 by uni0620.fina;
-sub uni0620 by uniFEF0 uniFBBF;
-
-sub uni06D0 by uniFBE5;
-sub uni06D1 by uni06D1.fina;
 sub uni06D2 by uniFBAF;
 sub uni06D3 by uniFBB1;
 sub uni077A by uni077A.fina;
@@ -768,9 +978,7 @@ sub uni0766 by uniFEE2 uniFBB3;
 #sub uni08A7 by uni08A7.fina;
 sub uni08A7 by uniFEE2 uniFBB6;
 
-sub uni0767 by uni0767.fina;
-sub uni0768 by uni0768.fina;
-sub uni0769 by uni0769.fina;
+
 sub uni076A by uni076A.fina;
 sub uni076D by uni076D.fina;
 sub uni0770 by uni0770.fina;
@@ -815,14 +1023,33 @@ sub uni077E by uni077E.fina;
 lookup rlig_arab {
 	lookupflag IgnoreMarks;
 
+	# ligature #65
+	sub uniFEDF uniFEE4 uniFEF0 by uni064406450649;
+
+	# ligature #64
+	sub uniFEDF uniFEEC uniFEF0 by uni064406470649;
+
+	# ligature #63
+	sub uniFEBB uniFEE4 uniFEF0 by uni063506450649;
+
+	# ligature #62
+	sub uniFECB uniFEE4 uniFEF0 by uni063906450649;
+
+	# ligature #61
+	sub uniFEB3 uniFEE4 uniFEF0 by uni063306450649;
+
+	# ligature #60
+	sub uniFEA3 uniFEE4 uniFEF0 by uni062D06450649;
+
+	# ligature #15
+	sub uni066E.init uniFEA4 [uniFEF0 uni06CD.fina] by uni066E062D0649;
+
 	# this is #57 and 56
-	sub [uniFEDB uniFB90] uniFEE0 uniFEF0 by uni064306440649;
-	sub [uniFEDC uniFB91] uniFEE0 uniFEF0 by uni064306440649.fina;
+	sub [uniFEDB uniFB90] uniFEE0 [uniFEF0 uni06CD.fina] by uni064306440649;
+	sub [uniFEDC uniFB91] uniFEE0 [uniFEF0 uni06CD.fina] by uni064306440649.fina;
 
 	sub [uniFEDB uniFB90] uniFC86 by uni064306440649;
 	sub [uniFEDC uniFB91] uniFC86 by uni064306440649.fina;
-
-	sub uniFEE0 uniFEF0 by uniFC86;
 
 	# this is #55 and #54 uni064306440627.fina and uni064306440627
 
@@ -834,47 +1061,172 @@ lookup rlig_arab {
 	sub [uniFEDB uniFB90] uniFEE0 [uniFE8E uniFE8E.short] by uni064306440627;
 	sub [uniFEDC uniFB91] uniFEE0 [uniFE8E uniFE8E.short] by uni064306440627.fina;
 
-	# issue #53
+	  # ligature #59
+	sub uniFEDF uniFEA2 by uniFC40;
+
+	# ligature #58
+	sub uniFEDF uniFEA4 by uniFCCA;
+
+	# ligature #53
 	# in init: sub uni0643 by uniFEDB;
 	# in medi: sub uni0644 by uniFEE0;
 
 	sub [uniFEDB uniFB90] uniFEE0 by uniFCC7;
 
-	# issue #52
+	# ligature #52
 	sub [uniFEDC uniFB91] uniFEE0 by uniFCEB;
 
-	# issue #51
+	# ligature #51
 	sub [uniFEDC uniFB91] uniFEDE by uniFC81;
 
-	# issue #50
+	# ligature #50
 	sub [uniFEDB uniFB90] uniFEDE by uniFC3B;
 
-	# issue #49
+	# ligature #49
 	sub [uniFEDB uniFB90] uniFEDA by uni06430643;
 	sub [uniFEDC uniFB91] uniFEDA by uni06430643.fina;
 
-	# issue #47
-	sub uniFEDF uniFEA4 uniFEF0 by uni0644062D0649;
+	# ligature #47
+	sub uniFEDF uniFEA4 [uniFEF0 uni06CD.fina] by uni0644062D0649;
 
-	# issue #46
+	# ligature #46
 	sub uniFEDF uniFEE2 by uniFC42;
 
-	# issue #45
+	# ligature #45
 	sub uniFEDF uniFEE4 by uniFCCC;
 
-	# issue #44
+	# ligature #44
 	sub uniFEDF uniFEEC by uniFCCD;
 
-	# issue #43
+	# ligature #43
 	sub uniFEE3 uniFEE4 by uniFCD1;
 
-	# issue #42
+	# ligature #42
 	# FIXME: the issue says it's uniFBA9 but Glyphs says uniFEEC
 	sub uniFBA9 [uniFEF0 uni06CD.fina] by uniFC53.fina;
 
-	#  issue #41
+	#  ligature #41
 	sub [uniFBAC uniFEEB] [uniFEF0 uni06CD.fina] by uniFC53;
 
+	#  ligature #40
+	sub uniFEE4 [uniFEF0 uni06CD.fina] by uniFC49.fina;
+
+	#  ligature #39
+	sub uniFEE3 [uniFEF0 uni06CD.fina] by uniFC49;
+
+	# ligature #38
+	sub uniFEE0 [uniFEF0 uni06CD.fina] by uniFC86;
+
+	#  ligature #37
+	sub uniFEDF [uniFEF0 uni06CD.fina] by uniFC43;
+
+	# ligature #36
+	sub [uniFEDC uniFB91] [uniFEF0 uni06CD.fina] by uniFC83;
+
+	# ligature #35
+	sub [uniFEDB uniFB90] [uniFEF0 uni06CD.fina] by uniFC3D;
+
+	# ligature #34
+	sub uni06A1.medi [uniFEF0 uni06CD.fina] by uni06A10649.fina;
+
+	# ligature #33
+	sub uni06A1.init [uniFEF0 uni06CD.fina] by uni06A10649;
+
+	# ligature #32
+	sub uniFECC [uniFEF0 uni06CD.fina] by uniFD13;
+
+	# ligature #31
+	sub uniFECB [uniFEF0 uni06CD.fina] by uniFCF7;
+
+	# ligature #30
+	sub uniFECB uniFEE4 by uniFCBB;
+
+	# ligature #29
+	sub uniFECB uniFEE2 by uniFC2A;
+
+	# ligature #28
+	sub uniFEC3 [uniFEF0 uni06CD.fina] by uniFCF5;
+
+	# ligature # 27
+	sub uniFEBC [uniFEF0 uni06CD.fina] by uniFD21;
+
+	# ligature # 26
+	sub uniFEBB [uniFEF0 uni06CD.fina] by uniFD05;
+
+	#  ligature # 25
+	sub uniFEBB uniFEE4 by uniFCB3;
+
+	# ligature #24
+	sub uniFEBB uniFEE2 by uniFC21;
+
+	# ligature #23
+	# Note: uniFEAE is ARABIC LETTER REH FINAL FORM
+	#       uni08AA.fina is ARABIC LETTER REH WITH LOOP (final form)
+	#       our issues request this behavior, but the loop os obviously lost
+	sub uniFEBC [uniFEAE uni08AA.fina] by uniFD2B;
+
+	# ligature #22
+	sub uniFEBB [uniFEAE uni08AA.fina] by uniFD0F;
+
+	# ligature #21
+	sub uniFEB3 uniFEE2 by uniFC1F;
+
+	# ligature #20
+	sub uniFEB3 uniFEE4 by uniFCB0;
+
+	# ligature #19
+	sub uniFEB3 [uniFEF0 uni06CD.fina] by uniFCFB;
+
+	# ligature #18
+	sub uniFEB4 [uniFEF0 uni06CD.fina] by uniFD17;
+
+	# ligature #17
+	sub uniFEB4 [uniFEAE uni08AA.fina] by uniFD2A;
+
+	# ligature #16
+	sub uniFEB3 [uniFEAE uni08AA.fina] by uniFD0E;
+
+	# ligature #14
+	sub uniFEA4 [uniFEF0 uni06CD.fina] by uniFD1B;
+
+	# ligature #13
+	sub uniFEA3 [uniFEF0 uni06CD.fina] by uniFCFF;
+
+	# ligature #12
+	sub uni066E.init uniFEA2 by uni066E062D;
+
+	# ligature #11
+	sub uni066E.init uniFEA4 by uni066E062D.init;
+
+	# ligature #10
+	sub uniFEA3 uniFEE2 by uniFC18;
+
+	# ligature #9
+	sub uniFEA3 uniFEE4 by uniFCAA;
+
+	# ligature #8
+	sub uni066E.medi [uniFEF0 uni06CD.fina] by uni066E0649.fina;
+
+	# ligature #7
+	sub uni066E.init [uniFEF0 uni06CD.fina] by uni066E0649;
+
+	# issues #6
+	sub uni066E.medi uniFB9F by uni066E06BA.fina;
+
+	# issues #5
+	sub uni066E.init uniFB9F by uni066E06BA;
+
+	# issues #4
+	sub uni066E.medi [uniFEAE uni08AA.fina] by uni066E0631.fina;
+
+	# issues #3
+	sub uni066E.init [uniFEAE uni08AA.fina] by uni066E0631;
+
+	# ligature #2
+	sub uni066E.medi uniFEE2 by uni066E0645.fina;
+
+	# ligature #1
+	sub uni066E.init uniFEE2 by uni066E0645;
 
 	sub uniFEDF uniFE8E by uniFEFB;
 	sub uniFEE0 uniFE8E by uniFEFC;
@@ -888,12 +1240,6 @@ lookup rlig_arab {
 	sub uniFEE0 uniFE82 by uniFEF6;
 	sub uniFEDF uniFB51 by uni06440671;
 	sub uniFEE0 uniFB51 by uni06440671.fina;
-
-	sub uniFEDF uniFEE4 uniFEF0 by uni064406450649;
-	sub uniFEDF uniFEEC uniFEF0 by uni064406470649;
-	sub uniFEDF uniFEF0 by uniFC43;
-
-
 
 	sub uni06B5.medi uniFE8E by uni06B50627.fina;
 	sub uni06B6.medi uniFE8E by uni06B60627.fina;
@@ -916,64 +1262,12 @@ feature dlig {
 script arab;
 lookup dlig_RTL {
 lookupflag IgnoreMarks RightToLeft;
-	sub uni066E.init uniFEA4 uniFEF0 by uni066E062D0649;
-	sub uniFEA3 uniFEE4 uniFEF0 by uni062D06450649;
-	sub uniFEB3 uniFEE4 uniFEF0 by uni063306450649;
-	sub uniFEBB uniFEE4 uniFEF0 by uni063506450649;
-	sub uniFECB uniFEE4 uniFEF0 by uni063906450649;
-	sub uniFEDB uniFEE0 uniFE8E by uni064306440627;
-	sub uniFEDC uniFEE0 uniFE8E by uni064306440627.fina;
-	sub uniFEDB uniFEE0 uniFEF0 by uni064306440649;
-	sub uniFEDC uniFEE0 uniFEF0 by uni064306440649.fina;
-	sub uniFEDF uniFEA4 uniFEF0 by uni0644062D0649;
-	sub uniFEDF uniFEE4 uniFEF0 by uni064406450649;
-	sub uniFEDF uniFEEC uniFEF0 by uni064406470649;
+
 	sub uniFEE0 uni0672.fina by uni06440672.fina;
 	sub uni0644 uni0672 by uni06440672.isol;
 	sub uniFEE0 uni0673.fina by uni06440673.fina;
 	sub uni0644 uni0673 by uni06440673.isol;
-	sub uni066E.init uniFEA2 by uni066E062D;
-	sub uni066E.init uniFEA4 by uni066E062D.init;
-	sub uni066E.init uniFEAE by uni066E0631;
-	sub uni066E.medi uniFEAE by uni066E0631.fina;
-	sub uni066E.init uniFEE2 by uni066E0645;
-	sub uni066E.medi uniFEE2 by uni066E0645.fina;
-	sub uni066E.init uniFB9F by uni066E06BA;
-	sub uni066E.medi uniFB9F by uni066E06BA.fina;
-	sub uni066E.init uniFEF0 by uni066E0649;
-	sub uni066E.medi uniFEF0 by uni066E0649.fina;
-	sub uniFEA3 uniFEE2 by uniFC18;
-	sub uniFEA3 uniFEE4 by uniFCAA;
-	sub uniFEA3 uniFEF0 by uniFCFF;
-	sub uniFEA4 uniFEF0 by uniFD1B;
-	sub uniFEB3 uniFEAE by uniFD0E;
-	sub uniFEB4 uniFEAE by uniFD2A;
-	sub uniFEB3 uniFEE2 by uniFC1F;
-	sub uniFEB3 uniFEE4 by uniFCB0;
-	sub uniFEB3 uniFEF0 by uniFCFB;
-	sub uniFEB4 uniFEF0 by uniFD17;
-	sub uniFEBB uniFEAE by uniFD0F;
-	sub uniFEBC uniFEAE by uniFD2B;
-	sub uniFEBB uniFEE2 by uniFC21;
-	sub uniFEBB uniFEE4 by uniFCB3;
-	sub uniFEBB uniFEF0 by uniFD05;
-	sub uniFEBC uniFEF0 by uniFD21;
-	sub uniFEC3 uniFEF0 by uniFCF5;
-	sub uniFECB uniFEE2 by uniFC2A;
-	sub uniFECB uniFEE4 by uniFCBB;
-	sub uniFECB uniFEF0 by uniFCF7;
-	sub uniFECC uniFEF0 by uniFD13;
-	sub uni06A1.init uniFEF0 by uni06A10649;
-	sub uni06A1.medi uniFEF0 by uni06A10649.fina;
 
-	sub uniFEDB uniFEF0 by uniFC3D;
-	sub uniFEDC uniFEF0 by uniFC83;
-	sub uniFEDF uniFEA2 by uniFC40;
-	sub uniFEDF uniFEA4 by uniFCCA;
-
-
-	sub uniFEDF uniFEF0 by uniFC43;
-	sub uniFEE0 uniFEF0 by uniFC86;
 	sub uni06B5.medi uniFE8E by uni06B50627.fina;
 	sub uni06B5 uni0627 by uni06B50627.isol;
 	sub uni06B6.medi uniFE8E by uni06B60627.fina;
@@ -982,10 +1276,6 @@ lookupflag IgnoreMarks RightToLeft;
 	sub uni06B7 uni0627 by uni06B70627.isol;
 	sub uni06B8.medi uniFE8E by uni06B80627.fina;
 	sub uni06B8 uni0627 by uni06B80627.isol;
-
-	sub uniFEE3 uniFEF0 by uniFC49;
-	sub uniFEE4 uniFEF0 by uniFC49.fina;
-
 
 	sub uni076A.medi uniFE8E by uni076A0627.fina;
 	sub uni076A uni0627 by uni076A0627.isol;
@@ -996,8 +1286,7 @@ lookupflag IgnoreMarks RightToLeft;
 # decomposition is done in the init/medi/fina features
 lookup recombine {
   lookupflag IgnoreMarks;
-  sub uniFEDF uniFEA4 by uniFCCA;
-  sub uniFEDF uniFEA2 by uniFC40;
+
 } recombine;
 
 # rlig works flasslessly in chromium!

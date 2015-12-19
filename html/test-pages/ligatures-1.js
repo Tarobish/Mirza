@@ -57,15 +57,15 @@ define([
 
         switch(firstGlyph.getType('_nocontext_')) {
             case 'init':
-                first = [zwnj, firstGlyph.char];
+                first = [' ', firstGlyph.char];
                 break;
             case 'medi':
-                first = [zwnj, zwj, firstGlyph.char];
+                first = [' ', zwj, firstGlyph.char];
                 break;
             case '_nocontext_':
                 /* falls through */
             default:
-                first = [zwnj, firstGlyph.char];
+                first = [' ', firstGlyph.char];
                 break;
         }
 
@@ -73,15 +73,15 @@ define([
         if(!thirdGlyph) {
             switch(secondGlyph.getType('_nocontext_')) {
                 case 'medi':
-                    second = [secondGlyph.char, zwj, zwnj];
+                    second = [secondGlyph.char, zwj, ' '];
                     break;
                 case 'fina':
-                    second = [secondGlyph.char, zwnj];
+                    second = [secondGlyph.char, ' '];
                     break;
                 case '_nocontext_':
                     /* falls through */
                 default:
-                    second = [secondGlyph.char, zwnj];
+                    second = [secondGlyph.char, ' '];
             }
         }
         else
@@ -94,10 +94,10 @@ define([
         if(thirdGlyph) {
             switch(thirdGlyph.getType('_nocontext_')) {
                 case 'medi':
-                    third = [thirdGlyph.char, zwj, zwnj];
+                    third = [thirdGlyph.char, zwj, ' '];
                     break;
                 case 'fina':
-                    third = [thirdGlyph.char, zwnj];
+                    third = [thirdGlyph.char, ' '];
                     break;
                 case '_nocontext_':
                     /* falls through */
@@ -142,7 +142,7 @@ define([
                 createElement('h1', null, 'Collisions above the baseline')
               , createElement('p', null, 'The glyphs should not collide.')
             ]
-          , tables = ligaData.slice(13,20).map(buildTable)
+          , tables = ligaData.slice(5,10).map(buildTable)
           , state = new TableContent(info, tables)
           ;
         return state.body;
