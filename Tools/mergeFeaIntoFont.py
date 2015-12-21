@@ -33,9 +33,10 @@ def main(dropOldGSUB, dropOldGPOS, fea, fontTarget):
         if k not in target \
                 or (k == 'GSUB' and dropOldGSUB) \
                 or (k == 'GPOS' and dropOldGPOS):
-            print('replacing: ', k)
+            print('replacing:', k, 'of', fontTarget)
             target[k] = table
         else: # merge
+            print('merging:', k, 'into', fontTarget)
             target[k].merge(merger, [table])
 
     target.save(fontTarget)
