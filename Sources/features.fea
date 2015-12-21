@@ -948,9 +948,9 @@ sub uni06D0 by uniFEF0 uniFBBE;
 sub uni0620 by uniFEF0 uniFBBF;
 #sub uni06D1 by uni06D1.fina;
 sub uni06D1 by uniFEF0 uniFBB9;
-#sub uniFC5D by uniFEF0;
+#sub uniFC5D by uniFC90;
 sub uniFC5D by uniFEF0 uni0670;
-# Won't decompose! I'ts a uniFEF0 with a tail
+# FIXME: Won't decompose! I'ts a uniFEF0 with a tail
 sub uni06CD by uni06CD.fina;
 
 
@@ -1020,7 +1020,8 @@ sub uni077E by uni077E.fina;
 # sub uniFC53 by uniFC53.fina;
 } fina;
 
-lookup rlig_arab {
+
+lookup rlig_ARA_dlig_ALL {
 	lookupflag IgnoreMarks;
 
 	# ligature #65
@@ -1051,36 +1052,11 @@ lookup rlig_arab {
 	sub [uniFEDB uniFB90] uniFC86 by uni064306440649;
 	sub [uniFEDC uniFB91] uniFC86 by uni064306440649.fina;
 
-	# this is #55 and #54 uni064306440627.fina and uni064306440627
-
-	# in fina: sub uni0627 by uniFE8E;
-	# in medi: sub uni0644 by uniFEE0;
-	# in init: sub uni0643 by uniFEDB;
-	# in medi: sub uni0643 by uniFEDC;
-
-	sub [uniFEDB uniFB90] uniFEE0 [uniFE8E uniFE8E.short] by uni064306440627;
-	sub [uniFEDC uniFB91] uniFEE0 [uniFE8E uniFE8E.short] by uni064306440627.fina;
-
 	  # ligature #59
 	sub uniFEDF uniFEA2 by uniFC40;
 
 	# ligature #58
 	sub uniFEDF uniFEA4 by uniFCCA;
-
-	# ligature #53
-	# in init: sub uni0643 by uniFEDB;
-	# in medi: sub uni0644 by uniFEE0;
-
-	sub [uniFEDB uniFB90] uniFEE0 by uniFCC7;
-
-	# ligature #52
-	sub [uniFEDC uniFB91] uniFEE0 by uniFCEB;
-
-	# ligature #51
-	sub [uniFEDC uniFB91] uniFEDE by uniFC81;
-
-	# ligature #50
-	sub [uniFEDB uniFB90] uniFEDE by uniFC3B;
 
 	# ligature #49
 	sub [uniFEDB uniFB90] uniFEDA by uni06430643;
@@ -1228,6 +1204,39 @@ lookup rlig_arab {
 	# ligature #1
 	sub uni066E.init uniFEE2 by uni066E0645;
 
+} rlig_ARA_dlig_ALL;
+
+lookup rlig_ALL {
+	lookupflag IgnoreMarks;
+
+# this is #55 and #54 uni064306440627.fina and uni064306440627
+
+	# in fina: sub uni0627 by uniFE8E;
+	# in medi: sub uni0644 by uniFEE0;
+	# in init: sub uni0643 by uniFEDB;
+	# in medi: sub uni0643 by uniFEDC;
+
+	sub [uniFEDB uniFB90] uniFEE0 [uniFE8E uniFE8E.short] by uni064306440627;
+	sub [uniFEDC uniFB91] uniFEE0 [uniFE8E uniFE8E.short] by uni064306440627.fina;
+
+	# ligature #53
+	# in init: sub uni0643 by uniFEDB;
+	# in medi: sub uni0644 by uniFEE0;
+
+	sub [uniFEDB uniFB90] uniFEE0 by uniFCC7;
+
+	# ligature #52
+	sub [uniFEDC uniFB91] uniFEE0 by uniFCEB;
+
+	# ligature #51
+	sub [uniFEDC uniFB91] uniFEDE by uniFC81;
+
+	# ligature #50
+	sub [uniFEDB uniFB90] uniFEDE by uniFC3B;
+
+
+
+	# TODO: the come from Glyphs and were not covered in the issues on Github
 	sub uniFEDF uniFE8E by uniFEFB;
 	sub uniFEE0 uniFE8E by uniFEFC;
 	sub uniFEDF uniFE84 by uniFEF7;
@@ -1246,23 +1255,11 @@ lookup rlig_arab {
 	sub uni06B7.medi uniFE8E by uni06B70627.fina;
 	sub uni06B8.medi uniFE8E by uni06B80627.fina;
 	sub uni076A.medi uniFE8E by uni076A0627.fina;
-} rlig_arab;
+} rlig_ALL;
 
-feature rlig {
-# automatic
-script arab;
-lookup rlig_arab;
-} rlig;
-
-feature dlig {
-# automatic
-
-# this "script arab;" is important for firefox again!
-# see the note above in "feature ccmp"
-script arab;
-lookup dlig_RTL {
-lookupflag IgnoreMarks RightToLeft;
-
+lookup dlig_ALL {
+	lookupflag IgnoreMarks;
+	# TODO: the come from Glyphs and were not covered in the issues on Github
 	sub uniFEE0 uni0672.fina by uni06440672.fina;
 	sub uni0644 uni0672 by uni06440672.isol;
 	sub uniFEE0 uni0673.fina by uni06440673.fina;
@@ -1279,26 +1276,20 @@ lookupflag IgnoreMarks RightToLeft;
 
 	sub uni076A.medi uniFE8E by uni076A0627.fina;
 	sub uni076A uni0627 by uni076A0627.isol;
-} dlig_RTL;
-} dlig;
+} dlig_ALL;
 
-
-# decomposition is done in the init/medi/fina features
-lookup recombine {
-  lookupflag IgnoreMarks;
-
-} recombine;
-
-# rlig works flasslessly in chromium!
-# firefox needs some care regarding the right script setup in other features
-# I don't understand yet how it connects, but adding "script arab;" to some
-# other features helped
 feature rlig {
-    script arab;
-    # exclude_dflt helps to keep other, not defined languages of script arab
-    # not to use this. OpenType is a bit twisted.
-    language ARA exclude_dflt;
-    lookup recombine;
+	# automatic
+	script arab;
+	lookup rlig_ALL;
+	language ARA exclude_dflt;
+	lookup rlig_ARA_dlig_ALL;
 } rlig;
 
+
+feature dlig {
+	script arab;
+	lookup rlig_ARA_dlig_ALL;
+	lookup dlig_ALL;
+} dlig;
 
