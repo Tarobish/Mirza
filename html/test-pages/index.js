@@ -10,8 +10,8 @@ define([
   , './KafLamAlf-2'
   , './data/marks1'
   , './data/quran'
-  , './ligatures-1'
-
+  , './generatePages'
+  , 'require/text!./data/mirza.ligatures-01.json'
 ], function(
     domStuff
   , README
@@ -24,7 +24,8 @@ define([
   , kafLamAlf2
   , marksText1
   , quranText
-  , ligatures1
+  , generatePages
+  , testDataTxt
 ){
     "use strict";
     /*global document:true window:true*/
@@ -42,12 +43,16 @@ define([
             title: 'About'
           , generate: fromMarkdown.bind(null, 'article', {'class': 'home'}, README)
         }
-
+      , texts: {
+            title: 'Test-Texts'
+          , '/': {
+                marks1: marksText1
+              , quran: quranText
+            }
+        }
       , tests: {
             title: 'Generated Tests'
-            , '/': {
-                'ligatures1': ligatures1
-            }
+            , '/': generatePages.fromArray( JSON.parse(testDataTxt)/*.reverse()*/)
         }
       , jomhuriaTests: {
             title: 'Generated Tests (Jomhuria)'
@@ -61,12 +66,6 @@ define([
               , 'kaf-lam-alf-2': kafLamAlf2
             }
         }
-      , texts: {
-            title: 'Test-Texts'
-          , '/': {
-                marks1: marksText1
-              , quran: quranText
-            }
-        }
+
     };
 });

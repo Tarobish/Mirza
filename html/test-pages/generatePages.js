@@ -4,14 +4,12 @@ define([
   , 'generated-pages/Table'
   , 'generated-pages/TableContent'
   , 'generated-pages/TableData'
-  , 'require/text!./data/mirza.ligatures-01.json'
 ], function(
     domStuff
   , typoStuff
   , Table
   , TableContent
   , TableData
-  , ligaDataTxt
 ) {
     "use strict";
     /*global document:true*/
@@ -27,7 +25,6 @@ define([
       , appendChildren = domStuff.appendChildren
       , applicableTypes = new Set(['init','medi','fina','isol', '_nocontext_'])
       , filler
-      , ligaData = JSON.parse(ligaDataTxt)
       ;
 
     function filterApplicableTypes(glyph) {
@@ -133,22 +130,50 @@ define([
         axes = new TableData(first, second, third, getData);
 
         infoMD = '### ' + data.info + '\n\n' + data.description;
+        var n = 2,k;
+        do {
+            if(k) {
+                infoMD += '\n\n' + data[k];
+                n += 1;
+            }
+            k = 'description' + n;
+        } while(k in data);
+        if('description2')
 
-        return new Table(axes, [2, 0, 1]/* 0, 1, 2 */, infoMD);//[sectionAxis, rowAxis, columnAxis]
+        return new Table(axes, data.layout || [2, 0, 1]/* 0, 1, 2 */, infoMD);//[sectionAxis, rowAxis, columnAxis]
     }
 
-    function main() {
-        var info = [
-                createElement('h1', null, 'Collisions above the baseline')
-              , createElement('p', null, 'The glyphs should not collide.')
-            ]
-          , tables = ligaData.slice(5,10).map(buildTable)
+    function main(data) {
+        var info = []
+          , data_ = (data instanceof Array) ? data : [data]
+          , tables = data_.map(buildTable)
           , state = new TableContent(info, tables)
           ;
         return state.body;
     }
+
+
+    function fromArray(data) {
+        var i, l, pageData = {}, item, title;
+
+        for(i=0,l=data.length;i<l;i++) {
+            item = data[i];
+            if('title' in item)
+                title = item.title;
+            else if('info' in item)
+                title = item.info;
+            else
+                title = 'Item ' + i;
+
+            pageData[title] = {
+                title: title
+              , generate: main.bind(null, data[i])
+            }
+        };
+        return pageData;
+    }
     return {
-        title: 'Ligatures 1'
-      , generate: main
+        fromArray: fromArray
+      , main: main
     };
 });
