@@ -877,6 +877,8 @@
 		<string>uni064306440649.fina</string>
 		<string>uniFC3D</string>
 		<string>uniFC83</string>
+		<string>uni06A90627</string>
+		<string>uni06A90627.fina</string>
 		<string>uniFC40</string>
 		<string>uniFCCA</string>
 		<string>uni0644062D0649</string>
@@ -1029,24 +1031,24 @@
 		<string>uni0617</string>
 		<string>uniFBB2</string>
 		<string>uniFBB3</string>
-		<string>dotcenter-ar</string>
+		<string>dotcenterar</string>
 		<string>uniFBBD</string>
 		<string>uniFBBE</string>
-		<string>twodotsverticalcenter-ar</string>
+		<string>twodotsverticalcenterar</string>
 		<string>uniFBB4</string>
 		<string>uniFBB5</string>
-		<string>twodotshorizontalcenter-ar</string>
+		<string>twodotshorizontalcenterar</string>
 		<string>uniFBB8</string>
 		<string>uniFBB9</string>
-		<string>threedotsdowncenter-ar</string>
+		<string>threedotsdowncenterar</string>
 		<string>uniFBB6</string>
 		<string>uniFBB7</string>
-		<string>threedotsupcenter-ar</string>
+		<string>threedotsupcenterar</string>
 		<string>uniFBBA</string>
 		<string>uniFBBB</string>
-		<string>fourdotscenter-ar</string>
-		<string>wasla-ar</string>
-		<string>wavyhamzaabove-ar</string>
+		<string>fourdotscenterar</string>
+		<string>waslaar</string>
+		<string>wavyhamzaabovear</string>
 		<string>uni065F</string>
 		<string>uniFBBF</string>
 		<string>uni0670</string>
@@ -1060,7 +1062,7 @@
 		<string>uni0655</string>
 		<string>uni0655064D</string>
 		<string>uni06550650</string>
-		<string>hamzacenter-ar</string>
+		<string>hamzacenterar</string>
 		<string>uni064B</string>
 		<string>uni064C</string>
 		<string>uni064D</string>
@@ -1070,17 +1072,17 @@
 		<string>uni0651</string>
 		<string>uni0652</string>
 		<string>uni0653</string>
-		<string>shaddaAlefabove-ar</string>
-		<string>shaddaDamma-ar</string>
-		<string>shaddaDammatan-ar</string>
-		<string>shaddaFatha-ar</string>
-		<string>shaddaFathatan-ar</string>
-		<string>shaddaKasra-ar</string>
-		<string>shaddaKasratan-ar</string>
+		<string>shaddaAlefabovear</string>
+		<string>shaddaDammaar</string>
+		<string>shaddaDammatanar</string>
+		<string>shaddaFathaar</string>
+		<string>shaddaFathatanar</string>
+		<string>shaddaKasraar</string>
+		<string>shaddaKasratanar</string>
 		<string>uni0658</string>
 		<string>uni0659</string>
 		<string>uni065A</string>
-		<string>vbelow-ar</string>
+		<string>vbelowar</string>
 		<string>uni065B</string>
 		<string>uni065C</string>
 		<string>uni065D</string>
@@ -1121,14 +1123,14 @@
 		<string>uniFBBC</string>
 		<string>uniFEFE</string>
 		<string>uniFEFD</string>
-		<string>dots.horz.below-ar</string>
+		<string>dots.horz.belowar</string>
 		<string>barlong</string>
-		<string>gafbar-ar</string>
-		<string>TahSmallTwoDotscenter-ar</string>
-		<string>TahSmallTwoDotsbelow-ar</string>
-		<string>TahSmallTwoDotsabove-ar</string>
-		<string>TahSmallDotbelow-ar</string>
-		<string>VaDotbelow-ar</string>
+		<string>gafbarar</string>
+		<string>TahSmallTwoDotscenterar</string>
+		<string>TahSmallTwoDotsbelowar</string>
+		<string>TahSmallTwoDotsabovear</string>
+		<string>TahSmallDotbelowar</string>
+		<string>VaDotbelowar</string>
 	</array>
 </dict>
 </plist>

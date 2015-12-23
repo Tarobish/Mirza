@@ -74,13 +74,13 @@
       <point x="778" y="171" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="729" y="352" type="move" name="top"/>
+      <point x="687" y="-97" type="move" name="center"/>
     </contour>
     <contour>
       <point x="411" y="-37" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="687" y="-97" type="move" name="center"/>
+      <point x="729" y="352" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

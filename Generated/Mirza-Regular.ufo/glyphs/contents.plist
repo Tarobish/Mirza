@@ -42,20 +42,20 @@
 	<string>S_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
-	<key>TahSmallDotbelow-ar</key>
-	<string>T_ahS_mallD_otbelow-ar.glif</string>
-	<key>TahSmallTwoDotsabove-ar</key>
-	<string>T_ahS_mallT_woD_otsabove-ar.glif</string>
-	<key>TahSmallTwoDotsbelow-ar</key>
-	<string>T_ahS_mallT_woD_otsbelow-ar.glif</string>
-	<key>TahSmallTwoDotscenter-ar</key>
-	<string>T_ahS_mallT_woD_otscenter-ar.glif</string>
+	<key>TahSmallDotbelowar</key>
+	<string>T_ahS_mallD_otbelowar.glif</string>
+	<key>TahSmallTwoDotsabovear</key>
+	<string>T_ahS_mallT_woD_otsabovear.glif</string>
+	<key>TahSmallTwoDotsbelowar</key>
+	<string>T_ahS_mallT_woD_otsbelowar.glif</string>
+	<key>TahSmallTwoDotscenterar</key>
+	<string>T_ahS_mallT_woD_otscenterar.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
-	<key>VaDotbelow-ar</key>
-	<string>V_aD_otbelow-ar.glif</string>
+	<key>VaDotbelowar</key>
+	<string>V_aD_otbelowar.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
 	<key>X</key>
@@ -78,26 +78,26 @@
 	<string>circumflex.below.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
-	<key>dotcenter-ar</key>
-	<string>dotcenter-ar.glif</string>
-	<key>dots.horz.below-ar</key>
-	<string>dots.horz.below-ar.glif</string>
+	<key>dotcenterar</key>
+	<string>dotcenterar.glif</string>
+	<key>dots.horz.belowar</key>
+	<string>dots.horz.belowar.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>filledbox</key>
 	<string>filledbox.glif</string>
-	<key>fourdotscenter-ar</key>
-	<string>fourdotscenter-ar.glif</string>
+	<key>fourdotscenterar</key>
+	<string>fourdotscenterar.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
-	<key>gafbar-ar</key>
-	<string>gafbar-ar.glif</string>
+	<key>gafbarar</key>
+	<string>gafbarar.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
-	<key>hamzacenter-ar</key>
-	<string>hamzacenter-ar.glif</string>
+	<key>hamzacenterar</key>
+	<string>hamzacenterar.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>
@@ -122,32 +122,32 @@
 	<string>r.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
-	<key>shaddaAlefabove-ar</key>
-	<string>shaddaA_lefabove-ar.glif</string>
-	<key>shaddaDamma-ar</key>
-	<string>shaddaD_amma-ar.glif</string>
-	<key>shaddaDammatan-ar</key>
-	<string>shaddaD_ammatan-ar.glif</string>
-	<key>shaddaFatha-ar</key>
-	<string>shaddaF_atha-ar.glif</string>
-	<key>shaddaFathatan-ar</key>
-	<string>shaddaF_athatan-ar.glif</string>
-	<key>shaddaKasra-ar</key>
-	<string>shaddaK_asra-ar.glif</string>
-	<key>shaddaKasratan-ar</key>
-	<string>shaddaK_asratan-ar.glif</string>
+	<key>shaddaAlefabovear</key>
+	<string>shaddaA_lefabovear.glif</string>
+	<key>shaddaDammaar</key>
+	<string>shaddaD_ammaar.glif</string>
+	<key>shaddaDammatanar</key>
+	<string>shaddaD_ammatanar.glif</string>
+	<key>shaddaFathaar</key>
+	<string>shaddaF_athaar.glif</string>
+	<key>shaddaFathatanar</key>
+	<string>shaddaF_athatanar.glif</string>
+	<key>shaddaKasraar</key>
+	<string>shaddaK_asraar.glif</string>
+	<key>shaddaKasratanar</key>
+	<string>shaddaK_asratanar.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
-	<key>threedotsdowncenter-ar</key>
-	<string>threedotsdowncenter-ar.glif</string>
-	<key>threedotsupcenter-ar</key>
-	<string>threedotsupcenter-ar.glif</string>
-	<key>twodotshorizontalcenter-ar</key>
-	<string>twodotshorizontalcenter-ar.glif</string>
-	<key>twodotsverticalcenter-ar</key>
-	<string>twodotsverticalcenter-ar.glif</string>
+	<key>threedotsdowncenterar</key>
+	<string>threedotsdowncenterar.glif</string>
+	<key>threedotsupcenterar</key>
+	<string>threedotsupcenterar.glif</string>
+	<key>twodotshorizontalcenterar</key>
+	<string>twodotshorizontalcenterar.glif</string>
+	<key>twodotsverticalcenterar</key>
+	<string>twodotsverticalcenterar.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uni0600</key>
@@ -796,6 +796,10 @@
 	<string>uni06A_8.fina.glif</string>
 	<key>uni06A9</key>
 	<string>uni06A_9.glif</string>
+	<key>uni06A90627</key>
+	<string>uni06A_90627.glif</string>
+	<key>uni06A90627.fina</key>
+	<string>uni06A_90627.fina.glif</string>
 	<key>uni06AA</key>
 	<string>uni06A_A_.glif</string>
 	<key>uni06AA.fina</key>
@@ -2100,14 +2104,14 @@
 	<string>uniF_E_F_E_.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
-	<key>vbelow-ar</key>
-	<string>vbelow-ar.glif</string>
+	<key>vbelowar</key>
+	<string>vbelowar.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
-	<key>wasla-ar</key>
-	<string>wasla-ar.glif</string>
-	<key>wavyhamzaabove-ar</key>
-	<string>wavyhamzaabove-ar.glif</string>
+	<key>waslaar</key>
+	<string>waslaar.glif</string>
+	<key>wavyhamzaabovear</key>
+	<string>wavyhamzaabovear.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
 	<key>y</key>
