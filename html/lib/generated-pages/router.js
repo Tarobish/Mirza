@@ -20,7 +20,6 @@ define([
         var path, piece, dir, page;
 
         path = getPath().split('/');
-
         dir = pages;
         while((piece = path.shift()) !== undefined) {
             if(piece === '') continue;
@@ -28,7 +27,7 @@ define([
                 page = undefined;
                 break;
             }
-            page = dir[piece];
+            page = dir[decodeURIComponent(piece)];
             if(!page) break;
             dir = page['/'];
         }
@@ -136,6 +135,7 @@ define([
                 return;
             }
             currentPage = loadPage(content, page);
+            window.scrollTo(0,0)
         }
         body.appendChild(nav);
 
