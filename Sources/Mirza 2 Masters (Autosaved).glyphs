@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/semicolon-ar"
+"/meem-ar/noon-ar/alef-ar/semicolon-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -60382,12 +60382,50 @@ unicode = 060C;
 },
 {
 glyphname = "semicolon-ar";
-lastChange = "2015-12-29 23:46:40 +0000";
+lastChange = "2015-12-29 23:53:23 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"77 127 OFFCURVE",
+"53 103 OFFCURVE",
+"30 75 CURVE",
+"58 52 OFFCURVE",
+"82 28 OFFCURVE",
+"105 0 CURVE",
+"133 23 OFFCURVE",
+"157 47 OFFCURVE",
+"180 75 CURVE",
+"152 98 OFFCURVE",
+"128 122 OFFCURVE",
+"105 150 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"97 388 OFFCURVE",
+"56 315 OFFCURVE",
+"49 236 CURVE",
+"74 210 LINE",
+"101 210 OFFCURVE",
+"140 221 OFFCURVE",
+"164 236 CURVE",
+"153 261 OFFCURVE",
+"147 291 OFFCURVE",
+"147 325 CURVE SMOOTH",
+"147 363 OFFCURVE",
+"159 402 OFFCURVE",
+"180 429 CURVE",
+"166 444 LINE"
+);
+}
+);
+width = 210;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
