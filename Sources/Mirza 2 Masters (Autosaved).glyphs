@@ -79478,7 +79478,7 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "gafbar-ar";
-lastChange = "2015-12-30 21:18:15 +0000";
+lastChange = "2015-12-30 21:18:19 +0000";
 layers = (
 {
 anchors = (
@@ -79488,7 +79488,7 @@ position = "{-16, 759}";
 },
 {
 name = top;
-position = "{-16, 914}";
+position = "{-16, 849}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
