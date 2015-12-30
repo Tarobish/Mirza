@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/four-ar.above"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -76556,13 +76553,13 @@ unicode = 06ED;
 },
 {
 glyphname = "two-ar.above";
-lastChange = "2015-12-30 21:02:26 +0000";
+lastChange = "2015-12-30 21:04:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-13, 599}";
+position = "{-13, 550}";
 },
 {
 name = top;
