@@ -452,8 +452,12 @@
 	<string>eight-persian.small.glif</string>
 	<key>eight-persian.tab</key>
 	<string>eight-persian.tab.glif</string>
+	<key>ellipsis</key>
+	<string>ellipsis.glif</string>
 	<key>endofayah-ar</key>
 	<string>endofayah-ar.glif</string>
+	<key>exclam</key>
+	<string>exclam.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>fatha-ar</key>
@@ -1338,6 +1342,8 @@
 	<string>peheh-ar.medi.glif</string>
 	<key>percent-ar</key>
 	<string>percent-ar.glif</string>
+	<key>period</key>
+	<string>period.glif</string>
 	<key>pertenthousand-ar</key>
 	<string>pertenthousand-ar.glif</string>
 	<key>perthousand-ar</key>
@@ -1372,6 +1378,8 @@
 	<string>qafT_hreedotsabove-ar.fina.glif</string>
 	<key>question-ar</key>
 	<string>question-ar.glif</string>
+	<key>quotedbl</key>
+	<string>quotedbl.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>ray-ar</key>

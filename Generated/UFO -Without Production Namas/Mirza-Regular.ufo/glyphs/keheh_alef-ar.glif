@@ -58,13 +58,13 @@
       <point x="122" y="324" type="line"/>
     </contour>
     <contour>
-      <point x="300" y="543" type="move" name="top_1"/>
+      <point x="218" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
       <point x="303" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="218" y="0" type="move" name="caret_1"/>
+      <point x="300" y="543" type="move" name="top_1"/>
     </contour>
     <contour>
       <point x="38" y="568" type="move" name="top_2"/>

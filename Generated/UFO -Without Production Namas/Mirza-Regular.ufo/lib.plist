@@ -979,6 +979,10 @@
 		<string>nine-persian</string>
 		<string>nine-persian.small</string>
 		<string>nine-persian.tab</string>
+		<string>ellipsis</string>
+		<string>exclam</string>
+		<string>period</string>
+		<string>quotedbl</string>
 		<string>hyphen</string>
 		<string>asteriskArt-ar</string>
 		<string>fullstop-ar</string>
