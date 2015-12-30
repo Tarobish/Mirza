@@ -79097,6 +79097,131 @@ width = 0;
 unicode = 08F6;
 },
 {
+glyphname = "dots.horz.below-ar";
+lastChange = "2015-12-30 20:50:42 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{1, -175}";
+},
+{
+name = bottom;
+position = "{4, -302}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-119 -264 OFFCURVE",
+"-102 -280 OFFCURVE",
+"-83 -302 CURVE",
+"-64 -285 OFFCURVE",
+"-50 -271 OFFCURVE",
+"-39 -258 CURVE",
+"-24 -271 OFFCURVE",
+"-10 -285 OFFCURVE",
+"4 -302 CURVE",
+"23 -285 OFFCURVE",
+"39 -269 OFFCURVE",
+"49 -258 CURVE",
+"64 -271 OFFCURVE",
+"78 -285 OFFCURVE",
+"92 -302 CURVE",
+"116 -280 OFFCURVE",
+"130 -266 OFFCURVE",
+"144 -250 CURVE",
+"132 -232 OFFCURVE",
+"109 -209 OFFCURVE",
+"88 -195 CURVE",
+"77 -208 OFFCURVE",
+"61 -224 OFFCURVE",
+"47 -238 CURVE",
+"34 -223 OFFCURVE",
+"17 -205 OFFCURVE",
+"1 -195 CURVE",
+"-12 -208 OFFCURVE",
+"-32 -229 OFFCURVE",
+"-41 -238 CURVE",
+"-54 -223 OFFCURVE",
+"-71 -205 OFFCURVE",
+"-87 -195 CURVE",
+"-101 -210 OFFCURVE",
+"-123 -232 OFFCURVE",
+"-139 -248 CURVE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{-3, -149}";
+},
+{
+name = bottom;
+position = "{2, -302}";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"-149 -255 OFFCURVE",
+"-125 -282 OFFCURVE",
+"-108 -302 CURVE",
+"-91 -288 OFFCURVE",
+"-65 -262 OFFCURVE",
+"-51 -247 CURVE",
+"-30 -265 OFFCURVE",
+"-11 -286 OFFCURVE",
+"2 -302 CURVE",
+"10 -296 OFFCURVE",
+"50 -257 OFFCURVE",
+"60 -247 CURVE",
+"81 -265 OFFCURVE",
+"100 -286 OFFCURVE",
+"113 -302 CURVE",
+"135 -286 OFFCURVE",
+"168 -250 OFFCURVE",
+"176 -238 CURVE",
+"165 -214 OFFCURVE",
+"138 -186 OFFCURVE",
+"107 -169 CURVE",
+"100 -179 OFFCURVE",
+"76 -204 OFFCURVE",
+"57 -222 CURVE",
+"43 -202 OFFCURVE",
+"21 -182 OFFCURVE",
+"-3 -169 CURVE",
+"-6 -174 OFFCURVE",
+"-44 -212 OFFCURVE",
+"-54 -222 CURVE",
+"-68 -202 OFFCURVE",
+"-90 -182 OFFCURVE",
+"-114 -169 CURVE",
+"-123 -181 OFFCURVE",
+"-160 -219 OFFCURVE",
+"-178 -234 CURVE"
+);
+}
+);
+width = 0;
+}
+);
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
+},
+{
 glyphname = "three-ar.below";
 lastChange = "2015-12-30 20:48:46 +0000";
 layers = (
@@ -79545,128 +79670,6 @@ width = 0;
 }
 );
 unicode = FBBC;
-},
-{
-glyphname = "dots.horz.below-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{1, -175}";
-},
-{
-name = bottom;
-position = "{4, -302}";
-}
-);
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"-119 -264 OFFCURVE",
-"-102 -280 OFFCURVE",
-"-83 -302 CURVE",
-"-64 -285 OFFCURVE",
-"-50 -271 OFFCURVE",
-"-39 -258 CURVE",
-"-24 -271 OFFCURVE",
-"-10 -285 OFFCURVE",
-"4 -302 CURVE",
-"23 -285 OFFCURVE",
-"39 -269 OFFCURVE",
-"49 -258 CURVE",
-"64 -271 OFFCURVE",
-"78 -285 OFFCURVE",
-"92 -302 CURVE",
-"116 -280 OFFCURVE",
-"130 -266 OFFCURVE",
-"144 -250 CURVE",
-"132 -232 OFFCURVE",
-"109 -209 OFFCURVE",
-"88 -195 CURVE",
-"77 -208 OFFCURVE",
-"61 -224 OFFCURVE",
-"47 -238 CURVE",
-"34 -223 OFFCURVE",
-"17 -205 OFFCURVE",
-"1 -195 CURVE",
-"-12 -208 OFFCURVE",
-"-32 -229 OFFCURVE",
-"-41 -238 CURVE",
-"-54 -223 OFFCURVE",
-"-71 -205 OFFCURVE",
-"-87 -195 CURVE",
-"-101 -210 OFFCURVE",
-"-123 -232 OFFCURVE",
-"-139 -248 CURVE"
-);
-}
-);
-width = 0;
-},
-{
-anchors = (
-{
-name = _bottom;
-position = "{-3, -149}";
-},
-{
-name = bottom;
-position = "{2, -302}";
-}
-);
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-paths = (
-{
-closed = 1;
-nodes = (
-"-149 -255 OFFCURVE",
-"-125 -282 OFFCURVE",
-"-108 -302 CURVE",
-"-91 -288 OFFCURVE",
-"-65 -262 OFFCURVE",
-"-51 -247 CURVE",
-"-30 -265 OFFCURVE",
-"-11 -286 OFFCURVE",
-"2 -302 CURVE",
-"10 -296 OFFCURVE",
-"50 -257 OFFCURVE",
-"60 -247 CURVE",
-"81 -265 OFFCURVE",
-"100 -286 OFFCURVE",
-"113 -302 CURVE",
-"135 -286 OFFCURVE",
-"168 -250 OFFCURVE",
-"176 -238 CURVE",
-"165 -214 OFFCURVE",
-"138 -186 OFFCURVE",
-"107 -169 CURVE",
-"100 -179 OFFCURVE",
-"76 -204 OFFCURVE",
-"57 -222 CURVE",
-"43 -202 OFFCURVE",
-"21 -182 OFFCURVE",
-"-3 -169 CURVE",
-"-6 -174 OFFCURVE",
-"-44 -212 OFFCURVE",
-"-54 -222 CURVE",
-"-68 -202 OFFCURVE",
-"-90 -182 OFFCURVE",
-"-114 -169 CURVE",
-"-123 -181 OFFCURVE",
-"-160 -219 OFFCURVE",
-"-178 -234 CURVE"
-);
-}
-);
-width = 0;
-}
-);
 },
 {
 glyphname = barlong;
