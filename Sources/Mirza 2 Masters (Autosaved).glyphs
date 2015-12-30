@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/four-ar.above"
+"/yehThreeabove-farsi.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -32275,7 +32275,7 @@ width = 733;
 },
 {
 glyphname = "yehTwoabove-farsi.init";
-lastChange = "2015-12-17 08:34:02 +0000";
+lastChange = "2015-12-30 21:04:59 +0000";
 layers = (
 {
 components = (
@@ -32284,7 +32284,7 @@ name = "yeh-farsi.init";
 },
 {
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 4, -316}";
+transform = "{1, 0, 0, 1, 4, -267}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -32309,7 +32309,7 @@ width = 244;
 },
 {
 glyphname = "yehTwoabove-farsi.medi";
-lastChange = "2015-12-17 08:34:15 +0000";
+lastChange = "2015-12-30 21:04:59 +0000";
 layers = (
 {
 components = (
@@ -32318,7 +32318,7 @@ name = "yeh-farsi.medi";
 },
 {
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 37, -401}";
+transform = "{1, 0, 0, 1, 37, -352}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -32416,7 +32416,7 @@ width = 733;
 },
 {
 glyphname = "yehThreeabove-farsi.init";
-lastChange = "2015-12-17 08:07:07 +0000";
+lastChange = "2015-12-30 21:05:06 +0000";
 layers = (
 {
 components = (
@@ -32425,7 +32425,7 @@ name = "yeh-ar.init";
 },
 {
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 23, -329}";
+transform = "{1, 0, 0, 1, 23, -275}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -32450,7 +32450,7 @@ width = 244;
 },
 {
 glyphname = "yehThreeabove-farsi.medi";
-lastChange = "2015-12-17 08:07:22 +0000";
+lastChange = "2015-12-30 21:04:59 +0000";
 layers = (
 {
 components = (
@@ -32459,7 +32459,7 @@ name = "yeh-farsi.medi";
 },
 {
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 56, -414}";
+transform = "{1, 0, 0, 1, 56, -360}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33447,7 +33447,7 @@ unicode = 077A;
 },
 {
 glyphname = "yehbarreeTwoabove-ar.fina";
-lastChange = "2015-12-17 07:37:04 +0000";
+lastChange = "2015-12-30 21:04:59 +0000";
 layers = (
 {
 components = (
@@ -33456,7 +33456,7 @@ name = "yehbarree-ar.fina";
 },
 {
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 274, -522}";
+transform = "{1, 0, 0, 1, 274, -473}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33486,7 +33486,7 @@ width = 615;
 },
 {
 glyphname = "yehbarreeTwoabove-ar.init";
-lastChange = "2015-12-17 07:36:55 +0000";
+lastChange = "2015-12-30 21:04:59 +0000";
 layers = (
 {
 components = (
@@ -33495,7 +33495,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 4, -316}";
+transform = "{1, 0, 0, 1, 4, -267}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33520,7 +33520,7 @@ width = 244;
 },
 {
 glyphname = "yehbarreeTwoabove-ar.medi";
-lastChange = "2015-12-17 07:39:14 +0000";
+lastChange = "2015-12-30 21:04:59 +0000";
 layers = (
 {
 components = (
@@ -33529,7 +33529,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 37, -401}";
+transform = "{1, 0, 0, 1, 37, -352}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33591,7 +33591,7 @@ unicode = 077B;
 },
 {
 glyphname = "yehbarreeThreeabove-ar.fina";
-lastChange = "2015-12-17 07:34:00 +0000";
+lastChange = "2015-12-30 21:04:59 +0000";
 layers = (
 {
 components = (
@@ -33600,7 +33600,7 @@ name = "yehbarree-ar.fina";
 },
 {
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 293, -535}";
+transform = "{1, 0, 0, 1, 293, -481}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33625,7 +33625,7 @@ width = 615;
 },
 {
 glyphname = "yehbarreeThreeabove-ar.init";
-lastChange = "2015-12-17 07:29:24 +0000";
+lastChange = "2015-12-30 21:04:59 +0000";
 layers = (
 {
 components = (
@@ -33634,7 +33634,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 23, -329}";
+transform = "{1, 0, 0, 1, 23, -275}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33659,7 +33659,7 @@ width = 244;
 },
 {
 glyphname = "yehbarreeThreeabove-ar.medi";
-lastChange = "2015-12-17 07:29:42 +0000";
+lastChange = "2015-12-30 21:04:59 +0000";
 layers = (
 {
 components = (
@@ -33668,7 +33668,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 56, -414}";
+transform = "{1, 0, 0, 1, 56, -360}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
