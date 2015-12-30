@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/three-ar.above"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -76785,17 +76788,17 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "three-ar.above";
-lastChange = "2015-12-30 20:48:31 +0000";
+lastChange = "2015-12-30 21:03:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-32, 612}";
+position = "{-32, 568}";
 },
 {
 name = top;
-position = "{-26, 770}";
+position = "{-26, 800}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
