@@ -21358,7 +21358,7 @@ unicode = FB95;
 },
 {
 glyphname = "gaf-ar.init";
-lastChange = "2015-12-30 21:17:58 +0000";
+lastChange = "2015-12-30 21:18:14 +0000";
 layers = (
 {
 components = (
@@ -21367,7 +21367,7 @@ name = "kaf-ar.init";
 },
 {
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 86, -171}";
+transform = "{1, 0, 0, 1, 103, -241}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -79478,17 +79478,17 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "gafbar-ar";
-lastChange = "2015-12-30 21:17:41 +0000";
+lastChange = "2015-12-30 21:18:15 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{1, 689}";
+position = "{-16, 759}";
 },
 {
 name = top;
-position = "{1, 844}";
+position = "{-16, 914}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
