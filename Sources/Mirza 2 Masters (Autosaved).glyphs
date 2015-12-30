@@ -55951,6 +55951,82 @@ leftMetricsKey = "lamBar-ar.isol";
 rightMetricsKey = "alef-ar.isol";
 },
 {
+glyphname = uniFEFD;
+lastChange = "2015-12-30 20:39:22 +0000";
+layers = (
+{
+components = (
+{
+name = "lam_alef-ar";
+},
+{
+name = "fathatan-ar";
+transform = "{1, 0, 0, 1, 30, -179}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 447;
+},
+{
+components = (
+{
+name = "lam_alef-ar";
+},
+{
+name = "fathatan-ar";
+transform = "{1, 0, 0, 1, 30, -117}";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 495;
+}
+);
+unicode = FEFD;
+script = arabic;
+category = Letter;
+subCategory = Ligature;
+},
+{
+glyphname = uniFEFE;
+lastChange = "2015-12-30 20:39:50 +0000";
+layers = (
+{
+components = (
+{
+name = "lam_alef-ar.fina";
+},
+{
+name = "fathatan-ar";
+transform = "{1, 0, 0, 1, 50, -172}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 559;
+},
+{
+components = (
+{
+name = "lam_alef-ar.fina";
+},
+{
+name = "fathatan-ar";
+transform = "{1, 0, 0, 1, 83, -110}";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 603;
+}
+);
+unicode = FEFE;
+script = arabic;
+category = Letter;
+subCategory = Ligature;
+},
+{
 glyphname = "decimalseparator-ar";
 lastChange = "2015-12-10 02:21:22 +0000";
 layers = (
@@ -79455,76 +79531,6 @@ width = 0;
 }
 );
 unicode = FBBC;
-},
-{
-glyphname = uniFEFE;
-lastChange = "2015-12-10 02:21:22 +0000";
-layers = (
-{
-components = (
-{
-name = "lam_alef-ar.fina";
-},
-{
-name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 50, -172}";
-}
-);
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 559;
-},
-{
-components = (
-{
-name = "lam_alef-ar.fina";
-},
-{
-name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 83, -110}";
-}
-);
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 603;
-}
-);
-unicode = FEFE;
-},
-{
-glyphname = uniFEFD;
-lastChange = "2015-12-10 02:21:22 +0000";
-layers = (
-{
-components = (
-{
-name = "lam_alef-ar";
-},
-{
-name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 30, -179}";
-}
-);
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 447;
-},
-{
-components = (
-{
-name = "lam_alef-ar";
-},
-{
-name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 30, -117}";
-}
-);
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 495;
-}
-);
-unicode = FEFD;
 },
 {
 glyphname = "dots.horz.below-ar";
