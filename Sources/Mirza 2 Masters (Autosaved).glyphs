@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehThreeabove-farsi.init"
+"/gafbar-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -79479,7 +79479,7 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "gafbar-ar";
-lastChange = "2015-12-30 20:51:28 +0000";
+lastChange = "2015-12-30 21:17:41 +0000";
 layers = (
 {
 anchors = (
@@ -79515,7 +79515,7 @@ width = 0;
 anchors = (
 {
 name = _top;
-position = "{0, 684}";
+position = "{0, 660}";
 },
 {
 name = top;
