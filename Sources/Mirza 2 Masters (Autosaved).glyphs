@@ -79222,6 +79222,75 @@ category = Mark;
 subCategory = Nonspacing;
 },
 {
+glyphname = "gafbar-ar";
+lastChange = "2015-12-30 20:51:28 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{1, 689}";
+},
+{
+name = top;
+position = "{1, 844}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-44 750 OFFCURVE",
+"17 783 OFFCURVE",
+"98 820 CURVE",
+"105 853 LINE",
+"64 833 OFFCURVE",
+"-29 789 OFFCURVE",
+"-97 744 CURVE",
+"-103 709 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{0, 684}";
+},
+{
+name = top;
+position = "{0, 911}";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"-47 762 OFFCURVE",
+"29 805 OFFCURVE",
+"118 846 CURVE",
+"132 910 LINE",
+"51 874 OFFCURVE",
+"-48 820 OFFCURVE",
+"-118 776 CURVE",
+"-130 704 LINE"
+);
+}
+);
+width = 0;
+}
+);
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
+},
+{
 glyphname = "three-ar.below";
 lastChange = "2015-12-30 20:48:46 +0000";
 layers = (
@@ -79702,72 +79771,6 @@ nodes = (
 "-78 139 LINE",
 "126 139 LINE",
 "71 201 LINE"
-);
-}
-);
-width = 0;
-}
-);
-},
-{
-glyphname = "gafbar-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{1, 689}";
-},
-{
-name = top;
-position = "{1, 844}";
-}
-);
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"-44 750 OFFCURVE",
-"17 783 OFFCURVE",
-"98 820 CURVE",
-"105 853 LINE",
-"64 833 OFFCURVE",
-"-29 789 OFFCURVE",
-"-97 744 CURVE",
-"-103 709 LINE"
-);
-}
-);
-width = 0;
-},
-{
-anchors = (
-{
-name = _top;
-position = "{0, 684}";
-},
-{
-name = top;
-position = "{0, 911}";
-}
-);
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-paths = (
-{
-closed = 1;
-nodes = (
-"-47 762 OFFCURVE",
-"29 805 OFFCURVE",
-"118 846 CURVE",
-"132 910 LINE",
-"51 874 OFFCURVE",
-"-48 820 OFFCURVE",
-"-118 776 CURVE",
-"-130 704 LINE"
 );
 }
 );
