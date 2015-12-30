@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gafbar-ar"
+"/gafbar-ar/gaf-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -21358,7 +21358,7 @@ unicode = FB95;
 },
 {
 glyphname = "gaf-ar.init";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-30 21:17:58 +0000";
 layers = (
 {
 components = (
@@ -21366,9 +21366,8 @@ components = (
 name = "kaf-ar.init";
 },
 {
-disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 117, -242}";
+transform = "{1, 0, 0, 1, 86, -171}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
