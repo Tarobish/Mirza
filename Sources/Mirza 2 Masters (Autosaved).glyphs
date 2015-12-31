@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/gafTwodotsbelow-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -23070,7 +23067,7 @@ width = 402;
 },
 {
 glyphname = "gafTwodotsbelow-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:07:29 +0000";
 layers = (
 {
 components = (
