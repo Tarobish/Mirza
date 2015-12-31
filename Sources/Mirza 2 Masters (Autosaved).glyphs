@@ -29234,35 +29234,35 @@ width = 450;
 {
 color = 0;
 glyphname = "hehgoalHamzaabove-ar.fina.001";
-lastChange = "2015-12-31 01:29:36 +0000";
+lastChange = "2015-12-31 01:30:07 +0000";
 layers = (
 {
 components = (
 {
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 153, -357}";
+name = "hehgoal-ar.fina";
 },
 {
-name = "hehgoal-ar.fina";
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 197, -446}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 433;
+width = 420;
 },
 {
 components = (
 {
-name = "heh-ar.fina";
+name = "hehgoal-ar.fina";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 135, -295}";
+transform = "{1, 0, 0, 1, 201, -395}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 450;
+width = 462;
 }
 );
 },
