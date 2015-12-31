@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFE82" format="1">
-  <advance width="262"/>
-  <unicode hex="FE82"/>
-  <outline>
-    <component base="uniFE8E.short"/>
-    <component base="uni0653" xOffset="113" yOffset="-197"/>
-  </outline>
-</glyph>
