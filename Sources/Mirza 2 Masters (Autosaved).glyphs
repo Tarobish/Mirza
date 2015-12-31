@@ -21546,7 +21546,7 @@ name = "gaf-ar";
 {
 disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 514, -136}";
+transform = "{1, 0, 0, 1, 514, -126}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
