@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/gaf-ar.medi",
-"/gaf-ar"
+"/gafThreedots-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -21273,7 +21272,7 @@ name = "keheh-ar";
 {
 disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 604, -236}";
+transform = "{1, 0, 0, 1, 604, -226}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
