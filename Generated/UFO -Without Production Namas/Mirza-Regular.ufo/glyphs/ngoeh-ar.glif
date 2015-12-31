@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ngoeh-ar" format="1">
-  <advance width="773"/>
-  <unicode hex="06B1"/>
-  <outline>
-    <component base="gaf-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="589" yOffset="-75"/>
-  </outline>
-</glyph>

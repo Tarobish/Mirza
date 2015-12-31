@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hehVinvertedabove-ar.medi" format="1">
-  <advance width="511"/>
-  <outline>
-    <component base="hehDoachashmee-ar.medi"/>
-    <component base="vinvertedabove-ar" xOffset="127" yOffset="-243"/>
-  </outline>
-</glyph>

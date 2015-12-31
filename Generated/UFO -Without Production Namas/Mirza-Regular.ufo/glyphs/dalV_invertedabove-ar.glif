@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dalVinvertedabove-ar" format="1">
-  <advance width="413"/>
-  <unicode hex="06EE"/>
-  <outline>
-    <component base="dal-ar"/>
-    <component base="vinvertedabove-ar" xOffset="187" yOffset="-278"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gaf-ar.fina" format="1">
-  <advance width="883"/>
-  <unicode hex="FB93"/>
-  <outline>
-    <component base="keheh-ar.fina"/>
-    <component base="gafbar-ar" xOffset="618" yOffset="-228"/>
-  </outline>
-</glyph>

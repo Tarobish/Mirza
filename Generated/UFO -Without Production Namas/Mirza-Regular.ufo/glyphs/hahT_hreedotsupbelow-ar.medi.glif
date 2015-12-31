@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hahThreedotsupbelow-ar.medi" format="1">
-  <advance width="619"/>
-  <outline>
-    <component base="hah-ar.medi"/>
-    <component base="threedotsupbelow-ar" xOffset="155" yOffset="59"/>
-  </outline>
-</glyph>

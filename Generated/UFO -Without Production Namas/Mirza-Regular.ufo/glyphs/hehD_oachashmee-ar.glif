@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hehDoachashmee-ar" format="1">
-  <advance width="417"/>
-  <unicode hex="06BE"/>
-  <outline>
-    <component base="heh-ar.init"/>
-  </outline>
-</glyph>
