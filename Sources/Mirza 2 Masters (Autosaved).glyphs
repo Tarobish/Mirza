@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"/gaf-ar.fina",
-"/gaf-ar.medi"
+"/gaf-ar.medi",
+"/gaf-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -21248,7 +21248,7 @@ width = 402;
 },
 {
 glyphname = "gaf-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:05:34 +0000";
 layers = (
 {
 components = (
@@ -21258,7 +21258,7 @@ name = "keheh-ar";
 {
 disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 610, -240}";
+transform = "{1, 0, 0, 1, 595, -248}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21273,7 +21273,7 @@ name = "keheh-ar";
 {
 disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 617, -226}";
+transform = "{1, 0, 0, 1, 604, -236}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
