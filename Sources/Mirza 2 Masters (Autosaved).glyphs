@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ngoeh-ar"
+"/ngoeh-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -24344,7 +24344,7 @@ unicode = FBD5;
 },
 {
 glyphname = "ngoeh-ar";
-lastChange = "2015-12-31 03:01:38 +0000";
+lastChange = "2015-12-31 03:01:39 +0000";
 layers = (
 {
 components = (
@@ -24379,7 +24379,7 @@ unicode = 06B1;
 },
 {
 glyphname = "ngoeh-ar.fina";
-lastChange = "2015-12-31 03:01:15 +0000";
+lastChange = "2015-12-31 03:01:45 +0000";
 layers = (
 {
 components = (
@@ -24402,7 +24402,7 @@ name = "gaf-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 619, -24}";
+transform = "{1, 0, 0, 1, 623, -18}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
