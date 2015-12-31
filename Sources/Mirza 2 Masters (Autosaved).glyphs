@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehTwoabove-farsi.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -33214,7 +33217,7 @@ width = 325;
 },
 {
 glyphname = "yehTwoabove-farsi";
-lastChange = "2015-12-17 08:32:28 +0000";
+lastChange = "2015-12-31 01:47:17 +0000";
 layers = (
 {
 components = (
@@ -33222,9 +33225,8 @@ components = (
 name = "yeh-farsi";
 },
 {
-disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 232, -462}";
+transform = "{1, 0, 0, 1, 206, -429}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33237,9 +33239,8 @@ components = (
 name = "yeh-farsi";
 },
 {
-disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 236, -465}";
+transform = "{1, 0, 0, 1, 184, -435}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -33251,7 +33252,7 @@ unicode = 0775;
 },
 {
 glyphname = "yehTwoabove-farsi.fina";
-lastChange = "2015-12-17 08:33:25 +0000";
+lastChange = "2015-12-31 01:47:20 +0000";
 layers = (
 {
 components = (
@@ -33259,9 +33260,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 300, -533}";
+transform = "{1, 0, 0, 1, 300, -521}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
