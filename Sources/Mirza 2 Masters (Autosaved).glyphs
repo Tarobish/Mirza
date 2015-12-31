@@ -1111,7 +1111,7 @@ subCategory = Other;
 },
 {
 glyphname = "Longdotlessbeh-ar.medi";
-lastChange = "2015-12-31 03:33:19 +0000";
+lastChange = "2015-12-31 03:33:57 +0000";
 layers = (
 {
 anchors = (
@@ -1169,9 +1169,59 @@ nodes = (
 width = 458;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{10, -29}";
+},
+{
+name = top;
+position = "{28, 262}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"360 227 LINE",
+"360 227 OFFCURVE",
+"354 139 OFFCURVE",
+"281 139 CURVE SMOOTH",
+"-10 139 LINE SMOOTH",
+"-34 139 OFFCURVE",
+"-80 120 OFFCURVE",
+"-80 71 CURVE SMOOTH",
+"-80 31 OFFCURVE",
+"-49 0 OFFCURVE",
+"-10 0 CURVE SMOOTH",
+"289 0 LINE SMOOTH",
+"322 0 OFFCURVE",
+"347 11 OFFCURVE",
+"364 23 CURVE SMOOTH",
+"380 35 OFFCURVE",
+"389 48 OFFCURVE",
+"390 50 CURVE",
+"391 48 OFFCURVE",
+"396 36 OFFCURVE",
+"414 23 CURVE SMOOTH",
+"431 11 OFFCURVE",
+"456 0 OFFCURVE",
+"496 0 CURVE SMOOTH",
+"556 0 LINE",
+"556 139 LINE",
+"482 139 LINE SMOOTH",
+"453 139 OFFCURVE",
+"433 146 OFFCURVE",
+"421 159 CURVE SMOOTH",
+"398 186 OFFCURVE",
+"411 246 OFFCURVE",
+"411 246 CURVE"
+);
+}
+);
+width = 556;
 }
 );
 script = arabic;
