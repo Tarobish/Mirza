@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/wawThreeAbove-ar"
+"/wawThreeAbove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -31012,7 +31012,7 @@ unicode = 0779;
 },
 {
 glyphname = "wawThreeAbove-ar.fina";
-lastChange = "2015-12-17 08:25:26 +0000";
+lastChange = "2015-12-31 01:32:25 +0000";
 layers = (
 {
 components = (
@@ -31020,9 +31020,8 @@ components = (
 name = "waw-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 175, -274}";
+transform = "{1, 0, 0, 1, 205, -270}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31037,7 +31036,7 @@ name = "waw-ar.fina";
 {
 disableAlignment = 1;
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 194, -256}";
+transform = "{1, 0, 0, 1, 183, -177}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
