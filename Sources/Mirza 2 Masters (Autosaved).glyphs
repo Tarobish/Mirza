@@ -20313,7 +20313,7 @@ unicode = 06A9;
 },
 {
 glyphname = "keheh-ar.fina";
-lastChange = "2015-12-31 02:45:19 +0000";
+lastChange = "2015-12-31 02:45:27 +0000";
 layers = (
 {
 anchors = (
@@ -20411,7 +20411,7 @@ position = "{394, -48}";
 },
 {
 name = top;
-position = "{605, 581}";
+position = "{609, 577}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -21539,7 +21539,7 @@ width = 879;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2015-12-31 02:45:19 +0000";
+lastChange = "2015-12-31 02:45:27 +0000";
 layers = (
 {
 components = (
@@ -21562,7 +21562,7 @@ name = "keheh-ar.fina";
 },
 {
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 614, -224}";
+transform = "{1, 0, 0, 1, 618, -228}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
