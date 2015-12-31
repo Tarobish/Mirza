@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBB4" format="1">
+  <advance width="0"/>
+  <unicode hex="FBB4"/>
+  <outline>
+    <contour>
+      <point x="41" y="821"/>
+      <point x="17" y="796"/>
+      <point x="-2" y="778" type="curve"/>
+      <point x="-16" y="798"/>
+      <point x="-38" y="818"/>
+      <point x="-62" y="831" type="curve"/>
+      <point x="-71" y="819"/>
+      <point x="-108" y="781"/>
+      <point x="-126" y="766" type="curve"/>
+      <point x="-97" y="745"/>
+      <point x="-73" y="718"/>
+      <point x="-56" y="698" type="curve"/>
+      <point x="-39" y="712"/>
+      <point x="-13" y="738"/>
+      <point x="1" y="753" type="curve"/>
+      <point x="22" y="735"/>
+      <point x="41" y="715"/>
+      <point x="54" y="698" type="curve"/>
+      <point x="76" y="715"/>
+      <point x="109" y="750"/>
+      <point x="117" y="762" type="curve"/>
+      <point x="106" y="786"/>
+      <point x="79" y="815"/>
+      <point x="48" y="831" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-5" y="843" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-5" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEF8" format="1">
+  <advance width="603"/>
+  <unicode hex="FEF8"/>
+  <outline>
+    <component base="uniFEFC"/>
+    <component base="uni0654" xOffset="63" yOffset="-111"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam_alef-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>lam_alef-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

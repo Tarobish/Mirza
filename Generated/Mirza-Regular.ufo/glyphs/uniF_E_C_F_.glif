@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFECF" format="1">
+  <advance width="384"/>
+  <unicode hex="FECF"/>
+  <outline>
+    <component base="uniFECB"/>
+    <component base="uniFBB2" xOffset="168" yOffset="-313"/>
+  </outline>
+</glyph>
