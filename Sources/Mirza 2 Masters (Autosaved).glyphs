@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/behThreedotshorizontalbelow-ar.init"
+"/Longdotlessbeh-ar.init/behThreedotshorizontalbelow-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -1004,17 +1004,17 @@ unicode = 007A;
 },
 {
 glyphname = "Longdotlessbeh-ar.init";
-lastChange = "2015-12-31 03:32:44 +0000";
+lastChange = "2015-12-31 03:34:49 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{178, -25}";
+position = "{139, -25}";
 },
 {
 name = top;
-position = "{155, 283}";
+position = "{116, 283}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4440,12 +4440,16 @@ width = 924;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.init";
-lastChange = "2015-12-31 03:34:24 +0000";
+lastChange = "2015-12-31 03:34:48 +0000";
 layers = (
 {
 components = (
 {
 name = "Longdotlessbeh-ar.init";
+},
+{
+name = "dots.horz.below-ar";
+transform = "{1, 0, 0, 1, 138, 150}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
