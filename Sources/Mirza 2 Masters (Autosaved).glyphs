@@ -30943,7 +30943,7 @@ unicode = 0778;
 },
 {
 glyphname = "wawTwoabove-ar.fina";
-lastChange = "2015-12-31 01:31:13 +0000";
+lastChange = "2015-12-31 01:31:33 +0000";
 layers = (
 {
 components = (
@@ -30965,9 +30965,8 @@ components = (
 name = "waw-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 166, -253}";
+transform = "{1, 0, 0, 1, 186, -254}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
