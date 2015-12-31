@@ -31957,7 +31957,7 @@ unicode = FC90;
 },
 {
 glyphname = "alefTwoabove-ar";
-lastChange = "2015-12-31 01:43:09 +0000";
+lastChange = "2015-12-31 01:43:25 +0000";
 layers = (
 {
 components = (
@@ -31967,7 +31967,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 30, -53}";
+transform = "{1, 0, 0, 1, 30, -48}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31978,17 +31978,15 @@ width = 155;
 components = (
 {
 name = "alef-ar.short";
-transform = "{1, 0, 0, 1, 78, 0}";
 },
 {
-disableAlignment = 1;
-name = "two-ar.small";
-transform = "{0.882, 0, 0, 0.882, -18, 264}";
+name = "two-ar.above";
+transform = "{1, 0, 0, 1, 82, 123}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 280;
+width = 202;
 }
 );
 unicode = 0773;
