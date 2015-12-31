@@ -24389,7 +24389,7 @@ unicode = 06B1;
 },
 {
 glyphname = "ngoeh-ar.fina";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:27:06 +0000";
 layers = (
 {
 components = (
@@ -24426,7 +24426,7 @@ unicode = FB9B;
 },
 {
 glyphname = "ngoeh-ar.medi";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:26:50 +0000";
 layers = (
 {
 components = (
@@ -24434,9 +24434,8 @@ components = (
 name = "gaf-ar.medi";
 },
 {
-disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 84, -116}";
+transform = "{1, 0, 0, 1, 112, -60}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24449,9 +24448,8 @@ components = (
 name = "gaf-ar.medi";
 },
 {
-disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 59, -47}";
+transform = "{1, 0, 0, 1, 132, -18}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -24463,7 +24461,7 @@ unicode = FB9D;
 },
 {
 glyphname = "ngoeh-ar.init";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:27:00 +0000";
 layers = (
 {
 components = (
@@ -24471,9 +24469,8 @@ components = (
 name = "gaf-ar.init";
 },
 {
-disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 65, -115}";
+transform = "{1, 0, 0, 1, 92, -72}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24486,9 +24483,8 @@ components = (
 name = "gaf-ar.init";
 },
 {
-disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 44, -51}";
+transform = "{1, 0, 0, 1, 130, -16}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -24500,7 +24496,7 @@ unicode = FB9C;
 },
 {
 glyphname = "gueh-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:27:42 +0000";
 layers = (
 {
 components = (
@@ -29229,6 +29225,41 @@ transform = "{1, 0, 0, 1, 135, -295}";
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 width = 450;
+}
+);
+},
+{
+color = 0;
+glyphname = "hehgoalHamzaabove-ar.fina.001";
+lastChange = "2015-12-31 01:30:08 +0000";
+layers = (
+{
+components = (
+{
+name = "hehgoal-ar.fina";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 197, -446}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 420;
+},
+{
+components = (
+{
+name = "hehgoal-ar.fina";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 201, -395}";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 462;
 }
 );
 },
