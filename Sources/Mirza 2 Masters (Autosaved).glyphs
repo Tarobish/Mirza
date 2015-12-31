@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/behThreedotshorizontalbelow-ar.init",
+"/Longdotlessbeh-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -1001,12 +1005,45 @@ unicode = 007A;
 },
 {
 glyphname = "Longdotlessbeh-ar.init";
-lastChange = "2015-12-31 03:30:50 +0000";
+lastChange = "2015-12-31 03:31:34 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"287 280 OFFCURVE",
+"275 260 OFFCURVE",
+"261 230 CURVE",
+"284 203 OFFCURVE",
+"301 182 OFFCURVE",
+"322 158 CURVE",
+"322 158 OFFCURVE",
+"304 98 OFFCURVE",
+"227 98 CURVE SMOOTH",
+"-21 98 LINE SMOOTH",
+"-50 98 OFFCURVE",
+"-70 77 OFFCURVE",
+"-70 50 CURVE",
+"-70 22 OFFCURVE",
+"-49 0 OFFCURVE",
+"-21 0 CURVE",
+"219 0 LINE SMOOTH",
+"267 0 OFFCURVE",
+"301 19 OFFCURVE",
+"325 56 CURVE SMOOTH",
+"346 89 OFFCURVE",
+"356 122 OFFCURVE",
+"356 165 CURVE SMOOTH",
+"356 215 OFFCURVE",
+"337 263 OFFCURVE",
+"304 299 CURVE"
+);
+}
+);
+width = 416;
 },
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
