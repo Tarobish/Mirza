@@ -21884,7 +21884,7 @@ unicode = FB95;
 {
 color = 5;
 glyphname = "gaf-ar.medi.001";
-lastChange = "2015-12-31 01:24:52 +0000";
+lastChange = "2015-12-31 01:25:05 +0000";
 layers = (
 {
 anchors = (
@@ -21894,7 +21894,7 @@ position = "{266, -26}";
 },
 {
 name = top;
-position = "{112, 491}";
+position = "{107, 491}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22100,6 +22100,27 @@ nodes = (
 "678 0 CURVE SMOOTH",
 "741 0 LINE",
 "741 139 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"467 592 OFFCURVE",
+"472 613 OFFCURVE",
+"471 633 CURVE",
+"396 612 OFFCURVE",
+"342 582 OFFCURVE",
+"304 551 CURVE SMOOTH",
+"252 507 OFFCURVE",
+"231 461 OFFCURVE",
+"227 434 CURVE",
+"239 424 LINE",
+"255 446 OFFCURVE",
+"281 480 OFFCURVE",
+"332 514 CURVE SMOOTH",
+"364 534 OFFCURVE",
+"405 555 OFFCURVE",
+"459 572 CURVE"
 );
 }
 );
