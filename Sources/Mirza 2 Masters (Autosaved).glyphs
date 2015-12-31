@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/hehgoalHamzaabove-ar.fina.001"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -29229,16 +29232,18 @@ width = 450;
 );
 },
 {
+color = 0;
 glyphname = "hehgoalHamzaabove-ar.fina.001";
+lastChange = "2015-12-31 01:29:32 +0000";
 layers = (
 {
 components = (
 {
-name = "heh-ar.fina";
-},
-{
 name = "hamzaabove-ar";
 transform = "{1, 0, 0, 1, 153, -357}";
+},
+{
+name = "hehgoal-ar.fina";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
