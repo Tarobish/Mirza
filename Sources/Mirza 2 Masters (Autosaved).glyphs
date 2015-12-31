@@ -21285,7 +21285,7 @@ unicode = 06AF;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2015-12-31 01:04:15 +0000";
+lastChange = "2015-12-31 01:04:28 +0000";
 layers = (
 {
 components = (
@@ -21295,7 +21295,7 @@ name = "keheh-ar.fina";
 {
 disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 601, -237}";
+transform = "{1, 0, 0, 1, 601, -247}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
