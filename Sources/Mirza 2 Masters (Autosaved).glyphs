@@ -32687,7 +32687,7 @@ width = 325;
 },
 {
 glyphname = "yehVinverted-farsi";
-lastChange = "2015-12-31 01:47:53 +0000";
+lastChange = "2015-12-31 01:48:04 +0000";
 layers = (
 {
 components = (
@@ -32695,8 +32695,9 @@ components = (
 name = "alefMaksura-ar";
 },
 {
+disableAlignment = 1;
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 191, -565}";
+transform = "{1, 0, 0, 1, 223, -565}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
