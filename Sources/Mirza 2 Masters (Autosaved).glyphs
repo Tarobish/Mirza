@@ -1000,6 +1000,44 @@ width = 600;
 unicode = 007A;
 },
 {
+glyphname = "Longdotlessbeh-ar.init";
+lastChange = "2015-12-31 03:30:50 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+},
+{
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 600;
+}
+);
+script = arabic;
+category = Letter;
+subCategory = Other;
+},
+{
+glyphname = "Longdotlessbeh-ar.medi";
+lastChange = "2015-12-31 03:30:27 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+},
+{
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 600;
+}
+);
+script = arabic;
+category = Letter;
+subCategory = Other;
+},
+{
 glyphname = "hamza-ar";
 lastChange = "2015-12-10 02:21:21 +0000";
 layers = (
@@ -80771,38 +80809,6 @@ width = 0;
 );
 category = Mark;
 subCategory = Spacing;
-},
-{
-glyphname = "Longdotlessbeh-ar.init";
-lastChange = "2015-12-31 03:30:01 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-},
-{
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 600;
-}
-);
-},
-{
-glyphname = "Longdotlessbeh-ar.medi";
-lastChange = "2015-12-31 03:30:10 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-},
-{
-layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
-name = Bold;
-width = 600;
-}
-);
 }
 );
 instances = (
