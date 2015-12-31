@@ -31957,7 +31957,7 @@ unicode = FC90;
 },
 {
 glyphname = "alefTwoabove-ar";
-lastChange = "2015-12-31 01:43:02 +0000";
+lastChange = "2015-12-31 01:43:09 +0000";
 layers = (
 {
 components = (
@@ -31965,8 +31965,9 @@ components = (
 name = "alef-ar.short";
 },
 {
+disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 97, 60}";
+transform = "{1, 0, 0, 1, 30, -53}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
