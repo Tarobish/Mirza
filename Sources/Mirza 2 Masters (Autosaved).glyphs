@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"/gafbar-ar/gaf-ar.init",
 "/gaf-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -21359,7 +21358,7 @@ unicode = FB95;
 },
 {
 glyphname = "gaf-ar.init";
-lastChange = "2015-12-31 01:02:56 +0000";
+lastChange = "2015-12-31 01:02:59 +0000";
 layers = (
 {
 components = (
@@ -21382,7 +21381,7 @@ name = "kaf-ar.init";
 },
 {
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 135, -226}";
+transform = "{1, 0, 0, 1, 125, -226}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -79478,7 +79477,7 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "gafbar-ar";
-lastChange = "2015-12-31 01:02:56 +0000";
+lastChange = "2015-12-31 01:02:59 +0000";
 layers = (
 {
 anchors = (
@@ -79514,7 +79513,7 @@ width = 0;
 anchors = (
 {
 name = _top;
-position = "{-19, 805}";
+position = "{-9, 805}";
 },
 {
 name = top;
