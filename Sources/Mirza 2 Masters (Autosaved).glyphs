@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/Longdotlessbeh-ar.init/behThreedotshorizontalbelow-ar.init"
+"/behThreedotshorizontalbelow-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -4440,7 +4440,7 @@ width = 924;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.init";
-lastChange = "2015-12-31 03:34:48 +0000";
+lastChange = "2015-12-31 03:35:10 +0000";
 layers = (
 {
 components = (
@@ -4457,53 +4457,13 @@ name = Regular;
 width = 416;
 },
 {
-anchors = (
-{
-name = top;
-position = "{223, 335}";
-}
-);
 components = (
 {
-name = "dots.horz.below-ar";
-transform = "{1, 0, 0, 1, 184, 103}";
+name = "Longdotlessbeh-ar.init";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-paths = (
-{
-closed = 1;
-nodes = (
-"307 320 OFFCURVE",
-"290 293 OFFCURVE",
-"267 247 CURVE",
-"294 220 OFFCURVE",
-"313 201 OFFCURVE",
-"336 176 CURVE",
-"320 152 OFFCURVE",
-"284 139 OFFCURVE",
-"257 139 CURVE SMOOTH",
-"0 139 LINE SMOOTH",
-"-34 139 OFFCURVE",
-"-70 113 OFFCURVE",
-"-70 70 CURVE SMOOTH",
-"-70 31 OFFCURVE",
-"-39 0 OFFCURVE",
-"0 0 CURVE SMOOTH",
-"249 0 LINE SMOOTH",
-"302 0 OFFCURVE",
-"344 22 OFFCURVE",
-"371 65 CURVE SMOOTH",
-"394 101 OFFCURVE",
-"406 138 OFFCURVE",
-"406 182 CURVE SMOOTH",
-"406 288 OFFCURVE",
-"335 350 OFFCURVE",
-"335 350 CURVE"
-);
-}
-);
 width = 456;
 }
 );
