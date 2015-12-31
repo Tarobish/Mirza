@@ -29229,6 +29229,39 @@ width = 450;
 );
 },
 {
+glyphname = "hehgoalHamzaabove-ar.fina.001";
+layers = (
+{
+components = (
+{
+name = "heh-ar.fina";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 153, -357}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 433;
+},
+{
+components = (
+{
+name = "heh-ar.fina";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 135, -295}";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 450;
+}
+);
+},
+{
 glyphname = "hehgoalHamzaabove-ar.init";
 lastChange = "2015-12-10 02:21:22 +0000";
 layers = (
