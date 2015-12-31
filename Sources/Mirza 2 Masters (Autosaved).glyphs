@@ -21536,7 +21536,7 @@ width = 402;
 },
 {
 glyphname = "gafThreedots-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:06:01 +0000";
 layers = (
 {
 components = (
@@ -21546,7 +21546,7 @@ name = "gaf-ar";
 {
 disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 514, -126}";
+transform = "{1, 0, 0, 1, 514, -136}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
