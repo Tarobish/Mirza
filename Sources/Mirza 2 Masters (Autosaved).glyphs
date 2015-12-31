@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehbarreeThreeabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -34577,7 +34574,7 @@ width = 325;
 },
 {
 glyphname = "yehbarreeThreeabove-ar";
-lastChange = "2015-12-17 07:33:33 +0000";
+lastChange = "2015-12-31 01:33:19 +0000";
 layers = (
 {
 components = (
@@ -34587,7 +34584,7 @@ name = "yehbarree-ar";
 {
 disableAlignment = 1;
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 281, -208}";
+transform = "{1, 0, 0, 1, 281, -253}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
