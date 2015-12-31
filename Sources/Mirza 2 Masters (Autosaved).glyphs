@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehVinverted-farsi.fina"
+"/yehVinverted-farsi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -32687,7 +32687,7 @@ width = 325;
 },
 {
 glyphname = "yehVinverted-farsi";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:47:53 +0000";
 layers = (
 {
 components = (
@@ -32695,9 +32695,8 @@ components = (
 name = "alefMaksura-ar";
 },
 {
-disableAlignment = 1;
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 218, -590}";
+transform = "{1, 0, 0, 1, 191, -565}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -32723,7 +32722,7 @@ unicode = 063D;
 },
 {
 glyphname = "yehVinverted-farsi.fina";
-lastChange = "2015-12-31 01:47:46 +0000";
+lastChange = "2015-12-31 01:47:47 +0000";
 layers = (
 {
 components = (
