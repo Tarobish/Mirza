@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefTwoabove-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -31991,23 +31994,21 @@ unicode = 0773;
 },
 {
 glyphname = "alefTwoabove-ar.fina";
-lastChange = "2015-12-10 02:48:24 +0000";
+lastChange = "2015-12-31 01:43:49 +0000";
 layers = (
 {
 components = (
 {
 name = "alef-ar.fina.short";
-transform = "{1, 0, 0, 1, 59, 0}";
 },
 {
-disableAlignment = 1;
-name = "two-ar.small";
-transform = "{0.882, 0, 0, 0.882, 1, 176}";
+name = "two-ar.above";
+transform = "{1, 0, 0, 1, 120, 61}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 321;
+width = 262;
 },
 {
 components = (
