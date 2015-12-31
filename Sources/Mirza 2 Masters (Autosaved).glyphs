@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/behThreedotshorizontalbelow-ar.medi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -4474,7 +4471,7 @@ width = 456;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.medi";
-lastChange = "2015-12-31 03:35:46 +0000";
+lastChange = "2015-12-31 03:35:53 +0000";
 layers = (
 {
 components = (
@@ -4494,6 +4491,10 @@ width = 458;
 components = (
 {
 name = "Longdotlessbeh-ar.medi";
+},
+{
+name = "dots.horz.below-ar";
+transform = "{1, 0, 0, 1, 186, 120}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
