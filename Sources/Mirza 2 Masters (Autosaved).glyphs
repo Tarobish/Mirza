@@ -21580,7 +21580,7 @@ unicode = FB93;
 {
 color = 5;
 glyphname = "gaf-ar.fina.001";
-lastChange = "2015-12-31 01:23:54 +0000";
+lastChange = "2015-12-31 01:24:10 +0000";
 layers = (
 {
 anchors = (
@@ -21590,7 +21590,7 @@ position = "{440, -27}";
 },
 {
 name = top;
-position = "{314, 490}";
+position = "{294, 500}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
