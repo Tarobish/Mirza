@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="highhamzaYeh-ar.fina" format="1">
+  <advance width="885"/>
+  <outline>
+    <contour>
+      <point x="481" y="139" type="line"/>
+      <point x="453" y="106"/>
+      <point x="430" y="64"/>
+      <point x="401" y="3" type="curve" smooth="yes"/>
+      <point x="401" y="3"/>
+      <point x="448" y="-3"/>
+      <point x="478" y="-13" type="curve" smooth="yes"/>
+      <point x="511" y="-24"/>
+      <point x="531" y="-37"/>
+      <point x="532" y="-49" type="curve"/>
+      <point x="529" y="-56"/>
+      <point x="505" y="-76"/>
+      <point x="460" y="-96" type="curve" smooth="yes"/>
+      <point x="430" y="-108"/>
+      <point x="370" y="-128"/>
+      <point x="302" y="-128" type="curve" smooth="yes"/>
+      <point x="233" y="-128"/>
+      <point x="185" y="-113"/>
+      <point x="158" y="-80" type="curve" smooth="yes"/>
+      <point x="130" y="-46"/>
+      <point x="130" y="8"/>
+      <point x="141" y="67" type="curve"/>
+      <point x="98" y="82" type="line"/>
+      <point x="76" y="29"/>
+      <point x="62" y="-24"/>
+      <point x="60" y="-65" type="curve" smooth="yes"/>
+      <point x="59" y="-101"/>
+      <point x="61" y="-134"/>
+      <point x="74" y="-163" type="curve" smooth="yes"/>
+      <point x="89" y="-200"/>
+      <point x="116" y="-229"/>
+      <point x="153" y="-250" type="curve" smooth="yes"/>
+      <point x="191" y="-270"/>
+      <point x="238" y="-281"/>
+      <point x="293" y="-281" type="curve" smooth="yes"/>
+      <point x="355" y="-281"/>
+      <point x="420" y="-265"/>
+      <point x="476" y="-235" type="curve" smooth="yes"/>
+      <point x="530" y="-206"/>
+      <point x="573" y="-167"/>
+      <point x="594" y="-126" type="curve" smooth="yes"/>
+      <point x="614" y="-88"/>
+      <point x="619" y="-57"/>
+      <point x="619" y="-38" type="curve" smooth="yes"/>
+      <point x="619" y="-24"/>
+      <point x="616" y="-11"/>
+      <point x="613" y="0" type="curve"/>
+      <point x="885" y="0" type="line"/>
+      <point x="885" y="139" type="line"/>
+    </contour>
+    <component base="hamzaabove-ar" xOffset="631" yOffset="-484"/>
+    <contour>
+      <point x="261" y="87" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="312" y="-317" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

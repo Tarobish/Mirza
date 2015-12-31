@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehTwodotshorizontalaboveTahabove-ar" format="1">
+  <advance width="346"/>
+  <unicode hex="0771"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="TahSmallTwoDotsabove-ar" xOffset="167" yOffset="-269"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wawDotcenter-ar.fina" format="1">
+  <advance width="507"/>
+  <outline>
+    <component base="waw-ar.fina" xOffset="50"/>
+    <component base="dotcenter-ar" xOffset="145" yOffset="-234"/>
+  </outline>
+</glyph>
