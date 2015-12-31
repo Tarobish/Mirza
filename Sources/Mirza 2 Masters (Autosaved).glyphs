@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefMadda-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -1850,7 +1847,7 @@ width = 289;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2015-12-31 02:46:43 +0000";
+lastChange = "2015-12-31 02:47:07 +0000";
 layers = (
 {
 components = (
@@ -1861,7 +1858,7 @@ name = "alef-ar.short";
 },
 {
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 100, -88}";
+transform = "{1, 0, 0, 1, 100, -200}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -73124,13 +73121,13 @@ unicode = 0652;
 },
 {
 glyphname = "madda-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 02:47:07 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-16, 698}";
+position = "{-16, 810}";
 },
 {
 name = top;
