@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/gafThreedots-ar.init",
-"/gafThreedots-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -22545,7 +22541,7 @@ width = 402;
 },
 {
 glyphname = "gafThreedots-ar";
-lastChange = "2015-12-31 01:06:13 +0000";
+lastChange = "2015-12-31 01:38:00 +0000";
 layers = (
 {
 components = (
@@ -22555,7 +22551,7 @@ name = "gaf-ar";
 {
 disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 514, -126}";
+transform = "{1, 0, 0, 1, 585, -84}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22570,7 +22566,7 @@ name = "gaf-ar";
 {
 disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 505, -75}";
+transform = "{1, 0, 0, 1, 614, -17}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -22582,7 +22578,7 @@ unicode = 06B4;
 },
 {
 glyphname = "gafThreedots-ar.fina";
-lastChange = "2015-12-31 01:37:24 +0000";
+lastChange = "2015-12-31 01:37:39 +0000";
 layers = (
 {
 components = (
@@ -22607,7 +22603,7 @@ name = "gaf-ar.fina";
 {
 disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 484, -83}";
+transform = "{1, 0, 0, 1, 617, -15}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -22618,7 +22614,7 @@ width = 883;
 },
 {
 glyphname = "gafThreedots-ar.init";
-lastChange = "2015-12-31 01:37:20 +0000";
+lastChange = "2015-12-31 01:37:34 +0000";
 layers = (
 {
 components = (
