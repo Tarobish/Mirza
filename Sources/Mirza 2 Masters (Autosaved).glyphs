@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/kafswash-ar",
-"/gaf-ar.001"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -21286,7 +21282,7 @@ unicode = 06AF;
 {
 color = 5;
 glyphname = "gaf-ar.001";
-lastChange = "2015-12-31 01:08:48 +0000";
+lastChange = "2015-12-31 01:08:59 +0000";
 layers = (
 {
 anchors = (
@@ -21390,7 +21386,7 @@ nodes = (
 );
 }
 );
-width = 773;
+width = 864;
 },
 {
 anchors = (
