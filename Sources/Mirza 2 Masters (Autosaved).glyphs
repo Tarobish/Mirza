@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ngoeh-ar.init"
+"/lamVabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -24449,7 +24449,7 @@ unicode = FB9D;
 },
 {
 glyphname = "ngoeh-ar.init";
-lastChange = "2015-12-31 03:01:55 +0000";
+lastChange = "2015-12-31 03:01:57 +0000";
 layers = (
 {
 components = (
@@ -25216,7 +25216,7 @@ unicode = FEDF;
 },
 {
 glyphname = "lamVabove-ar";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 03:02:05 +0000";
 layers = (
 {
 components = (
