@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gafThreedots-ar.init"
+"/ngoeh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -22640,7 +22640,7 @@ width = 319;
 },
 {
 glyphname = "gafThreedots-ar.medi";
-lastChange = "2015-12-31 03:01:15 +0000";
+lastChange = "2015-12-31 03:01:33 +0000";
 layers = (
 {
 components = (
@@ -24344,7 +24344,7 @@ unicode = FBD5;
 },
 {
 glyphname = "ngoeh-ar";
-lastChange = "2015-12-31 03:01:15 +0000";
+lastChange = "2015-12-31 03:01:38 +0000";
 layers = (
 {
 components = (
@@ -24367,7 +24367,7 @@ name = "gaf-ar";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 628, -20}";
+transform = "{1, 0, 0, 1, 618, -20}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
