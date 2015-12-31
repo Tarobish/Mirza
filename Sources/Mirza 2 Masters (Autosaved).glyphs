@@ -105,7 +105,7 @@ locked = 1;
 position = "{92, 608}";
 },
 {
-position = "{201, 637}";
+position = "{201, 608}";
 },
 {
 position = "{40, -19}";
@@ -30977,7 +30977,7 @@ width = 457;
 },
 {
 glyphname = "wawThreeAbove-ar";
-lastChange = "2015-12-31 01:31:58 +0000";
+lastChange = "2015-12-31 01:32:11 +0000";
 layers = (
 {
 components = (
