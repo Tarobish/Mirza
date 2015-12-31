@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/ngoeh-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -24380,7 +24383,7 @@ unicode = 06B1;
 },
 {
 glyphname = "ngoeh-ar.fina";
-lastChange = "2015-12-31 01:38:26 +0000";
+lastChange = "2015-12-31 02:44:53 +0000";
 layers = (
 {
 components = (
@@ -24388,9 +24391,8 @@ components = (
 name = "gaf-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 599, -72}";
+transform = "{1, 0, 0, 1, 591, -70}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24403,9 +24405,8 @@ components = (
 name = "gaf-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 618, -13}";
+transform = "{1, 0, 0, 1, 619, -24}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
