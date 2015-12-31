@@ -1005,7 +1005,7 @@ unicode = 007A;
 },
 {
 glyphname = "Longdotlessbeh-ar.init";
-lastChange = "2015-12-31 03:31:34 +0000";
+lastChange = "2015-12-31 03:31:49 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1048,7 +1048,40 @@ width = 416;
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"307 320 OFFCURVE",
+"290 293 OFFCURVE",
+"267 247 CURVE",
+"294 220 OFFCURVE",
+"313 201 OFFCURVE",
+"336 176 CURVE",
+"320 152 OFFCURVE",
+"284 139 OFFCURVE",
+"257 139 CURVE SMOOTH",
+"0 139 LINE SMOOTH",
+"-34 139 OFFCURVE",
+"-70 113 OFFCURVE",
+"-70 70 CURVE SMOOTH",
+"-70 31 OFFCURVE",
+"-39 0 OFFCURVE",
+"0 0 CURVE SMOOTH",
+"249 0 LINE SMOOTH",
+"302 0 OFFCURVE",
+"344 22 OFFCURVE",
+"371 65 CURVE SMOOTH",
+"394 101 OFFCURVE",
+"406 138 OFFCURVE",
+"406 182 CURVE SMOOTH",
+"406 288 OFFCURVE",
+"335 350 OFFCURVE",
+"335 350 CURVE"
+);
+}
+);
+width = 456;
 }
 );
 script = arabic;
