@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/keheh-ar/gaf-ar"
+"/keheh-ar/gaf-ar",
+"/keheh-ar.fina/gaf-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -20154,7 +20155,7 @@ unicode = FEDB;
 },
 {
 glyphname = "keheh-ar";
-lastChange = "2015-12-31 02:42:42 +0000";
+lastChange = "2015-12-31 02:42:46 +0000";
 layers = (
 {
 anchors = (
@@ -21247,7 +21248,7 @@ width = 402;
 },
 {
 glyphname = "gaf-ar";
-lastChange = "2015-12-31 02:42:42 +0000";
+lastChange = "2015-12-31 02:42:46 +0000";
 layers = (
 {
 components = (
@@ -21540,7 +21541,7 @@ width = 879;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2015-12-31 02:42:11 +0000";
+lastChange = "2015-12-31 02:42:51 +0000";
 layers = (
 {
 components = (
