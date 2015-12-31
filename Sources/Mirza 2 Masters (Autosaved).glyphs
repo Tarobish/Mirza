@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehTwoabove-farsi.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -33252,7 +33249,7 @@ unicode = 0775;
 },
 {
 glyphname = "yehTwoabove-farsi.fina";
-lastChange = "2015-12-31 01:47:20 +0000";
+lastChange = "2015-12-31 01:47:25 +0000";
 layers = (
 {
 components = (
@@ -33274,9 +33271,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 287, -546}";
+transform = "{1, 0, 0, 1, 245, -511}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
