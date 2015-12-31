@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehThreeabove-farsi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -33358,7 +33355,7 @@ width = 325;
 },
 {
 glyphname = "yehThreeabove-farsi";
-lastChange = "2015-12-31 01:46:58 +0000";
+lastChange = "2015-12-31 01:47:02 +0000";
 layers = (
 {
 components = (
@@ -33380,9 +33377,8 @@ components = (
 name = "alefMaksura-ar";
 },
 {
-disableAlignment = 1;
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 238, -475}";
+transform = "{1, 0, 0, 1, 212, -435}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
