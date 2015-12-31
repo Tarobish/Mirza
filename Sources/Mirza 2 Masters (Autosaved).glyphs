@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gafThreedots-ar.medi"
+"/ngoeh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -22644,7 +22644,7 @@ width = 319;
 },
 {
 glyphname = "gafThreedots-ar.medi";
-lastChange = "2015-12-31 02:44:24 +0000";
+lastChange = "2015-12-31 02:44:26 +0000";
 layers = (
 {
 components = (
