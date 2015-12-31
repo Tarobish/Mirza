@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMadda-ar.fina"
+"/madda-ar/alefMadda-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -1889,7 +1889,7 @@ unicode = 0622;
 },
 {
 glyphname = "alefMadda-ar.fina";
-lastChange = "2015-12-31 02:47:19 +0000";
+lastChange = "2015-12-31 02:47:41 +0000";
 layers = (
 {
 components = (
@@ -1913,9 +1913,8 @@ locked = 1;
 name = "alef-ar.fina.short";
 },
 {
-disableAlignment = 1;
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 113, -83}";
+transform = "{1, 0, 0, 1, 123, -25}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -73123,7 +73122,7 @@ unicode = 0652;
 },
 {
 glyphname = "madda-ar";
-lastChange = "2015-12-31 02:47:07 +0000";
+lastChange = "2015-12-31 02:47:41 +0000";
 layers = (
 {
 anchors = (
@@ -73184,7 +73183,7 @@ width = 0;
 anchors = (
 {
 name = _top;
-position = "{-7, 662}";
+position = "{-7, 742}";
 },
 {
 name = top;
