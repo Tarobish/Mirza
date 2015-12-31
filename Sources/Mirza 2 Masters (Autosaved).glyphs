@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehVinverted-farsi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -32424,7 +32421,7 @@ unicode = 06CE;
 },
 {
 glyphname = "yehVabove-ar.fina";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:48:19 +0000";
 layers = (
 {
 components = (
@@ -32432,9 +32429,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 266, -668}";
+transform = "{1, 0, 0, 1, 282, -641}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -32447,9 +32443,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 289, -593}";
+transform = "{1, 0, 0, 1, 275, -593}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
