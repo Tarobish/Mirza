@@ -1,8 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh-ar.medi",
-"/Longdotlessbeh-ar.medi",
-"/behThreedotshorizontalbelow-ar.medi"
+"/behThreedotshorizontalbelow-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -1111,7 +1109,7 @@ subCategory = Other;
 },
 {
 glyphname = "Longdotlessbeh-ar.medi";
-lastChange = "2015-12-31 03:33:57 +0000";
+lastChange = "2015-12-31 03:34:05 +0000";
 layers = (
 {
 anchors = (
@@ -1172,11 +1170,11 @@ width = 458;
 anchors = (
 {
 name = bottom;
-position = "{10, -29}";
+position = "{183, -29}";
 },
 {
 name = top;
-position = "{28, 262}";
+position = "{201, 262}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
