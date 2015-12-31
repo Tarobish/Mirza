@@ -22576,7 +22576,7 @@ unicode = 06B4;
 },
 {
 glyphname = "gafThreedots-ar.fina";
-lastChange = "2015-12-31 02:43:58 +0000";
+lastChange = "2015-12-31 02:44:07 +0000";
 layers = (
 {
 components = (
@@ -22598,9 +22598,8 @@ components = (
 name = "gaf-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 617, -15}";
+transform = "{1, 0, 0, 1, 620, -24}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
