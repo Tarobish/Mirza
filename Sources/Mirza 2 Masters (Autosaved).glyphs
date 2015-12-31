@@ -1111,9 +1111,19 @@ subCategory = Other;
 },
 {
 glyphname = "Longdotlessbeh-ar.medi";
-lastChange = "2015-12-31 03:33:11 +0000";
+lastChange = "2015-12-31 03:33:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{149, -25}";
+},
+{
+name = top;
+position = "{156, 198}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
