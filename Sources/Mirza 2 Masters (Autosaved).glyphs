@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/hamzaabove-ar/alefHamzaabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -1560,7 +1563,7 @@ width = 289;
 },
 {
 glyphname = "alefHamzaabove-ar";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2015-12-31 02:49:30 +0000";
 layers = (
 {
 components = (
@@ -1568,9 +1571,8 @@ components = (
 name = "alef-ar.short";
 },
 {
-disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 78, -190}";
+transform = "{1, 0, 0, 1, 86, -70}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
