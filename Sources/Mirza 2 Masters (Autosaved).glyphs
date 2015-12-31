@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 "/gaf-ar.001",
-"/gaf-ar.fina.001"
+"/gaf-ar.medi.001"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -21884,7 +21884,7 @@ unicode = FB95;
 {
 color = 5;
 glyphname = "gaf-ar.medi.001";
-lastChange = "2015-12-31 01:11:20 +0000";
+lastChange = "2015-12-31 01:24:52 +0000";
 layers = (
 {
 anchors = (
@@ -21980,6 +21980,27 @@ nodes = (
 "664 0 CURVE SMOOTH",
 "707 0 LINE",
 "707 98 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"247 530 OFFCURVE",
+"248 541 OFFCURVE",
+"251 553 CURVE",
+"201 537 OFFCURVE",
+"158 517 OFFCURVE",
+"123 491 CURVE SMOOTH",
+"91 467 OFFCURVE",
+"67 437 OFFCURVE",
+"53 400 CURVE",
+"60 394 LINE",
+"82 426 OFFCURVE",
+"104 446 OFFCURVE",
+"129 464 CURVE SMOOTH",
+"165 489 OFFCURVE",
+"203 505 OFFCURVE",
+"242 520 CURVE"
 );
 }
 );
