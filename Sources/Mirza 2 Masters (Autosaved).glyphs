@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/behThreedotshorizontalbelow-ar.init"
+"/behThreedotshorizontalbelow-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -4440,7 +4440,7 @@ width = 924;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.init";
-lastChange = "2015-12-31 03:35:10 +0000";
+lastChange = "2015-12-31 03:35:18 +0000";
 layers = (
 {
 components = (
@@ -4460,6 +4460,10 @@ width = 416;
 components = (
 {
 name = "Longdotlessbeh-ar.init";
+},
+{
+name = "dots.horz.below-ar";
+transform = "{1, 0, 0, 1, 180, 119}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -4470,7 +4474,7 @@ width = 456;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.medi";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2015-12-31 03:35:23 +0000";
 layers = (
 {
 anchors = (
@@ -4487,46 +4491,6 @@ transform = "{1, 0, 0, 1, 153, 148}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"288 183 LINE",
-"283 127 OFFCURVE",
-"263 98 OFFCURVE",
-"193 98 CURVE SMOOTH",
-"-21 98 LINE SMOOTH",
-"-48 98 OFFCURVE",
-"-70 77 OFFCURVE",
-"-70 50 CURVE SMOOTH",
-"-70 22 OFFCURVE",
-"-48 0 OFFCURVE",
-"-21 0 CURVE SMOOTH",
-"212 0 LINE SMOOTH",
-"243 0 OFFCURVE",
-"269 11 OFFCURVE",
-"288 31 CURVE SMOOTH",
-"307 51 OFFCURVE",
-"310 68 OFFCURVE",
-"313 76 CURVE",
-"314 68 OFFCURVE",
-"319 50 OFFCURVE",
-"334 33 CURVE SMOOTH",
-"350 15 OFFCURVE",
-"374 0 OFFCURVE",
-"418 0 CURVE SMOOTH",
-"458 0 LINE",
-"458 98 LINE",
-"404 98 LINE SMOOTH",
-"369 98 OFFCURVE",
-"344 107 OFFCURVE",
-"328 125 CURVE SMOOTH",
-"314 141 OFFCURVE",
-"308 164 OFFCURVE",
-"310 195 CURVE"
-);
-}
-);
 width = 458;
 },
 {
