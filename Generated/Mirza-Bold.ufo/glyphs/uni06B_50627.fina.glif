@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06B50627.fina" format="1">
+  <advance width="603"/>
+  <outline>
+    <component base="uniFEFC"/>
+    <component base="uni065A" xOffset="356" yOffset="-81"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lamVabove-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alef-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>
