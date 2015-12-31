@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 "/gaf-ar.001",
-"/gaf-ar.medi.001"
+"/gaf-ar.init.001"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -21884,7 +21884,7 @@ unicode = FB95;
 {
 color = 5;
 glyphname = "gaf-ar.medi.001";
-lastChange = "2015-12-31 01:25:18 +0000";
+lastChange = "2015-12-31 01:25:24 +0000";
 layers = (
 {
 anchors = (
@@ -22014,7 +22014,7 @@ position = "{249, -30}";
 },
 {
 name = top;
-position = "{82, 556}";
+position = "{89, 570}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
