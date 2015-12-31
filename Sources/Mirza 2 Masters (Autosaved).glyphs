@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/keheh-ar/gaf-ar"
+"/gafThreedots-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -22540,7 +22540,7 @@ width = 402;
 },
 {
 glyphname = "gafThreedots-ar";
-lastChange = "2015-12-31 01:38:00 +0000";
+lastChange = "2015-12-31 02:43:50 +0000";
 layers = (
 {
 components = (
@@ -22548,9 +22548,8 @@ components = (
 name = "gaf-ar";
 },
 {
-disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 585, -84}";
+transform = "{1, 0, 0, 1, 589, -82}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22577,7 +22576,7 @@ unicode = 06B4;
 },
 {
 glyphname = "gafThreedots-ar.fina";
-lastChange = "2015-12-31 01:37:39 +0000";
+lastChange = "2015-12-31 02:43:58 +0000";
 layers = (
 {
 components = (
@@ -22585,9 +22584,8 @@ components = (
 name = "gaf-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 590, -70}";
+transform = "{1, 0, 0, 1, 591, -77}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
