@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/wawTwoabove-ar"
+"/wawTwoabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -30943,7 +30943,7 @@ unicode = 0778;
 },
 {
 glyphname = "wawTwoabove-ar.fina";
-lastChange = "2015-12-17 08:24:25 +0000";
+lastChange = "2015-12-31 01:31:13 +0000";
 layers = (
 {
 components = (
@@ -30951,9 +30951,8 @@ components = (
 name = "waw-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 166, -281}";
+transform = "{1, 0, 0, 1, 186, -262}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
