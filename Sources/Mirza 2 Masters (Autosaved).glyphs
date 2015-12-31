@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/gafThreedots-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -21643,7 +21640,7 @@ width = 319;
 },
 {
 glyphname = "gafThreedots-ar.medi";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:06:51 +0000";
 layers = (
 {
 components = (
@@ -21651,9 +21648,8 @@ components = (
 name = "gaf-ar.medi";
 },
 {
-disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 120, -87}";
+transform = "{1, 0, 0, 1, 112, -67}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21666,9 +21662,8 @@ components = (
 name = "gaf-ar.medi";
 },
 {
-disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 139, -6}";
+transform = "{1, 0, 0, 1, 133, -18}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
