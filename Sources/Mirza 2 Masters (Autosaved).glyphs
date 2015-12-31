@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/keheh-ar.fina/gaf-ar.fina",
+"/gaf-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -20310,7 +20314,7 @@ unicode = 06A9;
 },
 {
 glyphname = "keheh-ar.fina";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 02:40:43 +0000";
 layers = (
 {
 anchors = (
@@ -20320,7 +20324,7 @@ position = "{376, -30}";
 },
 {
 name = top;
-position = "{338, 142}";
+position = "{553, 489}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21538,7 +21542,7 @@ width = 879;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2015-12-31 02:40:11 +0000";
+lastChange = "2015-12-31 02:40:48 +0000";
 layers = (
 {
 components = (
@@ -21546,9 +21550,8 @@ components = (
 name = "keheh-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 601, -239}";
+transform = "{1, 0, 0, 1, 572, -277}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
