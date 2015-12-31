@@ -1,5 +1,6 @@
 {
 DisplayStrings = (
+"/keheh-ar.fina/gaf-ar.fina",
 "/keheh-ar.fina/gaf-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -20313,7 +20314,7 @@ unicode = 06A9;
 },
 {
 glyphname = "keheh-ar.fina";
-lastChange = "2015-12-31 02:41:29 +0000";
+lastChange = "2015-12-31 02:41:48 +0000";
 layers = (
 {
 anchors = (
@@ -20411,7 +20412,7 @@ position = "{394, -48}";
 },
 {
 name = top;
-position = "{310, 175}";
+position = "{572, 531}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
