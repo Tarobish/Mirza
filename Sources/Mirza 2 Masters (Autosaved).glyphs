@@ -32067,7 +32067,7 @@ unicode = 0774;
 },
 {
 glyphname = "alefThreeabove-ar.fina";
-lastChange = "2015-12-31 01:45:10 +0000";
+lastChange = "2015-12-31 01:45:17 +0000";
 layers = (
 {
 components = (
@@ -32075,8 +32075,9 @@ components = (
 name = "alef-ar.fina.short";
 },
 {
+disableAlignment = 1;
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 139, 53}";
+transform = "{1, 0, 0, 1, 53, -44}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
