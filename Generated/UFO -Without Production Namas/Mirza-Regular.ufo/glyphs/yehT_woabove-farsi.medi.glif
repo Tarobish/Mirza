@@ -3,6 +3,6 @@
   <advance width="301"/>
   <outline>
     <component base="yeh-farsi.medi"/>
-    <component base="two-ar.above" xOffset="37" yOffset="-401"/>
+    <component base="two-ar.above" xOffset="37" yOffset="-352"/>
   </outline>
 </glyph>

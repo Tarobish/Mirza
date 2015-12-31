@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefTwoabove-ar" format="1">
-  <advance width="224"/>
+  <advance width="155"/>
   <unicode hex="0773"/>
   <outline>
-    <component base="alef-ar.short" xOffset="69"/>
-    <component base="two-ar.small" xOffset="-12" yOffset="171" xScale="0.888" yScale="0.888"/>
+    <component base="alef-ar.short"/>
+    <component base="two-ar.above" xOffset="30" yOffset="-48"/>
   </outline>
 </glyph>

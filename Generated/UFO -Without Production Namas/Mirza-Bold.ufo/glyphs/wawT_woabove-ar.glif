@@ -4,6 +4,6 @@
   <unicode hex="0778"/>
   <outline>
     <component base="waw-ar"/>
-    <component base="two-ar.above" xOffset="206" yOffset="-194"/>
+    <component base="two-ar.above" xOffset="186" yOffset="-197"/>
   </outline>
 </glyph>

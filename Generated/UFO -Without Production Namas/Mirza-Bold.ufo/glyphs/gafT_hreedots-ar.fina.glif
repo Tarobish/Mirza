@@ -3,6 +3,6 @@
   <advance width="883"/>
   <outline>
     <component base="gaf-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="484" yOffset="-83"/>
+    <component base="threedotsupabove-ar" xOffset="617" yOffset="-15"/>
   </outline>
 </glyph>

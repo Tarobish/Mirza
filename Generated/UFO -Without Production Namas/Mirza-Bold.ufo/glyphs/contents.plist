@@ -588,12 +588,20 @@
 	<string>g.glif</string>
 	<key>gaf-ar</key>
 	<string>gaf-ar.glif</string>
+	<key>gaf-ar.001</key>
+	<string>gaf-ar.001.glif</string>
 	<key>gaf-ar.fina</key>
 	<string>gaf-ar.fina.glif</string>
+	<key>gaf-ar.fina.001</key>
+	<string>gaf-ar.fina.001.glif</string>
 	<key>gaf-ar.init</key>
 	<string>gaf-ar.init.glif</string>
+	<key>gaf-ar.init.001</key>
+	<string>gaf-ar.init.001.glif</string>
 	<key>gaf-ar.medi</key>
 	<string>gaf-ar.medi.glif</string>
+	<key>gaf-ar.medi.001</key>
+	<string>gaf-ar.medi.001.glif</string>
 	<key>gafRing-ar</key>
 	<string>gafR_ing-ar.glif</string>
 	<key>gafRing-ar.fina</key>
@@ -802,6 +810,8 @@
 	<string>hehgoalH_amzaabove-ar.glif</string>
 	<key>hehgoalHamzaabove-ar.fina</key>
 	<string>hehgoalH_amzaabove-ar.fina.glif</string>
+	<key>hehgoalHamzaabove-ar.fina.001</key>
+	<string>hehgoalH_amzaabove-ar.fina.001.glif</string>
 	<key>hehgoalHamzaabove-ar.init</key>
 	<string>hehgoalH_amzaabove-ar.init.glif</string>
 	<key>hehgoalHamzaabove-ar.medi</key>

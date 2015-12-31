@@ -50,7 +50,7 @@
       <point x="2" y="864" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="2" y="660" type="move" name="_top"/>
+      <point x="2" y="598" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

@@ -4,6 +4,6 @@
   <unicode hex="FB9D"/>
   <outline>
     <component base="gaf-ar.medi"/>
-    <component base="twodotshorizontalabove-ar" xOffset="84" yOffset="-116"/>
+    <component base="twodotshorizontalabove-ar" xOffset="112" yOffset="-60"/>
   </outline>
 </glyph>

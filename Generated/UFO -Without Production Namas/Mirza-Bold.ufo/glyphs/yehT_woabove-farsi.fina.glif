@@ -3,6 +3,6 @@
   <advance width="733"/>
   <outline>
     <component base="alefMaksura-ar.fina"/>
-    <component base="two-ar.above" xOffset="287" yOffset="-546"/>
+    <component base="two-ar.above" xOffset="245" yOffset="-511"/>
   </outline>
 </glyph>

@@ -3,6 +3,6 @@
   <advance width="405"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="two-ar.above" xOffset="166" yOffset="-281"/>
+    <component base="two-ar.above" xOffset="186" yOffset="-262"/>
   </outline>
 </glyph>
