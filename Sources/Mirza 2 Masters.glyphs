@@ -32421,7 +32421,7 @@ unicode = 06CE;
 },
 {
 glyphname = "yehVabove-ar.fina";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:48:19 +0000";
 layers = (
 {
 components = (
@@ -32429,9 +32429,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 266, -668}";
+transform = "{1, 0, 0, 1, 282, -641}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -32444,9 +32443,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 289, -593}";
+transform = "{1, 0, 0, 1, 275, -593}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -32684,7 +32682,7 @@ width = 325;
 },
 {
 glyphname = "yehVinverted-farsi";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:48:04 +0000";
 layers = (
 {
 components = (
@@ -32694,7 +32692,7 @@ name = "alefMaksura-ar";
 {
 disableAlignment = 1;
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 218, -590}";
+transform = "{1, 0, 0, 1, 223, -565}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -32720,7 +32718,7 @@ unicode = 063D;
 },
 {
 glyphname = "yehVinverted-farsi.fina";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2015-12-31 01:47:47 +0000";
 layers = (
 {
 components = (
@@ -32728,9 +32726,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 253, -667}";
+transform = "{1, 0, 0, 1, 285, -657}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33214,7 +33211,7 @@ width = 325;
 },
 {
 glyphname = "yehTwoabove-farsi";
-lastChange = "2015-12-17 08:32:28 +0000";
+lastChange = "2015-12-31 01:47:17 +0000";
 layers = (
 {
 components = (
@@ -33222,9 +33219,8 @@ components = (
 name = "yeh-farsi";
 },
 {
-disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 232, -462}";
+transform = "{1, 0, 0, 1, 206, -429}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33237,9 +33233,8 @@ components = (
 name = "yeh-farsi";
 },
 {
-disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 236, -465}";
+transform = "{1, 0, 0, 1, 184, -435}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -33251,7 +33246,7 @@ unicode = 0775;
 },
 {
 glyphname = "yehTwoabove-farsi.fina";
-lastChange = "2015-12-17 08:33:25 +0000";
+lastChange = "2015-12-31 01:47:25 +0000";
 layers = (
 {
 components = (
@@ -33259,9 +33254,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 300, -533}";
+transform = "{1, 0, 0, 1, 300, -521}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33274,9 +33268,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 287, -546}";
+transform = "{1, 0, 0, 1, 245, -511}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -33355,7 +33348,7 @@ width = 325;
 },
 {
 glyphname = "yehThreeabove-farsi";
-lastChange = "2015-12-17 08:32:44 +0000";
+lastChange = "2015-12-31 01:47:02 +0000";
 layers = (
 {
 components = (
@@ -33363,9 +33356,8 @@ components = (
 name = "alefMaksura-ar";
 },
 {
-disableAlignment = 1;
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 247, -467}";
+transform = "{1, 0, 0, 1, 225, -437}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33378,9 +33370,8 @@ components = (
 name = "alefMaksura-ar";
 },
 {
-disableAlignment = 1;
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 238, -475}";
+transform = "{1, 0, 0, 1, 212, -435}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -33392,7 +33383,7 @@ unicode = 0776;
 },
 {
 glyphname = "yehThreeabove-farsi.fina";
-lastChange = "2015-12-17 08:33:00 +0000";
+lastChange = "2015-12-31 01:46:51 +0000";
 layers = (
 {
 components = (
@@ -33400,9 +33391,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 301, -559}";
+transform = "{1, 0, 0, 1, 319, -529}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33415,9 +33405,8 @@ components = (
 name = "alefMaksura-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 293, -547}";
+transform = "{1, 0, 0, 1, 273, -511}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
