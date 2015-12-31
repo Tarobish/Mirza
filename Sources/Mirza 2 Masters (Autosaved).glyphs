@@ -21285,7 +21285,7 @@ unicode = 06AF;
 {
 color = 5;
 glyphname = "gaf-ar.001";
-lastChange = "2015-12-31 01:22:16 +0000";
+lastChange = "2015-12-31 01:22:21 +0000";
 layers = (
 {
 anchors = (
@@ -21516,8 +21516,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"463 593 OFFCURVE",
-"467 614 OFFCURVE",
+"466 593 OFFCURVE",
+"472 614 OFFCURVE",
 "472 634 CURVE",
 "291 591 OFFCURVE",
 "230 490 OFFCURVE",
