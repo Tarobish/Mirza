@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gafThreedots-ar"
+"/gaf-ar/gafThreedots-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -22537,7 +22537,7 @@ width = 402;
 },
 {
 glyphname = "gafThreedots-ar";
-lastChange = "2015-12-31 03:00:47 +0000";
+lastChange = "2015-12-31 03:01:07 +0000";
 layers = (
 {
 components = (
@@ -22559,9 +22559,8 @@ components = (
 name = "gaf-ar";
 },
 {
-disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 614, -17}";
+transform = "{1, 0, 0, 1, 619, -20}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
