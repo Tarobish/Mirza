@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"/Longdotlessbeh-ar.init",
-"/dotlessbeh-ar.init"
+"/dotlessbeh-ar.init",
+"/dotlessbeh-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -1005,7 +1005,7 @@ unicode = 007A;
 },
 {
 glyphname = "Longdotlessbeh-ar.init";
-lastChange = "2015-12-31 03:32:33 +0000";
+lastChange = "2015-12-31 03:32:44 +0000";
 layers = (
 {
 anchors = (
@@ -1056,6 +1056,16 @@ nodes = (
 width = 416;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{177, -30}";
+},
+{
+name = top;
+position = "{179, 335}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
