@@ -21286,7 +21286,7 @@ unicode = 06AF;
 {
 color = 5;
 glyphname = "gaf-ar.001";
-lastChange = "2015-12-31 01:08:41 +0000";
+lastChange = "2015-12-31 01:08:48 +0000";
 layers = (
 {
 anchors = (
@@ -21494,7 +21494,7 @@ nodes = (
 );
 }
 );
-width = 809;
+width = 879;
 }
 );
 },
