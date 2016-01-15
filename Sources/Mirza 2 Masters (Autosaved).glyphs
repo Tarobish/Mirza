@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.short/seven-persian.urdu/six-persian"
+"/alef-ar.short/seven-persian.urdu/seven-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -61180,7 +61180,7 @@ width = 461;
 },
 {
 glyphname = "seven-persian";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2016-01-15 04:44:12 +0000";
 layers = (
 {
 components = (
@@ -82745,6 +82745,7 @@ kerning = {
 "four-persian" = -30;
 "five-persian" = -10;
 "six-persian" = -30;
+"seven-persian" = -70;
 };
 };
 };
