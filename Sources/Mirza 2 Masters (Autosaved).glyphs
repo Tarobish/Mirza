@@ -8628,7 +8628,7 @@ width = 674;
 },
 {
 glyphname = "dal-ar";
-lastChange = "2016-01-15 02:53:36 +0000";
+lastChange = "2016-01-15 02:57:12 +0000";
 layers = (
 {
 anchors = (
@@ -82104,7 +82104,7 @@ kerning = {
 "@MMK_R_BehInti" = -20;
 "@MMK_R_HahFina" = -30;
 "@MMK_R_HahInti" = -30;
-"@MMK_R_DalIso" = -40;
+"@MMK_R_DalIso" = -30;
 "@MMK_R_Reh" = -64;
 "@MMK_R_Seen" = -40;
 "@MMK_R_Sad" = -50;
@@ -82692,6 +82692,7 @@ kerning = {
 "@MMK_R_Kaf" = 100;
 "@MMK_R_HahFina" = -20;
 "@MMK_R_HahInti" = -20;
+"@MMK_R_DalIso" = -20;
 };
 };
 };
