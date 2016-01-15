@@ -61502,7 +61502,7 @@ rightMetricsKey = "eight-ar";
 },
 {
 glyphname = "nine-persian";
-lastChange = "2016-01-15 04:48:58 +0000";
+lastChange = "2016-01-15 04:49:09 +0000";
 layers = (
 {
 components = (
@@ -82761,6 +82761,7 @@ kerning = {
 "six-persian" = -10;
 "seven-persian" = -40;
 "eight-persian" = -10;
+"nine-persian" = -20;
 };
 };
 };
