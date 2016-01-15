@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.short/alefMadda-ar.fina/noon-ar"
+"/alef-ar.short/alefMadda-ar.fina/waw-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -27649,7 +27649,7 @@ width = 522;
 },
 {
 glyphname = "noon-ar";
-lastChange = "2016-01-15 02:53:36 +0000";
+lastChange = "2016-01-15 02:59:58 +0000";
 layers = (
 {
 components = (
@@ -82701,6 +82701,7 @@ kerning = {
 "@MMK_R_Gaf" = -10;
 "@MMK_R_Feh" = 20;
 "@MMK_R_MeemIso" = -20;
+"@MMK_R_NoonIso" = -30;
 };
 };
 };
