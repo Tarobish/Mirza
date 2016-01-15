@@ -60453,7 +60453,7 @@ width = 516;
 },
 {
 glyphname = "four-persian";
-lastChange = "2016-01-15 03:19:04 +0000";
+lastChange = "2016-01-15 04:47:53 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -82357,7 +82357,7 @@ kerning = {
 "one-persian" = {
 "two-persian" = -20;
 "three-persian" = -20;
-"four-persian" = -50;
+"four-persian" = -30;
 "five-persian" = -40;
 "six-persian" = -40;
 "seven-persian" = -80;
@@ -82756,6 +82756,7 @@ kerning = {
 "zero-persian" = -10;
 "two-persian" = -10;
 "three-persian" = -10;
+"four-persian" = -20;
 };
 };
 };
