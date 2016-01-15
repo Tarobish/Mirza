@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alef-ar.short/parenright-ar/alefMadda-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -2093,7 +2096,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2015-12-31 02:47:07 +0000";
+lastChange = "2016-01-15 02:54:05 +0000";
 layers = (
 {
 components = (
@@ -82674,7 +82677,7 @@ kerning = {
 "meem_meem-ar.init" = -60;
 };
 "parenright-ar" = {
-"alefMadda-ar" = 100;
+"alefMadda-ar" = 140;
 "@MMK_R_Kaf" = 20;
 };
 };
