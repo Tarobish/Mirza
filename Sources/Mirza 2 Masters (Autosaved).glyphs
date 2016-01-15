@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/two-persian/zero-persian"
+"/two-persian/one-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -59925,7 +59925,7 @@ width = 394;
 },
 {
 glyphname = "zero-persian";
-lastChange = "2016-01-15 04:47:13 +0000";
+lastChange = "2016-01-15 04:50:39 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -82763,6 +82763,9 @@ kerning = {
 "eight-persian" = -10;
 "nine-persian" = -20;
 "one-persian" = -20;
+};
+"two-persian" = {
+"zero-persian" = -40;
 };
 };
 };
