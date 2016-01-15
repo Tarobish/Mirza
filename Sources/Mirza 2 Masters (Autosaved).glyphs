@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/two-persian/seven-persian"
+"/two-persian/eight-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -61417,7 +61417,7 @@ rightMetricsKey = "seven-ar";
 },
 {
 glyphname = "eight-persian";
-lastChange = "2016-01-15 04:48:46 +0000";
+lastChange = "2016-01-15 05:38:46 +0000";
 layers = (
 {
 components = (
@@ -82374,7 +82374,7 @@ kerning = {
 "five-persian" = -60;
 "six-persian" = -40;
 "seven-persian" = -30;
-"eight-persian" = -120;
+"eight-persian" = -80;
 "nine-persian" = -60;
 "zero-persian" = -60;
 };
