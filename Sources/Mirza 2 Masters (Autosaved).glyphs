@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.short/alefMadda-ar.fina/alefMaksura-ar"
+"/alef-ar.short/alefMadda-ar.fina/gaf-ar.001"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -21791,7 +21791,7 @@ unicode = 06AF;
 {
 color = 5;
 glyphname = "gaf-ar.001";
-lastChange = "2016-01-15 02:53:36 +0000";
+lastChange = "2016-01-15 03:01:38 +0000";
 layers = (
 {
 anchors = (
@@ -82118,7 +82118,7 @@ kerning = {
 "@MMK_R_HehIso" = -40;
 "@MMK_R_HehInti" = -50;
 "@MMK_R_YahIso" = -30;
-"@MMK_R_Kafs" = -30;
+"@MMK_R_Kafs" = -50;
 "@MMK_R_MeemInti" = -30;
 "dotlessfeh_alefMaksura-ar" = -50;
 "dotlessbeh_alefMaksura-ar" = -30;
