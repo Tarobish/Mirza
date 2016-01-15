@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.short/waw-ar.fina/alefHamzabelow-ar"
+"/alef-ar.short/waw-ar.fina/alefWavyhamzabelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -2025,7 +2025,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefWavyhamzabelow-ar";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2016-01-15 03:16:34 +0000";
 layers = (
 {
 components = (
@@ -82326,7 +82326,7 @@ kerning = {
 "@MMK_R_HehIso" = -20;
 "@MMK_R_YahIso" = -20;
 "alefHamzabelow-ar" = 0;
-"alefWavyhamzabelow-ar" = 45;
+"alefWavyhamzabelow-ar" = 0;
 "@MMK_R_Gaf" = -20;
 "@MMK_R_KafArabic" = -20;
 "@MMK_R_NoonIso" = -10;
