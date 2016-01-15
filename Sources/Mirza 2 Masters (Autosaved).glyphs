@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.short/alefMadda-ar.fina/heh-ar.init"
+"/alef-ar.short/alefMadda-ar.fina/alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -32224,7 +32224,7 @@ unicode = FBDF;
 },
 {
 glyphname = "alefMaksura-ar";
-lastChange = "2016-01-15 02:53:36 +0000";
+lastChange = "2016-01-15 03:01:22 +0000";
 layers = (
 {
 anchors = (
@@ -82117,7 +82117,7 @@ kerning = {
 "@MMK_R_WawIso" = 20;
 "@MMK_R_HehIso" = -40;
 "@MMK_R_HehInti" = -50;
-"@MMK_R_YahIso" = -20;
+"@MMK_R_YahIso" = -30;
 "@MMK_R_Kafs" = -30;
 "@MMK_R_MeemInti" = -30;
 "dotlessfeh_alefMaksura-ar" = -50;
@@ -82705,6 +82705,7 @@ kerning = {
 "@MMK_R_WawIso" = 20;
 "@MMK_R_HehIso" = -30;
 "@MMK_R_HehInti" = -30;
+"@MMK_R_YahIso" = -10;
 };
 };
 };
