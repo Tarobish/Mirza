@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.short/dal-ar.fina/meem_meem-ar.init"
+"/alef-ar.short/seven-persian.urdu/five-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -1876,7 +1876,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2016-01-15 03:16:20 +0000";
 layers = (
 {
 components = (
@@ -2025,7 +2025,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefWavyhamzabelow-ar";
-lastChange = "2015-12-10 02:21:21 +0000";
+lastChange = "2016-01-15 03:16:34 +0000";
 layers = (
 {
 components = (
@@ -60018,7 +60018,7 @@ width = 267;
 },
 {
 glyphname = "one-persian";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2016-01-15 03:18:24 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -60135,7 +60135,7 @@ width = 274;
 },
 {
 glyphname = "two-persian";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2016-01-15 03:17:56 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -60284,7 +60284,7 @@ width = 448;
 },
 {
 glyphname = "three-persian";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2016-01-15 03:18:51 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -60453,7 +60453,7 @@ width = 516;
 },
 {
 glyphname = "four-persian";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2016-01-15 03:19:04 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -82325,8 +82325,8 @@ kerning = {
 "@MMK_R_HehInti" = -20;
 "@MMK_R_HehIso" = -20;
 "@MMK_R_YahIso" = -20;
-"alefHamzabelow-ar" = 45;
-"alefWavyhamzabelow-ar" = 45;
+"alefHamzabelow-ar" = 0;
+"alefWavyhamzabelow-ar" = 0;
 "@MMK_R_Gaf" = -20;
 "@MMK_R_KafArabic" = -20;
 "@MMK_R_NoonIso" = -10;
@@ -82737,6 +82737,12 @@ kerning = {
 };
 "@MMK_L_AlefFina" = {
 "dotlessbeh_meem-ar" = -20;
+};
+"seven-persian.urdu" = {
+"two-persian" = -30;
+"one-persian" = -30;
+"three-persian" = -30;
+"four-persian" = -30;
 };
 };
 };
