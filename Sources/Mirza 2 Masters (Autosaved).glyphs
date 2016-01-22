@@ -56768,7 +56768,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "meem_meem-ar.init";
-lastChange = "2016-01-22 00:56:22 +0000";
+lastChange = "2016-01-22 01:14:59 +0000";
 layers = (
 {
 anchors = (
@@ -82234,7 +82234,7 @@ kerning = {
 "lam_meem-ar.init" = -16;
 "lam_meem_alefMaksura-ar" = -18;
 "meem_alefMaksura-ar" = -24;
-"meem_meem-ar.init" = -40;
+"meem_meem-ar.init" = -18;
 "tah_alefMaksura-ar" = -50;
 };
 "@MMK_L_LamAlef" = {
@@ -82916,6 +82916,7 @@ kerning = {
 "lam_alefMaksura-ar" = -11;
 "lam_hah_alefMaksura-ar" = -15;
 "lam_meem-ar.init" = -15;
+"meem_meem-ar.init" = -14;
 };
 };
 };
