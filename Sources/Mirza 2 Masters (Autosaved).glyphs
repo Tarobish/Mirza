@@ -17261,7 +17261,7 @@ width = 433;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-22 21:40:29 +0000";
+lastChange = "2016-01-22 21:40:50 +0000";
 layers = (
 {
 components = (
@@ -82441,6 +82441,7 @@ kerning = {
 "@MMK_R_KafArabic" = 58;
 "@MMK_R_WawIso" = 29;
 "meem_meem-ar.init" = 29;
+"@MMK_R_Feh" = 47;
 };
 "alefMadda-ar.fina" = {
 "@MMK_R_AInIso" = -71;
