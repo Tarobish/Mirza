@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dal-ar.fina/heh-ar.init"
+"/dal-ar.fina/kaf-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -29061,13 +29061,13 @@ unicode = FEEC;
 },
 {
 glyphname = "heh-ar.init";
-lastChange = "2016-01-22 03:21:09 +0000";
+lastChange = "2016-01-22 21:18:35 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{155, -10}";
+position = "{155, -11}";
 },
 {
 name = top;
