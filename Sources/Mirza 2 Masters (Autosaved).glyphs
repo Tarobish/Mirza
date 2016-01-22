@@ -5722,7 +5722,7 @@ width = 325;
 },
 {
 glyphname = "jeem-ar";
-lastChange = "2016-01-22 01:54:20 +0000";
+lastChange = "2016-01-22 01:54:27 +0000";
 layers = (
 {
 components = (
@@ -82320,7 +82320,7 @@ kerning = {
 "@MMK_R_DalIso" = -42;
 "@MMK_R_Feh" = -39;
 "@MMK_R_Gaf" = -36;
-"@MMK_R_HahFina" = -38;
+"@MMK_R_HahFina" = -30;
 "@MMK_R_HahInti" = -30;
 "@MMK_R_HehInti" = -20;
 "@MMK_R_HehIso" = -20;
@@ -82998,6 +82998,7 @@ kerning = {
 "@MMK_R_DalIso" = -32;
 "@MMK_R_Feh" = -40;
 "@MMK_R_Gaf" = -31;
+"@MMK_R_HahFina" = -17;
 };
 };
 };
