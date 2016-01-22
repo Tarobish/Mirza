@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/reh-ar/hah-ar"
+"/reh-ar/kaf-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -5829,7 +5829,7 @@ unicode = FEA0;
 },
 {
 glyphname = "jeem-ar.init";
-lastChange = "2016-01-22 21:30:01 +0000";
+lastChange = "2016-01-22 21:34:37 +0000";
 layers = (
 {
 components = (
@@ -17261,7 +17261,7 @@ width = 433;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-22 21:32:34 +0000";
+lastChange = "2016-01-22 21:34:36 +0000";
 layers = (
 {
 components = (
