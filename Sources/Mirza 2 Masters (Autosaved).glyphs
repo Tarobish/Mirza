@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMadda-ar.fina/dotlessqaf-ar"
+"/alefMadda-ar.fina/gaf-ar.001"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -5722,7 +5722,7 @@ width = 325;
 },
 {
 glyphname = "jeem-ar";
-lastChange = "2016-01-22 21:36:47 +0000";
+lastChange = "2016-01-22 21:45:20 +0000";
 layers = (
 {
 components = (
@@ -5829,7 +5829,7 @@ unicode = FEA0;
 },
 {
 glyphname = "jeem-ar.init";
-lastChange = "2016-01-22 21:36:51 +0000";
+lastChange = "2016-01-22 21:45:20 +0000";
 layers = (
 {
 components = (
@@ -17261,7 +17261,7 @@ width = 433;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-22 21:44:47 +0000";
+lastChange = "2016-01-22 21:45:18 +0000";
 layers = (
 {
 components = (
