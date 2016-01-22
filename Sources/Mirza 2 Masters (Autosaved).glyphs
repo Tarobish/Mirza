@@ -83070,7 +83070,6 @@ kerning = {
 "@MMK_R_KafArabic" = 31;
 "@MMK_R_Lam" = 64;
 "@MMK_R_LamAlef" = 60;
-"@MMK_R_MeemInti" = -19;
 "@MMK_R_Seen" = -17;
 "@MMK_R_WawIso" = 26;
 "ain_alefMaksura-ar" = -12;
@@ -83090,7 +83089,7 @@ kerning = {
 "lam_meem_alefMaksura-ar" = -18;
 "meem_alefMaksura-ar" = -19;
 "meem_meem-ar.init" = 16;
-"tah_alefMaksura-ar" = -7;
+"tah_alefMaksura-ar" = -11;
 };
 };
 };
