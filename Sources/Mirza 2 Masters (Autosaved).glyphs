@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/alefMadda-ar/dotlessbeh_alefMaksura-ar"
+" /lam_alef-ar/alefMadda-ar/alefMadda-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -82426,7 +82426,6 @@ kerning = {
 "ain_meem-ar.init" = -30;
 "alefMadda-ar" = 170;
 "dotlessbeh_alefMaksura-ar" = -65;
-"dotlessbeh_hah-ar" = -20;
 "dotlessbeh_hah-ar.init" = -30;
 "dotlessbeh_hah_alefMaksura-ar" = -30;
 "dotlessbeh_meem-ar" = -30;
@@ -82973,7 +82972,7 @@ kerning = {
 "alefHamzabelow-ar" = 85;
 "alefMadda-ar" = -22;
 "alefWavyhamzabelow-ar" = 110;
-"dotlessbeh_hah-ar" = -31;
+"dotlessbeh_hah-ar" = -29;
 "dotlessbeh_hah-ar.init" = -31;
 "dotlessbeh_hah_alefMaksura-ar" = -31;
 "hah_alefMaksura-ar" = -34;
