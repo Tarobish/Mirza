@@ -25183,7 +25183,7 @@ unicode = FB98;
 },
 {
 glyphname = "lam-ar";
-lastChange = "2016-01-22 03:22:12 +0000";
+lastChange = "2016-01-22 03:22:18 +0000";
 layers = (
 {
 anchors = (
@@ -83077,7 +83077,7 @@ kerning = {
 "@MMK_R_HehInti" = -13;
 "@MMK_R_Kaf" = 106;
 "@MMK_R_KafArabic" = 31;
-"@MMK_R_Lam" = 12;
+"@MMK_R_Lam" = 64;
 };
 };
 };
