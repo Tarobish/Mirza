@@ -41619,7 +41619,7 @@ width = 672;
 },
 {
 glyphname = "dotlessbeh_meem-ar";
-lastChange = "2016-01-22 00:32:31 +0000";
+lastChange = "2016-01-22 00:32:41 +0000";
 layers = (
 {
 anchors = (
@@ -82122,7 +82122,7 @@ kerning = {
 "dotlessbeh_hah-ar" = -47;
 "dotlessbeh_hah-ar.init" = -30;
 "dotlessbeh_hah_alefMaksura-ar" = -30;
-"dotlessbeh_meem-ar" = -26;
+"dotlessbeh_meem-ar" = -29;
 "dotlessbeh_noonghunna-ar" = -30;
 "dotlessbeh_reh-ar" = -30;
 "dotlessfeh_alefMaksura-ar" = -40;
@@ -82851,6 +82851,7 @@ kerning = {
 "dotlessbeh_hah-ar" = -43;
 "dotlessbeh_hah-ar.init" = -8;
 "dotlessbeh_hah_alefMaksura-ar" = -5;
+"dotlessbeh_meem-ar" = -15;
 };
 };
 };
