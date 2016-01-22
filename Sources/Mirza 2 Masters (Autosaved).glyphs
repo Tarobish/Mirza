@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/waw-ar/lam_alef-ar"
+"/waw-ar/dotlessbeh_hah-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -1876,7 +1876,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2016-01-22 21:37:47 +0000";
+lastChange = "2016-01-22 21:39:52 +0000";
 layers = (
 {
 components = (
@@ -2025,7 +2025,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefWavyhamzabelow-ar";
-lastChange = "2016-01-22 21:37:49 +0000";
+lastChange = "2016-01-22 21:39:53 +0000";
 layers = (
 {
 components = (
@@ -2034,7 +2034,7 @@ name = "alef-ar.short";
 },
 {
 name = "wavyhamzabelow-ar";
-transform = "{1, 0, 0, 1, 77, 160}";
+transform = "{1, 0, 0, 1, -78, 160}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
