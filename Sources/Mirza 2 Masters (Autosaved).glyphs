@@ -5829,7 +5829,7 @@ unicode = FEA0;
 },
 {
 glyphname = "jeem-ar.init";
-lastChange = "2016-01-22 01:21:13 +0000";
+lastChange = "2016-01-22 01:21:21 +0000";
 layers = (
 {
 components = (
@@ -82247,7 +82247,7 @@ kerning = {
 "@MMK_R_Feh" = -48;
 "@MMK_R_Gaf" = -48;
 "@MMK_R_HahFina" = -83;
-"@MMK_R_HahInti" = -87;
+"@MMK_R_HahInti" = -77;
 "@MMK_R_HehInti" = -50;
 "@MMK_R_HehIso" = -70;
 "@MMK_R_Kaf" = 60;
@@ -82929,6 +82929,7 @@ kerning = {
 "@MMK_R_Feh" = -32;
 "@MMK_R_Gaf" = -23;
 "@MMK_R_HahFina" = -32;
+"@MMK_R_HahInti" = -15;
 };
 };
 };
