@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/waw-ar.fina/alefWavyhamzabelow-ar"
+"/waw-ar/ain-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -82357,7 +82357,6 @@ kerning = {
 "tah_alefMaksura-ar" = -42;
 };
 "@MMK_L_WawIso" = {
-"@MMK_R_AInIso" = -14;
 "@MMK_R_AinInti" = -43;
 "@MMK_R_AlefIso" = -31;
 "@MMK_R_BehInti" = -44;
