@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/reh-ar/ain-ar"
+"/reh-ar/jeem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -5722,7 +5722,7 @@ width = 325;
 },
 {
 glyphname = "jeem-ar";
-lastChange = "2016-01-22 21:30:00 +0000";
+lastChange = "2016-01-22 21:32:42 +0000";
 layers = (
 {
 components = (
@@ -5731,7 +5731,7 @@ name = "hah-ar";
 },
 {
 name = "dotcenter-ar";
-transform = "{1, 0, 0, 1, 319, -205}";
+transform = "{1, 0, 0, 1, -259, -205}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -17261,7 +17261,7 @@ width = 433;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-22 21:29:59 +0000";
+lastChange = "2016-01-22 21:32:34 +0000";
 layers = (
 {
 components = (
