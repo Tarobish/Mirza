@@ -26655,7 +26655,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2016-01-22 01:02:07 +0000";
+lastChange = "2016-01-22 01:22:38 +0000";
 layers = (
 {
 anchors = (
@@ -82251,7 +82251,7 @@ kerning = {
 "@MMK_R_HehInti" = -70;
 "@MMK_R_HehIso" = -51;
 "@MMK_R_Kaf" = 48;
-"@MMK_R_MeemInti" = -60;
+"@MMK_R_MeemInti" = -80;
 "@MMK_R_MeemIso" = -70;
 "@MMK_R_NoonIso" = -90;
 "@MMK_R_Reh" = -50;
@@ -82933,6 +82933,7 @@ kerning = {
 "@MMK_R_HehInti" = -64;
 "@MMK_R_HehIso" = -44;
 "@MMK_R_Kaf" = 33;
+"@MMK_R_MeemInti" = -5;
 };
 };
 };
