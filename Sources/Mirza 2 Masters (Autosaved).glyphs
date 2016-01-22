@@ -61180,7 +61180,7 @@ width = 461;
 },
 {
 glyphname = "seven-persian";
-lastChange = "2016-01-22 19:32:22 +0000";
+lastChange = "2016-01-22 20:00:51 +0000";
 layers = (
 {
 components = (
@@ -82502,10 +82502,10 @@ kerning = {
 "nine-persian" = -71;
 };
 "five-ar" = {
-"seven-persian" = -70;
 "six-persian" = -30;
 "three-persian" = -30;
 "two-persian" = -30;
+"seven-persian" = -14;
 };
 "five-persian" = {
 "eight-persian" = -30;
