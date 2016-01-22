@@ -56020,7 +56020,7 @@ rightKerningGroup = HehInti;
 },
 {
 glyphname = "lam_alefMaksura-ar";
-lastChange = "2016-01-22 00:21:22 +0000";
+lastChange = "2016-01-22 00:21:30 +0000";
 layers = (
 {
 anchors = (
@@ -82080,7 +82080,7 @@ kerning = {
 "hah_meem-ar" = -37;
 "hah_meem-ar.init" = -37;
 "hah_meem_alefMaksura-ar" = -37;
-"lam_alefMaksura-ar" = -50;
+"lam_alefMaksura-ar" = -56;
 "lam_hah-ar" = -30;
 "lam_hah_alefMaksura-ar" = -30;
 "lam_meem-ar" = -30;
@@ -82720,6 +82720,7 @@ kerning = {
 "hah_meem-ar" = -19;
 "hah_meem-ar.init" = -19;
 "hah_meem_alefMaksura-ar" = -19;
+"lam_alefMaksura-ar" = -28;
 };
 "@MMK_L_DalFina" = {
 "ain_alefMaksura-ar" = -25;
