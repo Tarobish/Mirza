@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/reh-ar/lam_alef-ar"
+" /lam_alef-ar/reh-ar/meem-ar.alt"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -26655,7 +26655,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2016-01-22 01:22:42 +0000";
+lastChange = "2016-01-22 01:36:28 +0000";
 layers = (
 {
 anchors = (
@@ -39557,7 +39557,7 @@ unicode = 0640;
 },
 {
 glyphname = "lam_alef-ar";
-lastChange = "2016-01-22 01:36:05 +0000";
+lastChange = "2016-01-22 01:36:13 +0000";
 layers = (
 {
 anchors = (
@@ -82295,7 +82295,7 @@ kerning = {
 "@MMK_R_Kafs" = -50;
 "@MMK_R_Lam" = -29;
 "@MMK_R_LamAlef" = -48;
-"@MMK_R_MeemInti" = -20;
+"@MMK_R_MeemInti" = -44;
 "@MMK_R_MeemIso" = -40;
 "@MMK_R_NoonIso" = 10;
 "@MMK_R_Sad" = -40;
@@ -82974,7 +82974,8 @@ kerning = {
 "@MMK_R_KafArabic" = -44;
 "@MMK_R_Kafs" = -46;
 "@MMK_R_Lam" = -39;
-"@MMK_R_LamAlef" = -34;
+"@MMK_R_LamAlef" = -25;
+"@MMK_R_MeemInti" = -34;
 };
 };
 };
