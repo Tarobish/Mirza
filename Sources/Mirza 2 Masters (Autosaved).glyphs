@@ -30851,7 +30851,7 @@ width = 462;
 },
 {
 glyphname = "waw-ar";
-lastChange = "2016-01-22 03:24:23 +0000";
+lastChange = "2016-01-22 03:49:39 +0000";
 layers = (
 {
 anchors = (
@@ -82443,7 +82443,7 @@ kerning = {
 "tah_alefMaksura-ar" = -8;
 "@MMK_R_HehInti" = -16;
 "@MMK_R_KafArabic" = 58;
-"@MMK_R_WawIso" = 22;
+"@MMK_R_WawIso" = 29;
 "meem_meem-ar.init" = 29;
 };
 "alefMadda-ar.fina" = {
@@ -83088,6 +83088,7 @@ kerning = {
 "meem_alefMaksura-ar" = -19;
 "meem_meem-ar.init" = 16;
 "tah_alefMaksura-ar" = 6;
+"@MMK_R_WawIso" = 19;
 };
 };
 };
