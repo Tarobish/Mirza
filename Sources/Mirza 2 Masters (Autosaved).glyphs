@@ -20509,7 +20509,7 @@ unicode = FEDC;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2016-01-22 03:21:21 +0000";
+lastChange = "2016-01-22 03:21:34 +0000";
 layers = (
 {
 anchors = (
@@ -83075,6 +83075,7 @@ kerning = {
 "@MMK_R_BehIso" = -15;
 "@MMK_R_HahInti" = -18;
 "@MMK_R_HehInti" = -13;
+"@MMK_R_Kaf" = 73;
 };
 };
 };
