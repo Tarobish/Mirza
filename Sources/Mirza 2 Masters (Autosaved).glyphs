@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /eight-persian/eight-persian/six-persian"
+" /eight-persian/eight-persian/three-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -82496,7 +82496,6 @@ kerning = {
 "four-persian" = -51;
 "one-persian" = -40;
 "seven-persian" = -88;
-"six-persian" = -50;
 "three-persian" = -50;
 "two-persian" = -40;
 "zero-persian" = -20;
