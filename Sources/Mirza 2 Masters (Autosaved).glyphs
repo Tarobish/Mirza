@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /dal-ar.fina/dotlessbeh_alefMaksura-ar"
+" /dal-ar.fina/dotlessbeh_hah_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -40453,7 +40453,7 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2016-01-22 00:32:01 +0000";
+lastChange = "2016-01-22 00:53:13 +0000";
 layers = (
 {
 anchors = (
@@ -40719,7 +40719,7 @@ width = 645;
 },
 {
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2016-01-22 00:32:15 +0000";
+lastChange = "2016-01-22 00:53:22 +0000";
 layers = (
 {
 anchors = (
@@ -82168,7 +82168,7 @@ kerning = {
 "ain_meem_alefMaksura-ar" = -40;
 "dotlessbeh_alefMaksura-ar" = -47;
 "dotlessbeh_hah-ar" = -50;
-"dotlessbeh_hah-ar.init" = -40;
+"dotlessbeh_hah-ar.init" = -33;
 "dotlessbeh_hah_alefMaksura-ar" = -30;
 "dotlessbeh_noonghunna-ar" = -30;
 "dotlessbeh_reh-ar" = -30;
@@ -82734,7 +82734,7 @@ kerning = {
 "ain_meem-ar.init" = -30;
 "ain_meem_alefMaksura-ar" = -29;
 "dotlessbeh_alefMaksura-ar" = -30;
-"dotlessbeh_hah-ar" = -30;
+"dotlessbeh_hah-ar" = -59;
 "dotlessbeh_hah-ar.init" = -30;
 "dotlessbeh_hah_alefMaksura-ar" = -20;
 "dotlessbeh_noonghunna-ar" = -20;
