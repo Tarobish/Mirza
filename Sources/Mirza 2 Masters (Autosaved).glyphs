@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/alefMadda-ar.fina/meem-ar.alt"
+" /lam_alef-ar/alefMadda-ar.fina/noon-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -27649,7 +27649,7 @@ width = 522;
 },
 {
 glyphname = "noon-ar";
-lastChange = "2016-01-22 03:26:27 +0000";
+lastChange = "2016-01-22 03:53:14 +0000";
 layers = (
 {
 components = (
@@ -82465,7 +82465,7 @@ kerning = {
 "@MMK_R_LamAlef" = 72;
 "@MMK_R_MeemInti" = -50;
 "@MMK_R_MeemIso" = -30;
-"@MMK_R_NoonIso" = -50;
+"@MMK_R_NoonIso" = -59;
 "@MMK_R_Reh" = -30;
 "@MMK_R_Sad" = -20;
 "@MMK_R_Seen" = -40;
