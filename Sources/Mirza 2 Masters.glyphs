@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /alefMadda-ar.fina/lam_hah_alefMaksura-ar"
+" /eight-persian/eight-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -43036,7 +43036,7 @@ unicode = FC18;
 },
 {
 glyphname = "hah_meem-ar.init";
-lastChange = "2016-01-22 03:46:58 +0000";
+lastChange = "2016-01-22 11:12:43 +0000";
 layers = (
 {
 anchors = (
@@ -43253,7 +43253,7 @@ unicode = FCAA;
 },
 {
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2016-01-22 03:47:07 +0000";
+lastChange = "2016-01-22 11:12:55 +0000";
 layers = (
 {
 anchors = (
@@ -43575,7 +43575,7 @@ width = 1168;
 },
 {
 glyphname = "hah_alefMaksura-ar";
-lastChange = "2016-01-22 03:46:32 +0000";
+lastChange = "2016-01-22 11:12:14 +0000";
 layers = (
 {
 anchors = (
@@ -49663,7 +49663,7 @@ unicode = FD13;
 },
 {
 glyphname = "dotlessfeh_alefMaksura-ar";
-lastChange = "2016-01-22 03:46:13 +0000";
+lastChange = "2016-01-22 11:11:48 +0000";
 layers = (
 {
 anchors = (
@@ -82486,8 +82486,6 @@ kerning = {
 "hah_meem-ar" = -30;
 "hah_meem-ar.init" = -30;
 "hah_meem_alefMaksura-ar" = -30;
-"lam_alefMaksura-ar" = -20;
-"lam_hah-ar" = -30;
 "lam_hah_alefMaksura-ar" = -30;
 "lam_meem-ar.init" = -30;
 "lam_meem_alefMaksura-ar" = -30;
@@ -82782,6 +82780,10 @@ kerning = {
 "dotlessbeh_hah-ar" = -38;
 "dotlessbeh_meem-ar" = -12;
 "lam_meem_alefMaksura-ar" = -19;
+"dotlessfeh_alefMaksura-ar" = -21;
+"hah_alefMaksura-ar" = -13;
+"hah_meem-ar.init" = -15;
+"hah_meem_alefMaksura-ar" = -15;
 };
 "nine-persian" = {
 "nine-persian" = -50;
