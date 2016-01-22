@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /dal-ar/feh-ar"
+" /dal-ar/dotlessqaf-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -17261,7 +17261,7 @@ width = 433;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-22 00:58:58 +0000";
+lastChange = "2016-01-22 00:58:59 +0000";
 layers = (
 {
 components = (
@@ -19052,7 +19052,7 @@ unicode = FB70;
 },
 {
 glyphname = "dotlessqaf-ar";
-lastChange = "2016-01-22 00:25:37 +0000";
+lastChange = "2016-01-22 00:59:06 +0000";
 layers = (
 {
 anchors = (
@@ -82194,7 +82194,7 @@ kerning = {
 "@MMK_R_BehInti" = -40;
 "@MMK_R_BehIso" = -16;
 "@MMK_R_Feh" = -16;
-"@MMK_R_Gaf" = -40;
+"@MMK_R_Gaf" = -26;
 "@MMK_R_HahFina" = -50;
 "@MMK_R_HahInti" = -50;
 "@MMK_R_HehInti" = -30;
@@ -82884,7 +82884,7 @@ kerning = {
 "@MMK_L_DalIso" = {
 "@MMK_R_AInIso" = -8;
 "@MMK_R_BehIso" = -9;
-"@MMK_R_Feh" = -6;
+"@MMK_R_Feh" = -9;
 };
 };
 };
