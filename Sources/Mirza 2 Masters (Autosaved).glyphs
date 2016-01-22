@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alef-ar/heh-ar.init"
+"/lam_alef-ar/reh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -27649,7 +27649,7 @@ width = 522;
 },
 {
 glyphname = "noon-ar";
-lastChange = "2016-01-22 21:19:44 +0000";
+lastChange = "2016-01-22 21:22:12 +0000";
 layers = (
 {
 components = (
