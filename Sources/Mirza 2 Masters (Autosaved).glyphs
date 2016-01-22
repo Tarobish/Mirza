@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /eight-persian/eight-persian"
+" /eight-persian/eight-persian/four-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -60453,7 +60453,7 @@ width = 516;
 },
 {
 glyphname = "four-persian";
-lastChange = "2016-01-15 05:37:27 +0000";
+lastChange = "2016-01-22 19:29:22 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -82493,8 +82493,7 @@ kerning = {
 "tah_alefMaksura-ar" = -30;
 };
 "eight-persian" = {
-"five-persian" = -40;
-"four-persian" = -60;
+"four-persian" = -51;
 "nine-persian" = -150;
 "one-persian" = -40;
 "seven-persian" = -140;
@@ -83094,6 +83093,9 @@ kerning = {
 "tah_alefMaksura-ar" = 6;
 "@MMK_R_WawIso" = 19;
 "alefMadda-ar" = 200;
+};
+"eight-persian" = {
+"four-persian" = -23;
 };
 };
 };
