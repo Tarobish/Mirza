@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /eight-persian/eight-persian"
+"/six-ar/four-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -2096,7 +2096,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2016-01-22 03:55:39 +0000";
+lastChange = "2016-01-22 20:20:58 +0000";
 layers = (
 {
 components = (
@@ -2411,7 +2411,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "dotlessbeh-ar";
-lastChange = "2016-01-22 03:50:37 +0000";
+lastChange = "2016-01-22 20:15:36 +0000";
 layers = (
 {
 anchors = (
@@ -20509,7 +20509,7 @@ unicode = FEDC;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2016-01-22 03:21:38 +0000";
+lastChange = "2016-01-22 20:20:29 +0000";
 layers = (
 {
 anchors = (
@@ -59925,7 +59925,7 @@ width = 394;
 },
 {
 glyphname = "zero-persian";
-lastChange = "2016-01-15 04:50:39 +0000";
+lastChange = "2016-01-22 20:45:40 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -60018,7 +60018,7 @@ width = 267;
 },
 {
 glyphname = "one-persian";
-lastChange = "2016-01-15 04:50:59 +0000";
+lastChange = "2016-01-22 20:34:11 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -60135,7 +60135,7 @@ width = 274;
 },
 {
 glyphname = "two-persian";
-lastChange = "2016-01-15 04:51:14 +0000";
+lastChange = "2016-01-22 20:32:09 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -60284,7 +60284,7 @@ width = 448;
 },
 {
 glyphname = "three-persian";
-lastChange = "2016-01-15 04:51:28 +0000";
+lastChange = "2016-01-22 20:32:39 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -60453,7 +60453,7 @@ width = 516;
 },
 {
 glyphname = "four-persian";
-lastChange = "2016-01-15 05:37:27 +0000";
+lastChange = "2016-01-22 20:43:30 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -60788,7 +60788,7 @@ width = 498;
 },
 {
 glyphname = "five-persian";
-lastChange = "2016-01-15 05:37:54 +0000";
+lastChange = "2016-01-22 20:40:23 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -61001,7 +61001,7 @@ width = 498;
 },
 {
 glyphname = "six-persian";
-lastChange = "2016-01-15 05:38:19 +0000";
+lastChange = "2016-01-22 20:46:45 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -61180,7 +61180,7 @@ width = 461;
 },
 {
 glyphname = "seven-persian";
-lastChange = "2016-01-15 05:38:36 +0000";
+lastChange = "2016-01-22 20:46:27 +0000";
 layers = (
 {
 components = (
@@ -61417,7 +61417,7 @@ rightMetricsKey = "seven-ar";
 },
 {
 glyphname = "eight-persian";
-lastChange = "2016-01-15 05:39:11 +0000";
+lastChange = "2016-01-22 20:45:00 +0000";
 layers = (
 {
 components = (
@@ -61502,7 +61502,7 @@ rightMetricsKey = "eight-ar";
 },
 {
 glyphname = "nine-persian";
-lastChange = "2016-01-15 05:39:31 +0000";
+lastChange = "2016-01-22 20:43:03 +0000";
 layers = (
 {
 components = (
@@ -82493,169 +82493,89 @@ kerning = {
 "tah_alefMaksura-ar" = -30;
 };
 "eight-persian" = {
-"eight-persian" = -50;
-"five-persian" = -40;
-"four-persian" = -60;
-"nine-persian" = -150;
+"four-persian" = -51;
 "one-persian" = -40;
-"seven-persian" = -140;
-"six-persian" = -50;
+"seven-persian" = -88;
 "three-persian" = -50;
 "two-persian" = -40;
 "zero-persian" = -20;
+"nine-persian" = -71;
 };
 "five-ar" = {
-"eight-persian" = -30;
-"five-persian" = -20;
-"four-persian" = -30;
-"nine-persian" = -50;
-"one-persian" = -20;
-"seven-persian" = -70;
-"six-persian" = -30;
-"three-persian" = -30;
-"two-persian" = -30;
+"seven-persian" = -14;
 };
 "five-persian" = {
-"eight-persian" = -30;
-"five-persian" = -20;
-"four-persian" = -50;
-"nine-persian" = -70;
-"one-persian" = -50;
-"seven-persian" = -80;
-"six-persian" = -40;
+"seven-persian" = -59;
 "three-persian" = -40;
 "two-persian" = -40;
-"zero-persian" = -20;
+"four-persian" = -24;
+"nine-persian" = -25;
+"one-persian" = -19;
 };
 "four-ar" = {
-"eight-persian" = -50;
-"five-persian" = -40;
-"four-persian" = -50;
-"nine-persian" = -90;
+"four-persian" = -35;
+"nine-persian" = -55;
 "one-persian" = -40;
-"seven-persian" = -90;
+"seven-persian" = -53;
 "six-persian" = -30;
-"three-persian" = -50;
-"two-persian" = -50;
+"three-persian" = -32;
+"two-persian" = -32;
 "zero-persian" = -30;
 };
 "four-persian" = {
-"eight-persian" = -130;
-"five-persian" = -70;
-"four-persian" = -40;
-"nine-persian" = -30;
-"one-persian" = -30;
-"seven-persian" = -70;
-"six-persian" = -60;
-"three-persian" = -40;
-"two-persian" = -30;
+"eight-persian" = -71;
+"five-persian" = -41;
 "zero-persian" = -40;
 };
 "four-persian.urdu.tab" = {
-"eight-persian" = -140;
-"five-persian" = -80;
-"four-persian" = -50;
-"nine-persian" = -40;
-"one-persian" = -30;
-"seven-persian" = -40;
-"six-persian" = -70;
-"three-persian" = -40;
-"two-persian" = -40;
+"eight-persian" = -119;
+"five-persian" = -62;
+"six-persian" = -44;
 "zero-persian" = -60;
 };
 "jeh-ar.fina" = {
-"@MMK_R_BehIso" = -63;
+"@MMK_R_BehIso" = -53;
 };
 "nine-persian" = {
 "nine-persian" = -40;
 };
-"one-persian" = {
-"eight-persian" = -20;
-"five-persian" = -20;
-"four-persian" = -30;
-"nine-persian" = -20;
-"one-persian" = -30;
-"seven-persian" = -30;
-"six-persian" = -20;
-"three-persian" = -20;
-"two-persian" = -20;
-"zero-persian" = -20;
-};
 "parenright-ar" = {
 "@MMK_R_Kaf" = 20;
-"alefMadda-ar" = 140;
+"alefMadda-ar" = 155;
 };
 "seven-persian" = {
-"eight-persian" = -120;
-"five-persian" = -90;
-"four-persian" = -30;
-"nine-persian" = -50;
-"one-persian" = -30;
-"seven-persian" = -50;
-"six-persian" = -60;
-"three-persian" = -30;
-"two-persian" = -30;
+"eight-persian" = -70;
+"five-persian" = -56;
 "zero-persian" = -50;
 };
 "seven-persian.urdu" = {
-"eight-persian" = -20;
-"five-persian" = -20;
 "four-persian" = -40;
 "nine-persian" = -60;
 "one-persian" = -30;
-"seven-persian" = -80;
-"six-persian" = -30;
+"seven-persian" = -59;
 "three-persian" = -40;
 "two-persian" = -40;
 "zero-persian" = -30;
 };
 "six-ar" = {
-"eight-persian" = -30;
-"five-persian" = -20;
-"four-persian" = -40;
-"nine-persian" = -70;
-"one-persian" = -30;
-"seven-persian" = -70;
-"six-persian" = -40;
-"three-persian" = -30;
-"two-persian" = -30;
-"zero-persian" = -20;
+"nine-persian" = -24;
+"seven-persian" = -21;
+"four-persian" = -23;
 };
 "six-persian" = {
-"eight-persian" = -100;
-"five-persian" = -60;
-"four-persian" = -40;
-"nine-persian" = -60;
-"one-persian" = -40;
-"seven-persian" = -70;
-"six-persian" = -50;
-"three-persian" = -30;
-"two-persian" = -30;
-"zero-persian" = -50;
+"eight-persian" = -64;
+"five-persian" = -32;
 };
 "three-persian" = {
-"eight-persian" = -130;
-"five-persian" = -80;
-"four-persian" = -50;
-"nine-persian" = -60;
-"one-persian" = -50;
-"seven-persian" = -50;
-"six-persian" = -70;
-"three-persian" = -40;
-"two-persian" = -40;
-"zero-persian" = -70;
+"eight-persian" = -79;
+"five-persian" = -58;
+"zero-persian" = -40;
 };
 "two-persian" = {
-"eight-persian" = -90;
-"five-persian" = -60;
-"four-persian" = -20;
-"nine-persian" = -10;
-"one-persian" = -10;
-"seven-persian" = -30;
-"six-persian" = -40;
-"three-persian" = -10;
-"two-persian" = -10;
-"zero-persian" = -60;
+"eight-persian" = -60;
+"five-persian" = -42;
+"six-persian" = -19;
+"zero-persian" = -48;
 };
 };
 "0E844BAD-773F-41FF-B6D6-C35F1E5E991C" = {
@@ -82789,42 +82709,43 @@ kerning = {
 "nine-persian" = -50;
 };
 "one-persian" = {
-"eight-persian" = -10;
-"five-persian" = -10;
-"four-persian" = -20;
-"nine-persian" = -20;
-"one-persian" = -20;
-"seven-persian" = -40;
-"six-persian" = -10;
-"three-persian" = -10;
-"two-persian" = -10;
-"zero-persian" = -10;
+"eight-persian" = 0;
+"five-persian" = 0;
+"four-persian" = 0;
+"nine-persian" = 0;
+"one-persian" = 0;
+"seven-persian" = -25;
+"six-persian" = 0;
+"three-persian" = 0;
+"two-persian" = 0;
+"zero-persian" = 0;
 };
 "parenright-ar" = {
-"alefMadda-ar" = 100;
+"alefMadda-ar" = 115;
+"@MMK_R_Kaf" = 16;
 };
 "seven-persian.urdu" = {
-"eight-persian" = -10;
-"five-persian" = -10;
+"eight-persian" = 0;
+"five-persian" = 0;
 "four-persian" = -30;
 "one-persian" = -30;
-"seven-persian" = -70;
-"six-persian" = -30;
+"seven-persian" = -53;
+"six-persian" = 0;
 "three-persian" = -30;
 "two-persian" = -30;
 "zero-persian" = -20;
 };
 "two-persian" = {
-"eight-persian" = -70;
-"five-persian" = -60;
-"four-persian" = -10;
-"nine-persian" = -10;
-"one-persian" = -10;
-"seven-persian" = -20;
-"six-persian" = -30;
-"three-persian" = -10;
-"two-persian" = -10;
-"zero-persian" = -40;
+"eight-persian" = -46;
+"five-persian" = -39;
+"four-persian" = 0;
+"nine-persian" = 0;
+"one-persian" = 0;
+"seven-persian" = 0;
+"six-persian" = -18;
+"three-persian" = 0;
+"two-persian" = 0;
+"zero-persian" = -53;
 };
 "@MMK_L_AlefIso" = {
 "@MMK_R_AInIso" = -41;
@@ -82954,7 +82875,7 @@ kerning = {
 "@MMK_R_AinInti" = -28;
 "@MMK_R_AlefIso" = -23;
 "@MMK_R_BehInti" = -11;
-"@MMK_R_BehIso" = -38;
+"@MMK_R_BehIso" = -60;
 "@MMK_R_DalIso" = -24;
 "@MMK_R_Feh" = -26;
 "@MMK_R_HahFina" = -26;
@@ -83095,6 +83016,64 @@ kerning = {
 "tah_alefMaksura-ar" = 6;
 "@MMK_R_WawIso" = 19;
 "alefMadda-ar" = 200;
+};
+"eight-persian" = {
+"four-persian" = -41;
+"nine-persian" = -71;
+"seven-persian" = -59;
+"three-persian" = -34;
+"zero-persian" = -14;
+};
+"five-ar" = {
+"seven-persian" = -14;
+};
+"five-persian" = {
+"four-persian" = -28;
+"nine-persian" = -31;
+"one-persian" = -32;
+"seven-persian" = -37;
+"three-persian" = -34;
+"two-persian" = -36;
+};
+"four-ar" = {
+"four-persian" = -36;
+"nine-persian" = -54;
+"one-persian" = -37;
+"seven-persian" = -41;
+"six-persian" = -27;
+"three-persian" = -37;
+"two-persian" = -36;
+"zero-persian" = -41;
+};
+"four-persian" = {
+"eight-persian" = -62;
+"five-persian" = -46;
+"zero-persian" = -47;
+};
+"four-persian.urdu.tab" = {
+"eight-persian" = -70;
+"five-persian" = -52;
+"six-persian" = -43;
+"zero-persian" = -45;
+};
+"seven-persian" = {
+"eight-persian" = -43;
+"five-persian" = -48;
+"zero-persian" = -32;
+};
+"three-persian" = {
+"zero-persian" = -39;
+"eight-persian" = -67;
+"five-persian" = -53;
+};
+"six-persian" = {
+"five-persian" = -33;
+"eight-persian" = -46;
+};
+"six-ar" = {
+"seven-persian" = -22;
+"nine-persian" = -39;
+"four-persian" = -31;
 };
 };
 };
