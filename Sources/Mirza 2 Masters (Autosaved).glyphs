@@ -5829,7 +5829,7 @@ unicode = FEA0;
 },
 {
 glyphname = "jeem-ar.init";
-lastChange = "2016-01-22 00:10:46 +0000";
+lastChange = "2016-01-22 00:10:56 +0000";
 layers = (
 {
 components = (
@@ -82692,6 +82692,7 @@ kerning = {
 "@MMK_R_Feh" = -18;
 "@MMK_R_Gaf" = -22;
 "@MMK_R_HahFina" = -27;
+"@MMK_R_HahInti" = -27;
 };
 "@MMK_L_DalFina" = {
 "ain_alefMaksura-ar" = -25;
