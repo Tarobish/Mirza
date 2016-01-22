@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/alefMadda-ar/kaf-ar"
+" /lam_alef-ar/alefMadda-ar/lam-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -19882,7 +19882,7 @@ width = 444;
 },
 {
 glyphname = "kaf-ar";
-lastChange = "2016-01-22 03:21:56 +0000";
+lastChange = "2016-01-22 03:21:58 +0000";
 layers = (
 {
 anchors = (
@@ -83076,7 +83076,7 @@ kerning = {
 "@MMK_R_HahInti" = -18;
 "@MMK_R_HehInti" = -13;
 "@MMK_R_Kaf" = 106;
-"@MMK_R_KafArabic" = 13;
+"@MMK_R_KafArabic" = 31;
 };
 };
 };
