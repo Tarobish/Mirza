@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.fina/heh-ar.init  /beh-ar/alef-ar.fina/lam-ar"
+"/alef-ar.fina/heh-ar.init  /beh-ar/alef-ar.fina/meem-ar.alt"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -25183,7 +25183,7 @@ unicode = FB98;
 },
 {
 glyphname = "lam-ar";
-lastChange = "2016-01-22 00:12:23 +0000";
+lastChange = "2016-01-22 00:12:28 +0000";
 layers = (
 {
 anchors = (
@@ -26655,7 +26655,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2016-01-15 03:02:00 +0000";
+lastChange = "2016-01-22 00:12:34 +0000";
 layers = (
 {
 anchors = (
@@ -82056,7 +82056,7 @@ kerning = {
 "@MMK_R_KafArabic" = -20;
 "@MMK_R_Kafs" = -47;
 "@MMK_R_Lam" = -33;
-"@MMK_R_MeemInti" = -40;
+"@MMK_R_MeemInti" = -43;
 "@MMK_R_MeemIso" = -40;
 "@MMK_R_NoonIso" = -60;
 "@MMK_R_Reh" = -40;
@@ -82696,6 +82696,7 @@ kerning = {
 "@MMK_R_HehInti" = -22;
 "@MMK_R_HehIso" = -23;
 "@MMK_R_Kafs" = -29;
+"@MMK_R_Lam" = -10;
 };
 "@MMK_L_DalFina" = {
 "ain_alefMaksura-ar" = -25;
