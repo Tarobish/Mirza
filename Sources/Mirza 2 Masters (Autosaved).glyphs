@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/reh-ar/dal-ar"
+" /lam_alef-ar/reh-ar/dotlessqaf-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -17261,7 +17261,7 @@ width = 433;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-22 01:28:13 +0000";
+lastChange = "2016-01-22 01:32:46 +0000";
 layers = (
 {
 components = (
@@ -82965,6 +82965,7 @@ kerning = {
 "@MMK_R_BehInti" = -11;
 "@MMK_R_BehIso" = -38;
 "@MMK_R_DalIso" = -24;
+"@MMK_R_Feh" = -26;
 };
 };
 };
