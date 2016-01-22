@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dal-ar.fina/kaf-ar.init"
+"/dal-ar.fina/alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -27649,7 +27649,7 @@ width = 522;
 },
 {
 glyphname = "noon-ar";
-lastChange = "2016-01-22 21:03:25 +0000";
+lastChange = "2016-01-22 21:18:49 +0000";
 layers = (
 {
 components = (
