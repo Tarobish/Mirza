@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/reh-ar/ain-ar.init"
+" /lam_alef-ar/reh-ar/alef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -82960,7 +82960,7 @@ kerning = {
 };
 "@MMK_L_Reh" = {
 "@MMK_R_AInIso" = -30;
-"@MMK_R_AinInti" = -27;
+"@MMK_R_AinInti" = -28;
 };
 };
 };
