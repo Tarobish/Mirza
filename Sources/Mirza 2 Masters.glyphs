@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/alefMadda-ar/ain-ar"
+" /lam_alef-ar/alefMadda-ar/dotlessfeh_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -2411,7 +2411,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "dotlessbeh-ar";
-lastChange = "2016-01-22 02:14:10 +0000";
+lastChange = "2016-01-22 03:20:23 +0000";
 layers = (
 {
 anchors = (
@@ -5829,7 +5829,7 @@ unicode = FEA0;
 },
 {
 glyphname = "jeem-ar.init";
-lastChange = "2016-01-22 02:16:01 +0000";
+lastChange = "2016-01-22 03:20:50 +0000";
 layers = (
 {
 components = (
@@ -11744,7 +11744,7 @@ width = 486;
 },
 {
 glyphname = "seen-ar";
-lastChange = "2016-01-22 02:19:20 +0000";
+lastChange = "2016-01-22 03:23:54 +0000";
 layers = (
 {
 anchors = (
@@ -13377,7 +13377,7 @@ width = 549;
 },
 {
 glyphname = "sad-ar";
-lastChange = "2016-01-22 02:19:04 +0000";
+lastChange = "2016-01-22 03:26:48 +0000";
 layers = (
 {
 anchors = (
@@ -16142,7 +16142,7 @@ width = 563;
 },
 {
 glyphname = "ain-ar";
-lastChange = "2016-01-22 02:12:58 +0000";
+lastChange = "2016-01-22 03:19:59 +0000";
 layers = (
 {
 anchors = (
@@ -19882,7 +19882,7 @@ width = 444;
 },
 {
 glyphname = "kaf-ar";
-lastChange = "2016-01-22 02:17:27 +0000";
+lastChange = "2016-01-22 03:21:58 +0000";
 layers = (
 {
 anchors = (
@@ -20509,7 +20509,7 @@ unicode = FEDC;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2016-01-22 02:17:06 +0000";
+lastChange = "2016-01-22 03:21:38 +0000";
 layers = (
 {
 anchors = (
@@ -25183,7 +25183,7 @@ unicode = FB98;
 },
 {
 glyphname = "lam-ar";
-lastChange = "2016-01-22 01:35:42 +0000";
+lastChange = "2016-01-22 03:22:18 +0000";
 layers = (
 {
 anchors = (
@@ -26655,7 +26655,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2016-01-22 02:18:18 +0000";
+lastChange = "2016-01-22 03:26:10 +0000";
 layers = (
 {
 anchors = (
@@ -27649,7 +27649,7 @@ width = 522;
 },
 {
 glyphname = "noon-ar";
-lastChange = "2016-01-22 02:18:33 +0000";
+lastChange = "2016-01-22 03:26:27 +0000";
 layers = (
 {
 components = (
@@ -29061,7 +29061,7 @@ unicode = FEEC;
 },
 {
 glyphname = "heh-ar.init";
-lastChange = "2016-01-22 02:16:21 +0000";
+lastChange = "2016-01-22 03:21:09 +0000";
 layers = (
 {
 anchors = (
@@ -30851,7 +30851,7 @@ width = 462;
 },
 {
 glyphname = "waw-ar";
-lastChange = "2016-01-22 01:37:26 +0000";
+lastChange = "2016-01-22 03:24:23 +0000";
 layers = (
 {
 anchors = (
@@ -32224,7 +32224,7 @@ unicode = FBDF;
 },
 {
 glyphname = "alefMaksura-ar";
-lastChange = "2016-01-22 02:19:35 +0000";
+lastChange = "2016-01-22 03:27:05 +0000";
 layers = (
 {
 anchors = (
@@ -39557,7 +39557,7 @@ unicode = 0640;
 },
 {
 glyphname = "lam_alef-ar";
-lastChange = "2016-01-22 02:17:58 +0000";
+lastChange = "2016-01-22 03:22:42 +0000";
 layers = (
 {
 anchors = (
@@ -41237,7 +41237,7 @@ width = 980;
 },
 {
 glyphname = "dotlessbeh_reh-ar";
-lastChange = "2016-01-22 02:24:00 +0000";
+lastChange = "2016-01-22 03:28:20 +0000";
 layers = (
 {
 anchors = (
@@ -41619,7 +41619,7 @@ width = 672;
 },
 {
 glyphname = "dotlessbeh_meem-ar";
-lastChange = "2016-01-22 02:23:29 +0000";
+lastChange = "2016-01-22 03:27:41 +0000";
 layers = (
 {
 anchors = (
@@ -41971,7 +41971,7 @@ width = 543;
 },
 {
 glyphname = "dotlessbeh_noonghunna-ar";
-lastChange = "2016-01-22 02:23:47 +0000";
+lastChange = "2016-01-22 03:27:50 +0000";
 layers = (
 {
 anchors = (
@@ -42397,7 +42397,7 @@ width = 978;
 },
 {
 glyphname = "dotlessbeh_alefMaksura-ar";
-lastChange = "2016-01-22 02:21:27 +0000";
+lastChange = "2016-01-22 03:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -49194,7 +49194,7 @@ width = 1074;
 },
 {
 glyphname = "ain_alefMaksura-ar";
-lastChange = "2016-01-22 02:19:49 +0000";
+lastChange = "2016-01-22 03:24:36 +0000";
 layers = (
 {
 anchors = (
@@ -49663,7 +49663,7 @@ unicode = FD13;
 },
 {
 glyphname = "dotlessfeh_alefMaksura-ar";
-lastChange = "2016-01-22 02:07:21 +0000";
+lastChange = "2016-01-22 03:28:32 +0000";
 layers = (
 {
 anchors = (
@@ -82407,41 +82407,28 @@ kerning = {
 };
 "alefMadda-ar" = {
 "@MMK_R_AInIso" = -40;
-"@MMK_R_AinInti" = -40;
 "@MMK_R_BehInti" = -20;
-"@MMK_R_BehIso" = -20;
-"@MMK_R_DalIso" = -40;
+"@MMK_R_BehIso" = -32;
 "@MMK_R_Feh" = -30;
-"@MMK_R_Gaf" = -50;
 "@MMK_R_HahFina" = -30;
 "@MMK_R_HahInti" = -30;
-"@MMK_R_HehInti" = -40;
 "@MMK_R_HehIso" = -30;
-"@MMK_R_Kaf" = 70;
-"@MMK_R_KafArabic" = 30;
+"@MMK_R_Kaf" = 120;
 "@MMK_R_Kafs" = -30;
-"@MMK_R_Lam" = 30;
-"@MMK_R_LamAlef" = 30;
+"@MMK_R_Lam" = 51;
+"@MMK_R_LamAlef" = 110;
 "@MMK_R_MeemInti" = -30;
-"@MMK_R_MeemIso" = -30;
-"@MMK_R_NoonIso" = -50;
-"@MMK_R_Reh" = -50;
-"@MMK_R_Sad" = -50;
-"@MMK_R_Seen" = -40;
-"@MMK_R_WawIso" = -40;
+"@MMK_R_NoonIso" = -38;
+"@MMK_R_Sad" = -22;
+"@MMK_R_Seen" = -30;
 "@MMK_R_YahIso" = -20;
-"ain_alefMaksura-ar" = -30;
-"ain_meem-ar" = -30;
-"ain_meem-ar.init" = -30;
-"ain_meem_alefMaksura-ar" = -30;
+"ain_alefMaksura-ar" = -19;
 "alefMadda-ar" = 170;
-"dotlessbeh_alefMaksura-ar" = -30;
-"dotlessbeh_hah-ar" = -20;
-"dotlessbeh_hah-ar.init" = -30;
+"dotlessbeh_alefMaksura-ar" = -65;
 "dotlessbeh_hah_alefMaksura-ar" = -30;
 "dotlessbeh_meem-ar" = -30;
 "dotlessbeh_noonghunna-ar" = -30;
-"dotlessbeh_reh-ar" = -30;
+"dotlessbeh_reh-ar" = -21;
 "dotlessfeh_alefMaksura-ar" = -50;
 "hah_alefMaksura-ar" = -30;
 "hah_meem-ar" = -30;
@@ -82457,6 +82444,9 @@ kerning = {
 "meem_meem-ar.init" = -20;
 "parenleft-ar" = 130;
 "tah_alefMaksura-ar" = -30;
+"@MMK_R_HehInti" = -16;
+"@MMK_R_KafArabic" = 58;
+"@MMK_R_WawIso" = 22;
 };
 "alefMadda-ar.fina" = {
 "@MMK_R_AInIso" = -75;
@@ -82980,7 +82970,7 @@ kerning = {
 "alefHamzabelow-ar" = 85;
 "alefMadda-ar" = -22;
 "alefWavyhamzabelow-ar" = 110;
-"dotlessbeh_hah-ar" = -31;
+"dotlessbeh_hah-ar" = -29;
 "dotlessbeh_hah-ar.init" = -31;
 "dotlessbeh_hah_alefMaksura-ar" = -31;
 "hah_alefMaksura-ar" = -34;
@@ -83072,6 +83062,28 @@ kerning = {
 "hah_meem_alefMaksura-ar" = -47;
 "lam_meem-ar" = -26;
 "meem_alefMaksura-ar" = -26;
+};
+"alefMadda-ar" = {
+"@MMK_R_AInIso" = -16;
+"@MMK_R_BehIso" = -15;
+"@MMK_R_HahInti" = -18;
+"@MMK_R_HehInti" = -13;
+"@MMK_R_Kaf" = 106;
+"@MMK_R_KafArabic" = 31;
+"@MMK_R_Lam" = 64;
+"@MMK_R_LamAlef" = 60;
+"@MMK_R_MeemInti" = -19;
+"@MMK_R_Seen" = -17;
+"@MMK_R_WawIso" = 26;
+"ain_alefMaksura-ar" = -12;
+"dotlessbeh_alefMaksura-ar" = -36;
+"@MMK_R_NoonIso" = -21;
+"@MMK_R_Sad" = -24;
+"@MMK_R_YahIso" = -18;
+"dotlessbeh_meem-ar" = -16;
+"dotlessbeh_noonghunna-ar" = -13;
+"dotlessbeh_reh-ar" = -10;
+"dotlessfeh_alefMaksura-ar" = -36;
 };
 };
 };
