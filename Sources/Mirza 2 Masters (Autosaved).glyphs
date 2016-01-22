@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/reh-ar/dotlessqaf-ar"
+" /lam_alef-ar/reh-ar/jeem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -5722,7 +5722,7 @@ width = 325;
 },
 {
 glyphname = "jeem-ar";
-lastChange = "2016-01-22 01:28:55 +0000";
+lastChange = "2016-01-22 01:33:16 +0000";
 layers = (
 {
 components = (
@@ -82286,7 +82286,7 @@ kerning = {
 "@MMK_R_DalIso" = -54;
 "@MMK_R_Feh" = -40;
 "@MMK_R_Gaf" = -34;
-"@MMK_R_HahFina" = -30;
+"@MMK_R_HahFina" = -49;
 "@MMK_R_HahInti" = -40;
 "@MMK_R_HehInti" = -30;
 "@MMK_R_HehIso" = -20;
@@ -82966,6 +82966,7 @@ kerning = {
 "@MMK_R_BehIso" = -38;
 "@MMK_R_DalIso" = -24;
 "@MMK_R_Feh" = -26;
+"@MMK_R_HahFina" = -1;
 };
 };
 };
