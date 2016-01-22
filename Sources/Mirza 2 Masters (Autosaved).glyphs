@@ -2096,7 +2096,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2016-01-22 21:25:22 +0000";
+lastChange = "2016-01-22 21:25:39 +0000";
 layers = (
 {
 components = (
@@ -82870,6 +82870,7 @@ kerning = {
 "@MMK_R_MeemIso" = -33;
 "@MMK_R_Sad" = -33;
 "@MMK_R_Seen" = -45;
+"alefMadda-ar" = 200;
 };
 "@MMK_L_Reh" = {
 "@MMK_R_AInIso" = -30;
