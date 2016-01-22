@@ -54956,7 +54956,7 @@ unicode = FC42;
 },
 {
 glyphname = "lam_meem-ar.init";
-lastChange = "2016-01-15 03:09:15 +0000";
+lastChange = "2016-01-22 00:22:29 +0000";
 layers = (
 {
 anchors = (
@@ -82084,7 +82084,7 @@ kerning = {
 "lam_hah-ar" = -30;
 "lam_hah_alefMaksura-ar" = -37;
 "lam_meem-ar" = -39;
-"lam_meem-ar.init" = -30;
+"lam_meem-ar.init" = -44;
 "lam_meem_alefMaksura-ar" = -30;
 "meem_alefMaksura-ar" = -30;
 "meem_meem-ar.init" = -10;
@@ -82723,6 +82723,7 @@ kerning = {
 "lam_alefMaksura-ar" = -32;
 "lam_hah_alefMaksura-ar" = -19;
 "lam_meem-ar" = -25;
+"lam_meem-ar.init" = -19;
 };
 "@MMK_L_DalFina" = {
 "ain_alefMaksura-ar" = -25;
