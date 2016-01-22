@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/alefMadda-ar/waw-ar"
+" /lam_alef-ar/alefMadda-ar/ain_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -30851,7 +30851,7 @@ width = 462;
 },
 {
 glyphname = "waw-ar";
-lastChange = "2016-01-22 03:24:21 +0000";
+lastChange = "2016-01-22 03:24:23 +0000";
 layers = (
 {
 anchors = (
@@ -83079,7 +83079,7 @@ kerning = {
 "@MMK_R_LamAlef" = 60;
 "@MMK_R_MeemInti" = -19;
 "@MMK_R_Seen" = -17;
-"@MMK_R_WawIso" = 8;
+"@MMK_R_WawIso" = 26;
 };
 };
 };
