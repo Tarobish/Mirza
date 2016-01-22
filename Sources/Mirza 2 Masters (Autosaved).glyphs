@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/reh-ar/alefMaksura-ar"
+" /lam_alef-ar/reh-ar/alefHamzabelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -1876,7 +1876,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2016-01-15 03:16:20 +0000";
+lastChange = "2016-01-22 01:37:55 +0000";
 layers = (
 {
 components = (
@@ -82302,7 +82302,7 @@ kerning = {
 "@MMK_R_Seen" = -40;
 "@MMK_R_WawIso" = -22;
 "@MMK_R_YahIso" = -27;
-"alefHamzabelow-ar" = 70;
+"alefHamzabelow-ar" = 85;
 "alefMadda-ar" = -20;
 "alefWavyhamzabelow-ar" = 80;
 "dotlessbeh_hah-ar" = -10;
@@ -82980,6 +82980,7 @@ kerning = {
 "@MMK_R_Sad" = -27;
 "@MMK_R_Seen" = -18;
 "@MMK_R_WawIso" = 12;
+"alefHamzabelow-ar" = 6;
 };
 };
 };
