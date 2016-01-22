@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.fina/feh-ar"
+"/alef-ar.fina/dotlessqaf-ar/feh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -17261,7 +17261,7 @@ width = 433;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-22 20:49:10 +0000";
+lastChange = "2016-01-22 20:49:14 +0000";
 layers = (
 {
 components = (
