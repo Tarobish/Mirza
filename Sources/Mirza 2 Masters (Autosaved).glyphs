@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/alefMadda-ar.fina/feh-ar"
+" /lam_alef-ar/alefMadda-ar.fina/dotlessqaf-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -19052,7 +19052,7 @@ unicode = FB70;
 },
 {
 glyphname = "dotlessqaf-ar";
-lastChange = "2016-01-22 02:15:13 +0000";
+lastChange = "2016-01-22 03:51:23 +0000";
 layers = (
 {
 anchors = (
@@ -82453,7 +82453,7 @@ kerning = {
 "@MMK_R_BehIso" = -36;
 "@MMK_R_DalIso" = -21;
 "@MMK_R_Feh" = 26;
-"@MMK_R_Gaf" = -30;
+"@MMK_R_Gaf" = -23;
 "@MMK_R_HahFina" = -30;
 "@MMK_R_HahInti" = -30;
 "@MMK_R_HehInti" = -50;
@@ -82760,7 +82760,7 @@ kerning = {
 "@MMK_R_AinInti" = -10;
 "@MMK_R_DalIso" = -17;
 "@MMK_R_Feh" = 29;
-"@MMK_R_Gaf" = -10;
+"@MMK_R_Gaf" = -7;
 "@MMK_R_HahFina" = -20;
 "@MMK_R_HahInti" = -20;
 "@MMK_R_HehInti" = -30;
@@ -83082,7 +83082,6 @@ kerning = {
 "dotlessbeh_reh-ar" = -10;
 "dotlessfeh_alefMaksura-ar" = -36;
 "hah_alefMaksura-ar" = -15;
-"hah_meem-ar" = -15;
 "hah_meem-ar.init" = -21;
 "hah_meem_alefMaksura-ar" = -22;
 "lam_hah_alefMaksura-ar" = -18;
