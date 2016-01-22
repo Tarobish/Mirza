@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/alefMadda-ar/seen-ar"
+" /lam_alef-ar/alefMadda-ar/ain_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -32224,7 +32224,7 @@ unicode = FBDF;
 },
 {
 glyphname = "alefMaksura-ar";
-lastChange = "2016-01-22 02:19:35 +0000";
+lastChange = "2016-01-22 03:27:05 +0000";
 layers = (
 {
 anchors = (
@@ -83081,6 +83081,7 @@ kerning = {
 "dotlessbeh_alefMaksura-ar" = -36;
 "@MMK_R_NoonIso" = -21;
 "@MMK_R_Sad" = -24;
+"@MMK_R_YahIso" = -18;
 };
 };
 };
