@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kehehThreedotsupbelow-ar" format="1">
+  <advance width="809"/>
+  <unicode hex="0764"/>
+  <outline>
+    <component base="keheh-ar"/>
+    <component base="threedotsupbelow-ar" xOffset="398" yOffset="-27"/>
+  </outline>
+</glyph>

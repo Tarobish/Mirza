@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddal-ar" format="1">
+  <advance width="413"/>
+  <unicode hex="0688"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="tahabove-ar" xOffset="187" yOffset="-275"/>
+  </outline>
+</glyph>

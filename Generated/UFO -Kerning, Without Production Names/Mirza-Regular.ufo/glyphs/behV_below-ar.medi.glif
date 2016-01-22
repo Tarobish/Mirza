@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="behVbelow-ar.medi" format="1">
+  <advance width="301"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+    <component base="vbelow-ar" xOffset="16" yOffset="155"/>
+    <contour>
+      <point x="16" y="-236" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

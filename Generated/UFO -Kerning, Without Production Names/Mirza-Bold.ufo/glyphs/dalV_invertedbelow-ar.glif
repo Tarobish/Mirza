@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dalVinvertedbelow-ar" format="1">
+  <advance width="453"/>
+  <unicode hex="075A"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="circumflex.below" xOffset="202" yOffset="137"/>
+    <contour>
+      <point x="217" y="-280" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
