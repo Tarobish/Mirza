@@ -42825,7 +42825,7 @@ width = 795;
 },
 {
 glyphname = "hah_meem-ar";
-lastChange = "2016-01-22 02:24:52 +0000";
+lastChange = "2016-01-22 03:46:42 +0000";
 layers = (
 {
 anchors = (
@@ -83085,6 +83085,7 @@ kerning = {
 "dotlessbeh_reh-ar" = -10;
 "dotlessfeh_alefMaksura-ar" = -36;
 "hah_alefMaksura-ar" = -15;
+"hah_meem-ar" = -15;
 };
 };
 };
