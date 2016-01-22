@@ -30851,7 +30851,7 @@ width = 462;
 },
 {
 glyphname = "waw-ar";
-lastChange = "2016-01-22 01:03:17 +0000";
+lastChange = "2016-01-22 01:03:18 +0000";
 layers = (
 {
 anchors = (
@@ -82210,7 +82210,7 @@ kerning = {
 "@MMK_R_Reh" = -22;
 "@MMK_R_Sad" = -25;
 "@MMK_R_Seen" = -24;
-"@MMK_R_WawIso" = -28;
+"@MMK_R_WawIso" = -20;
 "@MMK_R_YahIso" = -30;
 "ain_alefMaksura-ar" = -50;
 "ain_meem-ar" = -60;
