@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alef-ar.fina/kaf-ar.init"
+"/lam_alef-ar.fina/alefMadda-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -26516,7 +26516,7 @@ width = 325;
 },
 {
 glyphname = "meem-ar";
-lastChange = "2016-01-22 01:36:41 +0000";
+lastChange = "2016-01-22 21:24:47 +0000";
 layers = (
 {
 anchors = (
@@ -26526,7 +26526,7 @@ position = "{137, -362}";
 },
 {
 name = top;
-position = "{218, 336}";
+position = "{218, 335}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
