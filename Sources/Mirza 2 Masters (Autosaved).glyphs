@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/reh-ar/alef-ar"
+" /lam_alef-ar/reh-ar/Longdotlessbeh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -1004,7 +1004,7 @@ unicode = 007A;
 },
 {
 glyphname = "Longdotlessbeh-ar.init";
-lastChange = "2016-01-22 01:18:55 +0000";
+lastChange = "2016-01-22 01:31:51 +0000";
 layers = (
 {
 anchors = (
@@ -82281,7 +82281,7 @@ kerning = {
 "@MMK_R_AInIso" = -30;
 "@MMK_R_AinInti" = -51;
 "@MMK_R_AlefIso" = -22;
-"@MMK_R_BehInti" = -20;
+"@MMK_R_BehInti" = -37;
 "@MMK_R_BehIso" = -40;
 "@MMK_R_DalIso" = -40;
 "@MMK_R_Feh" = -40;
@@ -82962,6 +82962,7 @@ kerning = {
 "@MMK_R_AInIso" = -30;
 "@MMK_R_AinInti" = -28;
 "@MMK_R_AlefIso" = -23;
+"@MMK_R_BehInti" = -5;
 };
 };
 };
