@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/lam_alef-ar.fina/dal-ar"
+" /lam_alef-ar/lam_alef-ar.fina/feh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -8628,7 +8628,7 @@ width = 674;
 },
 {
 glyphname = "dal-ar";
-lastChange = "2016-01-22 01:26:50 +0000";
+lastChange = "2016-01-22 01:27:46 +0000";
 layers = (
 {
 anchors = (
@@ -17261,7 +17261,7 @@ width = 433;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-22 01:20:27 +0000";
+lastChange = "2016-01-22 01:27:52 +0000";
 layers = (
 {
 components = (
@@ -82267,7 +82267,7 @@ kerning = {
 "@MMK_R_AlefIso" = 38;
 "@MMK_R_BehIso" = -80;
 "@MMK_R_DalIso" = -70;
-"@MMK_R_Feh" = -70;
+"@MMK_R_Feh" = -69;
 "@MMK_R_HahFina" = -80;
 "@MMK_R_HahInti" = -80;
 "@MMK_R_HehIso" = -50;
@@ -82948,7 +82948,7 @@ kerning = {
 "@MMK_R_AinInti" = -50;
 "@MMK_R_AlefIso" = 29;
 "@MMK_R_BehIso" = -57;
-"@MMK_R_DalIso" = -33;
+"@MMK_R_DalIso" = -50;
 };
 };
 };
