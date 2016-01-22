@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/alefMadda-ar/sad-ar"
+" /lam_alef-ar/alefMadda-ar/seen-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -13377,7 +13377,7 @@ width = 549;
 },
 {
 glyphname = "sad-ar";
-lastChange = "2016-01-22 03:26:45 +0000";
+lastChange = "2016-01-22 03:26:48 +0000";
 layers = (
 {
 anchors = (
@@ -83080,7 +83080,7 @@ kerning = {
 "ain_alefMaksura-ar" = -12;
 "dotlessbeh_alefMaksura-ar" = -36;
 "@MMK_R_NoonIso" = -21;
-"@MMK_R_Sad" = -1;
+"@MMK_R_Sad" = -24;
 };
 };
 };
