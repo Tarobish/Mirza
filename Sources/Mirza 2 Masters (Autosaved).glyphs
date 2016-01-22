@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /dal-ar.fina/alef-ar"
+" /dal-ar.fina/feh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -82143,7 +82143,6 @@ kerning = {
 "@MMK_L_DalFina" = {
 "@MMK_R_AInIso" = -50;
 "@MMK_R_AinInti" = -30;
-"@MMK_R_AlefIso" = 0;
 "@MMK_R_BehIso" = -40;
 "@MMK_R_Feh" = -50;
 "@MMK_R_Gaf" = -40;
