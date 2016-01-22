@@ -56768,7 +56768,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "meem_meem-ar.init";
-lastChange = "2016-01-22 21:43:36 +0000";
+lastChange = "2016-01-22 21:43:39 +0000";
 layers = (
 {
 anchors = (
@@ -82437,7 +82437,7 @@ kerning = {
 "@MMK_R_HehInti" = -16;
 "@MMK_R_KafArabic" = 58;
 "@MMK_R_WawIso" = 29;
-"meem_meem-ar.init" = 69;
+"meem_meem-ar.init" = 87;
 "@MMK_R_Feh" = 47;
 };
 "alefMadda-ar.fina" = {
