@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/reh-ar/alefHamzabelow-ar"
+" /lam_alef-ar/reh-ar/alefMadda-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -1876,7 +1876,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2016-01-22 01:38:03 +0000";
+lastChange = "2016-01-22 01:38:05 +0000";
 layers = (
 {
 components = (
@@ -82980,7 +82980,7 @@ kerning = {
 "@MMK_R_Sad" = -27;
 "@MMK_R_Seen" = -18;
 "@MMK_R_WawIso" = 12;
-"alefHamzabelow-ar" = 75;
+"alefHamzabelow-ar" = 85;
 };
 };
 };
