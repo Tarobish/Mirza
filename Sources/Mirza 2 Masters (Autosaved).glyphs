@@ -17261,7 +17261,7 @@ width = 433;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-22 02:14:47 +0000";
+lastChange = "2016-01-22 03:51:10 +0000";
 layers = (
 {
 components = (
@@ -82452,7 +82452,7 @@ kerning = {
 "@MMK_R_BehInti" = -20;
 "@MMK_R_BehIso" = -36;
 "@MMK_R_DalIso" = -21;
-"@MMK_R_Feh" = 20;
+"@MMK_R_Feh" = 26;
 "@MMK_R_Gaf" = -30;
 "@MMK_R_HahFina" = -30;
 "@MMK_R_HahInti" = -30;
@@ -82759,7 +82759,7 @@ kerning = {
 "@MMK_R_AInIso" = -33;
 "@MMK_R_AinInti" = -10;
 "@MMK_R_DalIso" = -17;
-"@MMK_R_Feh" = 20;
+"@MMK_R_Feh" = 29;
 "@MMK_R_Gaf" = -10;
 "@MMK_R_HahFina" = -20;
 "@MMK_R_HahInti" = -20;
