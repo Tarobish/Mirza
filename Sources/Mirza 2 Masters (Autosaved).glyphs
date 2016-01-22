@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.fina/heh-ar.init  /beh-ar  /alef-ar/jeem-ar.init"
+"/alef-ar.fina/heh-ar.init  /beh-ar  /alef-ar/heh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -5829,7 +5829,7 @@ unicode = FEA0;
 },
 {
 glyphname = "jeem-ar.init";
-lastChange = "2016-01-22 00:10:56 +0000";
+lastChange = "2016-01-22 00:26:05 +0000";
 layers = (
 {
 components = (
@@ -29061,7 +29061,7 @@ unicode = FEEC;
 },
 {
 glyphname = "heh-ar.init";
-lastChange = "2016-01-22 00:11:19 +0000";
+lastChange = "2016-01-22 00:26:11 +0000";
 layers = (
 {
 anchors = (
@@ -82100,7 +82100,7 @@ kerning = {
 "@MMK_R_Gaf" = -39;
 "@MMK_R_HahFina" = -40;
 "@MMK_R_HahInti" = -40;
-"@MMK_R_HehInti" = -30;
+"@MMK_R_HehInti" = -37;
 "@MMK_R_HehIso" = -40;
 "@MMK_R_Kaf" = 20;
 "@MMK_R_KafArabic" = -10;
@@ -82829,6 +82829,7 @@ kerning = {
 "@MMK_R_Feh" = -12;
 "@MMK_R_Gaf" = -21;
 "@MMK_R_HahFina" = -19;
+"@MMK_R_HahInti" = -16;
 };
 };
 };
