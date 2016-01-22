@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/alefMadda-ar/dotlessfeh_alefMaksura-ar"
+" /lam_alef-ar/alefMadda-ar/hah_meem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -43575,7 +43575,7 @@ width = 1168;
 },
 {
 glyphname = "hah_alefMaksura-ar";
-lastChange = "2016-01-22 02:24:35 +0000";
+lastChange = "2016-01-22 03:46:32 +0000";
 layers = (
 {
 anchors = (
@@ -83084,6 +83084,7 @@ kerning = {
 "dotlessbeh_noonghunna-ar" = -13;
 "dotlessbeh_reh-ar" = -10;
 "dotlessfeh_alefMaksura-ar" = -36;
+"hah_alefMaksura-ar" = -15;
 };
 };
 };
