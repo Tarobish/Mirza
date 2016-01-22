@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMadda-ar/dotlessbeh_hah_alefMaksura-ar"
+"/alefMadda-ar/lam_meem_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -82435,7 +82435,6 @@ kerning = {
 "lam_meem_alefMaksura-ar" = -30;
 "meem_alefMaksura-ar" = -17;
 "parenleft-ar" = 130;
-"tah_alefMaksura-ar" = -8;
 "@MMK_R_HehInti" = -16;
 "@MMK_R_KafArabic" = 58;
 "@MMK_R_WawIso" = 29;
