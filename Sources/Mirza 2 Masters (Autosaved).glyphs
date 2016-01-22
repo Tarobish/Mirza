@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/reh-ar/jeem-ar"
+"/reh-ar/hah-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -6455,7 +6455,7 @@ unicode = FB74;
 },
 {
 glyphname = "hah-ar";
-lastChange = "2016-01-15 02:53:36 +0000";
+lastChange = "2016-01-22 21:33:00 +0000";
 layers = (
 {
 anchors = (
@@ -82286,7 +82286,7 @@ kerning = {
 "@MMK_R_DalIso" = -54;
 "@MMK_R_Feh" = -40;
 "@MMK_R_Gaf" = -34;
-"@MMK_R_HahFina" = -49;
+"@MMK_R_HahFina" = -8;
 "@MMK_R_HahInti" = -52;
 "@MMK_R_HehInti" = -51;
 "@MMK_R_HehIso" = -52;
