@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/reh-ar/alefMadda-ar"
+" /lam_alef-ar/reh-ar/alefWavyhamzabelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -2096,7 +2096,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2016-01-22 01:25:14 +0000";
+lastChange = "2016-01-22 01:38:21 +0000";
 layers = (
 {
 components = (
@@ -82981,6 +82981,7 @@ kerning = {
 "@MMK_R_Seen" = -18;
 "@MMK_R_WawIso" = 12;
 "alefHamzabelow-ar" = 85;
+"alefMadda-ar" = -22;
 };
 };
 };
