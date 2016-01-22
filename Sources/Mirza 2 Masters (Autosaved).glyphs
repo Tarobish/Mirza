@@ -1004,7 +1004,7 @@ unicode = 007A;
 },
 {
 glyphname = "Longdotlessbeh-ar.init";
-lastChange = "2016-01-22 01:18:54 +0000";
+lastChange = "2016-01-22 01:18:55 +0000";
 layers = (
 {
 anchors = (
@@ -82923,7 +82923,7 @@ kerning = {
 "@MMK_R_AInIso" = -30;
 "@MMK_R_AinInti" = -24;
 "@MMK_R_AlefIso" = 26;
-"@MMK_R_BehInti" = -25;
+"@MMK_R_BehInti" = -30;
 };
 };
 };
