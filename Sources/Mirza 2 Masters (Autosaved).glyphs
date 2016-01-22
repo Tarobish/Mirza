@@ -42397,7 +42397,7 @@ width = 978;
 },
 {
 glyphname = "dotlessbeh_alefMaksura-ar";
-lastChange = "2016-01-22 03:25:00 +0000";
+lastChange = "2016-01-22 03:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -83079,6 +83079,7 @@ kerning = {
 "@MMK_R_Seen" = -17;
 "@MMK_R_WawIso" = 26;
 "ain_alefMaksura-ar" = -12;
+"dotlessbeh_alefMaksura-ar" = -36;
 };
 };
 };
