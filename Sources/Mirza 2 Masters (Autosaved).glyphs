@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/waw-ar/dotlessbeh_hah-ar.init"
+"/alefMadda-ar/feh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -17261,7 +17261,7 @@ width = 433;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-22 21:36:42 +0000";
+lastChange = "2016-01-22 21:40:29 +0000";
 layers = (
 {
 components = (
@@ -82406,7 +82406,6 @@ kerning = {
 "@MMK_R_AInIso" = -40;
 "@MMK_R_BehInti" = -20;
 "@MMK_R_BehIso" = -32;
-"@MMK_R_Feh" = -30;
 "@MMK_R_HahFina" = -30;
 "@MMK_R_HahInti" = -30;
 "@MMK_R_HehIso" = -30;
