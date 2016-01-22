@@ -27649,7 +27649,7 @@ width = 522;
 },
 {
 glyphname = "noon-ar";
-lastChange = "2016-01-22 01:23:04 +0000";
+lastChange = "2016-01-22 01:23:09 +0000";
 layers = (
 {
 components = (
@@ -82253,7 +82253,7 @@ kerning = {
 "@MMK_R_Kaf" = 48;
 "@MMK_R_MeemInti" = -80;
 "@MMK_R_MeemIso" = -45;
-"@MMK_R_NoonIso" = -75;
+"@MMK_R_NoonIso" = -106;
 "@MMK_R_Reh" = -50;
 "@MMK_R_Sad" = -70;
 "@MMK_R_Seen" = -70;
