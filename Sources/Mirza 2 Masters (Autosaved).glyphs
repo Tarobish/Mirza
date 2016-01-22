@@ -16142,7 +16142,7 @@ width = 563;
 },
 {
 glyphname = "ain-ar";
-lastChange = "2016-01-22 00:06:20 +0000";
+lastChange = "2016-01-22 00:06:51 +0000";
 layers = (
 {
 anchors = (
@@ -82042,7 +82042,7 @@ weightClass = Bold;
 kerning = {
 "51F41761-070F-43EA-B302-C90910850260" = {
 "@MMK_L_AlefFina" = {
-"@MMK_R_AInIso" = -50;
+"@MMK_R_AInIso" = -85;
 "@MMK_R_AinInti" = -50;
 "@MMK_R_BehInti" = -50;
 "@MMK_R_BehIso" = -50;
