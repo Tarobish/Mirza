@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alef-ar.fina/alefMadda-ar"
+"/reh-ar/ain-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -16142,7 +16142,7 @@ width = 563;
 },
 {
 glyphname = "ain-ar";
-lastChange = "2016-01-22 03:50:03 +0000";
+lastChange = "2016-01-22 21:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -82278,7 +82278,7 @@ kerning = {
 "alefMadda-ar" = 216;
 };
 "@MMK_L_Reh" = {
-"@MMK_R_AInIso" = -30;
+"@MMK_R_AInIso" = -13;
 "@MMK_R_AinInti" = -51;
 "@MMK_R_AlefIso" = -22;
 "@MMK_R_BehInti" = -37;
