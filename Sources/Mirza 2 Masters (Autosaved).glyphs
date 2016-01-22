@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-" /lam_alef-ar/alef-ar"
+" /lam_alef-ar/Longdotlessbeh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -82922,7 +82922,7 @@ kerning = {
 "@MMK_L_LamAlef" = {
 "@MMK_R_AInIso" = -30;
 "@MMK_R_AinInti" = -24;
-"@MMK_R_AlefIso" = 25;
+"@MMK_R_AlefIso" = 26;
 };
 };
 };
