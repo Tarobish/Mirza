@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ainTwodotshorizontalabove-ar.fina" format="1">
+  <advance width="562"/>
+  <outline>
+    <component base="ain-ar.fina"/>
+    <component base="twodotshorizontalabove-ar" xOffset="304" yOffset="-346"/>
+  </outline>
+</glyph>
