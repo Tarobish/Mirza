@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehAlefabove-ar.init" format="1">
+  <advance width="431"/>
+  <unicode hex="FCD9"/>
+  <outline>
+    <component base="heh-ar.init"/>
+    <component base="alefabove-ar" xOffset="134" yOffset="-271"/>
+  </outline>
+</glyph>

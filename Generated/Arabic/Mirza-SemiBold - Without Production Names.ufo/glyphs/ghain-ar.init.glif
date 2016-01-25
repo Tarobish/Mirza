@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghain-ar.init" format="1">
+  <advance width="410"/>
+  <unicode hex="FECF"/>
+  <outline>
+    <component base="ain-ar.init"/>
+    <component base="dotabove-ar" xOffset="182" yOffset="-263"/>
+  </outline>
+</glyph>

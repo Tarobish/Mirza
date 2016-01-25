@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehDotbelowdotabove-ar.fina" format="1">
+  <advance width="462"/>
+  <outline>
+    <component base="reh-ar.fina" xOffset="53"/>
+    <component base="dotbelow-ar" xOffset="112" yOffset="-170"/>
+    <component base="dotcenter-ar" xOffset="136" yOffset="-193"/>
+  </outline>
+</glyph>

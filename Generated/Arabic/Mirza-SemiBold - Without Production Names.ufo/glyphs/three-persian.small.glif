@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three-persian.small" format="1">
+  <advance width="220"/>
+  <outline>
+    <component base="three-persian" xOffset="-1" yOffset="251" xScale="0.444" yScale="0.444"/>
+  </outline>
+</glyph>

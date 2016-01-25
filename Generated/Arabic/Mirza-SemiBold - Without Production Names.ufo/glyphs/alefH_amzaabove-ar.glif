@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefHamzaabove-ar" format="1">
+  <advance width="186"/>
+  <unicode hex="0623"/>
+  <outline>
+    <component base="alef-ar.short"/>
+    <component base="hamzaabove-ar" xOffset="97" yOffset="-137"/>
+  </outline>
+</glyph>

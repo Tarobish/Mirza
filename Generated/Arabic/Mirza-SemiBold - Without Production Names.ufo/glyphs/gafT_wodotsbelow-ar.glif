@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gafTwodotsbelow-ar" format="1">
+  <advance width="797"/>
+  <unicode hex="06B2"/>
+  <outline>
+    <component base="gaf-ar"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="395" yOffset="104"/>
+  </outline>
+</glyph>

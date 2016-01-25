@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehTwodotsverticalabove-ar" format="1">
+  <advance width="332"/>
+  <unicode hex="076B"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="twodotsverticalabove-ar" xOffset="157" yOffset="-391"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehVinverted-farsi.fina" format="1">
+  <advance width="709"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="vinvertedabove-ar" xOffset="277" yOffset="-614"/>
+  </outline>
+</glyph>

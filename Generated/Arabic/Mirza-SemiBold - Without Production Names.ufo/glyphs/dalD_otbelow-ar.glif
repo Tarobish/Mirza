@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dalDotbelow-ar" format="1">
+  <advance width="440"/>
+  <unicode hex="068A"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="dotbelow-ar" xOffset="192" yOffset="100"/>
+  </outline>
+</glyph>

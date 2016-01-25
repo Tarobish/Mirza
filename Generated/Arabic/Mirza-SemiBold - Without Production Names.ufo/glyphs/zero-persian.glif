@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero-persian" format="1">
+  <advance width="241"/>
+  <unicode hex="06F0"/>
+  <outline>
+    <contour>
+      <point x="47" y="206" type="line"/>
+      <point x="127" y="128" type="line"/>
+      <point x="205" y="206" type="line"/>
+      <point x="127" y="285" type="line"/>
+    </contour>
+  </outline>
+</glyph>

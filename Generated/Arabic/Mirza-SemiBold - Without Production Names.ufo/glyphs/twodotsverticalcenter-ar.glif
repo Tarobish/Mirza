@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotsverticalcenter-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="36" y="286"/>
+      <point x="55" y="307"/>
+      <point x="63" y="318" type="curve"/>
+      <point x="52" y="340"/>
+      <point x="26" y="367"/>
+      <point x="-1" y="382" type="curve"/>
+      <point x="-12" y="369"/>
+      <point x="-44" y="337"/>
+      <point x="-61" y="322" type="curve"/>
+      <point x="-41" y="306"/>
+      <point x="-23" y="289"/>
+      <point x="-8" y="272" type="curve"/>
+      <point x="-22" y="256"/>
+      <point x="-46" y="231"/>
+      <point x="-61" y="219" type="curve"/>
+      <point x="-35" y="199"/>
+      <point x="-13" y="176"/>
+      <point x="4" y="155" type="curve"/>
+      <point x="27" y="173"/>
+      <point x="53" y="202"/>
+      <point x="63" y="215" type="curve"/>
+      <point x="55" y="233"/>
+      <point x="37" y="253"/>
+      <point x="16" y="269" type="curve"/>
+    </contour>
+    <contour>
+      <point x="2" y="283" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>

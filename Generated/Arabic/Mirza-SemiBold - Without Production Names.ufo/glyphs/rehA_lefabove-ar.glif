@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehAlefabove-ar" format="1">
+  <advance width="332"/>
+  <unicode hex="FC5C"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="alefabove-ar" xOffset="165" yOffset="-395"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonTahabove-ar" format="1">
+  <advance width="608"/>
+  <unicode hex="0768"/>
+  <outline>
+    <component base="noonghunna-ar"/>
+    <component base="TahSmallDotbelow-ar" xOffset="313" yOffset="-601"/>
+  </outline>
+</glyph>

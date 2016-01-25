@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehStroke-ar.fina" format="1">
+  <advance width="449"/>
+  <outline>
+    <component base="reh-ar.fina" xOffset="70"/>
+    <component base="barlong" xOffset="217" yOffset="-275"/>
+  </outline>
+</glyph>

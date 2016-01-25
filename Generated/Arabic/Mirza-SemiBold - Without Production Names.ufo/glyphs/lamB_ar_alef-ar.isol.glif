@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamBar_alef-ar.isol" format="1">
+  <advance width="479"/>
+  <outline>
+    <component base="lam_alef-ar"/>
+    <component base="barlong" xOffset="323" yOffset="278" xScale="0.884"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lamBar-ar.isol</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alef-ar.isol</string>
+    </dict>
+  </lib>
+</glyph>

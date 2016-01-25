@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="decimalseparator-ar" format="1">
+  <advance width="209"/>
+  <unicode hex="066B"/>
+  <outline>
+    <contour>
+      <point x="132" y="125" type="line"/>
+      <point x="0" y="-200" type="line"/>
+      <point x="78" y="-200" type="line"/>
+      <point x="209" y="125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

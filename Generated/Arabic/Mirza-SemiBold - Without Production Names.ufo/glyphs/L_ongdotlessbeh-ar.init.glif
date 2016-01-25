@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Longdotlessbeh-ar.init" format="1">
+  <advance width="443"/>
+  <outline>
+    <contour>
+      <point x="300" y="307"/>
+      <point x="285" y="282"/>
+      <point x="265" y="241" type="curve"/>
+      <point x="291" y="214"/>
+      <point x="309" y="195"/>
+      <point x="331" y="170" type="curve"/>
+      <point x="321" y="154"/>
+      <point x="291" y="125"/>
+      <point x="247" y="125" type="curve" smooth="yes"/>
+      <point x="-7" y="125" type="line" smooth="yes"/>
+      <point x="-39" y="125"/>
+      <point x="-70" y="101"/>
+      <point x="-70" y="63" type="curve" smooth="yes"/>
+      <point x="-70" y="28"/>
+      <point x="-42" y="0"/>
+      <point x="-7" y="0" type="curve" smooth="yes"/>
+      <point x="239" y="0" type="line" smooth="yes"/>
+      <point x="290" y="0"/>
+      <point x="330" y="21"/>
+      <point x="356" y="62" type="curve" smooth="yes"/>
+      <point x="378" y="97"/>
+      <point x="389" y="133"/>
+      <point x="389" y="176" type="curve" smooth="yes"/>
+      <point x="389" y="264"/>
+      <point x="336" y="321"/>
+      <point x="325" y="333" type="curve"/>
+    </contour>
+    <contour>
+      <point x="158" y="318" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="164" y="-28" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
