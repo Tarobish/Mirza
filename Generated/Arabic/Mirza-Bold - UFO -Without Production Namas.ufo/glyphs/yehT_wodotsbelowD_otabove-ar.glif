@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehTwodotsbelowDotabove-ar" format="1">
-  <advance width="693"/>
-  <unicode hex="08A9"/>
-  <outline>
-    <component base="yeh-ar"/>
-    <component base="dotabove-ar" xOffset="215" yOffset="-467"/>
-  </outline>
-</glyph>

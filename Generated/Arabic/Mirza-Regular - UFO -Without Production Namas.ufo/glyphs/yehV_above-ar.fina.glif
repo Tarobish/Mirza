@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehVabove-ar.fina" format="1">
-  <advance width="660"/>
-  <outline>
-    <component base="alefMaksura-ar.fina"/>
-    <component base="vabove-ar" xOffset="282" yOffset="-641"/>
-  </outline>
-</glyph>

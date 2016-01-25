@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehKashmiri-ar.fina" format="1">
-  <advance width="733"/>
-  <outline>
-    <component base="alefMaksura-ar.fina"/>
-    <component base="ring-ar" xOffset="326" yOffset="-154"/>
-  </outline>
-</glyph>
