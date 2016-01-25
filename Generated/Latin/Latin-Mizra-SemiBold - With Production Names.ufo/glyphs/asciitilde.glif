@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="1">
+  <advance width="533"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="418" y="199"/>
+      <point x="460" y="222"/>
+      <point x="473" y="301" type="curve"/>
+      <point x="451" y="312"/>
+      <point x="424" y="319"/>
+      <point x="400" y="321" type="curve"/>
+      <point x="392" y="294"/>
+      <point x="374" y="284"/>
+      <point x="350" y="284" type="curve" smooth="yes"/>
+      <point x="287" y="284"/>
+      <point x="226" y="332"/>
+      <point x="164" y="332" type="curve" smooth="yes"/>
+      <point x="115" y="332"/>
+      <point x="73" y="308"/>
+      <point x="60" y="230" type="curve"/>
+      <point x="82" y="219"/>
+      <point x="109" y="212"/>
+      <point x="133" y="210" type="curve"/>
+      <point x="141" y="236"/>
+      <point x="159" y="246"/>
+      <point x="183" y="246" type="curve" smooth="yes"/>
+      <point x="246" y="246"/>
+      <point x="307" y="199"/>
+      <point x="369" y="199" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>minus</string>
+    </dict>
+  </lib>
+</glyph>
