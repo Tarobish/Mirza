@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamDoublebar-ar.init" format="1">
+  <advance width="228"/>
+  <outline>
+    <component base="lam-ar.init"/>
+    <component base="barlong" xOffset="116" yOffset="181"/>
+    <component base="barlong" xOffset="116" yOffset="108"/>
+  </outline>
+</glyph>

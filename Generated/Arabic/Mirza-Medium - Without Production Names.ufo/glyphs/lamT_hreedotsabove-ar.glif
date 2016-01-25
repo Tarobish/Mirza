@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamThreedotsabove-ar" format="1">
+  <advance width="565"/>
+  <unicode hex="06B7"/>
+  <outline>
+    <component base="lam-ar"/>
+    <component base="threedotsupabove-ar" xOffset="335" yOffset="-78"/>
+  </outline>
+</glyph>

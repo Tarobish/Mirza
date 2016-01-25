@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ainTwodotsverticalabove-ar.medi" format="1">
+  <advance width="421"/>
+  <outline>
+    <component base="ain-ar.medi"/>
+    <component base="twodotsverticalabove-ar" xOffset="180" yOffset="-375"/>
+  </outline>
+</glyph>

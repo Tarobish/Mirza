@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gueh-ar.init" format="1">
+  <advance width="296"/>
+  <unicode hex="FB98"/>
+  <outline>
+    <component base="gaf-ar.init"/>
+    <component base="twodotsverticalbelow-ar" xOffset="39" yOffset="21"/>
+  </outline>
+</glyph>

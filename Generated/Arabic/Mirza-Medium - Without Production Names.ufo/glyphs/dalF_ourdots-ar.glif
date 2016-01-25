@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dalFourdots-ar" format="1">
+  <advance width="426"/>
+  <unicode hex="0690"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="fourdotsabove-ar" xOffset="191" yOffset="-146"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beeh-ar" format="1">
+  <advance width="841"/>
+  <unicode hex="067B"/>
+  <outline>
+    <component base="dotlessbeh-ar"/>
+    <component base="twodotsverticalbelow-ar" xOffset="408" yOffset="3"/>
+  </outline>
+</glyph>

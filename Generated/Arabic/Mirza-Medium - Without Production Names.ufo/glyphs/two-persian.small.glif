@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two-persian.small" format="1">
+  <advance width="178"/>
+  <outline>
+    <component base="two-persian" xOffset="-3" yOffset="258" xScale="0.444" yScale="0.444"/>
+  </outline>
+</glyph>

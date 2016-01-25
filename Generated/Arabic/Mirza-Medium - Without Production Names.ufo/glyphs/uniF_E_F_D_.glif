@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEFD" format="1">
+  <advance width="463"/>
+  <unicode hex="FEFD"/>
+  <outline>
+    <component base="lam_alef-ar"/>
+    <component base="fathatan-ar" xOffset="30" yOffset="-158"/>
+  </outline>
+</glyph>

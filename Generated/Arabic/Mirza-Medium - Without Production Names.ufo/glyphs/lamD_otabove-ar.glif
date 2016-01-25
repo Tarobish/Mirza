@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamDotabove-ar" format="1">
+  <advance width="565"/>
+  <unicode hex="06B6"/>
+  <outline>
+    <component base="lam-ar"/>
+    <component base="dotabove-ar" xOffset="330" yOffset="-51"/>
+  </outline>
+</glyph>

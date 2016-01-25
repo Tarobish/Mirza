@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehTail-ar" format="1">
+  <advance width="666"/>
+  <unicode hex="06CD"/>
+  <outline>
+    <contour>
+      <point x="69" y="116"/>
+      <point x="34" y="98"/>
+      <point x="-8" y="87" type="curve"/>
+      <point x="26" y="43" type="line"/>
+      <point x="105" y="78" type="line"/>
+      <point x="100" y="134" type="line"/>
+    </contour>
+    <component base="alefMaksura-ar"/>
+  </outline>
+</glyph>

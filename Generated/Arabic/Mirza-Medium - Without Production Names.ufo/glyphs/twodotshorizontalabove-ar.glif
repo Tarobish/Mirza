@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotshorizontalabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="FBB4"/>
+  <outline>
+    <contour>
+      <point x="33" y="798"/>
+      <point x="14" y="779"/>
+      <point x="-1" y="764" type="curve"/>
+      <point x="-15" y="781"/>
+      <point x="-33" y="799"/>
+      <point x="-52" y="810" type="curve"/>
+      <point x="-64" y="796"/>
+      <point x="-91" y="769"/>
+      <point x="-108" y="753" type="curve"/>
+      <point x="-85" y="736"/>
+      <point x="-66" y="716"/>
+      <point x="-47" y="695" type="curve"/>
+      <point x="-29" y="711"/>
+      <point x="-11" y="729"/>
+      <point x="1" y="742" type="curve"/>
+      <point x="18" y="728"/>
+      <point x="34" y="712"/>
+      <point x="47" y="695" type="curve"/>
+      <point x="71" y="715"/>
+      <point x="91" y="736"/>
+      <point x="103" y="751" type="curve"/>
+      <point x="91" y="771"/>
+      <point x="67" y="796"/>
+      <point x="43" y="810" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-3" y="821" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-3" y="675" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

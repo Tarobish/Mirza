@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kirghizoe-ar.fina" format="1">
+  <advance width="432"/>
+  <unicode hex="FBE1"/>
+  <outline>
+    <component base="waw-ar.fina" xOffset="10"/>
+    <component base="barlong" xOffset="188" yOffset="-292"/>
+  </outline>
+</glyph>

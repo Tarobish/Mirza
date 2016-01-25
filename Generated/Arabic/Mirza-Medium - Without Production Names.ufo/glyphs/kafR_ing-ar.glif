@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kafRing-ar" format="1">
+  <advance width="785"/>
+  <unicode hex="06AB"/>
+  <outline>
+    <component base="keheh-ar"/>
+    <component base="ring-ar" xOffset="670" yOffset="615" xScale="0.8" yScale="0.8"/>
+  </outline>
+</glyph>
