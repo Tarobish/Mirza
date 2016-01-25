@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noonTahabove-ar.fina" format="1">
-  <advance width="657"/>
-  <outline>
-    <component base="noonghunna-ar.fina"/>
-    <component base="TahSmallDotbelow-ar" xOffset="313" yOffset="-722"/>
-  </outline>
-</glyph>

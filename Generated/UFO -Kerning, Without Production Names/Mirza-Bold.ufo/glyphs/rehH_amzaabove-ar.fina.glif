@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rehHamzaabove-ar.fina" format="1">
-  <advance width="426"/>
-  <outline>
-    <component base="reh-ar.fina"/>
-    <component base="hamzaabove-ar" xOffset="175" yOffset="-428"/>
-  </outline>
-</glyph>

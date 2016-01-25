@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tehThreedotsdown-ar.medi" format="1">
-  <advance width="301"/>
-  <outline>
-    <component base="dotlessbeh-ar.medi"/>
-    <component base="threedotsdownabove-ar" xOffset="26" yOffset="-462"/>
-  </outline>
-</glyph>

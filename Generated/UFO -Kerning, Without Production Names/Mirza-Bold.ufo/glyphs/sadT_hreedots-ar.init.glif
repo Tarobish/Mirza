@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sadThreedots-ar.init" format="1">
-  <advance width="629"/>
-  <outline>
-    <component base="sad-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="441" yOffset="-288"/>
-  </outline>
-</glyph>

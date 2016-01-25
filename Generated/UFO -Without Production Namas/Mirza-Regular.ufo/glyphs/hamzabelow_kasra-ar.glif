@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hamzabelow_kasra-ar" format="1">
-  <advance width="0"/>
-  <outline>
-    <component base="hamzabelow-ar"/>
-    <component base="kasra-ar" xOffset="1" yOffset="-196"/>
-  </outline>
-</glyph>

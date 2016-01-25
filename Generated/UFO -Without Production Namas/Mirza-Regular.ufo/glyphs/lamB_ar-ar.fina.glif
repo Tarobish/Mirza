@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lamBar-ar.fina" format="1">
-  <advance width="628"/>
-  <outline>
-    <component base="lam-ar.fina"/>
-    <component base="barlong" xOffset="446" yOffset="62"/>
-  </outline>
-</glyph>

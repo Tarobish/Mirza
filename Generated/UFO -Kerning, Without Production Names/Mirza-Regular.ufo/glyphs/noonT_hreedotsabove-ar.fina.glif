@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noonThreedotsabove-ar.fina" format="1">
-  <advance width="657"/>
-  <outline>
-    <component base="noonghunna-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="287" yOffset="-739"/>
-  </outline>
-</glyph>

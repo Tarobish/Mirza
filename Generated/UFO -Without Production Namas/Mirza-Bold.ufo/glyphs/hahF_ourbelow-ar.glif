@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hahFourbelow-ar" format="1">
-  <advance width="611"/>
-  <unicode hex="077C"/>
-  <outline>
-    <component base="hah-ar"/>
-    <component base="four-ar.center" xOffset="355" yOffset="-283"/>
-  </outline>
-</glyph>
