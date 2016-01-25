@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.dnom" format="1">
+  <advance width="350"/>
+  <outline>
+    <contour>
+      <point x="256" y="-6"/>
+      <point x="320" y="56"/>
+      <point x="320" y="145" type="curve" smooth="yes"/>
+      <point x="320" y="224"/>
+      <point x="267" y="277"/>
+      <point x="190" y="277" type="curve" smooth="yes"/>
+      <point x="96" y="277"/>
+      <point x="30" y="216"/>
+      <point x="30" y="130" type="curve" smooth="yes"/>
+      <point x="30" y="49"/>
+      <point x="84" y="-6"/>
+      <point x="164" y="-6" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="130" y="50"/>
+      <point x="101" y="87"/>
+      <point x="101" y="145" type="curve" smooth="yes"/>
+      <point x="101" y="199"/>
+      <point x="135" y="239"/>
+      <point x="181" y="239" type="curve"/>
+      <point x="223" y="231"/>
+      <point x="248" y="194"/>
+      <point x="248" y="142" type="curve" smooth="yes"/>
+      <point x="248" y="85"/>
+      <point x="219" y="50"/>
+      <point x="173" y="50" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>o</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>
