@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni075A" format="1">
+  <advance width="440"/>
+  <unicode hex="075A"/>
+  <outline>
+    <component base="uni062F"/>
+    <component base="circumflex.below" xOffset="193" yOffset="141"/>
+    <contour>
+      <point x="213" y="-266" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

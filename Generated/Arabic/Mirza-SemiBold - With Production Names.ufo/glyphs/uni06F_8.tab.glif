@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06F8.tab" format="1">
+  <advance width="462"/>
+  <outline>
+    <component base="uni0668.tab"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>eight-ar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>eight-ar</string>
+    </dict>
+  </lib>
+</glyph>
