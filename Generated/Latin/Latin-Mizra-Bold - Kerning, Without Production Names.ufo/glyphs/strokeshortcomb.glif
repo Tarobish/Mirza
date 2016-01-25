@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb" format="1">
+  <advance width="403"/>
+  <unicode hex="0335"/>
+  <outline>
+    <contour>
+      <point x="81" y="220"/>
+      <point x="113" y="224"/>
+      <point x="201" y="224" type="curve" smooth="yes"/>
+      <point x="258" y="224"/>
+      <point x="331" y="221"/>
+      <point x="369" y="216" type="curve"/>
+      <point x="371" y="233"/>
+      <point x="373" y="251"/>
+      <point x="373" y="266" type="curve" smooth="yes"/>
+      <point x="373" y="282"/>
+      <point x="371" y="299"/>
+      <point x="369" y="315" type="curve"/>
+      <point x="322" y="308"/>
+      <point x="290" y="304"/>
+      <point x="203" y="304" type="curve" smooth="yes"/>
+      <point x="145" y="304"/>
+      <point x="72" y="307"/>
+      <point x="35" y="312" type="curve"/>
+      <point x="32" y="295"/>
+      <point x="30" y="277"/>
+      <point x="30" y="262" type="curve" smooth="yes"/>
+      <point x="30" y="246"/>
+      <point x="32" y="229"/>
+      <point x="35" y="213" type="curve"/>
+    </contour>
+    <contour>
+      <point x="202" y="264" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

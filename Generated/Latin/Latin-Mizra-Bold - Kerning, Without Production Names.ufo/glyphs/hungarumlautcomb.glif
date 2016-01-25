@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb" format="1">
+  <advance width="414"/>
+  <unicode hex="030B"/>
+  <outline>
+    <contour>
+      <point x="285" y="467"/>
+      <point x="369" y="511"/>
+      <point x="414" y="569" type="curve"/>
+      <point x="391" y="607"/>
+      <point x="344" y="628"/>
+      <point x="283" y="628" type="curve"/>
+      <point x="279" y="577"/>
+      <point x="243" y="516"/>
+      <point x="200" y="492" type="curve"/>
+      <point x="211" y="457" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="467"/>
+      <point x="169" y="511"/>
+      <point x="214" y="569" type="curve"/>
+      <point x="191" y="607"/>
+      <point x="144" y="628"/>
+      <point x="83" y="628" type="curve"/>
+      <point x="79" y="577"/>
+      <point x="43" y="516"/>
+      <point x="0" y="492" type="curve"/>
+      <point x="11" y="457" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="628" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="177" y="407" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
