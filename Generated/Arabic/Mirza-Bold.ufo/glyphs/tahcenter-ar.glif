@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tahcenter-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-55" y="298" type="line"/>
+      <point x="-44" y="279"/>
+      <point x="-34" y="234"/>
+      <point x="-34" y="201" type="curve"/>
+      <point x="-39" y="191" type="line"/>
+      <point x="-71" y="191" type="line"/>
+      <point x="-58" y="139" type="line"/>
+      <point x="-12" y="139" type="line"/>
+      <point x="9" y="139"/>
+      <point x="33" y="148"/>
+      <point x="51" y="161" type="curve" smooth="yes"/>
+      <point x="72" y="177"/>
+      <point x="82" y="197"/>
+      <point x="82" y="217" type="curve" smooth="yes"/>
+      <point x="82" y="239"/>
+      <point x="56" y="256"/>
+      <point x="38" y="256" type="curve" smooth="yes"/>
+      <point x="23" y="256"/>
+      <point x="4" y="244"/>
+      <point x="-11" y="222" type="curve"/>
+      <point x="-8" y="237"/>
+      <point x="-8" y="255"/>
+      <point x="-10" y="268" type="curve"/>
+      <point x="-12" y="283"/>
+      <point x="-9" y="287"/>
+      <point x="4" y="291" type="curve"/>
+      <point x="-8" y="305"/>
+      <point x="-17" y="318"/>
+      <point x="-24" y="335" type="curve"/>
+    </contour>
+    <contour>
+      <point x="48" y="197"/>
+      <point x="30" y="187"/>
+      <point x="13" y="187" type="curve" smooth="yes"/>
+      <point x="-13" y="187" type="line"/>
+      <point x="-5" y="200"/>
+      <point x="10" y="217"/>
+      <point x="26" y="217" type="curve" smooth="yes"/>
+      <point x="41" y="217"/>
+      <point x="49" y="210"/>
+      <point x="53" y="204" type="curve"/>
+    </contour>
+    <contour>
+      <point x="6" y="237" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>

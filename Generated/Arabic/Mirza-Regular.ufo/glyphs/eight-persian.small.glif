@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight-persian.small" format="1">
+  <advance width="186"/>
+  <outline>
+    <component base="eight-ar.small"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>eight-ar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>eight-ar</string>
+    </dict>
+  </lib>
+</glyph>

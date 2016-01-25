@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kafThreedotsbelow-ar.fina" format="1">
+  <advance width="833"/>
+  <outline>
+    <component base="kaf-ar.fina"/>
+    <component base="threedotsdownbelow-ar" xOffset="400" yOffset="-46"/>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two-ar.small" format="1">
+  <advance width="168"/>
+  <outline>
+    <component base="two-ar" xOffset="-4" yOffset="266" xScale="0.444" yScale="0.444"/>
+  </outline>
+</glyph>

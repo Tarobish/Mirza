@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamBar-ar" format="1">
+  <advance width="559"/>
+  <unicode hex="076A"/>
+  <outline>
+    <component base="lam-ar"/>
+    <component base="barlong" xOffset="433" yOffset="176"/>
+  </outline>
+</glyph>

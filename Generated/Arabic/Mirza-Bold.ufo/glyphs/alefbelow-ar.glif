@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefbelow-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0656"/>
+  <outline>
+    <contour>
+      <point x="34" y="-285"/>
+      <point x="31" y="-235"/>
+      <point x="8" y="-193" type="curve"/>
+      <point x="-10" y="-204"/>
+      <point x="-19" y="-213"/>
+      <point x="-35" y="-228" type="curve"/>
+      <point x="-15" y="-259"/>
+      <point x="-3" y="-293"/>
+      <point x="-6" y="-348" type="curve"/>
+      <point x="26" y="-337" type="line"/>
+    </contour>
+    <contour>
+      <point x="-2" y="-173" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-2" y="-348" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

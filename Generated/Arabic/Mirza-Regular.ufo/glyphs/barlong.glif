@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="barlong" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-92" y="219" type="line"/>
+      <point x="-64" y="188" type="line"/>
+      <point x="85" y="188" type="line"/>
+      <point x="57" y="219" type="line"/>
+    </contour>
+  </outline>
+</glyph>

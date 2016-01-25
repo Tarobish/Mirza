@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcheh-ar.fina" format="1">
+  <advance width="699"/>
+  <unicode hex="FB7B"/>
+  <outline>
+    <component base="hah-ar.fina"/>
+    <component base="threedotsdowncenter-ar" xOffset="321" yOffset="-364"/>
+  </outline>
+</glyph>
