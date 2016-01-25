@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni08F0" format="1">
+  <advance width="0"/>
+  <unicode hex="08F0"/>
+  <outline>
+    <contour>
+      <point x="1" y="784"/>
+      <point x="-66" y="758"/>
+      <point x="-115" y="733" type="curve"/>
+      <point x="-118" y="725"/>
+      <point x="-122" y="713"/>
+      <point x="-124" y="701" type="curve"/>
+      <point x="-111" y="707"/>
+      <point x="-8" y="752"/>
+      <point x="45" y="769" type="curve"/>
+      <point x="50" y="780"/>
+      <point x="53" y="789"/>
+      <point x="54" y="801" type="curve"/>
+    </contour>
+    <contour>
+      <point x="70" y="885"/>
+      <point x="3" y="859"/>
+      <point x="-46" y="834" type="curve"/>
+      <point x="-49" y="826"/>
+      <point x="-52" y="814"/>
+      <point x="-55" y="802" type="curve"/>
+      <point x="-41" y="808"/>
+      <point x="62" y="853"/>
+      <point x="114" y="870" type="curve"/>
+      <point x="119" y="881"/>
+      <point x="122" y="890"/>
+      <point x="124" y="902" type="curve"/>
+    </contour>
+    <contour>
+      <point x="2" y="902" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="2" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
