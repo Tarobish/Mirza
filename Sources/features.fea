@@ -4,9 +4,17 @@ languagesystem DFLT dflt;
 languagesystem arab dflt;
 languagesystem arab ARA;
 languagesystem arab URD;
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn MOL;
+languagesystem latn ROM;
+languagesystem latn TAT;
+languagesystem latn TRK;
 
 
-
+include(gdef.fea);
 
 # fontTools.feaLib.error.FeatureLibError: Sources/glyphs.fea:9:1:
 # Expected glyph class definition or statement
@@ -1293,4 +1301,76 @@ feature dlig {
 	lookup rlig_ARA_dlig_ALL;
 	lookup dlig_ALL;
 } dlig;
+
+
+# calt is executed after rlig *good* but before dlig *bad :-(*
+# because we want this "widener" only to happen if we are **NOT** using a ligature
+# but the extension will apply before the ligature and hence prevent it
+# maybe we can make the extension a type of "spacing mark", the the IgnoreMarks
+# flag of the ligature lookups skips it! (probably best)
+# maybe we have to include it explicitly into the ligature lookups (cumbersome fiddling)
+
+lookup decompCollisions {
+	# insert {widener} as second glyph uni0640 == ARABIC TATWEEL (Kashida)
+	sub uni066E.init by uni066E.init extender;
+	sub uniFEF0 by extender uniFEF0;
+} decompCollisions;
+
+
+# sub uni0754 by uni066E.init uniFBB2 uniFBB5;
+
+# sub uni0753 by uni066E.init uniFBB4 uniFBB7;
+# sub uni0752 by uni066E.init uniFBB7;
+
+
+
+# to the rescue:
+
+
+@MarksBottomColliding = [ uniFBB5 uniFBB7 uniFBB9 uniFBBB ];
+feature calt {
+	lookup comp {
+		# lookupflag IgnoreMarks;
+
+		# works BUT breaks the rlig feature absolutely, everywhere!
+		# This is a rather elegant approach despite of fucking up the rlig.
+		#lookupflag MarkAttachmentType @MarksBottomColliding;
+		lookupflag UseMarkFilteringSet @MarksBottomColliding;
+
+		# note: this targets `uni0680.init` which is in fact `sub uni0680 by uni066E.init uniFBBB;`
+		# the uniFBBB mark is important, because without we don't have a collision in here.
+		# thus the lookupflag IgnoreMarks is WRONG here and we need finer control/better rule that
+		# includes problematic marks.
+		# Maybe insert the Kashida before uniFEF0: sub uniFEF0 by uni0640 uniFEF0;
+		# apparently, the version sub uni066E.init by uni066E.init extender; makes the least trouble
+		# for no reason! the marks still go where they belong (?)
+		# even though hbshape creates this: uni0654|uniFEF0|uniFBBB|extender|uni066E.init
+		# the version that does: sub uniFEF0 by extender uniFEF0;
+		# breaks the marks of uniFEF0 (for no good reason)
+		# one mark
+
+		sub [ uni066E.init ]' lookup decompCollisions @MarksBottomColliding [ uniFEF0 ];
+
+		# two marks, this is needed :-(
+		# it would be nice if we would not have to take care for these situations!
+		# given that the order of the marks can also be varying AND that not all of these marks are significant for collisions
+		# In this case uniFBB2 is a single dot above the base, so it should not be significant here, since this deals with collisions "below"
+		# uniFBB4 is two dots above
+		# uniFBBB is four dots below
+		# including all these marks makes the problem harder!
+		# This way we can't pick special cases AND at the same time don't false picks
+		# i.e. only pick cases with bottom colliding marks, not if there are only top marks
+		# also, if there are more marks (because of user input, let's say 10 marks, and one is significant, the rest goes to the top)
+		# then we'd need a very long type 6 rule and would still suffer from the mentioned problem.
+		# this is somewhere between using IgnoreMarks and not. Using IgnoreMarks would always produce a hit.
+		# one hope is to use ignore marks and then be smart about this in decompCollisions
+
+		# sub [ uni066E.init ]' lookup decompCollisions [ uniFBBB uniFBB2 uniFBB5 uniFBB4 uniFBB7] [ uniFBBB uniFBB2 uniFBB5 uniFBB4 uniFBB7] [uniFEF0];
+		#sub [ uni066E.init ] [ uniFBBB ] [uniFEF0]' lookup decompCollisions;
+	} comp;
+} calt;
+
+include(arab.fea);
+include(latn.fea);
+include(kern.fea);
 
