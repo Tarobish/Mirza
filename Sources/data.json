@@ -1,0 +1,20 @@
+{"OS/2": [
+    ["achVendID", "GRCR"]
+],
+"name": [
+    ["Copyright 2015, 2016 KB-Studio (www.k-b-studio.com|tarobish@gmail.com). Copyright 2015, 2016 Lasse Fister (lasse@graphicore.de). Copyright 2015, 2016 Eduardo Tunni(edu@tipo.net.ar)."
+        , 0, 3, 1, "0x409"]
+  , ["Version 1.0000"
+        , 5, 3, 1, "0x409"]
+  , ["Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister"
+        , 9, 3, 1, "0x409"]
+  , ["https://github.com/Tarobish/Mirza"
+        , 11, 3, 1, "0x409"]
+  , ["https://github.com/Tarobish/Mirza"
+        , 12, 3, 1, "0x409"]
+  , ["This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+        , 13, 3, 1, "0x409"]
+  , ["http://scripts.sil.org/OFL"
+        , 14, 3, 1, "0x409"]
+]
+}

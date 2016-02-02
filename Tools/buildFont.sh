@@ -12,7 +12,7 @@ mkdir _build;
 cp $arab _build/arab.otf;
 cp $latn _build/latn.otf;
 cp $sources/features.fea _build/features.fea;
-
+cp $sources/data.json _build/data.json;
 
 base=$(echo $arab | cut -f 1 -d '.')
 arab_ufo="$base.ufo"
@@ -44,11 +44,26 @@ $tools/kernFeatureWriter.py features.fea arab.ufo latn.ufo > kern.fea
 echo 'merge fonts';
 $tools/mergeFonts.py glyphsSource.otf arab.otf latn.otf;
 
+
+$tools/glyphOrderAndAliasDB.py glyphsSource.otf > GlyphOrderAndAliasDB
+
 echo 'make otf'
-makeotf -f glyphsSource.otf -o result.otf -ff features.fea; # -r
+makeotf -r -f glyphsSource.otf -o result.otf -ff features.fea;
+
+$tools/makeTTF.py result.otf result.ttf
+
+echo 'finalize'
+$tools/finalize.py result.otf arab.otf data.json
+$tools/finalize.py result.ttf arab.otf data.json
+
 
 echo 'cleaning up';
 cd ..;
 mkdir -p "$(dirname $target)";
 cp _build/result.otf $target;
+base=$(echo $target | cut -f 1 -d '.');
+cp _build/result.ttf "$base.ttf";
+
+
+
 rm -rf _build
