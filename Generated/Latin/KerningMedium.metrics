@@ -1,0 +1,710 @@
+# Metrics file written by Glyphs 2.2.2
+
+SEGMENT SPACING
+#Name;Width;LSB;RSB;
+A;525;4;5;
+Aacute;525;4;5;
+Abreve;525;4;5;
+Acircumflex;525;4;5;
+Adieresis;525;4;5;
+Agrave;525;4;5;
+Amacron;525;4;5;
+Aogonek;525;4;-52;
+Aring;525;4;5;
+Atilde;525;4;5;
+AE;697;4;15;
+B;527;55;36;
+C;493;37;18;
+Cacute;493;37;18;
+Ccaron;493;37;18;
+Ccedilla;493;37;18;
+Cdotaccent;493;37;18;
+D;580;55;37;
+Eth;580;14;37;
+Dcaron;580;55;37;
+Dcroat;580;14;37;
+E;473;55;35;
+Eacute;473;55;35;
+Ecaron;473;55;35;
+Ecircumflex;473;55;35;
+Edieresis;473;55;35;
+Edotaccent;473;55;35;
+Egrave;473;55;35;
+Emacron;473;55;35;
+Eogonek;473;55;-1;
+F;433;55;19;
+G;532;37;47;
+Gbreve;532;37;47;
+Gcommaaccent;532;37;47;
+Gdotaccent;532;37;47;
+H;561;55;55;
+Hbar;561;14;16;
+I;247;55;55;
+Iacute;247;34;1;
+Icircumflex;247;-16;-17;
+Idieresis;247;32;31;
+Idotaccent;247;52;52;
+Igrave;247;14;21;
+Imacron;247;-6;-7;
+Iogonek;247;41;-2;
+J;314;-15;45;
+K;517;55;0;
+Kcommaaccent;517;55;0;
+L;418;55;8;
+Lacute;418;33;8;
+Lcaron;418;55;8;
+Lcommaaccent;418;55;8;
+Lslash;418;-8;8;
+M;713;55;55;
+N;541;50;50;
+Nacute;541;50;50;
+Ncaron;541;50;50;
+Ncommaaccent;541;50;50;
+Eng;538;50;50;
+Ntilde;541;50;50;
+O;611;37;36;
+Oacute;611;37;36;
+Ocircumflex;611;37;36;
+Odieresis;611;37;36;
+Ograve;611;37;36;
+Ohungarumlaut;611;37;36;
+Omacron;611;37;36;
+Oslash;611;37;36;
+Otilde;611;37;36;
+OE;806;37;35;
+P;490;55;24;
+Thorn;490;55;24;
+Q;611;37;36;
+R;510;55;20;
+Racute;510;55;20;
+Rcaron;510;55;20;
+Rcommaaccent;510;55;20;
+S;457;33;33;
+Sacute;457;33;33;
+Scaron;457;33;33;
+Scedilla;457;33;33;
+Scommaaccent;457;33;33;
+T;449;8;8;
+Tbar;449;8;8;
+Tcaron;449;8;8;
+Tcedilla;449;8;8;
+Tcommaaccent;449;8;8;
+U;532;45;45;
+Uacute;532;45;45;
+Ucircumflex;532;45;45;
+Udieresis;532;45;45;
+Ugrave;532;45;45;
+Uhungarumlaut;532;45;27;
+Umacron;532;45;45;
+Uogonek;532;45;45;
+Uring;532;45;45;
+V;508;5;5;
+W;799;5;5;
+Wacute;799;5;5;
+Wcircumflex;799;5;5;
+Wdieresis;799;5;5;
+Wgrave;799;5;5;
+X;518;-1;0;
+Y;484;5;5;
+Yacute;484;5;5;
+Ycircumflex;484;5;5;
+Ydieresis;484;5;5;
+Ygrave;484;5;5;
+Z;455;18;19;
+Zacute;455;18;19;
+Zcaron;455;18;19;
+Zdotaccent;455;18;19;
+a;437;33;34;
+aacute;437;33;34;
+abreve;437;33;34;
+acircumflex;437;33;34;
+adieresis;437;33;34;
+agrave;437;33;34;
+amacron;437;33;34;
+aogonek;437;33;24;
+aring;437;33;34;
+atilde;437;33;34;
+ae;690;33;40;
+b;482;42;35;
+c;406;33;23;
+cacute;406;33;23;
+ccaron;406;33;23;
+ccedilla;406;33;23;
+cdotaccent;406;33;23;
+d;500;40;33;
+eth;506;35;45;
+dcaron;503;40;-95;
+dcroat;500;40;12;
+e;463;35;40;
+eacute;463;35;40;
+ecaron;463;35;40;
+ecircumflex;463;35;40;
+edieresis;463;35;40;
+edotaccent;463;35;40;
+egrave;463;35;40;
+emacron;463;35;40;
+eogonek;463;35;40;
+f;317;23;-54;
+g;446;30;0;
+gbreve;446;30;0;
+gcommaaccent;446;30;0;
+gdotaccent;446;30;0;
+h;488;52;51;
+hbar;488;-3;51;
+i;245;51;33;
+idotless;245;55;33;
+iacute;245;33;0;
+icircumflex;245;-17;-18;
+idieresis;245;31;30;
+idotaccent;245;51;33;
+igrave;245;13;20;
+imacron;245;13;12;
+iogonek;245;22;14;
+j;248;-23;50;
+dotlessj;248;-24;63;
+k;453;52;-15;
+kcommaaccent;453;52;-15;
+l;242;52;33;
+lacute;242;34;-4;
+lcaron;243;52;-91;
+lcommaaccent;242;52;33;
+lslash;242;-18;-24;
+m;758;52;52;
+n;518;52;52;
+nacute;518;52;52;
+ncaron;518;52;52;
+ncommaaccent;518;52;52;
+eng;516;52;66;
+ntilde;518;52;52;
+o;496;35;35;
+oacute;496;35;35;
+ocircumflex;496;35;35;
+odieresis;496;35;35;
+ograve;496;35;35;
+ohungarumlaut;496;35;28;
+omacron;496;35;35;
+oslash;496;35;35;
+otilde;496;35;35;
+oe;784;35;40;
+p;517;43;41;
+thorn;505;52;40;
+q;508;40;36;
+r;343;52;6;
+racute;343;52;6;
+rcaron;343;52;1;
+rcommaaccent;343;52;6;
+s;401;33;28;
+sacute;401;33;28;
+scaron;401;33;28;
+scedilla;401;33;28;
+scommaaccent;401;33;28;
+germandbls;538;20;36;
+t;317;25;16;
+tbar;317;25;16;
+tcaron;299;25;-79;
+tcedilla;317;25;16;
+tcommaaccent;317;25;16;
+u;492;52;33;
+uacute;492;52;33;
+ucircumflex;492;52;33;
+udieresis;492;52;33;
+ugrave;492;52;33;
+uhungarumlaut;492;52;21;
+umacron;492;52;33;
+uogonek;492;52;27;
+uring;492;52;33;
+v;431;5;5;
+w;692;5;5;
+wacute;692;5;5;
+wcircumflex;692;5;5;
+wdieresis;692;5;5;
+wgrave;692;5;5;
+x;450;4;5;
+y;491;42;55;
+yacute;491;42;55;
+ycircumflex;491;42;55;
+ydieresis;491;42;55;
+ygrave;491;42;55;
+z;424;36;37;
+zacute;424;36;37;
+zcaron;424;36;37;
+zdotaccent;424;36;37;
+f_f;557;23;-78;
+f_f_i;797;23;33;
+f_j;526;23;50;
+f_t;588;23;17;
+fi;526;23;33;
+fl;526;23;33;
+ordfeminine;346;41;41;
+ordmasculine;389;44;45;
+Delta;524;4;5;
+Omega;580;34;33;
+mu;494;52;33;
+pi;547;25;25;
+zero;581;32;31;
+one;343;8;53;
+two;510;42;41;
+three;490;37;37;
+four;491;17;27;
+five;478;37;36;
+six;506;35;35;
+seven;461;27;27;
+eight;521;37;36;
+nine;496;35;35;
+fraction;65;-122;-122;
+onehalf;773;75;51;
+onequarter;773;75;47;
+threequarters;773;55;47;
+zero.dnom;354;29;29;
+one.dnom;354;75;109;
+two.dnom;354;53;51;
+three.dnom;354;55;60;
+four.dnom;354;40;47;
+five.dnom;354;59;65;
+six.dnom;354;46;50;
+seven.dnom;353;56;54;
+eight.dnom;353;46;45;
+nine.dnom;353;50;48;
+zero.numr;354;29;29;
+one.numr;354;75;109;
+two.numr;354;53;51;
+three.numr;354;55;60;
+four.numr;354;40;47;
+five.numr;354;59;65;
+six.numr;354;46;50;
+seven.numr;353;56;54;
+eight.numr;353;46;45;
+nine.numr;353;50;48;
+onesuperior;354;75;109;
+twosuperior;354;53;51;
+threesuperior;354;55;60;
+asterisk;404;38;38;
+backslash;332;44;43;
+periodcentered;237;38;39;
+bullet;350;35;35;
+colon;210;25;25;
+comma;212;25;44;
+ellipsis;617;25;25;
+exclam;243;41;42;
+exclamdown;243;42;41;
+numbersign;651;36;36;
+period;210;25;25;
+question;383;18;37;
+questiondown;383;37;18;
+quotedbl;301;37;27;
+quotesingle;157;37;26;
+semicolon;210;25;25;
+slash;332;43;44;
+underscore;502;48;48;
+braceleft;361;40;27;
+braceright;361;27;40;
+bracketleft;355;55;30;
+bracketright;355;30;55;
+parenleft;331;45;8;
+parenright;331;8;45;
+emdash;759;48;49;
+endash;541;48;49;
+hyphen;416;48;48;
+softhyphen;600;48;232;
+guillemetleft;484;27;37;
+guillemetright;484;37;27;
+guilsinglleft;277;27;36;
+guilsinglright;277;36;27;
+quotedblbase;392;25;44;
+quotedblleft;392;44;25;
+quotedblright;392;25;44;
+quoteleft;212;44;25;
+quoteright;212;25;44;
+quotesinglbase;212;25;44;
+space;240;0;0;
+cent;406;33;23;
+currency;578;40;40;
+dollar;457;33;33;
+euro;513;1;48;
+florin;326;14;-55;
+sterling;510;42;51;
+yen;484;5;5;
+Ohm;580;34;33;
+approxequal;533;65;65;
+asciitilde;533;65;65;
+bulletoperator;350;35;35;
+divide;533;65;65;
+divisionslash;299;26;28;
+emptyset;594;32;31;
+equal;533;65;65;
+greater;533;68;64;
+greaterequal;534;65;65;
+increment;524;4;5;
+infinity;626;45;45;
+integral;349;-55;-55;
+less;533;64;68;
+lessequal;533;64;65;
+logicalnot;533;65;65;
+micro;494;52;33;
+minus;533;65;65;
+multiply;533;83;82;
+notequal;533;65;65;
+partialdiff;544;38;58;
+percent;773;29;29;
+perthousand;1127;29;29;
+plus;533;65;65;
+plusminus;533;65;65;
+product;547;25;25;
+radical;465;43;-25;
+summation;522;49;50;
+lozenge;499;37;36;
+bar;347;95;95;
+brokenbar;347;95;100;
+at;822;52;51;
+ampersand;557;27;7;
+paragraph;445;24;55;
+copyright;727;57;56;
+registered;552;40;40;
+section;465;55;55;
+trademark;692;32;67;
+degree;360;35;34;
+estimated;600;44;39;
+literSign;289;85;25;
+asciicircum;380;10;10;
+dagger;366;21;22;
+daggerdbl;366;21;22;
+dieresiscomb;383;100;99;
+dotaccentcomb;215;36;36;
+gravecomb;212;0;0;
+acutecomb;212;0;0;
+hungarumlautcomb;379;0;0;
+caroncomb.alt;168;23;24;
+circumflexcomb;280;0;0;
+caroncomb;280;0;0;
+brevecomb;286;20;20;
+ringcomb;252;28;29;
+tildecomb;302;20;14;
+macroncomb;294;17;17;
+commaturnedabovecomb;168;23;23;
+commaaccentcomb;172;25;25;
+cedillacomb;204;2;3;
+ogonekcomb;214;3;3;
+strokeshortcomb;410;43;44;
+strokelongcomb;634;51;52;
+slashshortcomb;358;37;37;
+slashlongcomb;332;-16;-17;
+firsttonechinese;294;17;17;
+acute;212;0;0;
+breve;286;20;20;
+caron;280;0;0;
+cedilla;204;2;3;
+circumflex;280;0;0;
+dieresis;383;100;99;
+dotaccent;215;36;36;
+grave;212;0;0;
+hungarumlaut;379;0;0;
+macron;294;17;17;
+ogonek;214;3;3;
+ring;252;28;29;
+tilde;302;20;14;
+
+SEGMENT CLASSES
+#Name;Elements
+@MMK_R_A;A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE Delta
+@MMK_L_A;A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Delta
+@MMK_L_E;AE E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek OE summation
+@MMK_R_H;B D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F H Hbar I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash N Nacute Ncaron Ncommaaccent Ntilde P Thorn R Racute Rcaron Rcommaaccent summation paragraph
+@MMK_L_B;B
+@MMK_R_O;C Cacute Ccaron Ccedilla Cdotaccent G Gbreve Gcommaaccent Gdotaccent O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE Q
+@MMK_L_C;C Cacute Ccaron Ccedilla Cdotaccent
+@MMK_L_O;D Eth Dcaron Dcroat O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Q
+@MMK_L_F;F
+@MMK_L_G;G Gbreve Gcommaaccent Gdotaccent
+@MMK_L_H;H Hbar I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek N Nacute Ncaron Ncommaaccent Ntilde dagger daggerdbl
+@MMK_R_J;J
+@MMK_L_J;J
+@MMK_L_K;K Kcommaaccent
+@MMK_L_L;L Lacute Lcaron Lcommaaccent Lslash
+@MMK_R_M;M
+@MMK_L_M;M trademark
+@MMK_R_Eng;Eng
+@MMK_L_Eng;Eng
+@MMK_L_P;P paragraph
+@MMK_L_Thorn;Thorn
+@MMK_L_R;R Racute Rcaron Rcommaaccent
+@MMK_R_S;S Sacute Scaron Scedilla Scommaaccent
+@MMK_L_S;S Sacute Scaron Scedilla Scommaaccent
+@MMK_R_T;T Tbar Tcaron Tcedilla Tcommaaccent trademark
+@MMK_L_T;T Tbar Tcaron Tcedilla Tcommaaccent
+@MMK_R_U;U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring
+@MMK_L_U;U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring
+@MMK_R_V;V
+@MMK_L_V;V
+@MMK_R_W;W Wacute Wcircumflex Wdieresis Wgrave
+@MMK_L_W;W Wacute Wcircumflex Wdieresis Wgrave
+@MMK_R_X;X
+@MMK_L_X;X
+@MMK_R_Y;Y Yacute Ycircumflex Ydieresis Ygrave
+@MMK_L_Y;Y Yacute Ycircumflex Ydieresis Ygrave
+@MMK_R_Z;Z Zacute Zcaron Zdotaccent
+@MMK_L_Z;Z Zacute Zcaron Zdotaccent
+@MMK_R_a;a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ae
+@MMK_L_n;a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde h hbar m n nacute ncaron ncommaaccent ntilde
+@MMK_L_o;ae b e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p thorn
+@MMK_R_h;b h hbar k kcommaaccent l lacute lcaron lcommaaccent lslash thorn germandbls literSign
+@MMK_R_o;c cacute ccaron ccedilla cdotaccent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe q cent at
+@MMK_L_c;c cacute ccaron ccedilla cdotaccent cent
+@MMK_L_l;d dcroat l lacute lcommaaccent lslash fl literSign
+@MMK_R_eth;eth
+@MMK_L_eth;eth
+@MMK_L_rcaron;dcaron lcaron tcaron
+@MMK_R_f;f f_f f_f_i f_j f_t fi fl
+@MMK_L_f;f f_f
+@MMK_R_g;g gbreve gcommaaccent gdotaccent
+@MMK_L_g;g gbreve gcommaaccent gdotaccent
+@MMK_R_n;i m n nacute ncaron ncommaaccent eng ntilde r racute rcaron rcommaaccent
+@MMK_L_idotless;i idotless iacute icircumflex idieresis idotaccent igrave imacron iogonek f_f_i
+@MMK_R_idotless;idotless iacute icircumflex idieresis idotaccent igrave imacron iogonek
+@MMK_R_dotlessj;j
+@MMK_L_dotlessj;j f_j
+@MMK_R_j;dotlessj
+@MMK_L_j;dotlessj eng
+@MMK_L_k;k kcommaaccent
+@MMK_R_p;p
+@MMK_L_q;q at
+@MMK_L_r;r racute rcaron rcommaaccent
+@MMK_R_s;s sacute scaron scedilla scommaaccent
+@MMK_L_s;s sacute scaron scedilla scommaaccent
+@MMK_L_germandbls;germandbls
+@MMK_R_t;t tbar tcaron tcedilla tcommaaccent
+@MMK_L_t;t tbar tcedilla tcommaaccent f_t
+@MMK_R_u;u uacute ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring y yacute ycircumflex ydieresis ygrave
+@MMK_L_u;u uacute ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring
+@MMK_R_v;v
+@MMK_L_v;v
+@MMK_R_w;w wacute wcircumflex wdieresis wgrave
+@MMK_L_w;w wacute wcircumflex wdieresis wgrave
+@MMK_R_x;x
+@MMK_L_x;x
+@MMK_L_y;y yacute ycircumflex ydieresis ygrave
+@MMK_R_z;z zacute zcaron zdotaccent
+@MMK_L_z;z zacute zcaron zdotaccent
+@MMK_L_i;fi
+@MMK_R_zero;zero
+@MMK_L_zero;zero
+@MMK_R_one;one
+@MMK_L_one;one
+@MMK_R_two;two
+@MMK_L_two;two
+@MMK_R_three;three
+@MMK_L_three;three
+@MMK_R_four;four
+@MMK_L_four;four
+@MMK_R_five;five
+@MMK_L_five;five
+@MMK_R_six;six
+@MMK_L_six;six
+@MMK_R_seven;seven
+@MMK_L_seven;seven
+@MMK_R_eight;eight infinity
+@MMK_L_eight;eight infinity
+@MMK_R_nine;nine
+@MMK_L_nine;nine
+@MMK_R_zero.tf;zero.dnom
+@MMK_L_zero.tf;zero.dnom
+@MMK_R_one.tf;one.dnom
+@MMK_L_one.tf;one.dnom
+@MMK_R_two.tf;two.dnom
+@MMK_L_two.tf;two.dnom
+@MMK_R_three.tf;three.dnom
+@MMK_L_three.tf;three.dnom
+@MMK_R_four.tf;four.dnom
+@MMK_L_four.tf;four.dnom
+@MMK_R_five.tf;five.dnom
+@MMK_L_five.tf;five.dnom
+@MMK_R_six.dnom;six.dnom
+@MMK_L_six.dnom;six.dnom
+@MMK_R_seven.tf;seven.dnom
+@MMK_L_seven.tf;seven.dnom
+@MMK_R_eight.tf;eight.dnom
+@MMK_L_eight.tf;eight.dnom
+@MMK_R_nine.tf;nine.dnom partialdiff
+@MMK_L_nine.tf;nine.dnom partialdiff
+@MMK_R_asterisk;asterisk
+@MMK_L_asterisk;asterisk
+@MMK_R_backslash;backslash
+@MMK_L_backslash;backslash
+@MMK_R_period;periodcentered colon comma ellipsis period
+@MMK_L_period;periodcentered colon comma ellipsis period semicolon quotedblbase quotesinglbase
+@MMK_R_bullet;bullet bulletoperator
+@MMK_L_bullet;bullet bulletoperator
+@MMK_R_exclam;exclam
+@MMK_L_exclam;exclam
+@MMK_R_exclamdown;exclamdown
+@MMK_L_exclamdown;exclamdown
+@MMK_R_slash;numbersign slash lozenge
+@MMK_L_slash;numbersign slash lozenge
+@MMK_R_question;question
+@MMK_L_question;question
+@MMK_R_questiondown;questiondown
+@MMK_L_questiondown;questiondown
+@MMK_R_quotedbl;quotedbl quotesingle
+@MMK_L_quotedbl;quotedbl quotesingle
+@MMK_R_comma;semicolon quotedblbase quotesinglbase
+@MMK_R_underscore;underscore
+@MMK_L_underscore;underscore
+@MMK_R_braceleft;braceleft
+@MMK_L_braceleft;braceleft
+@MMK_R_braceright;braceright
+@MMK_L_braceright;braceright
+@MMK_R_bracketleft;bracketleft
+@MMK_L_bracketleft;bracketleft
+@MMK_R_bracketright;bracketright
+@MMK_L_bracketright;bracketright
+@MMK_R_parenleft;parenleft
+@MMK_L_parenleft;parenleft
+@MMK_R_parenright;parenright
+@MMK_L_parenright;parenright
+@MMK_R_hyphen;emdash endash hyphen
+@MMK_L_hyphen;emdash endash hyphen
+@MMK_R_quotesingle;guillemetleft guilsinglleft asciicircum
+@MMK_L_quotesingle;guillemetleft guilsinglleft asciicircum
+@MMK_R_guillemetright;guillemetright
+@MMK_L_guillemetright;guillemetright
+@MMK_R_guillemotright;guilsinglright
+@MMK_L_guillemotright;guilsinglright
+@MMK_R_quotedblleft;quotedblleft quoteleft
+@MMK_L_quotedblleft;quotedblleft quoteleft
+@MMK_R_quotedblright;quotedblright quoteright
+@MMK_L_quotedblright;quotedblright quoteright
+@MMK_R_space;space
+@MMK_L_space;space
+@MMK_R_currency;currency
+@MMK_L_currency;currency
+@MMK_R_dollar;dollar
+@MMK_L_dollar;dollar
+@MMK_R_euro;euro
+@MMK_L_euro;euro
+@MMK_R_sterling;sterling
+@MMK_L_sterling;sterling
+@MMK_R_yen;yen
+@MMK_L_yen;yen
+@MMK_R_tildecomb;asciitilde tildecomb tilde
+@MMK_L_tildecomb;asciitilde tildecomb tilde
+@MMK_R_bar;bar
+@MMK_L_bar;bar
+@MMK_R_brokenbar;brokenbar
+@MMK_L_brokenbar;brokenbar
+@MMK_R_ampersand;ampersand
+@MMK_L_ampersand;ampersand
+@MMK_R_copyright;copyright
+@MMK_L_copyright;copyright
+@MMK_R_registered;registered
+@MMK_L_registered;registered
+@MMK_R_section;section
+@MMK_L_section;section
+@MMK_R_degree;degree
+@MMK_L_degree;degree
+@MMK_R_estimated;estimated
+@MMK_L_estimated;estimated
+@MMK_R_strokeshortcomb;dagger daggerdbl strokeshortcomb
+@MMK_R_dieresiscomb;dieresiscomb dieresis
+@MMK_L_dieresiscomb;dieresiscomb dieresis
+@MMK_R_dotaccentcomb;dotaccentcomb dotaccent
+@MMK_L_dotaccentcomb;dotaccentcomb dotaccent
+@MMK_R_gravecomb;gravecomb grave
+@MMK_L_gravecomb;gravecomb grave
+@MMK_R_acutecomb;acutecomb acute
+@MMK_L_acutecomb;acutecomb acute
+@MMK_R_hungarumlautcomb;hungarumlautcomb hungarumlaut
+@MMK_L_hungarumlautcomb;hungarumlautcomb hungarumlaut
+@MMK_R_commaaccentcomb;caroncomb.alt commaaccentcomb
+@MMK_L_commaaccentcomb;caroncomb.alt commaaccentcomb
+@MMK_R_circumflexcomb;circumflexcomb circumflex
+@MMK_L_circumflexcomb;circumflexcomb circumflex
+@MMK_R_caroncomb;caroncomb caron
+@MMK_L_caroncomb;caroncomb caron
+@MMK_R_brevecomb;brevecomb breve
+@MMK_L_brevecomb;brevecomb breve
+@MMK_R_ringcomb;ringcomb ring
+@MMK_L_ringcomb;ringcomb ring
+@MMK_R_macroncomb;macroncomb firsttonechinese macron
+@MMK_L_macroncomb;macroncomb firsttonechinese macron
+@MMK_R_commaturnedabovecomb;commaturnedabovecomb
+@MMK_L_commaturnedabovecomb;commaturnedabovecomb
+@MMK_R_cedillacomb;cedillacomb cedilla
+@MMK_L_cedillacomb;cedillacomb cedilla
+@MMK_R_ogonekcomb;ogonekcomb ogonek
+@MMK_L_ogonekcomb;ogonekcomb ogonek
+@MMK_L_strokeshortcomb;strokeshortcomb
+@MMK_R_strokelongcomb;strokelongcomb
+@MMK_L_strokelongcomb;strokelongcomb
+@MMK_R_slashshortcomb;slashshortcomb
+@MMK_L_slashshortcomb;slashshortcomb
+@MMK_R_slashlongcomb;slashlongcomb
+@MMK_L_slashlongcomb;slashlongcomb
+
+SEGMENT KERNING
+#First;Second;Value
+@MMK_L_A;@MMK_R_O;-30
+@MMK_L_A;@MMK_R_T;-45
+@MMK_L_A;@MMK_R_V;-23
+@MMK_L_A;@MMK_R_W;-23
+@MMK_L_A;@MMK_R_Y;-60
+@MMK_L_A;@MMK_R_o;-20
+@MMK_L_A;@MMK_R_quotedbl;-50
+@MMK_L_A;@MMK_R_quotedblright;-50
+@MMK_L_F;@MMK_R_A;-60
+@MMK_L_F;@MMK_R_a;-30
+@MMK_L_F;@MMK_R_g;-40
+@MMK_L_F;@MMK_R_o;-30
+@MMK_L_F;@MMK_R_s;-20
+@MMK_L_K;@MMK_R_o;-33
+@MMK_L_L;@MMK_R_T;-70
+@MMK_L_L;@MMK_R_V;-30
+@MMK_L_L;@MMK_R_W;-30
+@MMK_L_L;@MMK_R_Y;-44
+@MMK_L_L;@MMK_R_quotedbl;-60
+@MMK_L_L;@MMK_R_quotedblright;-60
+@MMK_L_O;@MMK_R_A;-30
+@MMK_L_O;@MMK_R_Y;-22
+@MMK_L_T;@MMK_R_A;-47
+@MMK_L_T;@MMK_R_J;-60
+@MMK_L_T;@MMK_R_a;-45
+@MMK_L_T;@MMK_R_g;-70
+@MMK_L_T;@MMK_R_n;-50
+@MMK_L_T;@MMK_R_o;-45
+@MMK_L_T;@MMK_R_s;-50
+@MMK_L_T;@MMK_R_u;-50
+@MMK_L_V;@MMK_R_A;-23
+@MMK_L_V;@MMK_R_o;-20
+@MMK_L_V;@MMK_R_s;-10
+@MMK_L_W;@MMK_R_A;-25
+@MMK_L_W;@MMK_R_o;-20
+@MMK_L_W;@MMK_R_s;-10
+@MMK_L_Y;@MMK_R_A;-60
+@MMK_L_Y;@MMK_R_O;-22
+@MMK_L_Y;@MMK_R_a;-70
+@MMK_L_Y;@MMK_R_g;-70
+@MMK_L_Y;@MMK_R_n;-50
+@MMK_L_Y;@MMK_R_o;-45
+@MMK_L_Y;@MMK_R_s;-50
+@MMK_L_Y;@MMK_R_u;-50
+@MMK_L_f;@MMK_R_T;80
+@MMK_L_f;@MMK_R_asterisk;53
+@MMK_L_f;@MMK_R_braceright;77
+@MMK_L_f;@MMK_R_bracketright;77
+@MMK_L_f;@MMK_R_copyright;60
+@MMK_L_f;@MMK_R_exclam;56
+@MMK_L_f;@MMK_R_parenright;97
+@MMK_L_f;@MMK_R_question;93
+@MMK_L_f;@MMK_R_quotedbl;77
+@MMK_L_f;@MMK_R_quotedblright;67
+@MMK_L_f;@MMK_R_registered;60
+@MMK_L_o;@MMK_R_t;-10
+@MMK_L_o;@MMK_R_v;-12
+@MMK_L_o;@MMK_R_w;-12
+@MMK_L_o;@MMK_R_x;-20
+@MMK_L_quotedbl;@MMK_R_A;-50
+@MMK_L_quotedblleft;@MMK_R_A;-50
+@MMK_L_rcaron;@MMK_R_f;17
+@MMK_L_rcaron;@MMK_R_h;71
+@MMK_L_t;@MMK_R_z;20
+@MMK_L_v;@MMK_R_o;-5
+@MMK_L_w;@MMK_R_o;-12
+@MMK_L_x;@MMK_R_o;-20
