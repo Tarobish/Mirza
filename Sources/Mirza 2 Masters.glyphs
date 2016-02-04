@@ -1382,7 +1382,7 @@ unicode = 0621;
 },
 {
 glyphname = "alef-ar";
-lastChange = "2016-02-04 08:29:21 +0000";
+lastChange = "2016-02-04 22:54:08 +0000";
 layers = (
 {
 anchors = (
@@ -1592,7 +1592,7 @@ unicode = FE8E;
 },
 {
 glyphname = "alef-ar.short";
-lastChange = "2016-01-15 02:53:36 +0000";
+lastChange = "2016-02-04 22:52:46 +0000";
 layers = (
 {
 anchors = (
@@ -1879,7 +1879,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2016-01-22 21:52:54 +0000";
+lastChange = "2016-02-04 22:54:28 +0000";
 layers = (
 {
 components = (
@@ -82144,6 +82144,8 @@ kerning = {
 "meem_alefMaksura-ar" = -30;
 "meem_meem-ar.init" = -10;
 "tah_alefMaksura-ar" = -30;
+"@MMK_R_AlefIso" = 40;
+"alefHamzabelow-ar" = 40;
 };
 "@MMK_L_DalFina" = {
 "@MMK_R_AInIso" = -50;
@@ -82808,6 +82810,8 @@ kerning = {
 "lam_meem_alefMaksura-ar" = -20;
 "meem_alefMaksura-ar" = -16;
 "tah_alefMaksura-ar" = -16;
+"@MMK_R_AlefIso" = 40;
+"alefHamzabelow-ar" = 40;
 };
 "@MMK_L_DalFina" = {
 "@MMK_R_AInIso" = -13;
