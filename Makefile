@@ -5,6 +5,7 @@ VERSION=0.001
 
 DDT=Document-Sources
 GEN=Generated
+FONTDIR=Build
 DIST=Releases
 DDTOUT=$(GEN)/Documents
 
@@ -15,7 +16,7 @@ TEXTS=$(wildcard $(DDT)/*.txt)
 TEXS=$(wildcard $(DDT)/*.tex)
 DDTDOCS=$(TEXS:$(DDT)/%.tex=$(DDTOUT)/%.pdf)
 
-FONTS=$(wildcard $(GEN)/*.ttf)
+FONTS=$(wildcard $(FONTDIR)/*.ttf)
 license=OFL.txt OFL-FAQ.txt
 
 
