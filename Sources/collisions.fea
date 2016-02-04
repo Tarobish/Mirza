@@ -1,0 +1,66 @@
+# calt is executed after rlig *good* but before dlig *bad :-(*
+# because we want this "widener" only to happen if we are **NOT** using a ligature
+# but the extension will apply before the ligature and hence prevent it
+# maybe we can make the extension a type of "spacing mark", the IgnoreMarks
+# flag of the ligature lookups skips it! (probably best)
+# maybe we have to include it explicitly into the ligature lookups (cumbersome fiddling)
+
+lookup decompCollisions {
+	# insert {widener} as second glyph uni0640 == ARABIC TATWEEL (Kashida)
+	sub uni066E.init by uni066E.init extender;
+        sub uni066E.medi by uni066E.medi extender;
+        # issue #64 colliding #05
+        sub uni0678.init by uni0678.init extender;
+        sub uni06BC.init by uni06BC.init extender;
+        sub uni0750.init by uni0750.init extender;
+        sub uniFBA8 by uniFBA8 extender;
+        # issue #65 colliding #06
+        sub uni06BC.medi by uni06BC.medi extender;
+        sub uni0750.medi by uni0750.medi extender;
+        sub uni0678.medi by uni0678.medi extender;
+
+} decompCollisions;
+
+
+
+@MarksBottomColliding_1 = [ uniFBB5 uniFBB7 uniFBB9 uniFBBB uniFBBE circumflex.below ];
+
+
+
+@MarksBottomColliding = [@MarksBottomColliding_1];
+
+@BasesBottomCollidingSecond_1 = [
+        # issue #60 colliding #01
+        uniFE8E uniFE8E.short uni0675.fina uni0773.fina uni0774.fina
+        # issue #62 colliding #03
+        uniFEF0
+        # issue #63 colliding #04
+        uni06CD.fina
+];
+
+
+@BasesBottomCollidingFirst_2 = [
+        # issue #64 colliding #05
+        uni066E.init uni0678.init uni06BC.init uni0750.init uniFBA8
+        uni066E.medi uni06BC.medi uni0750.medi uni0678.medi
+];
+@BasesBottomCollidingSecond_2 = [
+        # issue #64 colliding #05
+        uniFBAF uniFBB1 uni077A.fina uni077B.fina
+];
+
+feature calt {
+	lookup comp {
+		lookupflag UseMarkFilteringSet @MarksBottomColliding;
+                # issue #60 colliding #01 uni066E.init
+                # issue #62 colliding #03 uni066E.init
+                # issue #61 colliding #02 uni066E.medi
+		sub [ uni066E.init uni066E.medi ]' lookup decompCollisions @MarksBottomColliding_1 @BasesBottomCollidingSecond_1;
+
+                # issue #64 colliding #05
+                # issue #65 colliding #06
+                sub @BasesBottomCollidingFirst_2' lookup decompCollisions @MarksBottomColliding_1 @BasesBottomCollidingSecond_2;
+		sub @BasesBottomCollidingFirst_2' lookup decompCollisions @BasesBottomCollidingSecond_2;
+
+        } comp;
+} calt;
