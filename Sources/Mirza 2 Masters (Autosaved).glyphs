@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hah_meem_alefMaksura-ar"
+"/hah_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -43259,7 +43259,7 @@ unicode = FCAA;
 },
 {
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2016-02-04 22:03:46 +0000";
+lastChange = "2016-02-04 22:03:53 +0000";
 layers = (
 {
 anchors = (
@@ -43327,8 +43327,11 @@ nodes = (
 "646 212 OFFCURVE",
 "616 184 OFFCURVE",
 "582 140 CURVE SMOOTH",
-"534 81 OFFCURVE",
-"481 38 OFFCURVE",
+"558 111 OFFCURVE",
+"532 86 OFFCURVE",
+"501 67 CURVE SMOOTH",
+"470 48 OFFCURVE",
+"433 34 OFFCURVE",
 "389 28 CURVE",
 "385 13 OFFCURVE",
 "382 -7 OFFCURVE",
@@ -43578,7 +43581,7 @@ width = 1168;
 },
 {
 glyphname = "hah_alefMaksura-ar";
-lastChange = "2016-02-04 06:23:31 +0000";
+lastChange = "2016-02-04 22:04:18 +0000";
 layers = (
 {
 anchors = (
@@ -43629,15 +43632,15 @@ nodes = (
 "549 212 OFFCURVE",
 "587 201 CURVE SMOOTH",
 "612 194 OFFCURVE",
-"675 173 OFFCURVE",
-"675 173 CURVE",
-"624 161 OFFCURVE",
-"589 148 OFFCURVE",
-"560 136 CURVE SMOOTH",
-"507 115 OFFCURVE",
-"468 88 OFFCURVE",
-"450 74 CURVE SMOOTH",
-"444 69 OFFCURVE",
+"665 173 OFFCURVE",
+"665 173 CURVE",
+"614 161 OFFCURVE",
+"589 158 OFFCURVE",
+"560 146 CURVE SMOOTH",
+"507 125 OFFCURVE",
+"468 98 OFFCURVE",
+"450 84 CURVE SMOOTH",
+"444 79 OFFCURVE",
 "426 42 OFFCURVE",
 "421 -2 CURVE",
 "439 -7 OFFCURVE",
