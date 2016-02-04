@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf_lam-ar.fina"
+"/kaf_kaf-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -50527,7 +50527,7 @@ rightKerningGroup = Kaf;
 },
 {
 glyphname = "kaf_kaf-ar.fina";
-lastChange = "2016-02-04 05:59:19 +0000";
+lastChange = "2016-02-04 06:01:31 +0000";
 layers = (
 {
 anchors = (
@@ -50809,8 +50809,8 @@ nodes = (
 "953 67 OFFCURVE",
 "996 0 OFFCURVE",
 "1090 0 CURVE SMOOTH",
-"1145 0 LINE",
-"1145 139 LINE"
+"1155 0 LINE",
+"1155 139 LINE"
 );
 },
 {
@@ -51140,7 +51140,7 @@ unicode = FC3B;
 },
 {
 glyphname = "kaf_lam-ar.fina";
-lastChange = "2016-02-04 05:59:12 +0000";
+lastChange = "2016-02-04 06:01:26 +0000";
 layers = (
 {
 anchors = (
@@ -51380,8 +51380,8 @@ nodes = (
 "731 67 OFFCURVE",
 "774 0 OFFCURVE",
 "868 0 CURVE SMOOTH",
-"923 0 LINE",
-"923 139 LINE"
+"933 0 LINE",
+"933 139 LINE"
 );
 },
 {
@@ -51408,7 +51408,7 @@ nodes = (
 );
 }
 );
-width = 923;
+width = 933;
 }
 );
 unicode = FC81;
