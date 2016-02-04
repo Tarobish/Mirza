@@ -43581,7 +43581,7 @@ width = 1168;
 },
 {
 glyphname = "hah_alefMaksura-ar";
-lastChange = "2016-02-04 22:04:18 +0000";
+lastChange = "2016-02-04 22:04:28 +0000";
 layers = (
 {
 anchors = (
@@ -43634,11 +43634,8 @@ nodes = (
 "612 194 OFFCURVE",
 "665 173 OFFCURVE",
 "665 173 CURVE",
-"614 161 OFFCURVE",
-"589 158 OFFCURVE",
-"560 146 CURVE SMOOTH",
-"507 125 OFFCURVE",
-"468 98 OFFCURVE",
+"598 162 OFFCURVE",
+"529 141 OFFCURVE",
 "450 84 CURVE SMOOTH",
 "444 79 OFFCURVE",
 "426 42 OFFCURVE",
