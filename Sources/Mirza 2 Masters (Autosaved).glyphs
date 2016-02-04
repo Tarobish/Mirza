@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/meem-ar/reh-ar/ain_meem-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -48453,7 +48456,7 @@ unicode = FCF5;
 },
 {
 glyphname = "ain_meem-ar";
-lastChange = "2016-01-22 02:20:04 +0000";
+lastChange = "2016-02-04 21:54:35 +0000";
 layers = (
 {
 anchors = (
@@ -82314,6 +82317,7 @@ kerning = {
 "hah_meem_alefMaksura-ar" = -45;
 "dotlessbeh_noonghunna-ar" = -50;
 "dotlessbeh_meem-ar" = -60;
+"ain_meem-ar" = -60;
 };
 "@MMK_L_Sad" = {
 "@MMK_R_AInIso" = 20;
