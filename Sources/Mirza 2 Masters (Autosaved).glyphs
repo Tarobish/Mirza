@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/hah_alefMaksura-ar.fina"
+"/seen_meem_alefMaksura-ar",
+"/seen_meem-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -45695,7 +45696,7 @@ unicode = FD17;
 },
 {
 glyphname = "seen_meem_alefMaksura-ar";
-lastChange = "2016-02-04 08:37:26 +0000";
+lastChange = "2016-02-04 22:05:30 +0000";
 layers = (
 {
 anchors = (
