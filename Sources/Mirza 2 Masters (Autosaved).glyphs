@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dotlessbeh_alefMaksura-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -42599,7 +42596,7 @@ width = 678;
 },
 {
 glyphname = "dotlessbeh_alefMaksura-ar.fina";
-lastChange = "2016-02-04 21:36:29 +0000";
+lastChange = "2016-02-04 21:36:51 +0000";
 layers = (
 {
 anchors = (
@@ -42742,11 +42739,11 @@ closed = 1;
 nodes = (
 "815 139 LINE",
 "729 140 LINE",
-"674 140 OFFCURVE",
-"649 173 OFFCURVE",
-"624 202 CURVE SMOOTH",
-"603 226 OFFCURVE",
-"562 247 OFFCURVE",
+"677 140 OFFCURVE",
+"649 158 OFFCURVE",
+"628 179 CURVE SMOOTH",
+"596 210 OFFCURVE",
+"579 247 OFFCURVE",
 "525 247 CURVE SMOOTH",
 "489 247 OFFCURVE",
 "459 226 OFFCURVE",
@@ -42809,14 +42806,17 @@ nodes = (
 "454 93 OFFCURVE",
 "477 118 OFFCURVE",
 "515 118 CURVE SMOOTH",
-"623 118 OFFCURVE",
-"634 0 OFFCURVE",
+"585 118 OFFCURVE",
+"610 77 OFFCURVE",
+"643 44 CURVE SMOOTH",
+"666 20 OFFCURVE",
+"693 0 OFFCURVE",
 "742 0 CURVE",
 "815 0 LINE"
 );
 }
 );
-width = 795;
+width = 815;
 }
 );
 },
