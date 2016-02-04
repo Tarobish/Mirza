@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dotlessbeh_meem-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -41790,7 +41793,7 @@ width = 475;
 },
 {
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2016-02-04 21:37:20 +0000";
 layers = (
 {
 anchors = (
@@ -41907,11 +41910,11 @@ paths = (
 {
 closed = 1;
 nodes = (
-"488 139 LINE SMOOTH",
-"455 139 OFFCURVE",
-"436 159 OFFCURVE",
-"415 180 CURVE SMOOTH",
-"395 201 OFFCURVE",
+"508 139 LINE SMOOTH",
+"475 139 OFFCURVE",
+"456 159 OFFCURVE",
+"435 180 CURVE SMOOTH",
+"415 201 OFFCURVE",
 "372 225 OFFCURVE",
 "332 225 CURVE SMOOTH",
 "274 225 OFFCURVE",
@@ -41951,18 +41954,15 @@ nodes = (
 "274 98 OFFCURVE",
 "299 119 OFFCURVE",
 "328 119 CURVE SMOOTH",
-"368 119 OFFCURVE",
-"386 96 OFFCURVE",
-"404 69 CURVE SMOOTH",
-"415 53 OFFCURVE",
-"435 0 OFFCURVE",
-"504 0 CURVE SMOOTH",
-"543 0 LINE",
-"543 139 LINE"
+"439 119 OFFCURVE",
+"410 0 OFFCURVE",
+"524 0 CURVE SMOOTH",
+"563 0 LINE",
+"563 139 LINE"
 );
 }
 );
-width = 543;
+width = 563;
 }
 );
 },
