@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/sad_meem_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -1705,7 +1702,7 @@ rightKerningGroup = AlefIso;
 },
 {
 glyphname = "alef-ar.fina.short";
-lastChange = "2016-02-04 23:30:16 +0000";
+lastChange = "2016-02-04 23:39:15 +0000";
 layers = (
 {
 anchors = (
@@ -1715,7 +1712,7 @@ position = "{95, -24}";
 },
 {
 name = top;
-position = "{107, 537}";
+position = "{107, 523}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
