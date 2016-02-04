@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kaf_lam-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -51412,7 +51415,7 @@ unicode = FC81;
 },
 {
 glyphname = "kaf_lam-ar.medi";
-lastChange = "2016-02-04 05:59:04 +0000";
+lastChange = "2016-02-04 06:01:18 +0000";
 layers = (
 {
 anchors = (
@@ -51616,8 +51619,8 @@ nodes = (
 "413 67 OFFCURVE",
 "456 0 OFFCURVE",
 "550 0 CURVE SMOOTH",
-"605 0 LINE",
-"605 139 LINE"
+"615 0 LINE",
+"615 139 LINE"
 );
 },
 {
@@ -51644,7 +51647,7 @@ nodes = (
 );
 }
 );
-width = 605;
+width = 615;
 }
 );
 unicode = FCEB;
