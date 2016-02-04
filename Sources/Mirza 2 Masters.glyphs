@@ -1382,7 +1382,7 @@ unicode = 0621;
 },
 {
 glyphname = "alef-ar";
-lastChange = "2016-02-04 22:54:08 +0000";
+lastChange = "2016-02-04 22:58:45 +0000";
 layers = (
 {
 anchors = (
@@ -1702,7 +1702,7 @@ rightKerningGroup = AlefIso;
 },
 {
 glyphname = "alef-ar.fina.short";
-lastChange = "2016-02-04 22:48:59 +0000";
+lastChange = "2016-02-04 22:59:04 +0000";
 layers = (
 {
 anchors = (
@@ -1712,7 +1712,7 @@ position = "{95, -24}";
 },
 {
 name = top;
-position = "{107, 581}";
+position = "{107, 537}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1757,7 +1757,7 @@ position = "{83, -35}";
 },
 {
 name = top;
-position = "{116, 636}";
+position = "{116, 624}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -82810,7 +82810,6 @@ kerning = {
 "lam_meem_alefMaksura-ar" = -20;
 "meem_alefMaksura-ar" = -16;
 "tah_alefMaksura-ar" = -16;
-"@MMK_R_AlefIso" = 40;
 "alefHamzabelow-ar" = 40;
 };
 "@MMK_L_DalFina" = {
