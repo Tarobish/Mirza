@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf_alefMaksura-ar"
+"/kaf_lam_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -52809,7 +52809,7 @@ rightKerningGroup = Kaf;
 },
 {
 glyphname = "kaf_lam_alefMaksura-ar.fina";
-lastChange = "2016-02-04 06:01:49 +0000";
+lastChange = "2016-02-04 06:16:41 +0000";
 layers = (
 {
 anchors = (
@@ -52874,12 +52874,12 @@ nodes = (
 "382 -7 OFFCURVE",
 "379 -32 CURVE",
 "399 -34 OFFCURVE",
-"439 -39 OFFCURVE",
-"473 -48 CURVE SMOOTH",
-"519 -60 OFFCURVE",
-"543 -77 OFFCURVE",
-"543 -95 CURVE SMOOTH",
-"543 -121 OFFCURVE",
+"429 -39 OFFCURVE",
+"463 -48 CURVE SMOOTH",
+"509 -60 OFFCURVE",
+"533 -77 OFFCURVE",
+"533 -95 CURVE SMOOTH",
+"533 -121 OFFCURVE",
 "494 -147 OFFCURVE",
 "464 -160 CURVE SMOOTH",
 "432 -174 OFFCURVE",
