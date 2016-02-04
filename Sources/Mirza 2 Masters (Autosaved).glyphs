@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alef-ar/alef-ar/alef-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -1882,7 +1879,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2016-02-04 22:53:23 +0000";
+lastChange = "2016-02-04 22:54:28 +0000";
 layers = (
 {
 components = (
@@ -82814,6 +82811,7 @@ kerning = {
 "meem_alefMaksura-ar" = -16;
 "tah_alefMaksura-ar" = -16;
 "@MMK_R_AlefIso" = 40;
+"alefHamzabelow-ar" = 40;
 };
 "@MMK_L_DalFina" = {
 "@MMK_R_AInIso" = -13;
