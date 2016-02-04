@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seen_alefMaksura-ar"
+"/sad_alefMaksura-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -45081,7 +45081,7 @@ unicode = FCB0;
 },
 {
 glyphname = "seen_alefMaksura-ar";
-lastChange = "2016-01-15 02:53:36 +0000";
+lastChange = "2016-02-04 06:05:48 +0000";
 layers = (
 {
 anchors = (
@@ -45142,12 +45142,12 @@ nodes = (
 "532 205 OFFCURVE",
 "505 205 CURVE SMOOTH",
 "475 205 OFFCURVE",
-"454 186 OFFCURVE",
-"431 154 CURVE SMOOTH",
-"418 136 OFFCURVE",
-"397 103 OFFCURVE",
-"383 66 CURVE SMOOTH",
-"369 29 OFFCURVE",
+"450 186 OFFCURVE",
+"427 154 CURVE SMOOTH",
+"414 136 OFFCURVE",
+"393 103 OFFCURVE",
+"379 66 CURVE SMOOTH",
+"365 29 OFFCURVE",
 "366 0 OFFCURVE",
 "374 -17 CURVE SMOOTH",
 "382 -34 OFFCURVE",
