@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad_meem-ar"
+"/lam_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -56020,7 +56020,7 @@ rightKerningGroup = HehInti;
 },
 {
 glyphname = "lam_alefMaksura-ar";
-lastChange = "2016-01-22 02:25:40 +0000";
+lastChange = "2016-02-04 06:15:11 +0000";
 layers = (
 {
 anchors = (
@@ -56068,12 +56068,12 @@ nodes = (
 "382 21 OFFCURVE",
 "379 -4 CURVE",
 "399 -6 OFFCURVE",
-"439 -11 OFFCURVE",
-"473 -20 CURVE SMOOTH",
-"519 -32 OFFCURVE",
-"543 -49 OFFCURVE",
-"543 -67 CURVE SMOOTH",
-"543 -93 OFFCURVE",
+"429 -11 OFFCURVE",
+"463 -20 CURVE SMOOTH",
+"509 -32 OFFCURVE",
+"533 -49 OFFCURVE",
+"533 -67 CURVE SMOOTH",
+"533 -93 OFFCURVE",
 "494 -119 OFFCURVE",
 "464 -132 CURVE SMOOTH",
 "432 -146 OFFCURVE",
