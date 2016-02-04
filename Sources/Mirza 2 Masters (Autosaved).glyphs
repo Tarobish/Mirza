@@ -53810,7 +53810,7 @@ rightKerningGroup = Kaf;
 },
 {
 glyphname = "keheh_alef-ar.fina";
-lastChange = "2015-12-23 20:24:19 +0000";
+lastChange = "2016-02-04 05:59:55 +0000";
 layers = (
 {
 anchors = (
@@ -53856,8 +53856,8 @@ nodes = (
 "341 37 OFFCURVE",
 "381 0 OFFCURVE",
 "460 0 CURVE SMOOTH",
-"495 0 LINE",
-"495 98 LINE",
+"515 0 LINE",
+"515 98 LINE",
 "459 98 LINE SMOOTH",
 "395 98 OFFCURVE",
 "362 140 OFFCURVE",
@@ -53906,7 +53906,7 @@ nodes = (
 );
 }
 );
-width = 495;
+width = 515;
 },
 {
 anchors = (
