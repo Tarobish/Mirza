@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/dotlessbeh_meem-ar",
+"/meemDotbelow-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -78,6 +82,9 @@ position = "{5, 188}";
 },
 {
 position = "{195, 523}";
+},
+{
+position = "{125, -339}";
 }
 );
 id = "51F41761-070F-43EA-B302-C90910850260";
@@ -38130,7 +38137,7 @@ unicode = 0766;
 },
 {
 glyphname = "meemDotbelow-ar.fina";
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2016-02-04 21:43:01 +0000";
 layers = (
 {
 components = (
