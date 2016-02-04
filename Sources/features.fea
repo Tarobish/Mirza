@@ -14,8 +14,6 @@ languagesystem latn TAT;
 languagesystem latn TRK;
 
 
-include(gdef.fea);
-
 # fontTools.feaLib.error.FeatureLibError: Sources/glyphs.fea:9:1:
 # Expected glyph class definition or statement
 # feature aalt {
@@ -67,32 +65,6 @@ lookup arab_comb {
 	sub uni0650 uni0655 by uni06550650;
 } arab_comb;
 
-lookup arab_decompose {
-	# it's likeley that these have to be ported to their init/medi/fina features
-	# as in arabic not all variant's of a glyph always fit in the scheme
-	# also, some of these replacements will not have a corresponding  version
-	# in each position
-
-	# made for the 1st chars of ligature #57, maybe have to port to medi (also init?
-	# there is a corresponding initial ligature uni064306440649 uni064306440649.fina)
-	sub uni063B by uni06A9 uniFBB4;
-	sub uni0762 by uni06A9 uniFBB2;
-	sub uni0763 by uni06A9 uniFBB6;
-	sub uni063C by uni06A9 uniFBB9;
-	sub uni06AF by uni06A9 gafbarar;
-	sub uni0764 by uni06A9 uniFBB7;
-	sub uni06B4 by uni06A9 gafbarar uniFBB6;
-	sub uni06B3 by uni06A9 gafbarar uniFBBE;
-	sub uni06B1 by uni06A9 gafbarar uniFBB4;
-	sub uni06B2 by uni06A9 gafbarar uniFBB5;
-
-	# made for the 2nd chars of ligature #57,55 , maybe have to port to medi
-	sub uni06B5 by uni0644 uni065A;
-	sub uni06B6 by uni0644 uniFBB2;
-	sub uni06B7 by uni0644 uniFBB6;
-	sub uni06B8 by uni0644 uniFBB9;
-} arab_decompose;
-
 
 feature ccmp {
 # automatic
@@ -101,17 +73,8 @@ feature ccmp {
 	# chromium did work anyays.
 	script arab;
 	lookup arab_comb;
-	lookup arab_decompose;
 } ccmp;
 
-feature locl {
-# automatic
-script arab;
-language URD;
-sub uni06F4 by uni06F4.urdu;
-sub uni06F6 by uni0666;
-sub uni06F7 by uni06F7.urdu;
-} locl;
 
 feature init {
 lookupflag IgnoreMarks;
@@ -250,18 +213,27 @@ sub uni08A5 by uni06A1.init uniFBB4 uniFBB3;
 sub uni0643 by uniFEDB;
 
 sub uni06A9 by uniFB90;
-sub uni063B by uni063B.init;
-sub uni063C by uni063C.init;
-sub uni0762 by uni0762.init;
-sub uni0763 by uni0763.init;
-sub uni0764 by uni0764.init;
-sub uni06AF by uniFB94;
-sub uni06B0 by uni06B0.init;
-sub uni06B4 by uni06B4.init;
+
+# sub uni063B by uni063B.init;
+sub uni063B by uniFB90 uniFBB4;
+
+#sub uni063C by uni063C.init;
+sub uni063C by uniFB90 uniFBB9;
+#sub uni0762 by uni0762.init;
+sub uni0762 by uniFB90 uniFBB2;
+#sub uni0763 by uni0763.init;
+sub uni0763 by uniFB90 uniFBB6;
+#sub uni0764 by uni0764.init;
+sub uni0764 by uniFB90 uniFBB7;
+#sub uni06AF by uniFB94;
+sub uni06AF by uniFB90 gafbarar;
+#sub uni06B4 by uni06B4.init;
+sub uni06B4 by uniFB90 gafbarar uniFBB6;
+
+# FIXME: these have rings. Could be decomposed
 sub uni06AA by uni06AA.init;
 sub uni06AB by uni06AB.init;
-
-
+sub uni06B0 by uni06B0.init;
 
 # ligature #57 first char row
 #sub uni06AE by uni06AE.init;
@@ -273,9 +245,8 @@ sub uni06AC by uniFEDB uniFBB2;
 #sub uni06AD by uniFBD5;
 sub uni06AD by uniFEDB uniFBB6;
 
-sub uni06B2 by uni06B2.init;
-
-
+#sub uni06B2 by uni06B2.init;
+sub uni06B2 by uniFEDB gafbarar uniFBB5;
 
 # ligature #54
 # sub uni06B3 by uniFB98;
@@ -622,18 +593,36 @@ sub uni08A5 by uni06A1.medi uniFBB4 uniFBB3;
 sub uni0643 by uniFEDC;
 sub uni06A9 by uniFB91;
 
-# these won't happen on a modern system, because ccmp
-sub uni063B by uni063B.medi; # ccmp sub uni063B by uni06A9 uniFBB4;
-sub uni063C by uni063C.medi; # ccmp sub uni063C by uni06A9 uniFBB9;
-sub uni0762 by uni0762.medi; # ccmp sub uni0762 by uni06A9 uniFBB1;
-sub uni0763 by uni0763.medi; # ccmp sub uni0763 by uni06A9 uniFBB6;
+sub uni063B by uniFB91 uniFBB4;
+#sub uni063C by uni063C.medi;
+sub uni063C by uniFB91 uniFBB9;
+# sub uni0762 by uni0762.medi;
+sub uni0762 by uniFB91 uniFBB2;
+#sub uni0763 by uni0763.medi;
+sub uni0763 by uniFB91 uniFBB6;
 
-sub uni0764 by uni0764.medi;
-sub uni06AF by uniFB95;
-sub uni06B0 by uni06B0.medi;
-sub uni06B4 by uni06B4.medi;
+#sub uni0764 by uni0764.medi;
+sub uni0764 by uniFB91 uniFBB7;
+
+#sub uni06AF by uniFB95;
+sub uni06AF by uniFB91 gafbarar;
+
 sub uni06AA by uni06AA.medi;
+
+# FIXME: has a ring merged into base
+sub uni06B0 by uni06B0.medi;
 sub uni06AB by uni06AB.medi;
+
+
+#sub uni06B2 by uni06B2.medi;
+sub uni06B2 by uniFB91 gafbarar uniFBB5;
+#sub uni06B1 by uniFB9D;
+sub uni06B1 by uniFB91 gafbarar uniFBB4;
+#sub uni06B3 by uniFB99;
+sub uni06B3 by uniFB91 gafbarar uniFBBE;
+#sub uni06B4 by uni06B4.medi;
+sub uni06B4 by uniFB91 gafbarar uniFBB6;
+
 
 
 #ligature #57 first char row
@@ -646,17 +635,19 @@ sub uni06AC by uniFEDC uniFBB2;
 #sub uni06AD by uniFBD6;
 sub uni06AD by uniFEDC uniFBB6;
 
-sub uni06B2 by uni06B2.medi;
 
-sub uni06B1 by uniFB9D;
-sub uni06B3 by uniFB99;
 sub uni0644 by uniFEE0;
 
-sub uni06B5 by uni06B5.medi; # ccmp sub uni06B5 by uni0644 uni065A;
+#sub uni06B5 by uni06B5.medi;
+sub uni06B5 by uniFEE0 uni065A;
 
-sub uni06B6 by uni06B6.medi;
-sub uni06B7 by uni06B7.medi;
-sub uni06B8 by uni06B8.medi;
+#sub uni06B6 by uni06B6.medi;
+sub uni06B6 by uniFEE0 uniFBB2;
+#sub uni06B7 by uni06B7.medi;
+sub uni06B7 by uniFEE0 uniFBB6;
+#sub uni06B8 by uni06B8.medi;
+sub uni06B8 by uniFEE0 uniFBB9;
+
 sub uni08A6 by uni08A6.medi;
 sub uni0645 by uniFEE4;
 
@@ -849,15 +840,33 @@ sub uni06A8 by uni06A8.fina;
 sub uni08A5 by uni08A5.fina;
 sub uni0643 by uniFEDA;
 sub uni06A9 by uniFB8F;
-sub uni063B by uni063B.fina;
-sub uni063C by uni063C.fina;
-sub uni0762 by uni0762.fina;
-sub uni0763 by uni0763.fina;
-sub uni0764 by uni0764.fina;
-sub uni06AF by uniFB93;
-sub uni06B0 by uni06B0.fina;
-sub uni06B4 by uni06B4.fina;
+# sub uni063B by uni063B.fina;
+sub uni063B by uniFB8F uniFBB4;
+
+#sub uni063C by uni063C.fina;
+sub uni063C by uniFB8F uniFBB9;
+#sub uni0762 by uni0762.fina;
+sub uni0762 by uniFB8F uniFBB2;
+#sub uni0763 by uni0763.fina;
+sub uni0763 by uniFB8F uniFBB6;
+#sub uni0764 by uni0764.fina;
+sub uni0764 by uniFB8F uniFBB7;
+#sub uni06AF by uniFB93;
+sub uni06AF by uniFB8F gafbarar;
+#sub uni06B4 by uni06B4.fina;
+sub uni06B4 by uniFB8F gafbarar uniFBB6;
+#sub uni06B2 by uni06B2.fina;
+sub uni06B2 by uniFB8F gafbarar uniFBB5;
+#sub uni06B1 by uniFB9B;
+sub uni06B1 by uniFB8F gafbarar uniFBB4;
+#sub uni06B3 by uniFB97;
+sub uni06B3 by uniFB8F gafbarar uniFBBE;
+
 sub uni06AA by uni06AA.fina;
+
+
+# FIXME: ring merged into base
+sub uni06B0 by uni06B0.fina;
 sub uni06AB by uni06AB.fina;
 
 
@@ -871,16 +880,17 @@ sub uni077F by uniFEDA uniFBB4;
 # sub uni06AD by uniFBD4;
 sub uni06AD by uniFEDA uniFBB6;
 
-
-sub uni06B2 by uni06B2.fina;
-
-sub uni06B1 by uniFB9B;
-sub uni06B3 by uniFB97;
 sub uni0644 by uniFEDE;
-sub uni06B5 by uni06B5.fina;
-sub uni06B6 by uni06B6.fina;
-sub uni06B7 by uni06B7.fina;
-sub uni06B8 by uni06B8.fina;
+
+#sub uni06B5 by uni06B5.fina;
+sub uni06B5 by uniFEDE uni065A;
+#sub uni06B6 by uni06B6.fina;
+sub uni06B6 by uniFEDE uniFBB2;
+#sub uni06B7 by uni06B7.fina;
+sub uni06B7 by uniFEDE uniFBB6;
+#sub uni06B8 by uni06B8.fina;
+sub uni06B8 by uniFEDE uniFBB9;
+
 sub uni08A6 by uni08A6.fina;
 sub uni0645 by uniFEE2;
 
@@ -1291,8 +1301,11 @@ feature rlig {
 	# automatic
 	script arab;
 	lookup rlig_ALL;
-	language ARA exclude_dflt;
+        language URD;
+        lookup rlig_ALL;
+	language ARA;
 	lookup rlig_ARA_dlig_ALL;
+        lookup rlig_ALL;
 } rlig;
 
 
@@ -1373,4 +1386,4 @@ feature calt {
 include(arab.fea);
 include(latn.fea);
 include(kern.fea);
-
+include(gdef.fea);
