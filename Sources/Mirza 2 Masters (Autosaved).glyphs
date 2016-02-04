@@ -42599,7 +42599,7 @@ width = 678;
 },
 {
 glyphname = "dotlessbeh_alefMaksura-ar.fina";
-lastChange = "2016-02-04 06:04:15 +0000";
+lastChange = "2016-02-04 06:04:42 +0000";
 layers = (
 {
 anchors = (
@@ -42630,12 +42630,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"732 98 LINE",
-"677 98 LINE",
-"626 98 OFFCURVE",
-"602 130 OFFCURVE",
-"584 153 CURVE SMOOTH",
-"562 182 OFFCURVE",
+"742 98 LINE",
+"687 98 LINE",
+"636 98 OFFCURVE",
+"612 130 OFFCURVE",
+"594 153 CURVE SMOOTH",
+"572 182 OFFCURVE",
 "541 215 OFFCURVE",
 "505 215 CURVE SMOOTH",
 "475 215 OFFCURVE",
@@ -42699,17 +42699,14 @@ nodes = (
 "429 65 OFFCURVE",
 "446 115 OFFCURVE",
 "492 115 CURVE SMOOTH",
-"531 115 OFFCURVE",
-"555 89 OFFCURVE",
-"571 62 CURVE SMOOTH",
-"589 32 OFFCURVE",
-"610 0 OFFCURVE",
-"670 0 CURVE",
-"732 0 LINE"
+"603 115 OFFCURVE",
+"568 0 OFFCURVE",
+"680 0 CURVE",
+"742 0 LINE"
 );
 }
 );
-width = 732;
+width = 742;
 },
 {
 anchors = (
