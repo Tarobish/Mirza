@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_heh_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -55115,7 +55112,7 @@ unicode = FCCC;
 },
 {
 glyphname = "lam_meem_alefMaksura-ar";
-lastChange = "2016-01-22 03:57:58 +0000";
+lastChange = "2016-02-04 06:15:54 +0000";
 layers = (
 {
 anchors = (
@@ -55187,12 +55184,12 @@ nodes = (
 "426 42 OFFCURVE",
 "421 -2 CURVE",
 "438 -5 OFFCURVE",
-"464 -11 OFFCURVE",
-"487 -19 CURVE SMOOTH",
-"524 -33 OFFCURVE",
-"543 -50 OFFCURVE",
-"543 -71 CURVE SMOOTH",
-"543 -95 OFFCURVE",
+"454 -11 OFFCURVE",
+"477 -19 CURVE SMOOTH",
+"514 -33 OFFCURVE",
+"533 -50 OFFCURVE",
+"533 -71 CURVE SMOOTH",
+"533 -91 OFFCURVE",
 "495 -119 OFFCURVE",
 "464 -132 CURVE",
 "432 -147 OFFCURVE",
