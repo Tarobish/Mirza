@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ain_alefMaksura-ar.fina"
+"/ain_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -49424,7 +49424,7 @@ unicode = FCF7;
 },
 {
 glyphname = "ain_alefMaksura-ar.fina";
-lastChange = "2016-02-04 06:17:38 +0000";
+lastChange = "2016-02-04 06:17:42 +0000";
 layers = (
 {
 anchors = (
