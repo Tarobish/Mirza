@@ -57176,7 +57176,7 @@ unicode = FC49;
 },
 {
 glyphname = "meem_alefMaksura-ar.fina";
-lastChange = "2016-02-04 22:36:54 +0000";
+lastChange = "2016-02-04 22:37:05 +0000";
 layers = (
 {
 anchors = (
@@ -57244,7 +57244,7 @@ nodes = (
 "550 -54 OFFCURVE",
 "550 -71 CURVE SMOOTH",
 "550 -96 OFFCURVE",
-"521 -117 OFFCURVE",
+"524 -114 OFFCURVE",
 "481 -134 CURVE",
 "449 -149 OFFCURVE",
 "386 -170 OFFCURVE",
@@ -57278,9 +57278,9 @@ nodes = (
 "609 -82 OFFCURVE",
 "609 -62 CURVE SMOOTH",
 "609 -12 OFFCURVE",
-"577 13 OFFCURVE",
-"541 27 CURVE",
-"572 37 OFFCURVE",
+"582 13 OFFCURVE",
+"546 27 CURVE",
+"577 37 OFFCURVE",
 "598 50 OFFCURVE",
 "619 74 CURVE",
 "667 34 OFFCURVE",
