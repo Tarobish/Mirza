@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/sad_meem_alefMaksura-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -1493,7 +1496,7 @@ unicode = 0627;
 },
 {
 glyphname = "alef-ar.fina";
-lastChange = "2016-02-04 23:30:03 +0000";
+lastChange = "2016-02-04 23:39:28 +0000";
 layers = (
 {
 anchors = (
@@ -47137,7 +47140,7 @@ unicode = FCB3;
 },
 {
 glyphname = "sad_meem_alefMaksura-ar";
-lastChange = "2016-02-04 23:34:32 +0000";
+lastChange = "2016-02-04 23:40:35 +0000";
 layers = (
 {
 anchors = (
@@ -47199,18 +47202,18 @@ nodes = (
 "782 304 OFFCURVE",
 "749 304 CURVE SMOOTH",
 "724 304 OFFCURVE",
-"695 291 OFFCURVE",
-"674 272 CURVE SMOOTH",
-"656 256 OFFCURVE",
-"643 239 OFFCURVE",
-"632 221 CURVE SMOOTH",
-"619 199 OFFCURVE",
-"611 175 OFFCURVE",
-"607 151 CURVE SMOOTH",
-"604 135 OFFCURVE",
-"604 118 OFFCURVE",
-"607 100 CURVE",
-"499 113 OFFCURVE",
+"700 291 OFFCURVE",
+"679 272 CURVE SMOOTH",
+"661 256 OFFCURVE",
+"648 239 OFFCURVE",
+"637 221 CURVE SMOOTH",
+"624 199 OFFCURVE",
+"616 175 OFFCURVE",
+"612 151 CURVE SMOOTH",
+"609 135 OFFCURVE",
+"609 118 OFFCURVE",
+"612 100 CURVE",
+"504 113 OFFCURVE",
 "465 85 OFFCURVE",
 "450 74 CURVE SMOOTH",
 "444 69 OFFCURVE",
