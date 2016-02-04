@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefMadda-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -2138,7 +2141,7 @@ unicode = 0622;
 },
 {
 glyphname = "alefMadda-ar.fina";
-lastChange = "2016-02-04 22:48:27 +0000";
+lastChange = "2016-02-04 22:48:43 +0000";
 layers = (
 {
 components = (
@@ -2147,8 +2150,9 @@ locked = 1;
 name = "alef-ar.fina.short";
 },
 {
+disableAlignment = 1;
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 123, -229}";
+transform = "{1, 0, 0, 1, 123, -198}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
