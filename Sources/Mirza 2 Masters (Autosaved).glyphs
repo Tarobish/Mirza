@@ -1,5 +1,6 @@
 {
 DisplayStrings = (
+"/reh-ar/dotlessbeh_noonghunna-ar",
 "/reh-ar/dotlessbeh_noonghunna-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -41971,7 +41972,7 @@ width = 543;
 },
 {
 glyphname = "dotlessbeh_noonghunna-ar";
-lastChange = "2016-02-04 21:33:11 +0000";
+lastChange = "2016-02-04 21:33:35 +0000";
 layers = (
 {
 anchors = (
@@ -42073,7 +42074,7 @@ width = 777;
 anchors = (
 {
 name = bottom_1;
-position = "{695, 0}";
+position = "{596, -149}";
 },
 {
 name = bottom_2;
