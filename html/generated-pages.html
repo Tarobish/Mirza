@@ -73,6 +73,11 @@
             width: 20em;
             padding: .5em;
         }
+
+        .generated-pages-navigation > select{
+            vertical-align: top;
+        }
+
         .generated-pages-navigation > ul {
             margin:0;
             padding: 0;
@@ -147,6 +152,14 @@
                 }
               , pages: pages
               , langs: ['ar', 'fa', 'ur', 'en']
+              , features: [
+                    '"rlig" off'
+                  , '"dlig" on'
+                  , '"kern" off'
+                  , '"mark" off'
+                  , '"mkmk" off'
+                  , '"calt" off'
+              ]
             }
         }
     });

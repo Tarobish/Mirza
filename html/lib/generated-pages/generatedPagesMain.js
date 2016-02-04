@@ -17,7 +17,7 @@ require([
                         , config.fonts)
                 : undefined
          ;
-        router(config.pages, fonts, config.langs);
+        router(config.pages, fonts, config.langs, config.features);
     }
 
     domReady(main);

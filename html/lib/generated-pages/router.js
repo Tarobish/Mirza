@@ -95,23 +95,33 @@ define([
         classTarget.classList.add(this.value);
     }
 
-    function makeSelect(items, target, handler) {
-        var i,l,options = [], select;
+    function featuresSelectChangeHandler(features, styleTarget) {
+        var i,l, features=[];
+        for(i=0,l=this.length;i<l;i++)
+            if(this[i].selected)
+                features.push(this[i].value);
+        styleTarget.style['font-feature-settings'] = features.join(', ');
+    }
+
+    function makeSelect(items, target, handler, multiple) {
+        var i,l,options = [], select, attr = {};
         for(i=0,l=items.length;i<l;i++)
             options.push(createElement('option', null, items[i]));
-        select = createElement('select', null, options);
+        if(multiple)
+            attr.multiple = 'multiple'
+        select = createElement('select', attr, options);
         select.addEventListener('change', handler.bind(
                                             select, items, target));
         return select;
     }
 
 
-    function router(pages, fonts, langs) {
+    function router(pages, fonts, langs, features) {
         var body = document.body
           , content = createElement('main', {'class': 'generated-pages',lang: 'en', dir:'LTR'})
           , nav = createElement('div', {'class': 'generated-pages-navigation'})
           , currentPage
-          , fontSelect, langSelect
+          , fontSelect, langSelect, featuresSelect
           ;
 
         if(fonts) {
@@ -121,8 +131,15 @@ define([
 
         if(langs) {
             langSelect = makeSelect(langs, content, langSelectChangeHandler);
-            langSelectChangeHandler.call(langSelect, fonts, content);
+            langSelectChangeHandler.call(langSelect, langs, content);
         }
+
+        if(features) {
+            featuresSelect = makeSelect(features, content, featuresSelectChangeHandler, true);
+            featuresSelectChangeHandler.call(featuresSelect, features, content);
+        }
+
+
 
         function switchPageHandler(e) {
             var page = getPage(pages);
@@ -144,6 +161,9 @@ define([
 
         if(langSelect)
             nav.appendChild(langSelect);
+
+        if(featuresSelect)
+            nav.appendChild(featuresSelect);
 
         body.appendChild(content);
         renderMenu(nav, pages);
