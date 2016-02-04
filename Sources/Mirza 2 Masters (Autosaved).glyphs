@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seen_meem_alefMaksura-ar"
+"/seen_meem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -44586,7 +44586,7 @@ unicode = FD2A;
 },
 {
 glyphname = "seen_meem-ar";
-lastChange = "2016-02-04 21:52:00 +0000";
+lastChange = "2016-02-04 23:32:50 +0000";
 layers = (
 {
 anchors = (
@@ -44641,16 +44641,13 @@ nodes = (
 "540 154 OFFCURVE",
 "483 154 CURVE SMOOTH",
 "423 154 OFFCURVE",
-"387 186 OFFCURVE",
-"365 208 CURVE SMOOTH",
-"346 228 OFFCURVE",
-"328 247 OFFCURVE",
-"298 247 CURVE SMOOTH",
-"259 247 OFFCURVE",
-"227 227 OFFCURVE",
-"193 178 CURVE SMOOTH",
-"168 142 OFFCURVE",
-"154 113 OFFCURVE",
+"387 189 OFFCURVE",
+"365 211 CURVE SMOOTH",
+"346 231 OFFCURVE",
+"328 250 OFFCURVE",
+"298 250 CURVE SMOOTH",
+"208 250 OFFCURVE",
+"161 152 OFFCURVE",
 "146 67 CURVE",
 "117 54 OFFCURVE",
 "95 35 OFFCURVE",
@@ -45698,7 +45695,7 @@ unicode = FD17;
 },
 {
 glyphname = "seen_meem_alefMaksura-ar";
-lastChange = "2016-02-04 23:32:18 +0000";
+lastChange = "2016-02-04 23:32:28 +0000";
 layers = (
 {
 anchors = (
@@ -45897,7 +45894,7 @@ position = "{1013, 374}";
 },
 {
 name = top_2;
-position = "{716, 372}";
+position = "{716, 382}";
 },
 {
 name = top_3;
@@ -45933,8 +45930,11 @@ nodes = (
 "1004 275 OFFCURVE",
 "983 246 OFFCURVE",
 "945 246 CURVE SMOOTH",
-"865 246 OFFCURVE",
-"879 332 OFFCURVE",
+"904 246 OFFCURVE",
+"889 268 OFFCURVE",
+"872 290 CURVE SMOOTH",
+"856 311 OFFCURVE",
+"839 332 OFFCURVE",
 "796 332 CURVE SMOOTH",
 "777 332 OFFCURVE",
 "756 326 OFFCURVE",
