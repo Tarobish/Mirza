@@ -3,6 +3,7 @@
 languagesystem DFLT dflt;
 languagesystem arab dflt;
 languagesystem arab ARA;
+languagesystem arab FAR;
 languagesystem arab URD;
 languagesystem latn dflt;
 languagesystem latn AZE;
@@ -1205,6 +1206,7 @@ lookup rlig_ARA_dlig_ALL {
 	# ligature #7
 	sub uni066E.init [uniFEF0 uni06CD.fina] by uni066E0649;
 
+
 	# issues #6
 	sub uni066E.medi uniFB9F by uni066E06BA.fina;
 
@@ -1300,8 +1302,11 @@ lookup dlig_ALL {
 feature rlig {
 	# automatic
 	script arab;
+        language dflt;
 	lookup rlig_ALL;
         language URD;
+        lookup rlig_ALL;
+        language FAR;
         lookup rlig_ALL;
 	language ARA;
 	lookup rlig_ARA_dlig_ALL;
@@ -1311,13 +1316,32 @@ feature rlig {
 
 feature dlig {
 	script arab;
+        language dflt;
 	lookup rlig_ARA_dlig_ALL;
 	lookup dlig_ALL;
+        language URD;
+        lookup rlig_ARA_dlig_ALL;
+        language FAR;
+        lookup rlig_ARA_dlig_ALL;
+        language ARA;
+        lookup rlig_ARA_dlig_ALL;
 } dlig;
 
 include(collisions.fea);
 
 include(arab.fea);
+
+feature mark {
+      lookup markToBase_2arab;
+      lookup markToLigature_3arab;
+} mark;
+
+feature mkmk {
+      lookup markToMark_4arab;
+      lookup markToMark_5arab;
+      lookup markToMark_6arab;
+} mkmk;
+
 include(latn.fea);
 include(kern.fea);
 include(gdef.fea);

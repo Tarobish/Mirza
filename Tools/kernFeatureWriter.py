@@ -988,9 +988,14 @@ if __name__ == '__main__':
 
 
 
-    # scripts = {'arab': ('dflt', 'ARA ', 'URD ', 'SND '), 'latn': ('dflt', 'TRK ')}
-    #scripts = scriptsFromFea(sys.argv[1])
-    scripts = {'arab': ('dflt', ), 'latn': ('dflt', )}
+    # scripts = {'arab': ('dflt', 'ARA ', 'URD ', 'FAR '), 'latn': ('dflt', 'TRK ')}
+    # scripts = scriptsFromFea(sys.argv[1])
+    # scripts = {'arab': ('dflt', ), 'latn': ('dflt', )}
+    scripts = {
+               'arab': ('dflt', 'ARA ', 'URD ', 'FAR ')
+             , 'latn': ('dflt', 'AZE', 'CRT', 'KAZ', 'MOL', 'ROM', 'TAT', 'TRK' )
+             }
+
     kfw = KernFeatureWriterWithHorizontalDirections(font, scripts)
     print(kfw.write())
 

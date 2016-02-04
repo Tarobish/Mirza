@@ -36,7 +36,10 @@ $tools/mergeGlyphs.py $sources/technical-additions.sfd arab.otf;
 
 echo 'make feature files';
 $tools/mergeGDEF2fea.py arab.otf latn.otf > gdef.fea;
-ft2fea -s arab -r "GPOS feature mkmk|mark;GSUB feature locl"  arab.otf > arab.fea;
+ft2fea -s arab \
+       -r "GPOS feature mkmk|mark;GSUB feature locl"  \
+       -m "GPOS feature mkmk|mark;" \
+        arab.otf > arab.fea;
 ft2fea -s latn -r "GPOS|GSUB feature *" -b "GPOS feature kern; GSUB feature aalt;"   latn.otf > latn.fea;
 
 
