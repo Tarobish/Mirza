@@ -290,8 +290,8 @@ sub uni063D by uni066E.init uni065B uniFBB5;
 sub uni063E by uni066E.init uniFBB4 uniFBB5;
 #sub uni063F by uni063F.init;
 sub uni063F by uni066E.init uniFBB6 uniFBB5;
-#sub uni067C by uni067C.init;
-sub uni067C by uni066E.init;
+# FIXME: won't decompose, has a ring merged into the base
+sub uni067C by uni067C.init;
 #sub uni067D by uni067D.init;
 sub uni067D by uni066E.init uniFBB8;
 #sub uni06B9 by uni06B9.init;
@@ -402,8 +402,8 @@ sub uni063D by uni066E.medi uni065B uniFBB5;
 sub uni063E by uni066E.medi uniFBB4 uniFBB5;
 #sub uni063F by uni063F.medi;
 sub uni063F by uni066E.medi uniFBB6 uniFBB5;
-#sub uni067C by uni067C.medi;
-sub uni067C by uni066E.medi;
+# FIXME: won't decompose, has a ring merged into the base
+sub uni067C by uni067C.medi;
 #sub uni067D by uni067D.medi;
 sub uni067D by uni066E.medi uniFBB8;
 #sub uni06B9 by uni06B9.medi;
@@ -709,6 +709,7 @@ sub uni067E by uniFB57;
 sub uni067B by uniFB53;
 sub uni0680 by uniFB5B;
 sub uni062A by uniFE96;
+# FIXME: won't decompose, has a ring merged into the base (maybe not needed in this case)
 sub uni067C by uni067C.fina;
 sub uni067D by uni067D.fina;
 sub uni062B by uniFE9A;
