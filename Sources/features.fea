@@ -1329,10 +1329,10 @@ feature dlig {
 
 feature ss01 {
         # issue #66 special char #01
-        sub uni06AA.medi by uniFB95;
-        sub uni06AA.init by uniFB94;
-        sub uni06AA.fina by uniFB93;
-        sub uni06AA by uni06AF;
+        sub uni06AA.medi by uniFB95.001;
+        sub uni06AA.init by uniFB94.001;
+        sub uni06AA.fina by uniFB93.001;
+        sub uni06AA by uni06AF.001;
         # issue #67 special char #02
         sub uni06C2.fina by uniFBA7 uni0654;
 } ss01;
