@@ -92,6 +92,8 @@
 	<string>ellipsis.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
+	<key>extender</key>
+	<string>extender.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>filledbox</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>78D6062E-BB8D-4021-A301-D4919E2051D7</string>
+	<string>E3811C3C-CD19-4E85-B3A8-CED548A31DD9</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>1</integer>
 	<key>com.schriftgestaltung.weight</key>
@@ -759,6 +759,7 @@
 		<string>uni077E.init</string>
 		<string>uni077E.medi</string>
 		<string>uni0640</string>
+		<string>extender</string>
 		<string>uniFEFB</string>
 		<string>uniFEFC</string>
 		<string>uniFEF7</string>
