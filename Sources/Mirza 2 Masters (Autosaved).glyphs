@@ -3754,7 +3754,7 @@ width = 244;
 },
 {
 glyphname = "tehRing-ar.medi";
-lastChange = "2016-02-05 18:45:53 +0000";
+lastChange = "2016-02-05 18:46:19 +0000";
 layers = (
 {
 components = (
@@ -3777,8 +3777,13 @@ components = (
 name = "dotlessbeh-ar.medi";
 },
 {
+disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 11, 134}";
+transform = "{1, 0, 0, 1, 64, 239}";
+},
+{
+name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, 33, -418}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
