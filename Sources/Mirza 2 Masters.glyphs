@@ -39634,6 +39634,57 @@ width = 218;
 unicode = 0640;
 },
 {
+glyphname = extender;
+lastChange = "2016-02-05 18:53:37 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-22 98 LINE SMOOTH",
+"-44 98 OFFCURVE",
+"-70 80 OFFCURVE",
+"-70 49 CURVE SMOOTH",
+"-70 21 OFFCURVE",
+"-49 0 OFFCURVE",
+"-22 0 CURVE SMOOTH",
+"187 0 LINE",
+"187 98 LINE"
+);
+}
+);
+width = 187;
+},
+{
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"-11 139 LINE SMOOTH",
+"-54 139 OFFCURVE",
+"-80 103 OFFCURVE",
+"-80 69 CURVE SMOOTH",
+"-80 31 OFFCURVE",
+"-50 0 OFFCURVE",
+"-11 0 CURVE SMOOTH",
+"218 0 LINE",
+"218 139 LINE"
+);
+}
+);
+width = 218;
+}
+);
+script = arabic;
+category = Letter;
+subCategory = Other;
+},
+{
 glyphname = "lam_alef-ar";
 lastChange = "2016-01-22 21:39:36 +0000";
 layers = (
