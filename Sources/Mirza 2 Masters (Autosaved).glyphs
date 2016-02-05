@@ -3635,7 +3635,7 @@ unicode = FE97;
 },
 {
 glyphname = "tehRing-ar";
-lastChange = "2016-02-05 18:43:48 +0000";
+lastChange = "2016-02-05 18:43:56 +0000";
 layers = (
 {
 components = (
@@ -3647,8 +3647,9 @@ name = "twodotshorizontalabove-ar";
 transform = "{1, 0, 0, 1, 413, -465}";
 },
 {
+disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 411, 120}";
+transform = "{1, 0, 0, 1, 411, 217}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
