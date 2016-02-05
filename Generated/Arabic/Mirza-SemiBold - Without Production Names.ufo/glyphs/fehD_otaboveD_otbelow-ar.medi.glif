@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fehDotaboveDotbelow-ar.medi" format="1">
-  <advance width="430"/>
-  <outline>
-    <component base="dotlessfeh-ar.medi"/>
-    <component base="dotabove-ar" xOffset="189" yOffset="-277"/>
-    <component base="dotbelow-ar" xOffset="123" yOffset="110"/>
-  </outline>
-</glyph>

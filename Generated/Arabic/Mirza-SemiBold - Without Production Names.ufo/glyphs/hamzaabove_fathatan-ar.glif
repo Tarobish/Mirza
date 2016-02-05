@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hamzaabove_fathatan-ar" format="1">
-  <advance width="0"/>
-  <outline>
-    <component base="hamzaabove-ar" yOffset="23"/>
-    <component base="fathatan-ar" xOffset="-1" yOffset="227"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dalTwodotsverticalbelowTahabove-ar.fina" format="1">
-  <advance width="537"/>
-  <outline>
-    <component base="dal-ar.fina"/>
-    <component base="tahabove-ar" xOffset="277" yOffset="-244"/>
-    <component base="twodotsverticalbelow-ar" xOffset="192" yOffset="-6"/>
-  </outline>
-</glyph>

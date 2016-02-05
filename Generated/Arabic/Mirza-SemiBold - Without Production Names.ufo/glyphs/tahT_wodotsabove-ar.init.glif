@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tahTwodotsabove-ar.init" format="1">
-  <advance width="480"/>
-  <outline>
-    <component base="tah-ar.init"/>
-    <component base="twodotshorizontalabove-ar" xOffset="306" yOffset="-313"/>
-  </outline>
-</glyph>

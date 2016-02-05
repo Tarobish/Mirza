@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hehgoalHamzaabove-ar.init" format="1">
-  <advance width="431"/>
-  <outline>
-    <component base="heh-ar.init"/>
-    <component base="hamzaabove-ar" xOffset="129" yOffset="-259"/>
-  </outline>
-</glyph>

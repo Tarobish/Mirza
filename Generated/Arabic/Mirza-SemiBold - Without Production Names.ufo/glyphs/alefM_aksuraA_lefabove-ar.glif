@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="alefMaksuraAlefabove-ar" format="1">
-  <advance width="682"/>
-  <unicode hex="FC5D"/>
-  <outline>
-    <component base="alefMaksura-ar"/>
-    <component base="alefabove-ar" xOffset="213" yOffset="-536"/>
-  </outline>
-</glyph>

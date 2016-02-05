@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seenDotbelowDotabove-ar.fina" format="1">
-  <advance width="925"/>
-  <outline>
-    <component base="seen-ar.fina"/>
-    <component base="dotabove-ar" xOffset="645" yOffset="-411"/>
-    <component base="dotcenter-ar" xOffset="652" yOffset="-269"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kehehTwodotshorizontalabove-ar.medi" format="1">
-  <advance width="381"/>
-  <outline>
-    <component base="keheh-ar.medi"/>
-    <component base="twodotshorizontalabove-ar" xOffset="114" yOffset="-129"/>
-  </outline>
-</glyph>

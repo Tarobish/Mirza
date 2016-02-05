@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehRohingya-ar.fina" format="1">
-  <advance width="640"/>
-  <outline>
-    <component base="yehRohingya-ar.pt.fina"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="360" yOffset="130"/>
-  </outline>
-</glyph>

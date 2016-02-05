@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="alefThreeabove-ar" format="1">
-  <advance width="171"/>
-  <unicode hex="0774"/>
-  <outline>
-    <component base="alef-ar.short"/>
-    <component base="three-ar.above" xOffset="37" yOffset="-29"/>
-  </outline>
-</glyph>

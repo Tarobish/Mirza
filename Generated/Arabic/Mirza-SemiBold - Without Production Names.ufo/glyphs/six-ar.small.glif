@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="six-ar.small" format="1">
-  <advance width="189"/>
-  <outline>
-    <component base="six-ar" xOffset="-4" yOffset="250" xScale="0.444" yScale="0.444"/>
-  </outline>
-</glyph>

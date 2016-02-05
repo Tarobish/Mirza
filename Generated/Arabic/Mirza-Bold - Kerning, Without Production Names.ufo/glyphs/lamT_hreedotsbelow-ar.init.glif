@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lamThreedotsbelow-ar.init" format="1">
-  <advance width="248"/>
-  <outline>
-    <component base="lam-ar.init"/>
-    <component base="threedotsdownbelow-ar" xOffset="80" yOffset="-101"/>
-  </outline>
-</glyph>

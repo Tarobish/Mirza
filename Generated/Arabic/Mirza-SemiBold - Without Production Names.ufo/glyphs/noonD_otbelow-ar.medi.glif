@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noonDotbelow-ar.medi" format="1">
-  <advance width="317"/>
-  <outline>
-    <component base="noon-ar.medi"/>
-    <component base="dotbelow-ar" xOffset="12" yOffset="110"/>
-  </outline>
-</glyph>

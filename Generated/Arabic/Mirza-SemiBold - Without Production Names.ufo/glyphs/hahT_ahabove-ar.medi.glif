@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hahTahabove-ar.medi" format="1">
-  <advance width="656"/>
-  <outline>
-    <component base="hah-ar.medi"/>
-    <component base="tahabove-ar" xOffset="190" yOffset="-295"/>
-  </outline>
-</glyph>

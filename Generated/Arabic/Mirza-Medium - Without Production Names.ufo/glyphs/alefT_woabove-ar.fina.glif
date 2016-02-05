@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="alefTwoabove-ar.fina" format="1">
-  <advance width="271"/>
-  <outline>
-    <component base="alef-ar.fina.short"/>
-    <component base="two-ar.above" xOffset="49" yOffset="-29"/>
-  </outline>
-</glyph>

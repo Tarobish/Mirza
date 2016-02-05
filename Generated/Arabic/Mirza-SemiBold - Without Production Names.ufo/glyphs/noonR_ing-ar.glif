@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noonRing-ar" format="1">
-  <advance width="608"/>
-  <unicode hex="06BC"/>
-  <outline>
-    <component base="noon-ar"/>
-    <component base="ring-ar" xOffset="301" yOffset="53"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehbarreeTwoabove-ar.init" format="1">
-  <advance width="237"/>
-  <outline>
-    <component base="dotlessbeh-ar.init"/>
-    <component base="two-ar.above" xOffset="-5" yOffset="-264"/>
-  </outline>
-</glyph>

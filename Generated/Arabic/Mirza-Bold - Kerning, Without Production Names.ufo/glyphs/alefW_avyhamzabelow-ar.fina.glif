@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="alefWavyhamzabelow-ar.fina" format="1">
-  <advance width="289"/>
-  <outline>
-    <component base="alef-ar.fina.short"/>
-    <component base="wavyhamzabelow-ar" xOffset="84" yOffset="148"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehbarreeTwoabove-ar" format="1">
-  <advance width="972"/>
-  <unicode hex="077A"/>
-  <outline>
-    <component base="yehbarree-ar"/>
-    <component base="two-ar.above" xOffset="232" yOffset="-239"/>
-  </outline>
-</glyph>

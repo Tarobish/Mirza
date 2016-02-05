@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehVabove-ar.init" format="1">
-  <advance width="230"/>
-  <outline>
-    <component base="dotlessbeh-ar.init"/>
-    <component base="vabove-ar" xOffset="24" yOffset="-406"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="18" yOffset="133"/>
-  </outline>
-</glyph>

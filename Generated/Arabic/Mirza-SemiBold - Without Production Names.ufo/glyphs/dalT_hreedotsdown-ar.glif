@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dalThreedotsdown-ar" format="1">
-  <advance width="440"/>
-  <unicode hex="068F"/>
-  <outline>
-    <component base="dal-ar"/>
-    <component base="threedotsdownabove-ar" xOffset="193" yOffset="-225"/>
-  </outline>
-</glyph>

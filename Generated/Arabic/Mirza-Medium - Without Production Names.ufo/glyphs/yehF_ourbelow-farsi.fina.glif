@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehFourbelow-farsi.fina" format="1">
-  <advance width="684"/>
-  <outline>
-    <component base="alefMaksura-ar.fina"/>
-    <component base="four-ar.below" xOffset="306" yOffset="-129"/>
-  </outline>
-</glyph>

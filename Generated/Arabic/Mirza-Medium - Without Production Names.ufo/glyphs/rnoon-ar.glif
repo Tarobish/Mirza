@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rnoon-ar" format="1">
-  <advance width="598"/>
-  <unicode hex="06BB"/>
-  <outline>
-    <component base="noonghunna-ar"/>
-    <component base="tahabove-ar" xOffset="281" yOffset="-648"/>
-  </outline>
-</glyph>

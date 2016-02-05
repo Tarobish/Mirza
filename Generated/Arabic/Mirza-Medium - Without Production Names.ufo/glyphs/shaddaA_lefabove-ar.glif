@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="shaddaAlefabove-ar" format="1">
-  <advance width="0"/>
-  <outline>
-    <component base="shadda-ar" yOffset="-19"/>
-    <component base="alefabove-ar" xOffset="1" yOffset="128" xScale="0.97" yScale="0.97"/>
-  </outline>
-</glyph>

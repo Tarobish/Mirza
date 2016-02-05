@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="meemThreedotsabove-ar.fina" format="1">
-  <advance width="522"/>
-  <outline>
-    <component base="meem-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="257" yOffset="-396"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sindhiampersand-ar" format="1">
-  <advance width="347"/>
-  <unicode hex="06FD"/>
-  <outline>
-    <component base="hamza-ar"/>
-    <component base="uniFBBC" xOffset="174" yOffset="176"/>
-  </outline>
-</glyph>

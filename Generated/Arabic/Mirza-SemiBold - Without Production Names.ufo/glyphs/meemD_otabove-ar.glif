@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="meemDotabove-ar" format="1">
-  <advance width="425"/>
-  <unicode hex="0765"/>
-  <outline>
-    <component base="meem-ar"/>
-    <component base="dotabove-ar" xOffset="229" yOffset="-280"/>
-  </outline>
-</glyph>

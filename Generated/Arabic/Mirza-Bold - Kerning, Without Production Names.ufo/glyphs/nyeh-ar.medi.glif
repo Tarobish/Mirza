@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nyeh-ar.medi" format="1">
-  <advance width="674"/>
-  <unicode hex="FB79"/>
-  <outline>
-    <component base="hah-ar.medi"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="187" yOffset="102"/>
-  </outline>
-</glyph>

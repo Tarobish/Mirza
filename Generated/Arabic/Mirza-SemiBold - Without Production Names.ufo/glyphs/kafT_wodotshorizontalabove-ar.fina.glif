@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kafTwodotshorizontalabove-ar.fina" format="1">
-  <advance width="847"/>
-  <outline>
-    <component base="kaf-ar.fina"/>
-    <component base="twodotshorizontalabove-ar" xOffset="400" yOffset="-276"/>
-  </outline>
-</glyph>

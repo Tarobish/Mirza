@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehTwodotsabove-farsi" format="1">
-  <advance width="682"/>
-  <unicode hex="063E"/>
-  <outline>
-    <component base="alefMaksura-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="205" yOffset="-535"/>
-  </outline>
-</glyph>

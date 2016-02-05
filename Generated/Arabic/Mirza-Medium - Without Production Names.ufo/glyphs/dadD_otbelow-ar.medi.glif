@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dadDotbelow-ar.medi" format="1">
-  <advance width="695"/>
-  <outline>
-    <component base="dad-ar.medi"/>
-    <component base="dotbelow-ar" xOffset="316" yOffset="122"/>
-  </outline>
-</glyph>

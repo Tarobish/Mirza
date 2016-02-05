@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tahThreedots-ar.medi" format="1">
-  <advance width="563"/>
-  <outline>
-    <component base="tah-ar.medi"/>
-    <component base="threedotsupabove-ar" xOffset="309" yOffset="-301"/>
-  </outline>
-</glyph>

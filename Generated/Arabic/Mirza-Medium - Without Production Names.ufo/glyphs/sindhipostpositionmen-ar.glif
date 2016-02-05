@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sindhipostpositionmen-ar" format="1">
-  <advance width="602"/>
-  <unicode hex="06FE"/>
-  <outline>
-    <component base="uniFBBC" xOffset="410" yOffset="178"/>
-    <component base="meem-ar.alt"/>
-  </outline>
-</glyph>

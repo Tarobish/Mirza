@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gafThreedots-ar.init" format="1">
-  <advance width="284"/>
-  <outline>
-    <component base="gaf-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="92" yOffset="-98"/>
-  </outline>
-</glyph>

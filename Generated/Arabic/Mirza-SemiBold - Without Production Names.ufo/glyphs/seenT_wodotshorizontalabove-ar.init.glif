@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seenTwodotshorizontalabove-ar.init" format="1">
-  <advance width="544"/>
-  <outline>
-    <component base="seen-ar.init"/>
-    <component base="twodotsverticalabove-ar" xOffset="279" yOffset="-425"/>
-  </outline>
-</glyph>

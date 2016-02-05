@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehThreedotsabove-farsi.init" format="1">
-  <advance width="230"/>
-  <outline>
-    <component base="yeh-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="4" yOffset="-380"/>
-  </outline>
-</glyph>

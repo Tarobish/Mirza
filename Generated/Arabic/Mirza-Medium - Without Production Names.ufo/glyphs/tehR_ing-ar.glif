@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tehRing-ar" format="1">
-  <advance width="841"/>
-  <unicode hex="067C"/>
-  <outline>
-    <component base="dotlessbeh-ar"/>
-  </outline>
-</glyph>

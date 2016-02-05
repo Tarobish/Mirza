@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hahFourbelow-ar.medi" format="1">
-  <advance width="637"/>
-  <outline>
-    <component base="hah-ar.medi"/>
-    <component base="four-ar.below" xOffset="165" yOffset="158"/>
-  </outline>
-</glyph>

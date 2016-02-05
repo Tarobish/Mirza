@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="alefWasla-ar.fina" format="1">
-  <advance width="265"/>
-  <unicode hex="FB51"/>
-  <outline>
-    <component base="wasla-ar" xOffset="88" yOffset="-107"/>
-    <component base="alef-ar.fina.short" xOffset="-15"/>
-  </outline>
-</glyph>

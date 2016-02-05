@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rehRing-ar.fina" format="1">
-  <advance width="409"/>
-  <outline>
-    <component base="reh-ar.fina"/>
-    <component base="ring-ar" xOffset="201" yOffset="-15"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rehHamzaabove-ar" format="1">
-  <advance width="305"/>
-  <unicode hex="076C"/>
-  <outline>
-    <component base="reh-ar"/>
-    <component base="hamzaabove-ar" xOffset="135" yOffset="-447"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kehehDotabove-ar.init" format="1">
-  <advance width="307"/>
-  <outline>
-    <component base="keheh-ar.init"/>
-    <component base="dotabove-ar" xOffset="106" yOffset="-83"/>
-  </outline>
-</glyph>

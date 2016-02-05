@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="highhamzaYeh-ar.init" format="1">
-  <advance width="387"/>
-  <outline>
-    <component base="dotlessbeh-ar.init"/>
-    <component base="hamzaabove-ar" xOffset="254" yOffset="-340"/>
-  </outline>
-</glyph>
