@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/tehRing-ar"
+"/dotlessbeh-ar/tehRing-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -3635,7 +3635,7 @@ unicode = FE97;
 },
 {
 glyphname = "tehRing-ar";
-lastChange = "2016-02-05 18:44:01 +0000";
+lastChange = "2016-02-05 18:44:28 +0000";
 layers = (
 {
 components = (
@@ -3664,6 +3664,11 @@ name = "dotlessbeh-ar";
 {
 name = "twodotshorizontalabove-ar";
 transform = "{1, 0, 0, 1, 424, -458}";
+},
+{
+disableAlignment = 1;
+name = "ring-ar";
+transform = "{1, 0, 0, 1, 409, 229}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -34522,7 +34527,7 @@ unicode = 0620;
 },
 {
 glyphname = "yehKashmiri-ar.fina";
-lastChange = "2016-02-05 00:15:06 +0000";
+lastChange = "2016-02-05 18:44:14 +0000";
 layers = (
 {
 components = (
@@ -34550,7 +34555,7 @@ transform = "{1, 0, 0, 1, 326, -154}";
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 733;
+width = 753;
 }
 );
 },
