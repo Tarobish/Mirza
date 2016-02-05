@@ -283,7 +283,7 @@ sub uni06FF by uniFBAC uni065B;
 # ligature #15
 sub uni066E by uni066E.init;
 #sub uni0620 by uni0620.init;
-sub uni0620 by uni066E.init uniFBBE;
+sub uni0620 by uni066E.init uniFBBF;
 #sub uni063D by uni063D.init;
 sub uni063D by uni066E.init uni065B uniFBB5;
 #sub uni063E by uni063E.init;
@@ -1337,7 +1337,7 @@ feature ss01 {
         sub uni06C2.fina by uniFBA7 uni0654;
 } ss01;
 
-include(collisions.fea);
+include(specific.fea);
 
 include(arab.fea);
 

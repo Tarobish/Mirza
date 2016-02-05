@@ -11,7 +11,7 @@ mkdir _build;
 
 cp $arab _build/arab.otf;
 cp $latn _build/latn.otf;
-cp $sources/collisions.fea _build/collisions.fea;
+cp $sources/specific.fea _build/specific.fea;
 cp $sources/features.fea _build/features.fea;
 cp $sources/data.json _build/data.json;
 
