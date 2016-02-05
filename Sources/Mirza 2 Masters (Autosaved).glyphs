@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/tehRing-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -3632,7 +3635,7 @@ unicode = FE97;
 },
 {
 glyphname = "tehRing-ar";
-lastChange = "2016-02-05 18:43:15 +0000";
+lastChange = "2016-02-05 18:43:48 +0000";
 layers = (
 {
 components = (
@@ -3642,6 +3645,10 @@ name = "dotlessbeh-ar";
 {
 name = "twodotshorizontalabove-ar";
 transform = "{1, 0, 0, 1, 413, -465}";
+},
+{
+name = "ring-ar";
+transform = "{1, 0, 0, 1, 411, 120}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3652,6 +3659,10 @@ width = 832;
 components = (
 {
 name = "dotlessbeh-ar";
+},
+{
+name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, 424, -458}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
