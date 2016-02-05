@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/kashida-ar",
-/extender
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -82101,7 +82097,7 @@ subCategory = Spacing;
 },
 {
 glyphname = extender;
-lastChange = "2016-02-05 18:52:45 +0000";
+lastChange = "2016-02-05 18:52:54 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -82127,7 +82123,23 @@ width = 187;
 {
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"-11 139 LINE SMOOTH",
+"-54 139 OFFCURVE",
+"-80 103 OFFCURVE",
+"-80 69 CURVE SMOOTH",
+"-80 31 OFFCURVE",
+"-50 0 OFFCURVE",
+"-11 0 CURVE SMOOTH",
+"218 0 LINE",
+"218 139 LINE"
+);
+}
+);
+width = 218;
 }
 );
 }
