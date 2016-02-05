@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.below" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-70" y="-358"/>
+      <point x="-66" y="-369"/>
+      <point x="-58" y="-383" type="curve"/>
+      <point x="-48" y="-370"/>
+      <point x="-40" y="-359"/>
+      <point x="-35" y="-349" type="curve" smooth="yes"/>
+      <point x="-25" y="-335"/>
+      <point x="-18" y="-323"/>
+      <point x="-10" y="-306" type="curve" smooth="yes"/>
+      <point x="-6" y="-298"/>
+      <point x="-3" y="-289"/>
+      <point x="2" y="-277" type="curve"/>
+      <point x="4" y="-284"/>
+      <point x="8" y="-294"/>
+      <point x="13" y="-306" type="curve" smooth="yes"/>
+      <point x="17" y="-314"/>
+      <point x="22" y="-323"/>
+      <point x="27" y="-333" type="curve" smooth="yes"/>
+      <point x="36" y="-348"/>
+      <point x="48" y="-366"/>
+      <point x="62" y="-383" type="curve"/>
+      <point x="70" y="-371"/>
+      <point x="74" y="-361"/>
+      <point x="78" y="-347" type="curve"/>
+      <point x="54" y="-319"/>
+      <point x="33" y="-287"/>
+      <point x="22" y="-256" type="curve" smooth="yes"/>
+      <point x="17" y="-238"/>
+      <point x="14" y="-225"/>
+      <point x="13" y="-205" type="curve"/>
+      <point x="-7" y="-205" type="line"/>
+      <point x="-10" y="-224"/>
+      <point x="-12" y="-240"/>
+      <point x="-18" y="-258" type="curve" smooth="yes"/>
+      <point x="-30" y="-287"/>
+      <point x="-47" y="-317"/>
+      <point x="-74" y="-347" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-1" y="-179" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>
