@@ -39639,7 +39639,7 @@ unicode = 0640;
 },
 {
 glyphname = extender;
-lastChange = "2016-02-06 00:34:02 +0000";
+lastChange = "2016-02-06 00:34:18 +0000";
 layers = (
 {
 anchors = (
@@ -39673,6 +39673,16 @@ nodes = (
 width = 187;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{101, -29}";
+},
+{
+name = top;
+position = "{121, 159}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 name = Bold;
 paths = (
