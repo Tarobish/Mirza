@@ -42120,13 +42120,13 @@ width = 563;
 },
 {
 glyphname = "dotlessbeh_noonghunna-ar";
-lastChange = "2016-02-04 21:33:52 +0000";
+lastChange = "2016-02-06 00:37:37 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{541, -145}";
+position = "{551, -135}";
 },
 {
 name = bottom_2;
@@ -42222,7 +42222,7 @@ width = 777;
 anchors = (
 {
 name = bottom_1;
-position = "{588, -149}";
+position = "{607, -105}";
 },
 {
 name = bottom_2;
