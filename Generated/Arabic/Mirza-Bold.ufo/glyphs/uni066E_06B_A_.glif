@@ -70,7 +70,7 @@
       <point x="428" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="588" y="-149" type="move" name="bottom_1"/>
+      <point x="607" y="-105" type="move" name="bottom_1"/>
     </contour>
     <contour>
       <point x="613" y="331" type="move" name="top_1"/>
