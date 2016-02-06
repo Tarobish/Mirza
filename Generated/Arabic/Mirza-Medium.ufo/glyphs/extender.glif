@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="extender" format="1">
-  <advance width="197"/>
+  <advance width="99"/>
   <outline>
     <contour>
       <point x="-19" y="112" type="line" smooth="yes"/>
@@ -10,14 +10,14 @@
       <point x="-74" y="24"/>
       <point x="-50" y="0"/>
       <point x="-19" y="0" type="curve" smooth="yes"/>
-      <point x="197" y="0" type="line"/>
-      <point x="197" y="112" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="98" y="112" type="line"/>
     </contour>
     <contour>
-      <point x="84" y="142" type="move" name="top"/>
+      <point x="26" y="142" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="86" y="-26" type="move" name="bottom"/>
+      <point x="27" y="-26" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
