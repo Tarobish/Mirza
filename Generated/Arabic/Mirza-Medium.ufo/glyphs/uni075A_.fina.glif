@@ -3,7 +3,7 @@
   <advance width="520"/>
   <outline>
     <component base="uniFEAA"/>
-    <component base="circumflex.below" xOffset="186" yOffset="149"/>
+    <component base="circumflex.below" xOffset="183" yOffset="154"/>
     <contour>
       <point x="206" y="-252" type="move" name="bottom"/>
     </contour>

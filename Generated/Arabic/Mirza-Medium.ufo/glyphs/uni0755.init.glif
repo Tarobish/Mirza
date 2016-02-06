@@ -3,6 +3,6 @@
   <advance width="230"/>
   <outline>
     <component base="uni066E.init"/>
-    <component base="circumflex.below" xOffset="16" yOffset="153"/>
+    <component base="circumflex.below" xOffset="13" yOffset="158"/>
   </outline>
 </glyph>
