@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-/extender,
-"/seen-ar.medi/seenVinvertedabove-ar.medi"
+/circumflex.below
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -67113,13 +67112,17 @@ width = 0;
 },
 {
 glyphname = circumflex.below;
-lastChange = "2015-12-10 02:21:22 +0000";
+lastChange = "2016-02-06 00:35:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{0, -182}";
+position = "{2, -184}";
+},
+{
+name = bottom;
+position = "{2, -367}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
