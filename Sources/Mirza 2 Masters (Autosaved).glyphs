@@ -39633,17 +39633,17 @@ unicode = 0640;
 },
 {
 glyphname = extender;
-lastChange = "2016-02-06 18:29:00 +0000";
+lastChange = "2016-02-06 18:29:12 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{78, -25}";
+position = "{23, -25}";
 },
 {
 name = top;
-position = "{78, 128}";
+position = "{23, 128}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -39659,12 +39659,12 @@ nodes = (
 "-70 21 OFFCURVE",
 "-49 0 OFFCURVE",
 "-22 0 CURVE SMOOTH",
-"99 0 LINE",
-"99 98 LINE"
+"98 0 LINE",
+"98 98 LINE"
 );
 }
 );
-width = 187;
+width = 98;
 },
 {
 anchors = (
