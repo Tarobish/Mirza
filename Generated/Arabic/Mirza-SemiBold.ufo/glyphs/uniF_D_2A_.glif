@@ -96,7 +96,7 @@
       <point x="497" y="268" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="130" y="183" type="move" name="top_2"/>
+      <point x="130" y="196" type="move" name="top_2"/>
     </contour>
     <contour>
       <point x="27" y="-273" type="move" name="bottom_2"/>

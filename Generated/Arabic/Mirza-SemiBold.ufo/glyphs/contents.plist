@@ -1588,6 +1588,14 @@
 	<string>uni08A_7.init.glif</string>
 	<key>uni08A7.medi</key>
 	<string>uni08A_7.medi.glif</string>
+	<key>uni08A8</key>
+	<string>uni08A_8.glif</string>
+	<key>uni08A8.fina</key>
+	<string>uni08A_8.fina.glif</string>
+	<key>uni08A8.init</key>
+	<string>uni08A_8.init.glif</string>
+	<key>uni08A8.medi</key>
+	<string>uni08A_8.medi.glif</string>
 	<key>uni08A9</key>
 	<string>uni08A_9.glif</string>
 	<key>uni08A9.fina</key>
@@ -1838,6 +1846,10 @@
 	<string>uniF_B_E_6.glif</string>
 	<key>uniFBE7</key>
 	<string>uniF_B_E_7.glif</string>
+	<key>uniFBE8</key>
+	<string>uniF_B_E_8.glif</string>
+	<key>uniFBE9</key>
+	<string>uniF_B_E_9.glif</string>
 	<key>uniFBFD</key>
 	<string>uniF_B_F_D_.glif</string>
 	<key>uniFBFE</key>

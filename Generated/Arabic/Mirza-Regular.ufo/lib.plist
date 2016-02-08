@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>710E0971-3646-4311-9DE3-503681C25CEA</string>
+	<string>709FB66F-3CE3-48A2-83D0-A98A134C0478</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>1</integer>
 	<key>com.schriftgestaltung.weight</key>
@@ -107,6 +107,8 @@
 		<string>uniFB5B</string>
 		<string>uniFB5D</string>
 		<string>uniFB5C</string>
+		<string>uniFBE9</string>
+		<string>uniFBE8</string>
 		<string>uni062A</string>
 		<string>uniFE96</string>
 		<string>uniFE98</string>
@@ -623,6 +625,10 @@
 		<string>uni06CE.fina</string>
 		<string>uni06CE.init</string>
 		<string>uni06CE.medi</string>
+		<string>uni08A8</string>
+		<string>uni08A8.fina</string>
+		<string>uni08A8.init</string>
+		<string>uni08A8.medi</string>
 		<string>uni08A9</string>
 		<string>uni08A9.fina</string>
 		<string>uni08A9.init</string>
