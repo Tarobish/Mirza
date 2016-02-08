@@ -39825,7 +39825,7 @@ unicode = 0640;
 },
 {
 glyphname = extender;
-lastChange = "2016-02-08 19:38:30 +0000";
+lastChange = "2016-02-08 19:38:34 +0000";
 layers = (
 {
 anchors = (
@@ -39851,12 +39851,12 @@ nodes = (
 "-70 21 OFFCURVE",
 "-49 0 OFFCURVE",
 "-22 0 CURVE SMOOTH",
-"78 0 LINE",
-"78 98 LINE"
+"58 0 LINE",
+"58 98 LINE"
 );
 }
 );
-width = 78;
+width = 58;
 },
 {
 anchors = (
