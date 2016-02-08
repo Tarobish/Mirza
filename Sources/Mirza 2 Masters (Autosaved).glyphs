@@ -39825,17 +39825,17 @@ unicode = 0640;
 },
 {
 glyphname = extender;
-lastChange = "2016-02-08 19:38:19 +0000";
+lastChange = "2016-02-08 19:38:30 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{27, -25}";
+position = "{-143, -25}";
 },
 {
 name = top;
-position = "{27, 128}";
+position = "{-143, 128}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -39844,19 +39844,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"148 98 LINE SMOOTH",
-"127 98 OFFCURVE",
-"100 80 OFFCURVE",
-"100 49 CURVE SMOOTH",
-"100 21 OFFCURVE",
-"121 0 OFFCURVE",
-"148 0 CURVE SMOOTH",
-"248 0 LINE",
-"248 98 LINE"
+"-22 98 LINE SMOOTH",
+"-43 98 OFFCURVE",
+"-70 80 OFFCURVE",
+"-70 49 CURVE SMOOTH",
+"-70 21 OFFCURVE",
+"-49 0 OFFCURVE",
+"-22 0 CURVE SMOOTH",
+"78 0 LINE",
+"78 98 LINE"
 );
 }
 );
-width = 248;
+width = 78;
 },
 {
 anchors = (
