@@ -1263,6 +1263,12 @@ lookup rlig_ALL {
 	# ligature #50
 	sub [uniFEDB uniFB90] uniFEDE by uniFC3B;
 
+        # ligature #66
+	sub [uniFEDB uniFB90] [uniFE8E uniFE8E.short] by uni06A90627;
+
+        # ligature #67
+	sub  [uniFEDC uniFB91] [uniFE8E uniFE8E.short] by uni06A90627.fina;
+
         # lam-alef ligatures
         # isol
         sub uniFEDF @alefs by uniFEFB;
