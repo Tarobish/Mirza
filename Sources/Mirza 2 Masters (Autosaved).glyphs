@@ -39825,7 +39825,7 @@ unicode = 0640;
 },
 {
 glyphname = extender;
-lastChange = "2016-02-08 19:38:51 +0000";
+lastChange = "2016-02-08 19:39:54 +0000";
 layers = (
 {
 anchors = (
@@ -39862,11 +39862,11 @@ width = 58;
 anchors = (
 {
 name = bottom;
-position = "{28, -29}";
+position = "{60, -29}";
 },
 {
 name = top;
-position = "{24, 169}";
+position = "{56, 169}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
@@ -39882,12 +39882,12 @@ nodes = (
 "-80 31 OFFCURVE",
 "-50 0 OFFCURVE",
 "-11 0 CURVE SMOOTH",
-"100 0 LINE",
-"100 139 LINE"
+"80 0 LINE",
+"80 139 LINE"
 );
 }
 );
-width = 100;
+width = 80;
 }
 );
 script = arabic;
