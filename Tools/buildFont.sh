@@ -42,6 +42,8 @@ ft2fea -s arab \
         arab.otf > arab.fea;
 ft2fea -s latn -r "GPOS|GSUB feature *" -b "GPOS feature kern; GSUB feature aalt;"   latn.otf > latn.fea;
 
+$tools/generateFeaturesFromLookups.py arab.fea > arabMarkFeatures.fea
+
 
 $tools/kernFeatureWriter.py features.fea arab.ufo latn.ufo > kern.fea
 

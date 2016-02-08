@@ -702,7 +702,9 @@ sub uni0672 by uniFE8E.short wavyhamzaabovear;
 sub uni0673 by uniFE8E.short uni065F;
 
 sub uniFD3D by uniFD3C;
-sub uni0675 by uni0675.fina;
+# sub uni0675 by uni0675.fina;
+sub uni0675 by uniFE8E.short uni0654;
+
 sub uni066E by uni066E.fina;
 sub uni0628 by uniFE90;
 sub uni067E by uniFB57;
@@ -975,8 +977,11 @@ sub uniFC5D by uniFEF0 uni0670;
 sub uni06CD by uni06CD.fina;
 
 
-sub uni0773 by uni0773.fina;
-sub uni0774 by uni0774.fina;
+#sub uni0773 by uni0773.fina;
+sub uni0773 by uniFE8E.short uni0662.above;
+#sub uni0774 by uni0774.fina;
+sub uni0774 by uniFE8E.short uni0663.above;
+
 
 sub uni06D2 by uniFBAF;
 sub uni06D3 by uniFBB1;
@@ -1228,11 +1233,13 @@ lookup rlig_ARA_dlig_ALL {
 
 } rlig_ARA_dlig_ALL;
 
+
+@alefs = [ uni0627 uniFE8E uniFE8E.short ];
+
 lookup rlig_ALL {
 	lookupflag IgnoreMarks;
 
-# this is #55 and #54 uni064306440627.fina and uni064306440627
-
+        # this is #55 and #54 uni064306440627.fina and uni064306440627
 	# in fina: sub uni0627 by uniFE8E;
 	# in medi: sub uni0644 by uniFEE0;
 	# in init: sub uni0643 by uniFEDB;
@@ -1256,49 +1263,21 @@ lookup rlig_ALL {
 	# ligature #50
 	sub [uniFEDB uniFB90] uniFEDE by uniFC3B;
 
+        # ligature #66
+	sub [uniFEDB uniFB90] [uniFE8E uniFE8E.short] by uni06A90627;
 
+        # ligature #67
+	sub  [uniFEDC uniFB91] [uniFE8E uniFE8E.short] by uni06A90627.fina;
 
-	# TODO: the come from Glyphs and were not covered in the issues on Github
-	sub uniFEDF uniFE8E by uniFEFB;
-	sub uniFEE0 uniFE8E by uniFEFC;
-	sub uniFEDF uniFE84 by uniFEF7;
-	sub uniFEE0 uniFE84 by uniFEF8;
-	sub uniFEDF uniFE88 by uniFEF9;
-	sub uniFEE0 uniFE88 by uniFEFA;
-	sub uniFEE0 uni0672.fina by uni06440672.fina;
-	sub uniFEE0 uni0673.fina by uni06440673.fina;
-	sub uniFEDF uniFE82 by uniFEF5;
-	sub uniFEE0 uniFE82 by uniFEF6;
-	sub uniFEDF uniFB51 by uni06440671;
-	sub uniFEE0 uniFB51 by uni06440671.fina;
-
-	sub uni06B5.medi uniFE8E by uni06B50627.fina;
-	sub uni06B6.medi uniFE8E by uni06B60627.fina;
-	sub uni06B7.medi uniFE8E by uni06B70627.fina;
-	sub uni06B8.medi uniFE8E by uni06B80627.fina;
-	sub uni076A.medi uniFE8E by uni076A0627.fina;
+        # lam-alef ligatures
+        # isol
+        sub uniFEDF @alefs by uniFEFB;
+        # fina
+	sub uniFEE0 @alefs by uniFEFC;
+        # uni076A is a lam with bar
+        sub uni076A @alefs by uni076A0627.isol;
+        sub uni076A.medi @alefs by uni076A0627.fina;
 } rlig_ALL;
-
-lookup dlig_ALL {
-	lookupflag IgnoreMarks;
-	# TODO: the come from Glyphs and were not covered in the issues on Github
-	sub uniFEE0 uni0672.fina by uni06440672.fina;
-	sub uni0644 uni0672 by uni06440672.isol;
-	sub uniFEE0 uni0673.fina by uni06440673.fina;
-	sub uni0644 uni0673 by uni06440673.isol;
-
-	sub uni06B5.medi uniFE8E by uni06B50627.fina;
-	sub uni06B5 uni0627 by uni06B50627.isol;
-	sub uni06B6.medi uniFE8E by uni06B60627.fina;
-	sub uni06B6 uni0627 by uni06B60627.isol;
-	sub uni06B7.medi uniFE8E by uni06B70627.fina;
-	sub uni06B7 uni0627 by uni06B70627.isol;
-	sub uni06B8.medi uniFE8E by uni06B80627.fina;
-	sub uni06B8 uni0627 by uni06B80627.isol;
-
-	sub uni076A.medi uniFE8E by uni076A0627.fina;
-	sub uni076A uni0627 by uni076A0627.isol;
-} dlig_ALL;
 
 feature rlig {
 	# automatic
@@ -1319,7 +1298,6 @@ feature dlig {
 	script arab;
         language dflt;
 	lookup rlig_ARA_dlig_ALL;
-	lookup dlig_ALL;
         language URD;
         lookup rlig_ARA_dlig_ALL;
         language FAR;
@@ -1341,17 +1319,7 @@ feature ss01 {
 include(specific.fea);
 
 include(arab.fea);
-
-feature mark {
-      lookup markToBase_2arab;
-      lookup markToLigature_3arab;
-} mark;
-
-feature mkmk {
-      lookup markToMark_4arab;
-      lookup markToMark_5arab;
-      lookup markToMark_6arab;
-} mkmk;
+include(arabMarkFeatures.fea)
 
 include(latn.fea);
 include(kern.fea);
