@@ -1351,6 +1351,7 @@ feature mkmk {
       lookup markToMark_4arab;
       lookup markToMark_5arab;
       lookup markToMark_6arab;
+      lookup markToMark_7arab;
 } mkmk;
 
 include(latn.fea);
