@@ -1341,18 +1341,7 @@ feature ss01 {
 include(specific.fea);
 
 include(arab.fea);
-
-feature mark {
-      lookup markToBase_2arab;
-      lookup markToLigature_3arab;
-} mark;
-
-feature mkmk {
-      lookup markToMark_4arab;
-      lookup markToMark_5arab;
-      lookup markToMark_6arab;
-      lookup markToMark_7arab;
-} mkmk;
+include(arabMarkFeatures.fea)
 
 include(latn.fea);
 include(kern.fea);
