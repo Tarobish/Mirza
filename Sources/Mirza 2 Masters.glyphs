@@ -28433,6 +28433,61 @@ width = 698;
 unicode = FBA1;
 },
 {
+glyphname = "rnoon-ar.medi";
+layers = (
+{
+components = (
+{
+name = "tteh-ar.medi";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 301;
+},
+{
+components = (
+{
+name = "tteh-ar.medi";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 325;
+}
+);
+unicode = FBA3;
+},
+{
+glyphname = "rnoon-ar.init";
+lastChange = "2016-02-09 06:09:52 +0000";
+layers = (
+{
+components = (
+{
+name = "tteh-ar.init";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 223;
+},
+{
+components = (
+{
+name = "tteh-ar.init";
+}
+);
+layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
+name = Bold;
+width = 244;
+}
+);
+leftKerningGroup = BehInti;
+rightKerningGroup = BehInti;
+unicode = FBA2;
+},
+{
 glyphname = "noonRing-ar";
 lastChange = "2016-02-06 01:34:46 +0000";
 layers = (
