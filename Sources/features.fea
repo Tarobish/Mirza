@@ -487,7 +487,7 @@ sub uni0750 by uni0750.medi;
 # start of ligature #58
 sub uni062D by uniFEA4;
 #sub uni062C by uniFEA0;
-sub uni062C by uniFEA4 dotcenterar;
+sub uni062C by uniFEA4 uniFBB3;
 #sub uni0686 by uniFB7D;
 sub uni0686 by uniFEA4 uniFBB9;
 #sub uni0687 by uniFB81;
@@ -511,11 +511,11 @@ sub uni076E by uniFEA4 uniFBC1;
 #sub uni062E by uniFEA8;
 sub uni062E by uniFEA4 uniFBB2;
 #sub uni076F by uni076F.medi;
-sub uni076F by uniFEA4 uniFBB5 uniFBC1;
+sub uni076F by uniFEA4 TahSmallTwoDotsbelowar;
 # sub uni077C by uni077C.medi;
 sub uni077C by uniFEA4 uni0664.below;
 #sub uni08A2 by uni08A2.medi;
-sub uni08A2 by uniFEA4 dotcenterar;
+sub uni08A2 by uniFEA4 uniFBB4 uniFBB3;
 #sub uni0772 by uni0772.medi;
 sub uni0772 by uniFEA4 uni0615;
 
@@ -741,30 +741,28 @@ sub uni0756 by uni0756.fina;
 
 # start of ligature #59
 # sub uni0684 by uniFB73;
-sub uni0684 by uniFEA2 uniFBBE;
+sub uni0684 by uniFEA2 twodotsverticalcenterar;
 # sub uni0683 by uniFB77;
-sub uni0683 by uniFEA2 uniFBB5;
+sub uni0683 by uniFEA2 twodotshorizontalcenterar;
 # sub uni0686 by uniFB7B;
-sub uni0686 by uniFEA2 uniFBB9;
+sub uni0686 by uniFEA2 threedotsdowncenterar;
 # sub uni0687 by uniFB7F;
-sub uni0687 by uniFEA2 uniFBBB;
+sub uni0687 by uniFEA2 fourdotscenterar;
 # sub uni062C by uniFE9E;
 sub uni062C by uniFEA2 dotcenterar;
 sub uni062D by uniFEA2;
+#sub uni08A2 by uni08A2.fina;
+sub uni08A2 by uniFEA2 dotcenterar uniFBB4;
+
 sub uni0681 by uniFEA2 uni0654;
 sub uni0682 by uniFEA2 uniFBBD;
 sub uni0757 by uniFEA2 uniFBB4;
 sub uni0685 by uniFEA2 uniFBB6;
-sub uni0758 by uniFEA2 uniFBB7;
+sub uni0758 by uniFEA2 threedotsupcenterar;
 sub uni076E by uniFEA2 uni0615.alt;
-sub uni076F by uniFEA2 uniFBB5 uni0615.alt;
+sub uni076F by uniFEA2 TahSmallTwoDotscenterar;
 sub uni0772 by uniFEA2 uni0615;
-# FIXME: uni0664.below is missing (ARABIC-INDIC DIGIT FOUR BELOW)
-# TODO: maybe we should rather make this a blanco uni0664
-# and the make a uni0664.center in calt
 sub uni077C by uniFEA2 uni0664.center;
-#sub uni077C by uni077C.fina;
-sub uni08A2 by uniFEA2 uniFBB4 dotcenterar;
 # sub uni062E by uniFEA6;
 sub uni062E by uniFEA2 uniFBB2;
 
@@ -988,7 +986,6 @@ sub uniFC5D by uniFEF0 uni0670;
 sub uni06CD by uni06CD.fina;
 
 
-sub uni08A8 by uni08A8.fina;
 
 
 #sub uni0773 by uni0773.fina;
