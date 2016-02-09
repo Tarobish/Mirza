@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>0C5353E3-1B76-4263-8EE7-83AA8250A238</string>
+	<string>085CA55C-DF74-4A7E-A784-62167DB33A0E</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>1</integer>
 	<key>com.schriftgestaltung.weight</key>
@@ -545,6 +545,8 @@
 		<string>uniFB9F</string>
 		<string>uni06BB</string>
 		<string>uniFBA1</string>
+		<string>uniFBA3</string>
+		<string>uniFBA2</string>
 		<string>uni06BC</string>
 		<string>uni06BC.fina</string>
 		<string>uni06BC.init</string>
