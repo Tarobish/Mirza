@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dotlessbeh_reh-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -41631,7 +41628,7 @@ width = 980;
 },
 {
 glyphname = "dotlessbeh_reh-ar";
-lastChange = "2016-02-09 18:50:50 +0000";
+lastChange = "2016-02-09 18:51:29 +0000";
 layers = (
 {
 anchors = (
@@ -41720,7 +41717,7 @@ width = 509;
 anchors = (
 {
 name = bottom_1;
-position = "{412, -19}";
+position = "{423, -19}";
 },
 {
 name = bottom_2;
@@ -41732,11 +41729,11 @@ position = "{300, 0}";
 },
 {
 name = top_1;
-position = "{448, 374}";
+position = "{448, 439}";
 },
 {
 name = top_2;
-position = "{215, 484}";
+position = "{183, 350}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
