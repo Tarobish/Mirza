@@ -360,6 +360,9 @@ sub uni077A by uni066E.init uni0662.above;
 sub uni077B by uni066E.init uni0663.above;
 
 
+sub uni08A8 by uni08A8.init;
+
+
 sub uni06BE by uniFBAC;
 sub uni0678 by uni0678.init;
 
@@ -473,6 +476,7 @@ sub uni0646 by uni066E.medi uniFBB2;
 #sub uni064A by uniFEF4;
 sub uni064A by uni066E.medi uniFBB5;
 
+sub uni08A8 by uni08A8.medi;
 
 sub uni0750 by uni0750.medi;
 
@@ -979,6 +983,9 @@ sub uni06D1 by uniFEF0 uniFBB9;
 sub uniFC5D by uniFEF0 uni0670;
 # FIXME: Won't decompose! I'ts a uniFEF0 with a tail
 sub uni06CD by uni06CD.fina;
+
+
+sub uni08A8 by uni08A8.fina;
 
 
 #sub uni0773 by uni0773.fina;
