@@ -385,6 +385,8 @@ sub uni076A by uni076A.init;
 # sub uniFC3B by uniFCC7;
 # sub uniFC40 by uniFCCA;
 # sub uniFC42 by uniFCCC;
+
+sub uni0649 by uniFBE8;
 } init;
 
 
@@ -676,6 +678,8 @@ sub uni0768 by uni0768.medi;
 
 sub uni076A by uni076A.medi;
 # sub uniFC3B by uniFCEB;
+
+sub uni0649 by uniFBE9;
 } medi;
 
 
@@ -1011,6 +1015,8 @@ sub uni0770 by uni0770.fina;
 
 sub uni077D by uni077D.fina;
 sub uni077E by uni077E.fina;
+
+sub uni06D5 by uniFEEA;
 
 # when entered directly we need no fina replacement
 # sub uniFEFB by uniFEFC;
