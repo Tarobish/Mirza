@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0750.init" format="1">
+  <advance width="429"/>
+  <outline>
+    <component base="Longdotlessbeh-ar.init"/>
+    <component base="dots.horz.below-ar" xOffset="152" yOffset="139"/>
+  </outline>
+</glyph>

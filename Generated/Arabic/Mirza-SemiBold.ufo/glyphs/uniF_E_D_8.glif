@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFED8" format="1">
+  <advance width="430"/>
+  <unicode hex="FED8"/>
+  <outline>
+    <component base="uni06A1.medi"/>
+    <component base="uniFBB4" xOffset="193" yOffset="-313"/>
+  </outline>
+</glyph>

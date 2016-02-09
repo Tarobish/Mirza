@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06440671.fina" format="1">
+  <advance width="588"/>
+  <outline>
+    <component base="uniFEFC"/>
+    <component base="wasla-ar" xOffset="57" yOffset="-112"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alefWasla-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB51" format="1">
+  <advance width="255"/>
+  <unicode hex="FB51"/>
+  <outline>
+    <component base="wasla-ar" xOffset="81" yOffset="-136"/>
+    <component base="uniFE8E.short" xOffset="-16"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0607.pt" format="1">
+  <advance width="603"/>
+  <outline>
+    <contour>
+      <point x="274" y="189" type="line"/>
+      <point x="105" y="581" type="line"/>
+      <point x="50" y="581" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="465" y="331" type="line"/>
+      <point x="537" y="331" type="line"/>
+      <point x="553" y="386" type="line"/>
+      <point x="371" y="386" type="line"/>
+    </contour>
+  </outline>
+</glyph>
