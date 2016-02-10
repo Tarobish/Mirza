@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh_reh-ar.fina"
+"/reh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -41803,7 +41803,7 @@ width = 570;
 },
 {
 glyphname = "dotlessbeh_reh-ar.fina";
-lastChange = "2016-02-10 00:45:50 +0000";
+lastChange = "2016-02-10 00:46:12 +0000";
 layers = (
 {
 anchors = (
@@ -41821,7 +41821,7 @@ position = "{327, 0}";
 },
 {
 name = center;
-position = "{82, -43}";
+position = "{96, 22}";
 },
 {
 name = top_1;
