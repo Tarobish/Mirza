@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hah_meem_alefMaksura-ar"
+"/hah_meem-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -43446,7 +43446,7 @@ unicode = FC18;
 },
 {
 glyphname = "hah_meem-ar.init";
-lastChange = "2016-02-10 20:21:48 +0000";
+lastChange = "2016-02-10 20:23:28 +0000";
 layers = (
 {
 anchors = (
@@ -43497,9 +43497,9 @@ nodes = (
 "290 312 OFFCURVE",
 "326 293 CURVE",
 "276 291 OFFCURVE",
-"237 280 OFFCURVE",
-"196 249 CURVE SMOOTH",
-"164 225 OFFCURVE",
+"237 274 OFFCURVE",
+"196 243 CURVE SMOOTH",
+"164 219 OFFCURVE",
 "133 182 OFFCURVE",
 "102 140 CURVE SMOOTH",
 "87 121 OFFCURVE",
@@ -43628,9 +43628,9 @@ nodes = (
 "307 57 OFFCURVE",
 "308 98 CURVE SMOOTH",
 "308 127 OFFCURVE",
-"301 160 OFFCURVE",
-"266 190 CURVE",
-"292 228 OFFCURVE",
+"292 171 OFFCURVE",
+"257 201 CURVE",
+"283 234 OFFCURVE",
 "330 251 OFFCURVE",
 "373 255 CURVE SMOOTH",
 "425 260 OFFCURVE",
