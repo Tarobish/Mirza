@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06AF" format="1">
+  <advance width="797"/>
+  <unicode hex="06AF"/>
+  <outline>
+    <component base="uni06A9"/>
+    <component base="gafbar-ar" xOffset="609" yOffset="-227"/>
+  </outline>
+</glyph>

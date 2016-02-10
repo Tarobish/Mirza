@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="extender" format="1">
+  <advance width="80"/>
+  <outline>
+    <contour>
+      <point x="-11" y="139" type="line" smooth="yes"/>
+      <point x="-54" y="139"/>
+      <point x="-80" y="103"/>
+      <point x="-80" y="69" type="curve" smooth="yes"/>
+      <point x="-80" y="31"/>
+      <point x="-50" y="0"/>
+      <point x="-11" y="0" type="curve" smooth="yes"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="139" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="169" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="60" y="-29" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

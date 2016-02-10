@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaAlefabovear" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="uni0651" yOffset="-10"/>
+    <component base="uni0670" xOffset="-2" yOffset="159" xScale="0.939" yScale="0.939"/>
+  </outline>
+</glyph>

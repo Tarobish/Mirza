@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06F7.urdu.small" format="1">
+  <advance width="227"/>
+  <outline>
+    <component base="uni06F7.urdu" xOffset="-3" yOffset="200" xScale="0.533" yScale="0.533"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>seven-ar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>seven-ar</string>
+    </dict>
+  </lib>
+</glyph>
