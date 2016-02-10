@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seen_reh-ar"
+"/sad_reh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -44505,7 +44505,7 @@ unicode = FD1B;
 },
 {
 glyphname = "seen_reh-ar";
-lastChange = "2016-02-10 00:47:55 +0000";
+lastChange = "2016-02-10 00:47:58 +0000";
 layers = (
 {
 anchors = (
@@ -44642,6 +44642,10 @@ position = "{24, -274}";
 {
 name = caret_1;
 position = "{369.5, 0}";
+},
+{
+name = center;
+position = "{15, -19}";
 },
 {
 name = top_1;
@@ -46726,7 +46730,7 @@ unicode = FD0F;
 },
 {
 glyphname = "sad_reh-ar.fina";
-lastChange = "2016-02-10 00:46:59 +0000";
+lastChange = "2016-02-10 00:48:05 +0000";
 layers = (
 {
 anchors = (
@@ -46882,6 +46886,10 @@ position = "{29, -271}";
 {
 name = caret_1;
 position = "{428, 0}";
+},
+{
+name = center;
+position = "{4, -43}";
 },
 {
 name = top_1;
