@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hah_meem-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -43446,7 +43443,7 @@ unicode = FC18;
 },
 {
 glyphname = "hah_meem-ar.init";
-lastChange = "2016-02-10 20:23:28 +0000";
+lastChange = "2016-02-10 20:23:34 +0000";
 layers = (
 {
 anchors = (
@@ -43602,9 +43599,9 @@ nodes = (
 "282 331 OFFCURVE",
 "316 309 CURVE",
 "275 306 OFFCURVE",
-"241 293 OFFCURVE",
-"209 267 CURVE SMOOTH",
-"176 240 OFFCURVE",
+"235 286 OFFCURVE",
+"203 260 CURVE SMOOTH",
+"170 233 OFFCURVE",
 "154 216 OFFCURVE",
 "126 187 CURVE",
 "102 164 OFFCURVE",
