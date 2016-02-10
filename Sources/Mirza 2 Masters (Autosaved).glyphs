@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/seen_reh-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -44497,7 +44494,7 @@ unicode = FD1B;
 },
 {
 glyphname = "seen_reh-ar";
-lastChange = "2016-02-08 16:15:10 +0000";
+lastChange = "2016-02-10 00:46:53 +0000";
 layers = (
 {
 anchors = (
@@ -44512,6 +44509,10 @@ position = "{36, -278}";
 {
 name = caret_1;
 position = "{410, 0}";
+},
+{
+name = center;
+position = "{87, -62}";
 },
 {
 name = top_1;
@@ -44742,7 +44743,7 @@ unicode = FD0E;
 },
 {
 glyphname = "seen_reh-ar.fina";
-lastChange = "2016-02-10 00:46:45 +0000";
+lastChange = "2016-02-10 00:46:49 +0000";
 layers = (
 {
 anchors = (
