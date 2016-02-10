@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/reh-ar.fina",
-"/dotlessbeh_reh-ar"
+"/seen_reh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -41808,7 +41807,7 @@ width = 570;
 },
 {
 glyphname = "dotlessbeh_reh-ar.fina";
-lastChange = "2016-02-10 00:46:12 +0000";
+lastChange = "2016-02-10 00:46:41 +0000";
 layers = (
 {
 anchors = (
@@ -41826,7 +41825,7 @@ position = "{327, 0}";
 },
 {
 name = center;
-position = "{96, 22}";
+position = "{87, 22}";
 },
 {
 name = top_1;
@@ -44743,7 +44742,7 @@ unicode = FD0E;
 },
 {
 glyphname = "seen_reh-ar.fina";
-lastChange = "2016-02-08 16:15:18 +0000";
+lastChange = "2016-02-10 00:46:45 +0000";
 layers = (
 {
 anchors = (
@@ -44758,6 +44757,10 @@ position = "{43, -278}";
 {
 name = caret_1;
 position = "{418, 0}";
+},
+{
+name = center;
+position = "{87, -62}";
 },
 {
 name = top_1;
