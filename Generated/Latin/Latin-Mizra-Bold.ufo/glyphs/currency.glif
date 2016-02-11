@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency" format="1">
+  <advance width="571"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="480" y="399"/>
+      <point x="513" y="430"/>
+      <point x="538" y="452" type="curve"/>
+      <point x="522" y="482"/>
+      <point x="507" y="498"/>
+      <point x="474" y="516" type="curve"/>
+      <point x="461" y="497"/>
+      <point x="433" y="464"/>
+      <point x="389" y="416" type="curve"/>
+      <point x="442" y="363" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="30"/>
+      <point x="137" y="62"/>
+      <point x="178" y="106" type="curve"/>
+      <point x="124" y="160" type="line"/>
+      <point x="88" y="126"/>
+      <point x="56" y="97"/>
+      <point x="32" y="76" type="curve"/>
+      <point x="48" y="49"/>
+      <point x="67" y="25"/>
+      <point x="98" y="10" type="curve"/>
+    </contour>
+    <contour>
+      <point x="501" y="26"/>
+      <point x="523" y="44"/>
+      <point x="538" y="76" type="curve"/>
+      <point x="519" y="87"/>
+      <point x="487" y="115"/>
+      <point x="442" y="157" type="curve"/>
+      <point x="388" y="103" type="line"/>
+      <point x="423" y="67"/>
+      <point x="452" y="34"/>
+      <point x="473" y="10" type="curve"/>
+    </contour>
+    <contour>
+      <point x="185" y="421" type="line"/>
+      <point x="149" y="458"/>
+      <point x="118" y="491"/>
+      <point x="96" y="516" type="curve"/>
+      <point x="67" y="500"/>
+      <point x="49" y="484"/>
+      <point x="32" y="452" type="curve"/>
+      <point x="51" y="439"/>
+      <point x="84" y="411"/>
+      <point x="131" y="367" type="curve"/>
+    </contour>
+    <component base="o" xOffset="35" yOffset="61"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="1">
+  <advance width="508"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="466" y="215" type="line"/>
+      <point x="466" y="367"/>
+      <point x="337" y="500"/>
+      <point x="157" y="613" type="curve"/>
+      <point x="125" y="573" type="line"/>
+      <point x="311" y="425"/>
+      <point x="366" y="293"/>
+      <point x="366" y="177" type="curve"/>
+    </contour>
+    <component base="o"/>
+    <component base="uni0337" xOffset="76" yOffset="309" xScale="0.85" yScale="0.85"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=o+10</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
