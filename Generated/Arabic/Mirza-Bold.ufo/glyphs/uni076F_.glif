@@ -4,6 +4,21 @@
   <unicode hex="076F"/>
   <outline>
     <component base="uni062D"/>
-    <component base="TahSmallTwoDotscenter-ar" xOffset="364" yOffset="-325"/>
+    <component base="TahSmallTwoDotscenterar" xOffset="364" yOffset="-325"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>TahSmallTwoDotscenterar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

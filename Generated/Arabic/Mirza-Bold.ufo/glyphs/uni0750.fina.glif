@@ -3,6 +3,6 @@
   <advance width="924"/>
   <outline>
     <component base="uni066E.fina"/>
-    <component base="dots.horz.below-ar" xOffset="411" yOffset="100"/>
+    <component base="dots.horz.belowar" xOffset="411" yOffset="100"/>
   </outline>
 </glyph>

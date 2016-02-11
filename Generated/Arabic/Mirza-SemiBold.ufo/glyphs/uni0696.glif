@@ -5,6 +5,21 @@
   <outline>
     <component base="uni0631" xOffset="53"/>
     <component base="uniFBB3" xOffset="117" yOffset="-105"/>
-    <component base="dotcenter-ar" xOffset="134" yOffset="-135"/>
+    <component base="dotcenterar" xOffset="135" yOffset="-135"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni0631</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

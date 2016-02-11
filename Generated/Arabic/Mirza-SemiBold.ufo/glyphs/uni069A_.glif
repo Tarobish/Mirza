@@ -4,7 +4,22 @@
   <unicode hex="069A"/>
   <outline>
     <component base="uni0633"/>
-    <component base="uniFBB2" xOffset="651" yOffset="-385"/>
-    <component base="dotcenter-ar" xOffset="667" yOffset="-279"/>
+    <component base="uniFBB2" xOffset="650" yOffset="-385"/>
+    <component base="dotcenterar" xOffset="667" yOffset="-279"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni0633</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

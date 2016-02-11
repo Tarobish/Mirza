@@ -3,7 +3,7 @@
   <advance width="588"/>
   <outline>
     <component base="uniFEFC"/>
-    <component base="wavyhamzaabove-ar" xOffset="57" yOffset="-103"/>
+    <component base="wavyhamzaabovear" xOffset="57" yOffset="-103"/>
   </outline>
   <lib>
     <dict>

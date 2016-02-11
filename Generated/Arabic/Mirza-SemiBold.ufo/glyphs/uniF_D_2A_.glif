@@ -99,10 +99,10 @@
       <point x="27" y="-273" type="move" name="bottom_2"/>
     </contour>
     <contour>
-      <point x="130" y="196" type="move" name="top_2"/>
+      <point x="39" y="-33" type="move" name="center_2"/>
     </contour>
     <contour>
-      <point x="39" y="-33" type="move" name="center"/>
+      <point x="130" y="196" type="move" name="top_2"/>
     </contour>
   </outline>
 </glyph>

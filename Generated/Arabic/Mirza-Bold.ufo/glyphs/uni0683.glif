@@ -4,6 +4,21 @@
   <unicode hex="0683"/>
   <outline>
     <component base="uni062D"/>
-    <component base="twodotshorizontalcenter-ar" xOffset="341" yOffset="-216"/>
+    <component base="twodotshorizontalcenterar" xOffset="341" yOffset="-216"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodotshorizontalcenterar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

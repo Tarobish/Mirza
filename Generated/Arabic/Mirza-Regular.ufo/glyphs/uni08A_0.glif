@@ -4,7 +4,7 @@
   <unicode hex="08A0"/>
   <outline>
     <component base="uni066E"/>
-    <component base="vbelow-ar" xOffset="410" yOffset="134"/>
+    <component base="vbelowar" xOffset="410" yOffset="134"/>
     <contour>
       <point x="411" y="-259" type="move" name="bottom"/>
     </contour>

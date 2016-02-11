@@ -3,7 +3,22 @@
   <advance width="462"/>
   <outline>
     <component base="uniFEAE" xOffset="53"/>
-    <component base="uniFBB3" xOffset="112" yOffset="-170"/>
-    <component base="dotcenter-ar" xOffset="136" yOffset="-193"/>
+    <component base="uniFBB3" xOffset="112" yOffset="-171"/>
+    <component base="dotcenterar" xOffset="136" yOffset="-193"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uniFEAE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

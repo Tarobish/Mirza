@@ -3,6 +3,6 @@
   <advance width="657"/>
   <outline>
     <component base="uniFB9F"/>
-    <component base="VaDotbelow-ar" xOffset="314" yOffset="-724"/>
+    <component base="VaDotbelowar" xOffset="314" yOffset="-724"/>
   </outline>
 </glyph>

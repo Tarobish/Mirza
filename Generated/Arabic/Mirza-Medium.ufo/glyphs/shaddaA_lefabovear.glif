@@ -5,4 +5,19 @@
     <component base="uni0651" yOffset="-19"/>
     <component base="uni0670" xOffset="1" yOffset="128" xScale="0.97" yScale="0.97"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0670</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

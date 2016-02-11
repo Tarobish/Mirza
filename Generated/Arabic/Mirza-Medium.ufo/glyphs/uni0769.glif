@@ -4,6 +4,6 @@
   <unicode hex="0769"/>
   <outline>
     <component base="uni06BA"/>
-    <component base="VaDotbelow-ar" xOffset="300" yOffset="-624"/>
+    <component base="VaDotbelowar" xOffset="300" yOffset="-624"/>
   </outline>
 </glyph>

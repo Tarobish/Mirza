@@ -5,4 +5,19 @@
     <component base="uniFEF3"/>
     <component base="uniFBB6" xOffset="16" yOffset="-362"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uniFEF3</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

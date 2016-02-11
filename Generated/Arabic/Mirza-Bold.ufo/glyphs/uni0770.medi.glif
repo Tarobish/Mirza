@@ -3,6 +3,6 @@
   <advance width="563"/>
   <outline>
     <component base="uniFEB4"/>
-    <component base="TahSmallTwoDotsabove-ar" xOffset="287" yOffset="-317"/>
+    <component base="TahSmallTwoDotsabovear" xOffset="287" yOffset="-317"/>
   </outline>
 </glyph>

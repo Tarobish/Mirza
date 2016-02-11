@@ -4,6 +4,21 @@
   <unicode hex="FB77"/>
   <outline>
     <component base="uniFEA2"/>
-    <component base="twodotshorizontalcenter-ar" xOffset="334" yOffset="-241"/>
+    <component base="twodotshorizontalcenterar" xOffset="334" yOffset="-241"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodotshorizontalcenterar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

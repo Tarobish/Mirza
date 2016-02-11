@@ -3,6 +3,6 @@
   <advance width="375"/>
   <outline>
     <component base="uniFEAE"/>
-    <component base="vbelow-ar" xOffset="35" yOffset="-129"/>
+    <component base="vbelowar" xOffset="35" yOffset="-129"/>
   </outline>
 </glyph>

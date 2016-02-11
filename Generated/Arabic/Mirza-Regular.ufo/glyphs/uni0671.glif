@@ -4,6 +4,21 @@
   <unicode hex="0671"/>
   <outline>
     <component base="uni0627.short"/>
-    <component base="wasla-ar" xOffset="80" yOffset="-165"/>
+    <component base="waslaar" xOffset="80" yOffset="-165"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>waslaar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -4,6 +4,21 @@
   <unicode hex="FB7B"/>
   <outline>
     <component base="uniFEA2"/>
-    <component base="threedotsdowncenter-ar" xOffset="317" yOffset="-361"/>
+    <component base="threedotsdowncenterar" xOffset="317" yOffset="-361"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsdowncenterar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

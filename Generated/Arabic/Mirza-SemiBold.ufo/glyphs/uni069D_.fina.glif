@@ -3,6 +3,6 @@
   <advance width="1098"/>
   <outline>
     <component base="uniFEBA"/>
-    <component base="twodotshorizontalcenter-ar" xOffset="717" yOffset="-330"/>
+    <component base="twodotshorizontalcenterar" xOffset="717" yOffset="-330"/>
   </outline>
 </glyph>

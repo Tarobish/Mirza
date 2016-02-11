@@ -4,6 +4,21 @@
   <unicode hex="08AB"/>
   <outline>
     <component base="uni0648" xOffset="30"/>
-    <component base="dotcenter-ar" xOffset="132" yOffset="-191"/>
+    <component base="dotcenterar" xOffset="132" yOffset="-191"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni0648</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

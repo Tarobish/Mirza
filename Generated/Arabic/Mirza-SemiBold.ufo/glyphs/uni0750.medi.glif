@@ -2,7 +2,7 @@
 <glyph name="uni0750.medi" format="1">
   <advance width="523"/>
   <outline>
-    <component base="Longdotlessbeh-ar.medi"/>
-    <component base="dots.horz.below-ar" xOffset="174" yOffset="130"/>
+    <component base="Longdotlessbehar.medi"/>
+    <component base="dots.horz.belowar" xOffset="174" yOffset="130"/>
   </outline>
 </glyph>

@@ -97,10 +97,10 @@
       <point x="513" y="271" type="curve"/>
     </contour>
     <contour>
-      <point x="283" y="6" type="move" name="caret_1"/>
+      <point x="292" y="6" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="508" y="139" type="move" name="bottom_1"/>
+      <point x="508" y="159" type="move" name="bottom_1"/>
     </contour>
     <contour>
       <point x="380" y="539" type="move" name="top_1"/>
@@ -109,10 +109,10 @@
       <point x="294" y="-341" type="move" name="bottom_2"/>
     </contour>
     <contour>
-      <point x="149" y="410" type="move" name="top_2"/>
+      <point x="288" y="33" type="move" name="center_2"/>
     </contour>
     <contour>
-      <point x="301" y="-9" type="move" name="center"/>
+      <point x="149" y="410" type="move" name="top_2"/>
     </contour>
   </outline>
 </glyph>

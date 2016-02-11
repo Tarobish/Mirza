@@ -4,6 +4,21 @@
   <outline>
     <component base="uniFEAE" xOffset="80"/>
     <component base="uniFBB3" xOffset="152" yOffset="-182"/>
-    <component base="dotcenter-ar" xOffset="165" yOffset="-190"/>
+    <component base="dotcenterar" xOffset="165" yOffset="-190"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uniFEAE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

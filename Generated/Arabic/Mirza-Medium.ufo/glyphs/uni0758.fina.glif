@@ -3,6 +3,21 @@
   <advance width="667"/>
   <outline>
     <component base="uniFEA2"/>
-    <component base="threedotsupcenter-ar" xOffset="327" yOffset="-319"/>
+    <component base="threedotsupcenterar" xOffset="327" yOffset="-319"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsupcenterar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

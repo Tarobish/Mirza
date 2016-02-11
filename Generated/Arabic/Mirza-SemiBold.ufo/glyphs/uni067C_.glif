@@ -7,4 +7,19 @@
     <component base="uniFBB4" xOffset="420" yOffset="-461"/>
     <component base="uniFBBF" xOffset="410" yOffset="221"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uniFBBF</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

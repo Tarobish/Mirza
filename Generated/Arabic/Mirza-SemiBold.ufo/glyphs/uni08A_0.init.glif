@@ -3,7 +3,7 @@
   <advance width="237"/>
   <outline>
     <component base="uni066E.init"/>
-    <component base="vbelow-ar" xOffset="17" yOffset="153"/>
+    <component base="vbelowar" xOffset="17" yOffset="153"/>
     <contour>
       <point x="19" y="-257" type="move" name="bottom"/>
     </contour>

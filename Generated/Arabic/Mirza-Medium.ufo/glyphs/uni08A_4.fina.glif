@@ -4,6 +4,6 @@
   <outline>
     <component base="uni06A1.fina"/>
     <component base="uniFBB6" xOffset="735" yOffset="-314"/>
-    <component base="dotcenter-ar" xOffset="689" yOffset="-266"/>
+    <component base="dotcenterar" xOffset="689" yOffset="-266"/>
   </outline>
 </glyph>

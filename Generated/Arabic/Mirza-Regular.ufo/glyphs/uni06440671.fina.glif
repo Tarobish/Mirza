@@ -3,7 +3,7 @@
   <advance width="559"/>
   <outline>
     <component base="uniFEFC"/>
-    <component base="wasla-ar" xOffset="34" yOffset="-133"/>
+    <component base="waslaar" xOffset="34" yOffset="-133"/>
   </outline>
   <lib>
     <dict>

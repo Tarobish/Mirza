@@ -5,4 +5,19 @@
     <component base="uniFEA2"/>
     <component base="uni0664.center" xOffset="318" yOffset="-332"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0664.center</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>
