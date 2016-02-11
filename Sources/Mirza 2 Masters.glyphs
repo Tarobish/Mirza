@@ -1,5 +1,8 @@
 {
 .appVersion = "846";
+DisplayStrings = (
+"/meembelow-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -78592,9 +78595,19 @@ unicode = 08E5;
 },
 {
 glyphname = "kasraCurly-ar";
-lastChange = "2016-02-06 01:34:46 +0000";
+lastChange = "2016-02-11 22:17:00 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{-1, -180}";
+},
+{
+name = bottom;
+position = "{-1, -374}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 paths = (
 {
@@ -78638,6 +78651,16 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{-1, -180}";
+},
+{
+name = bottom;
+position = "{-1, -392}";
+}
+);
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
 paths = (
 {
