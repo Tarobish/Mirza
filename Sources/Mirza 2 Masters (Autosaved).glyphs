@@ -1,8 +1,5 @@
 {
 .appVersion = "846";
-DisplayStrings = (
-"/lam_hah-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -55211,7 +55208,7 @@ width = 582;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2016-02-11 01:48:21 +0000";
+lastChange = "2016-02-11 01:48:38 +0000";
 layers = (
 {
 anchors = (
@@ -55349,8 +55346,8 @@ name = caret_1;
 position = "{273, 0}";
 },
 {
-name = center;
-position = "{357, 0}";
+name = center_2;
+position = "{357, 11}";
 },
 {
 name = top_1;
