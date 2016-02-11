@@ -1,7 +1,7 @@
 {
 .appVersion = "846";
 DisplayStrings = (
-"/dotlessbeh_hah-ar"
+"/seen_reh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -41709,7 +41709,7 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2016-02-11 00:45:13 +0000";
+lastChange = "2016-02-11 00:45:35 +0000";
 layers = (
 {
 anchors = (
@@ -41844,7 +41844,7 @@ width = 579;
 anchors = (
 {
 name = bottom_1;
-position = "{523, 139}";
+position = "{523, 169}";
 },
 {
 name = bottom_2;
@@ -41856,7 +41856,7 @@ position = "{287.5, 0}";
 },
 {
 name = center_2;
-position = "{281, 28}";
+position = "{294, 42}";
 },
 {
 name = top_1;
