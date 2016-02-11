@@ -1,8 +1,5 @@
 {
 .appVersion = "846";
-DisplayStrings = (
-"/dotlessbeh_reh-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -41709,7 +41706,7 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2016-02-06 01:34:46 +0000";
+lastChange = "2016-02-11 00:44:29 +0000";
 layers = (
 {
 anchors = (
@@ -41726,8 +41723,8 @@ name = caret_1;
 position = "{275, 17}";
 },
 {
-name = center;
-position = "{314, -15}";
+name = center_2;
+position = "{261, -22}";
 },
 {
 name = top_1;
@@ -41855,8 +41852,8 @@ name = caret_1;
 position = "{287.5, 0}";
 },
 {
-name = center;
-position = "{295, -6}";
+name = center_2;
+position = "{295, -19}";
 },
 {
 name = top_1;
@@ -42487,7 +42484,7 @@ width = 980;
 },
 {
 glyphname = "dotlessbeh_reh-ar";
-lastChange = "2016-02-10 00:47:42 +0000";
+lastChange = "2016-02-11 00:44:02 +0000";
 layers = (
 {
 anchors = (
@@ -42504,7 +42501,7 @@ name = caret_1;
 position = "{285, 0}";
 },
 {
-name = center;
+name = center_2;
 position = "{83, -52}";
 },
 {
@@ -42590,7 +42587,7 @@ name = caret_1;
 position = "{300, 0}";
 },
 {
-name = center;
+name = center_2;
 position = "{60, 19}";
 },
 {
