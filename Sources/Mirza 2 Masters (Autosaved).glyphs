@@ -1,5 +1,8 @@
 {
 .appVersion = "846";
+DisplayStrings = (
+"/seen_reh-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -45583,7 +45586,7 @@ unicode = FD0E;
 },
 {
 glyphname = "seen_reh-ar.fina";
-lastChange = "2016-02-10 00:47:49 +0000";
+lastChange = "2016-02-11 00:44:46 +0000";
 layers = (
 {
 anchors = (
@@ -45718,7 +45721,7 @@ name = caret_1;
 position = "{377, 0}";
 },
 {
-name = center;
+name = center_2;
 position = "{15, -19}";
 },
 {
