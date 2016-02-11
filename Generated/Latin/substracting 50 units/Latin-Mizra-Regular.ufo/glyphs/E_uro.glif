@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="510"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="342" y="-11"/>
+      <point x="417" y="25"/>
+      <point x="458" y="78" type="curve"/>
+      <point x="450" y="109" type="line"/>
+      <point x="412" y="85"/>
+      <point x="358" y="72"/>
+      <point x="301" y="72" type="curve" smooth="yes"/>
+      <point x="215" y="72"/>
+      <point x="155" y="130"/>
+      <point x="155" y="269" type="curve" smooth="yes"/>
+      <point x="155" y="366"/>
+      <point x="205" y="462"/>
+      <point x="265" y="479" type="curve"/>
+      <point x="299" y="479"/>
+      <point x="365" y="448"/>
+      <point x="415" y="408" type="curve"/>
+      <point x="431" y="431"/>
+      <point x="445" y="478"/>
+      <point x="445" y="509" type="curve"/>
+      <point x="408" y="525"/>
+      <point x="362" y="533"/>
+      <point x="309" y="533" type="curve" smooth="yes"/>
+      <point x="160" y="533"/>
+      <point x="56" y="413"/>
+      <point x="56" y="241" type="curve" smooth="yes"/>
+      <point x="56" y="79"/>
+      <point x="133" y="-11"/>
+      <point x="271" y="-11" type="curve" smooth="yes"/>
+    </contour>
+    <component base="uni0335" xOffset="-45" yOffset="64"/>
+    <component base="uni0335" xOffset="-50" yOffset="-66"/>
+    <contour>
+      <point x="267" y="527" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="249" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2219" format="1">
+  <advance width="350"/>
+  <unicode hex="2219"/>
+  <outline>
+    <contour>
+      <point x="227" y="168"/>
+      <point x="272" y="213"/>
+      <point x="315" y="265" type="curve"/>
+      <point x="262" y="308"/>
+      <point x="218" y="352"/>
+      <point x="175" y="405" type="curve"/>
+      <point x="122" y="362"/>
+      <point x="78" y="318"/>
+      <point x="35" y="265" type="curve"/>
+      <point x="88" y="222"/>
+      <point x="132" y="178"/>
+      <point x="175" y="125" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=period+10</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=period+10</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
