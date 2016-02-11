@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFD3D" format="1">
+  <advance width="202"/>
+  <unicode hex="FD3D"/>
+  <outline>
+    <component base="uni0627.short"/>
+    <component base="uni064B" xOffset="103" yOffset="-110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni064B</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

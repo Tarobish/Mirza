@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni077C" format="1">
+  <advance width="578"/>
+  <unicode hex="077C"/>
+  <outline>
+    <component base="uni062D"/>
+    <component base="uni0664.center" xOffset="331" yOffset="-368"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0664.center</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

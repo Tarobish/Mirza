@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni067C.fina" format="1">
+  <advance width="914"/>
+  <outline>
+    <component base="uni066E.fina"/>
+    <component base="uniFBBF" xOffset="412" yOffset="222"/>
+    <component base="uniFBB4" xOffset="421" yOffset="-464"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uniFBBF</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

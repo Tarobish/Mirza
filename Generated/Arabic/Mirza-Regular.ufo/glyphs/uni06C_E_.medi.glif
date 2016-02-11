@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06CE.medi" format="1">
+  <advance width="301"/>
+  <outline>
+    <component base="uni066E.medi"/>
+    <component base="uni065A" xOffset="1" yOffset="-492"/>
+    <component base="uniFBB5" xOffset="19" yOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni065A</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
