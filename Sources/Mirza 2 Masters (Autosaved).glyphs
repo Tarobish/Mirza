@@ -1,7 +1,7 @@
 {
 .appVersion = "846";
 DisplayStrings = (
-"/seen_reh-ar.fina"
+"/seen_reh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -45335,7 +45335,7 @@ unicode = FD1B;
 },
 {
 glyphname = "seen_reh-ar";
-lastChange = "2016-02-10 00:47:58 +0000";
+lastChange = "2016-02-11 00:45:48 +0000";
 layers = (
 {
 anchors = (
@@ -45352,7 +45352,7 @@ name = caret_1;
 position = "{410, 0}";
 },
 {
-name = center;
+name = center_2;
 position = "{87, -62}";
 },
 {
@@ -45586,7 +45586,7 @@ unicode = FD0E;
 },
 {
 glyphname = "seen_reh-ar.fina";
-lastChange = "2016-02-11 00:44:46 +0000";
+lastChange = "2016-02-11 00:45:43 +0000";
 layers = (
 {
 anchors = (
@@ -45603,7 +45603,7 @@ name = caret_1;
 position = "{418, 0}";
 },
 {
-name = center;
+name = center_2;
 position = "{87, -62}";
 },
 {
