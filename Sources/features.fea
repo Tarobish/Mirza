@@ -1321,12 +1321,19 @@ feature dlig {
 
 feature ss01 {
         # issue #66 special char #01
-        sub uni06AA.medi by uniFB95.001;
-        sub uni06AA.init by uniFB94.001;
-        sub uni06AA.fina by uniFB93.001;
-        sub uni06AA by uni06AF.001;
+        sub uniFB91 gafbarar by uniFB95.001;
+        sub uniFB90 gafbarar by uniFB94.001;
+        sub uniFB8F gafbarar by uniFB93.001;
+        sub uni06AF by uni06AF.001;
+
+        sub uniFB90 by uni06AA.init;
+        sub uniFB91 by uni06AA.medi;
+        sub uniFB8F by uni06AA.fina;
+        sub uni06A9 by uni06AA;
+
         # issue #67 special char #02
         sub uni06C2.fina by uniFBA7 uni0654;
+        sub uniFEEA by uniFBA7;
 } ss01;
 
 include(specific.fea);
