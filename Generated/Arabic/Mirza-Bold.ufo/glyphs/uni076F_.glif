@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni076F" format="1">
+  <advance width="611"/>
+  <unicode hex="076F"/>
+  <outline>
+    <component base="uni062D"/>
+    <component base="TahSmallTwoDotscenterar" xOffset="364" yOffset="-325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>TahSmallTwoDotscenterar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

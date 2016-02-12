@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni08A0" format="1">
+  <advance width="850"/>
+  <unicode hex="08A0"/>
+  <outline>
+    <component base="uni066E"/>
+    <component base="vbelowar" xOffset="409" yOffset="140"/>
+    <contour>
+      <point x="409" y="-277" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

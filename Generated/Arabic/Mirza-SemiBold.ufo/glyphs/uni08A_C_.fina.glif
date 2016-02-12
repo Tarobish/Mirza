@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni08AC.fina" format="1">
+  <advance width="678"/>
+  <outline>
+    <component base="uni08AC.pt.fina"/>
+    <component base="uniFBB5" xOffset="380" yOffset="112"/>
+  </outline>
+</glyph>

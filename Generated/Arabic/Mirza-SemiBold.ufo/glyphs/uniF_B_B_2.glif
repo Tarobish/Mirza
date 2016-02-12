@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBB2" format="1">
+  <advance width="0"/>
+  <unicode hex="FBB2"/>
+  <outline>
+    <contour>
+      <point x="-14" y="776"/>
+      <point x="-45" y="743"/>
+      <point x="-63" y="728" type="curve"/>
+      <point x="-37" y="709"/>
+      <point x="-15" y="686"/>
+      <point x="2" y="665" type="curve"/>
+      <point x="25" y="683"/>
+      <point x="52" y="712"/>
+      <point x="62" y="725" type="curve"/>
+      <point x="50" y="747"/>
+      <point x="25" y="774"/>
+      <point x="-2" y="789" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="793" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="0" y="642" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

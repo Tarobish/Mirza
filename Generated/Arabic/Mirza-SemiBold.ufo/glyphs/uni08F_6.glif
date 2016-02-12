@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni08F6" format="1">
+  <advance width="0"/>
+  <unicode hex="08F6"/>
+  <outline>
+    <contour>
+      <point x="-63" y="-297"/>
+      <point x="36" y="-254"/>
+      <point x="80" y="-240" type="curve"/>
+      <point x="86" y="-226"/>
+      <point x="88" y="-218"/>
+      <point x="91" y="-204" type="curve"/>
+      <point x="46" y="-217"/>
+      <point x="-37" y="-249"/>
+      <point x="-79" y="-272" type="curve"/>
+      <point x="-83" y="-281"/>
+      <point x="-87" y="-296"/>
+      <point x="-90" y="-309" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-16" y="-335"/>
+      <point x="-6" y="-346"/>
+      <point x="1" y="-355" type="curve"/>
+      <point x="11" y="-347"/>
+      <point x="23" y="-334"/>
+      <point x="27" y="-329" type="curve"/>
+      <point x="22" y="-319"/>
+      <point x="11" y="-307"/>
+      <point x="-1" y="-300" type="curve"/>
+      <point x="-6" y="-306"/>
+      <point x="-20" y="-320"/>
+      <point x="-28" y="-327" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1" y="-184" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="1" y="-355" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
