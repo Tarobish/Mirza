@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni06CF" format="1">
-  <advance width="362"/>
-  <unicode hex="06CF"/>
-  <outline>
-    <component base="uni0648"/>
-    <component base="uniFBB2" xOffset="187" yOffset="-297"/>
-  </outline>
-</glyph>

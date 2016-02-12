@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0750.medi" format="1">
-  <advance width="523"/>
-  <outline>
-    <component base="Longdotlessbehar.medi"/>
-    <component base="dots.horz.belowar" xOffset="174" yOffset="130"/>
-  </outline>
-</glyph>
