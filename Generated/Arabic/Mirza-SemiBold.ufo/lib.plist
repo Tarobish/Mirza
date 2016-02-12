@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>F0A47C59-293D-4CE0-8073-FB369670A520</string>
+	<string>E34A540A-D769-46BE-9BD6-B67BB780C3EA</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<true/>
 	<key>com.schriftgestaltung.weight</key>
@@ -14,28 +14,6 @@
 	<integer>100</integer>
 	<key>public.glyphOrder</key>
 	<array>
-		<string>Longdotlessbehar.init</string>
-		<string>Longdotlessbehar.medi</string>
-		<string>extender</string>
-		<string>uniFEFD</string>
-		<string>uniFEFE</string>
-		<string>uni0604</string>
-		<string>uni0664.above</string>
-		<string>uni0664.below</string>
-		<string>uni0664.center</string>
-		<string>uni0663.above</string>
-		<string>uni0662.above</string>
-		<string>uni0662.below</string>
-		<string>uni0663.below</string>
-		<string>TahSmallDotbelowar</string>
-		<string>TahSmallTwoDotsabovear</string>
-		<string>TahSmallTwoDotsbelowar</string>
-		<string>TahSmallTwoDotscenterar</string>
-		<string>VaDotbelowar</string>
-		<string>barlong</string>
-		<string>dots.horz.belowar</string>
-		<string>gafbarar</string>
-		<string>uniFBBC</string>
 		<string>A</string>
 		<string>B</string>
 		<string>C</string>
@@ -88,6 +66,8 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>Longdotlessbehar.init</string>
+		<string>Longdotlessbehar.medi</string>
 		<string>uni0621</string>
 		<string>uni0627</string>
 		<string>uniFE8E</string>
@@ -647,8 +627,8 @@
 		<string>uniFE8B</string>
 		<string>uni06CE</string>
 		<string>uni06CE.fina</string>
-		<string>uni06CE.init</string>
 		<string>uni06CE.medi</string>
+		<string>uni06CE.init</string>
 		<string>uni08A8</string>
 		<string>uni08A8.fina</string>
 		<string>uni08A8.init</string>
@@ -789,6 +769,7 @@
 		<string>uni077E.init</string>
 		<string>uni077E.medi</string>
 		<string>uni0640</string>
+		<string>extender</string>
 		<string>uniFEFB</string>
 		<string>uniFEFC</string>
 		<string>uniFEF7</string>
@@ -880,6 +861,8 @@
 		<string>uniFC53.fina</string>
 		<string>uni076A0627.fina</string>
 		<string>uni076A0627.isol</string>
+		<string>uniFEFD</string>
+		<string>uniFEFE</string>
 		<string>uni066B</string>
 		<string>uni066C</string>
 		<string>uni0660</string>
@@ -967,6 +950,7 @@
 		<string>uni060F</string>
 		<string>uni06FD</string>
 		<string>uni06DD</string>
+		<string>uni0604</string>
 		<string>uniFD3E</string>
 		<string>uniFD3F</string>
 		<string>space</string>
@@ -989,8 +973,11 @@
 		<string>uni0607.pt</string>
 		<string>uni0609</string>
 		<string>uni060A</string>
-		<string>circumflex.arabic</string>
-		<string>circumflex.below</string>
+		<string>TahSmallDotbelowar</string>
+		<string>TahSmallTwoDotsabovear</string>
+		<string>TahSmallTwoDotsbelowar</string>
+		<string>TahSmallTwoDotscenterar</string>
+		<string>VaDotbelowar</string>
 		<string>uni0612</string>
 		<string>uni0613</string>
 		<string>uni06E6</string>
@@ -1079,6 +1066,12 @@
 		<string>uni06EB</string>
 		<string>uni06EC</string>
 		<string>uni06ED</string>
+		<string>uni0662.above</string>
+		<string>uni0662.below</string>
+		<string>uni0663.above</string>
+		<string>uni0664.above</string>
+		<string>uni0664.below</string>
+		<string>uni0664.center</string>
 		<string>uni08E4</string>
 		<string>uni08E5</string>
 		<string>uni08E6</string>
@@ -1092,6 +1085,13 @@
 		<string>uni08F4</string>
 		<string>uni08F5</string>
 		<string>uni08F6</string>
+		<string>barlong</string>
+		<string>dots.horz.belowar</string>
+		<string>gafbarar</string>
+		<string>uniFBBC</string>
+		<string>uni0663.below</string>
+		<string>circumflex.arabic</string>
+		<string>circumflex.below</string>
 	</array>
 </dict>
 </plist>

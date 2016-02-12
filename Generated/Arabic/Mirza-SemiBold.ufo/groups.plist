@@ -329,7 +329,6 @@
 	</array>
 	<key>@MMK_L_LamAlef</key>
 	<array>
-		<string>uniFEFD</string>
 		<string>uniFEFB</string>
 		<string>uniFEF7</string>
 		<string>uniFEF9</string>
@@ -341,10 +340,10 @@
 		<string>uni06B70627.isol</string>
 		<string>uni06B80627.isol</string>
 		<string>uni076A0627.isol</string>
+		<string>uniFEFD</string>
 	</array>
 	<key>@MMK_L_LamAlefFina</key>
 	<array>
-		<string>uniFEFE</string>
 		<string>uniFEFC</string>
 		<string>uniFEF8</string>
 		<string>uniFEFA</string>
@@ -358,6 +357,7 @@
 		<string>uni06B70627.fina</string>
 		<string>uni06B80627.fina</string>
 		<string>uni076A0627.fina</string>
+		<string>uniFEFE</string>
 	</array>
 	<key>@MMK_L_MeemInti</key>
 	<array>
@@ -858,7 +858,6 @@
 	</array>
 	<key>@MMK_R_LamAlef</key>
 	<array>
-		<string>uniFEFD</string>
 		<string>uniFEFB</string>
 		<string>uniFEF7</string>
 		<string>uniFEF9</string>
@@ -870,10 +869,10 @@
 		<string>uni06B70627.isol</string>
 		<string>uni06B80627.isol</string>
 		<string>uni076A0627.isol</string>
+		<string>uniFEFD</string>
 	</array>
 	<key>@MMK_R_LamAlefFina</key>
 	<array>
-		<string>uniFEFE</string>
 		<string>uniFEFC</string>
 		<string>uniFEF8</string>
 		<string>uniFEFA</string>
@@ -887,6 +886,7 @@
 		<string>uni06B70627.fina</string>
 		<string>uni06B80627.fina</string>
 		<string>uni076A0627.fina</string>
+		<string>uniFEFE</string>
 	</array>
 	<key>@MMK_R_MeemInti</key>
 	<array>
