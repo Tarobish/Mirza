@@ -12,6 +12,7 @@ define([
   , './data/quran'
   , './generatePages'
   , 'require/text!./data/mirza.ligatures-01.json'
+  , 'require/text!./data/mirza.kerning-01.json'
 ], function(
     domStuff
   , README
@@ -26,6 +27,7 @@ define([
   , quranText
   , generatePages
   , testDataTxt
+  , testDataKerning
 ){
     "use strict";
     /*global document:true window:true*/
@@ -50,8 +52,12 @@ define([
               , quran: quranText
             }
         }
+      , testsKern: {
+            title: 'Generated Kerning Tests'
+            , '/': generatePages.fromArray( JSON.parse(testDataKerning)/*.reverse()*/)
+        }
       , tests: {
-            title: 'Generated Tests'
+            title: 'Generated GSUB Tests'
             , '/': generatePages.fromArray( JSON.parse(testDataTxt)/*.reverse()*/)
         }
       , jomhuriaTests: {
