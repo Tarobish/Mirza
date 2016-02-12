@@ -1117,8 +1117,7 @@ lookup rlig_ARA_dlig_ALL {
 	sub uniFEE3 uniFEE4 by uniFCD1;
 
 	# ligature #42
-	# FIXME: the issue says it's uniFBA9 but Glyphs says uniFEEC
-	sub uniFBA9 [uniFEF0 uni06CD.fina] by uniFC53.fina;
+	sub uniFEEC [uniFEF0 uni06CD.fina] by uniFC53.fina;
 
 	#  ligature #41
 	sub [uniFBAC uniFEEB] [uniFEF0 uni06CD.fina] by uniFC53;
