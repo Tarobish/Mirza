@@ -28,53 +28,11 @@ languagesystem latn TRK;
 # } aalt;
 
 
-
-lookup arab_comb {
-
-	# fontTools.feaLib.error.FeatureLibError: Sources/glyphs.fea:23:2:
-	# Within a named lookup block, it is not allowed to change the script
-	# script arab;
-
-	# these are all mark characters stacked together
-	sub uni0651 uni0670 by shaddaAlefabovear;
-	sub uni0670 uni0651 by shaddaAlefabovear;
-	sub uni0651 uni064F by shaddaDammaar;
-	sub uni064F uni0651 by shaddaDammaar;
-	sub uni0651 uni064C by shaddaDammatanar;
-	sub uni064C uni0651 by shaddaDammatanar;
-	sub uni0651 uni064E by shaddaFathaar;
-	sub uni064E uni0651 by shaddaFathaar;
-	sub uni0651 uni064B by shaddaFathatanar;
-	sub uni064B uni0651 by shaddaFathatanar;
-	sub uni0651 uni0650 by shaddaKasraar;
-	sub uni0650 uni0651 by shaddaKasraar;
-	sub uni0651 uni064D by shaddaKasratanar;
-	sub uni064D uni0651 by shaddaKasratanar;
-	sub uni0654 uni064B by uni0654064B;
-	sub uni064B uni0654 by uni0654064B;
-	sub uni0654 uni064C by uni0654064C;
-	sub uni064C uni0654 by uni0654064C;
-	sub uni0654 uni064E by uni0654064E;
-	sub uni064E uni0654 by uni0654064E;
-	sub uni0654 uni064F by uni0654064F;
-	sub uni064F uni0654 by uni0654064F;
-	sub uni0654 uni0652 by uni06540652;
-	sub uni0652 uni0654 by uni06540652;
-	sub uni0655 uni064D by uni0655064D;
-	sub uni064D uni0655 by uni0655064D;
-	sub uni0655 uni0650 by uni06550650;
-	sub uni0650 uni0655 by uni06550650;
-} arab_comb;
-
-
-feature ccmp {
-# automatic
-	# this "script arab;" was important to make firefox play along
-	# with the decomposed/recombined characters. My local harfbuzz and
-	# chromium did work anyays.
-	script arab;
-	lookup arab_comb;
-} ccmp;
+feature isol {
+  # uni0627 + uni0655 seems to be (unicode) normalized to uni0625
+  # but I need it in peaces to move the mark in contextual positioning
+  sub uni0625 by uni0627 uni0655;
+} isol;
 
 
 feature init {
@@ -82,10 +40,6 @@ lookupflag IgnoreMarks;
 ## automatic
 
 sub uni0750 by uni0750.init;
-
-
-
-
 
 # ligature #13
 sub uni062D by uniFEA3;
@@ -1342,4 +1296,8 @@ include(arabMarkFeatures.fea)
 
 include(latn.fea);
 include(kern.fea);
+include(pos-specific.fea);
+
 include(gdef.fea);
+
+

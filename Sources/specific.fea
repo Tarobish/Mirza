@@ -35,12 +35,6 @@ lookup decompCollisions {
         # issue #62 colliding #03
 ];
 
-@BasesBottomCollidingSecond_1 = [
-        # colliding #01 colliding #02
-        uniFE8E uniFE8E.short uni0675.fina uni0773.fina uni0774.fina
-];
-
-
 @BasesBottomCollidingSecond_2 = [
         # issue #62 colliding #03
         uniFEF0
