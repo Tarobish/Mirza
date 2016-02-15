@@ -73111,7 +73111,7 @@ unicode = 0659;
 },
 {
 glyphname = "vabove-ar";
-lastChange = "2016-02-06 01:34:46 +0000";
+lastChange = "2016-02-15 04:38:17 +0000";
 layers = (
 {
 anchors = (
@@ -73231,10 +73231,13 @@ width = 0;
 }
 );
 unicode = 065A;
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = "vbelow-ar";
-lastChange = "2016-02-06 01:34:46 +0000";
+lastChange = "2016-02-15 04:38:25 +0000";
 layers = (
 {
 anchors = (
@@ -73345,10 +73348,13 @@ nodes = (
 width = 0;
 }
 );
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = "vinvertedabove-ar";
-lastChange = "2016-02-06 01:34:46 +0000";
+lastChange = "2016-02-15 04:38:34 +0000";
 layers = (
 {
 anchors = (
@@ -73468,6 +73474,9 @@ width = 0;
 }
 );
 unicode = 065B;
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = "dotvowelbelow-ar";
