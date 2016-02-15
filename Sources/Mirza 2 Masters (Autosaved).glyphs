@@ -1,7 +1,7 @@
 {
 .appVersion = "846";
 DisplayStrings = (
-"/yehbarree-ar.fina"
+"/peh-ar/peh-ar/yehbarree-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
@@ -37021,7 +37021,7 @@ unicode = 06D2;
 },
 {
 glyphname = "yehbarree-ar.fina";
-lastChange = "2016-02-15 18:31:06 +0000";
+lastChange = "2016-02-15 18:31:50 +0000";
 layers = (
 {
 anchors = (
@@ -37039,7 +37039,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"624 98 LINE",
+"632 98 LINE",
 "470 98 LINE SMOOTH",
 "433 98 OFFCURVE",
 "399 90 OFFCURVE",
@@ -37082,11 +37082,11 @@ nodes = (
 "303 -21 OFFCURVE",
 "327 0 OFFCURVE",
 "384 0 CURVE SMOOTH",
-"624 0 LINE"
+"632 0 LINE"
 );
 }
 );
-width = 583;
+width = 632;
 },
 {
 anchors = (
@@ -37104,7 +37104,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"615 139 LINE",
+"674 139 LINE",
 "481 139 LINE SMOOTH",
 "432 139 OFFCURVE",
 "397 127 OFFCURVE",
@@ -37147,11 +37147,11 @@ nodes = (
 "315 -24 OFFCURVE",
 "340 0 OFFCURVE",
 "391 0 CURVE SMOOTH",
-"615 0 LINE SMOOTH"
+"674 0 LINE SMOOTH"
 );
 }
 );
-width = 615;
+width = 674;
 }
 );
 unicode = FBAF;
