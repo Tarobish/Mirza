@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBBA" format="1">
+  <advance width="0"/>
+  <unicode hex="FBBA"/>
+  <outline>
+    <contour>
+      <point x="-97" y="623"/>
+      <point x="-73" y="596"/>
+      <point x="-56" y="576" type="curve"/>
+      <point x="-39" y="590"/>
+      <point x="-13" y="616"/>
+      <point x="1" y="631" type="curve"/>
+      <point x="22" y="613"/>
+      <point x="41" y="593"/>
+      <point x="54" y="576" type="curve"/>
+      <point x="76" y="593"/>
+      <point x="109" y="628"/>
+      <point x="117" y="640" type="curve"/>
+      <point x="107" y="661"/>
+      <point x="86" y="686"/>
+      <point x="59" y="702" type="curve"/>
+      <point x="81" y="720"/>
+      <point x="110" y="751"/>
+      <point x="117" y="762" type="curve"/>
+      <point x="106" y="786"/>
+      <point x="79" y="815"/>
+      <point x="48" y="831" type="curve"/>
+      <point x="41" y="821"/>
+      <point x="17" y="796"/>
+      <point x="-2" y="778" type="curve"/>
+      <point x="-16" y="798"/>
+      <point x="-38" y="818"/>
+      <point x="-62" y="831" type="curve"/>
+      <point x="-71" y="819"/>
+      <point x="-108" y="781"/>
+      <point x="-126" y="766" type="curve"/>
+      <point x="-101" y="748"/>
+      <point x="-80" y="726"/>
+      <point x="-64" y="707" type="curve"/>
+      <point x="-75" y="693"/>
+      <point x="-109" y="658"/>
+      <point x="-126" y="644" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-34" y="717"/>
+      <point x="-11" y="739"/>
+      <point x="1" y="753" type="curve"/>
+      <point x="18" y="738"/>
+      <point x="34" y="722"/>
+      <point x="47" y="707" type="curve"/>
+      <point x="38" y="696"/>
+      <point x="16" y="673"/>
+      <point x="-2" y="656" type="curve"/>
+      <point x="-14" y="673"/>
+      <point x="-31" y="690"/>
+      <point x="-51" y="702" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-5" y="831" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-5" y="556" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
