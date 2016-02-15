@@ -80099,7 +80099,7 @@ subCategory = Spacing;
 },
 {
 glyphname = circumflex.arabic;
-lastChange = "2016-02-12 04:32:44 +0000";
+lastChange = "2016-02-15 04:32:54 +0000";
 layers = (
 {
 anchors = (
@@ -80207,10 +80207,12 @@ width = 0;
 }
 );
 script = arabic;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = circumflex.below;
-lastChange = "2016-02-12 04:26:11 +0000";
+lastChange = "2016-02-15 04:33:01 +0000";
 layers = (
 {
 anchors = (
@@ -80330,6 +80332,8 @@ width = 0;
 }
 );
 script = arabic;
+category = Mark;
+subCategory = Spacing;
 }
 );
 instances = (
