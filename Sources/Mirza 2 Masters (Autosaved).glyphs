@@ -22897,7 +22897,7 @@ unicode = FEDC;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2016-02-06 01:34:45 +0000";
+lastChange = "2016-02-18 20:57:14 +0000";
 layers = (
 {
 anchors = (
@@ -52709,7 +52709,7 @@ width = 1155;
 },
 {
 glyphname = "kaf_lam-ar";
-lastChange = "2016-02-09 19:43:42 +0000";
+lastChange = "2016-02-18 20:56:11 +0000";
 layers = (
 {
 anchors = (
@@ -52727,7 +52727,7 @@ position = "{367, 0}";
 },
 {
 name = top_1;
-position = "{631, 567}";
+position = "{611, 557}";
 },
 {
 name = top_2;
@@ -55433,7 +55433,7 @@ unicode = FC83;
 },
 {
 glyphname = "keheh_alef-ar";
-lastChange = "2016-02-09 19:43:58 +0000";
+lastChange = "2016-02-18 20:56:28 +0000";
 layers = (
 {
 anchors = (
@@ -55451,7 +55451,7 @@ position = "{217.5, 0}";
 },
 {
 name = top_1;
-position = "{300, 553}";
+position = "{290, 553}";
 },
 {
 name = top_2;
