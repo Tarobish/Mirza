@@ -5,6 +5,9 @@ for style in Regular Medium SemiBold Bold; do
 	./Tools/buildFont.sh \
 		Generated/Arabic/Mirza-"$style".otf \
 		Generated/Latin/Latin-Mizra-"$style".otf \
-		Build/Mirza-"$style".otf;
+		Build/Mirza-"$style".otf \
+		Generated/Arabic/Mirza-"$style".ttf \
+		Generated/Latin/Latin-Mizra-"$style".ttf \
+		Build/Mirza-"$style".ttf;
 #exit 0;
 done;

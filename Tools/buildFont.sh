@@ -3,25 +3,32 @@
 tools="$(dirname $0)";
 sources="$(dirname $tools)/Sources";
 
-arab=$1;
-latn=$2;
-target=$3;
+arabOTF=$1;
+latnOTF=$2;
+targetOTF=$3;
+arabTTF=$4;
+latnTTF=$5;
+targetTTF=$6;
 
 mkdir _build;
 
-cp $arab _build/arab.otf;
-cp $latn _build/latn.otf;
-cp $sources/specific.fea _build/specific.fea;
-cp $sources/pos-specific.fea _build/pos-specific.fea;
-cp $sources/features.fea _build/features.fea;
-cp $sources/data.json _build/data.json;
+cp -v $arabOTF _build/arab.otf;
+cp -v $latnOTF _build/latn.otf;
+cp -v $arabTTF _build/arab.ttf;
+cp -v $latnTTF _build/latn.ttf;
 
-base=$(echo $arab | cut -f 1 -d '.')
+
+cp -v $sources/specific.fea _build/specific.fea;
+cp -v $sources/pos-specific.fea _build/pos-specific.fea;
+cp -v $sources/features.fea _build/features.fea;
+cp -v $sources/data.json _build/data.json;
+
+base=$(echo $arabOTF | cut -f 1 -d '.')
 arab_ufo="$base.ufo"
-cp -LR "$arab_ufo" _build/arab.ufo
-base=$(echo $latn | cut -f 1 -d '.')
+cp -vLR "$arab_ufo" _build/arab.ufo
+base=$(echo $latnOTF | cut -f 1 -d '.')
 latn_ufo="$base.ufo"
-cp -LR "$latn_ufo" _build/latn.ufo
+cp -vLR "$latn_ufo" _build/latn.ufo
 
 cd _build;
 tools="../$tools";
@@ -30,9 +37,11 @@ sources="../$sources";
 
 echo 'clean arabic';
 $tools/getArabSubset.py arab.otf latn.otf;
+$tools/getArabSubset.py arab.ttf latn.ttf;
 
 echo 'merge technical additions';
 $tools/mergeGlyphs.py $sources/technical-additions.sfd arab.otf;
+$tools/mergeGlyphs.py $sources/technical-additions.sfd arab.ttf;
 
 
 echo 'make feature files';
@@ -50,26 +59,27 @@ $tools/kernFeatureWriter.py features.fea arab.ufo latn.ufo > kern.fea
 
 echo 'merge fonts';
 $tools/mergeFonts.py glyphsSource.otf arab.otf latn.otf;
+$tools/mergeFonts.py glyphsSource.ttf arab.ttf latn.ttf;
 
-
-$tools/glyphOrderAndAliasDB.py glyphsSource.otf > GlyphOrderAndAliasDB
 
 echo 'make otf'
+$tools/goadb.sh glyphsSource.otf > GlyphOrderAndAliasDB
 makeotf -r -f glyphsSource.otf -o result.otf -ff features.fea;
 
-$tools/makeTTF.py result.otf result.ttf
+echo 'make ttf'
+$tools/goadb.sh glyphsSource.ttf > GlyphOrderAndAliasDB
+makeotf -r -f glyphsSource.ttf -o result.ttf -ff features.fea;
 
 echo 'finalize'
 $tools/finalize.py result.otf arab.otf data.json
-$tools/finalize.py result.ttf arab.otf data.json
+$tools/finalize.py result.ttf arab.ttf data.json
 
 
 echo 'cleaning up';
 cd ..;
-mkdir -p "$(dirname $target)";
-cp _build/result.otf $target;
-base=$(echo $target | cut -f 1 -d '.');
-cp _build/result.ttf "$base.ttf";
+mkdir -p "$(dirname $targetOTF)";
+cp -v _build/result.otf $targetOTF;
+cp -v _build/result.ttf $targetTTF;
 
 
 
