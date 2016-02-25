@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="1">
+  <advance width="305"/>
+  <unicode hex="0303"/>
+  <outline>
+    <contour>
+      <point x="64" y="603"/>
+      <point x="258" y="381"/>
+      <point x="285" y="581" type="curve"/>
+      <point x="262" y="593" type="line"/>
+      <point x="242" y="501"/>
+      <point x="48" y="723"/>
+      <point x="21" y="523" type="curve"/>
+      <point x="45" y="511" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="607" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="154" y="407" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

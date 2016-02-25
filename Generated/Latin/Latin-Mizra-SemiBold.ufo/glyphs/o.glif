@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="498"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="367" y="-11"/>
+      <point x="465" y="82"/>
+      <point x="465" y="215" type="curve" smooth="yes"/>
+      <point x="465" y="337"/>
+      <point x="384" y="418"/>
+      <point x="263" y="418" type="curve" smooth="yes"/>
+      <point x="127" y="418"/>
+      <point x="32" y="325"/>
+      <point x="32" y="192" type="curve" smooth="yes"/>
+      <point x="32" y="70"/>
+      <point x="111" y="-11"/>
+      <point x="228" y="-11" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="187" y="44"/>
+      <point x="144" y="99"/>
+      <point x="144" y="187" type="curve" smooth="yes"/>
+      <point x="144" y="268"/>
+      <point x="188" y="319"/>
+      <point x="258" y="319" type="curve"/>
+      <point x="317" y="301"/>
+      <point x="353" y="245"/>
+      <point x="353" y="174" type="curve" smooth="yes"/>
+      <point x="353" y="92"/>
+      <point x="314" y="44"/>
+      <point x="246" y="44" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="250" y="204" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="449" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="250" y="407" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="478" y="407" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

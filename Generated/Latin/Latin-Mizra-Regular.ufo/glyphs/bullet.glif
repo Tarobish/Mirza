@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="338"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="216" y="180"/>
+      <point x="257" y="221"/>
+      <point x="295" y="268" type="curve"/>
+      <point x="248" y="307"/>
+      <point x="207" y="348"/>
+      <point x="168" y="395" type="curve"/>
+      <point x="121" y="356"/>
+      <point x="81" y="315"/>
+      <point x="42" y="268" type="curve"/>
+      <point x="89" y="230"/>
+      <point x="130" y="189"/>
+      <point x="168" y="142" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=period+10</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=period+10</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

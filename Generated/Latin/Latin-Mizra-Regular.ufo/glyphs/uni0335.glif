@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0335" format="1">
+  <advance width="415"/>
+  <unicode hex="0335"/>
+  <outline>
+    <contour>
+      <point x="101" y="232"/>
+      <point x="124" y="236"/>
+      <point x="201" y="236" type="curve" smooth="yes"/>
+      <point x="254" y="236"/>
+      <point x="321" y="233"/>
+      <point x="357" y="228" type="curve"/>
+      <point x="359" y="240"/>
+      <point x="361" y="255"/>
+      <point x="361" y="266" type="curve" smooth="yes"/>
+      <point x="361" y="279"/>
+      <point x="359" y="292"/>
+      <point x="357" y="303" type="curve"/>
+      <point x="317" y="296"/>
+      <point x="290" y="292"/>
+      <point x="214" y="292" type="curve" smooth="yes"/>
+      <point x="160" y="292"/>
+      <point x="95" y="295"/>
+      <point x="58" y="300" type="curve"/>
+      <point x="55" y="288"/>
+      <point x="53" y="274"/>
+      <point x="53" y="262" type="curve" smooth="yes"/>
+      <point x="53" y="249"/>
+      <point x="55" y="236"/>
+      <point x="58" y="225" type="curve"/>
+    </contour>
+    <contour>
+      <point x="208" y="264" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

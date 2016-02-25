@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="648"/>
+  <unicode hex="0023"/>
+  <outline>
+    <component base="slash" xOffset="27" yOffset="24" yScale="0.909"/>
+    <component base="slash" xOffset="280" yOffset="24" yScale="0.909"/>
+    <component base="uni0336" xOffset="-16" yOffset="-52"/>
+    <component base="uni0336" xOffset="29" yOffset="152"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>
