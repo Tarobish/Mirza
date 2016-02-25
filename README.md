@@ -67,10 +67,14 @@ GPOS features are generated on the fly from the files in `Generated` directories
 
 # Credits and License
 
-Arabic font design: Kourosh
-Latin font design: Eduardo Tunni
-Font-engineering: Lasse Fister
+* Arabic font design: Kourosh
+* Latin font design: Eduardo Tunni
+* font engineering: Lasse Fister
 
 License: [SIL OPEN FONT LICENSE](./OFL.txt)
 
-Copyright 2015, 2016 KB-Studio (www.k-b-studio.com|tarobish@gmail.com). Copyright 2015, 2016 Lasse Fister (lasse@graphicore.de). Copyright 2015, 2016 Eduardo Tunni(edu@tipo.net.ar).
+Copyright 2015, 2016 KB-Studio (www.k-b-studio.com|tarobish@gmail.com).
+
+Copyright 2015, 2016 Lasse Fister (lasse@graphicore.de).
+
+Copyright 2015, 2016 Eduardo Tunni(edu@tipo.net.ar).
