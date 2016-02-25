@@ -14,7 +14,7 @@
       <point x="73" y="125" type="line"/>
     </contour>
     <contour>
-      <point x="51" y="155" type="move" name="top"/>
+      <point x="14" y="282" type="move" name="top"/>
     </contour>
     <contour>
       <point x="54" y="-28" type="move" name="bottom"/>
