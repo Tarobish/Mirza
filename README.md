@@ -69,7 +69,7 @@ GPOS features are generated on the fly from the files in `Generated` directories
 
 # Credits and License
 
-* Arabic font design: Kourosh
+* Arabic font design: Kourosh Beigpour
 * Latin font design: Eduardo Tunni
 * font engineering: Lasse Fister
 
