@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0773" format="1">
+  <advance width="186"/>
+  <unicode hex="0773"/>
+  <outline>
+    <component base="uni0627.short"/>
+    <component base="uni0662.above" xOffset="36" yOffset="-19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0662.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

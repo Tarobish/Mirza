@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06440673.isol" format="1">
+  <advance width="479"/>
+  <outline>
+    <component base="uniFEFB"/>
+    <component base="uni065F" xOffset="162" yOffset="155"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam-ar.isol</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alefWavyhamzabelow-ar.isol</string>
+    </dict>
+  </lib>
+</glyph>
