@@ -1,5 +1,8 @@
 {
 .appVersion = "846";
+DisplayStrings = (
+/extender
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -346,7 +349,7 @@ subCategory = Other;
 },
 {
 glyphname = extender;
-lastChange = "2016-02-18 19:19:40 +0000";
+lastChange = "2016-03-02 03:40:27 +0000";
 layers = (
 {
 anchors = (
@@ -356,7 +359,7 @@ position = "{42, -25}";
 },
 {
 name = top;
-position = "{-1, 240}";
+position = "{-0, 250}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -386,7 +389,7 @@ position = "{60, -29}";
 },
 {
 name = top;
-position = "{21, 303}";
+position = "{50, 304}";
 }
 );
 layerId = "0E844BAD-773F-41FF-B6D6-C35F1E5E991C";
