@@ -14,6 +14,9 @@ languagesystem latn ROM;
 languagesystem latn TAT;
 languagesystem latn TRK;
 
+table head {
+    FontRevision %VERSION%;
+} head;
 
 # fontTools.feaLib.error.FeatureLibError: Sources/glyphs.fea:9:1:
 # Expected glyph class definition or statement

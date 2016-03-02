@@ -64,7 +64,7 @@ echo 'merge fonts';
 $tools/mergeFonts.py glyphsSource.otf arab.otf latn.otf;
 $tools/mergeFonts.py glyphsSource.ttf arab.ttf latn.ttf;
 
-
+sed -i -- "s/%VERSION%/$VERSION/g" features.fea;
 echo 'make otf'
 $tools/goadb.sh glyphsSource.otf > GlyphOrderAndAliasDB
 makeotf -r -f glyphsSource.otf -o result.otf -ff features.fea;
