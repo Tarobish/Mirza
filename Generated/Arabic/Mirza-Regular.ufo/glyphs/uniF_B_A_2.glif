@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBA2" format="1">
+  <advance width="223"/>
+  <unicode hex="FBA2"/>
+  <outline>
+    <component base="uniFB68"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni08A0.fina" format="1">
+  <advance width="893"/>
+  <outline>
+    <component base="uni066E.fina"/>
+    <component base="vbelowar" xOffset="417" yOffset="145"/>
+    <contour>
+      <point x="418" y="-248" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
