@@ -3,6 +3,7 @@
 for style in Regular Medium SemiBold Bold; do
 	echo building Mirza "$style"
 	./Tools/buildFont.sh \
+		$style \
 		Generated/Arabic/Mirza-"$style".otf \
 		Generated/Latin/Latin-Mizra-"$style".otf \
 		Build/Mirza-"$style".otf \

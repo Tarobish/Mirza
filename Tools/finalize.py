@@ -59,7 +59,7 @@ def clean(font):
         if hasattr(font[tag], "compile"):
             font[tag].compile(font)
 
-def main(fileName, tableSourceFile, dataJSON):
+def main(fileName, tableSourceFile, *jsonFiles):
     outfile = fileName
     # now open in fontTools
     font = TTFont(fileName)
@@ -74,9 +74,11 @@ def main(fileName, tableSourceFile, dataJSON):
 
     # TODO: make this loaded as json
     # version, authors, copyright etc...
-    with open(dataJSON) as f:
-        data = json.load(f)
-    writeData(font, data);
+    for dataJSON in jsonFiles:
+        # the latter JSON files will override the former ones
+        with open(dataJSON) as f:
+            data = json.load(f)
+        writeData(font, data);
 
     clean(font)
     font.save(outfile)

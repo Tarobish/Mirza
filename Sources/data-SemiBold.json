@@ -1,0 +1,19 @@
+{
+"OS/2": [
+    ["fsType", 0]
+],
+"name": [
+    ["Mirza SemiBold"
+        , 1, 3, 1, "0x409"]
+  , ["SemiBold"
+        , 2, 3, 1, "0x409"]
+  , ["Mirza SemiBold"
+        , 4, 3, 1, "0x409"]
+  , ["Mirza-SemiBold"
+        , 6, 3, 1, "0x409"]
+  , ["Mirza"
+        , 16, 3, 1, "0x409"]
+  , ["SemiBold"
+        , 17, 3, 1, "0x409"]
+]
+}
