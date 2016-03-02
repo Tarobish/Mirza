@@ -28,9 +28,9 @@
 \setotherlanguage{english}
 \rightfootnoterule
 
-\setmainfont               [Path=./Build/,Ligatures=TeX]                     {$fontfile}
+\setmainfont               [Path=./Fonts/,Ligatures=TeX]                     {$fontfile}
 \setmonofont               [Scale=MatchLowercase]              {DejaVu Sans Mono}
-\newfontfamily\arabicfont  [Path=./Build/,Script=Arabic,Numbers=Proportional]{$fontfile}
+\newfontfamily\arabicfont  [Path=./Fonts/,Script=Arabic,Numbers=Proportional]{$fontfile}
 \newfontfamily\arabicfonttt[Script=Arabic,Scale=MatchLowercase]{DejaVu Sans Mono}
 
 \newcommand\addff[1]{\addfontfeature{RawFeature={#1}}} % add feature
@@ -41,7 +41,7 @@
 %setlength{\emergencystretch}{3em}  % prevent overfull lines
 \setcounter{secnumdepth}{0}
 
-\newfontfamily\titlefont[Path=./Build/,Script=Arabic]{$fontfile}
+\newfontfamily\titlefont[Path=./Fonts/,Script=Arabic]{$fontfile}
 
 \titleformat*{\section}{\Large\titlefont\color{titlecolor}}
 \titleformat*{\subsection}{\large\titlefont\color{titlecolor}}

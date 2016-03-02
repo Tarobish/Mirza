@@ -5,7 +5,7 @@ VERSION=1.000
 
 DDT=Document-Sources
 GEN=Generated
-FONTDIR=Build
+FONTDIR=Fonts
 DIST=Releases
 DDTOUT=$(GEN)/Documents
 
