@@ -80362,6 +80362,7 @@ weightClass = SemiBold;
 },
 {
 interpolationWeight = 700;
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 }
