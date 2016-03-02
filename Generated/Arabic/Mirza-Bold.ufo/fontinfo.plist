@@ -26,10 +26,8 @@
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>styleMapFamilyName</key>
-	<string>Mirza Bold</string>
 	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<string>bold</string>
 	<key>styleName</key>
 	<string>Bold</string>
 	<key>unitsPerEm</key>
