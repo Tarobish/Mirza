@@ -1,6 +1,6 @@
 define([
     'dom-tool'
-  , 'require/text!../../../Document-Sources/Quran.txt'
+  , 'require/text!../../../Sources/Documents/Quran.txt'
 ], function(domStuff, text) {
     var fromHTML = domStuff.createElementfromHTML;
     return {

@@ -1,6 +1,6 @@
 define([
     'dom-tool'
-  , 'require/text!../../../Document-Sources/marks.txt'
+  , 'require/text!../../../Sources/Documents/marks.txt'
 ], function(domStuff, text) {
     var fromHTML = domStuff.createElementfromHTML;
     return {

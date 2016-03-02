@@ -3,7 +3,7 @@
 FAMILY=Mirza
 VERSION=1.000
 
-DDT=Document-Sources
+DDT=Sources/Documents
 GEN=Generated
 FONTDIR=Fonts
 DIST=Releases
@@ -59,7 +59,7 @@ clean:
 dist:
 	@echo "   Making dist tarball"
 	@mkdir -p $(RELEASE)
-	@cp document-sources/RELEASE-README $(RELEASE)/README.txt
+	@cp $(DDT)/RELEASE-README $(RELEASE)/README.txt
 	@cp OFL.txt $(RELEASE)
 	@cp $(DTTF) $(RELEASE)
 	@cd $(RELEASE) && zip -r $(basename `pwd`).zip .
