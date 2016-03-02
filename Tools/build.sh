@@ -9,6 +9,7 @@ for style in Regular Medium SemiBold Bold; do
 		Fonts/Mirza-"$style".otf \
 		Sources/Build/Arabic/Mirza-"$style".ttf \
 		Sources/Build/Latin/Latin-Mizra-"$style".ttf \
-		Fonts/Mirza-"$style".ttf;
+		Fonts/Mirza-"$style".ttf \
+		$(cat VERSION.txt);
 #exit 0;
 done;

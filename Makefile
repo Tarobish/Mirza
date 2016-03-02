@@ -1,9 +1,10 @@
 .PHONY: all clean doc release dist textfiles preparedoc
 
 FAMILY=Mirza
-VERSION=1.000
+VERSION=`cat VERSION.txt`
 
-DDT=Sources/Documents
+SOURCES=Sources
+DDT=$(SOURCES)/Documents
 DOCS=Documents
 FONTDIR=Fonts
 DIST=Releases
@@ -50,16 +51,19 @@ $(DDTOUT)/%.pdf: $(DDT)/%.tex
 	@mkdir -p $(DDTOUT)
 	@latexmk --norc --xelatex --quiet --output-directory=${DDTOUT} $<
 
-$(RELEASE)/$(FAMILY)-$(VERSION):$(FONTDIR)/$(NAME).ttf FONTLOG README
-	@echo "   GEN	$@"
-
 clean:
 	rm -rfv $(PDFS)
 
 dist:
 	@echo "   Making dist tarball"
 	@mkdir -p $(RELEASE)
-	@cp $(DDT)/RELEASE-README $(RELEASE)/README.txt
+	@mkdir -p $(RELEASE)/ttf
+	@mkdir -p $(RELEASE)/otf
+	@cp $(FONTDIR)/*.ttf $(RELEASE)/ttf
+	@cp $(FONTDIR)/*.otf $(RELEASE)/otf
+	@cp $(SOURCES)/RELEASE-README $(RELEASE)/README.txt
 	@cp OFL.txt $(RELEASE)
-	@cp $(DTTF) $(RELEASE)
+	@cp AUTHORS.txt $(RELEASE)
+	@cp CONTRIBUTORS.txt $(RELEASE)
 	@cd $(RELEASE) && zip -r $(basename `pwd`).zip .
+	@rm -rf $(RELEASE)

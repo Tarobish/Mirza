@@ -10,6 +10,7 @@ targetOTF=$4;
 arabTTF=$5;
 latnTTF=$6;
 targetTTF=$7;
+VERSION=$8
 
 mkdir _build;
 
@@ -17,7 +18,6 @@ cp -v $arabOTF _build/arab.otf;
 cp -v $latnOTF _build/latn.otf;
 cp -v $arabTTF _build/arab.ttf;
 cp -v $latnTTF _build/latn.ttf;
-
 
 cp -v $sources/specific.fea _build/specific.fea;
 cp -v $sources/pos-specific.fea _build/pos-specific.fea;
@@ -35,7 +35,6 @@ cp -vLR "$latn_ufo" _build/latn.ufo
 cd _build;
 tools="../$tools";
 sources="../$sources";
-
 
 echo 'clean arabic';
 $tools/getArabSubset.py arab.otf latn.otf;
@@ -75,6 +74,7 @@ $tools/goadb.sh glyphsSource.ttf > GlyphOrderAndAliasDB
 makeotf -r -f glyphsSource.ttf -o result.ttf -ff features.fea;
 
 echo 'finalize'
+sed -i -- "s/%VERSION%/$VERSION/g" *.json;
 $tools/finalize.py result.otf arab.otf data.json data-$style.json
 $tools/finalize.py result.ttf arab.ttf data.json data-$style.json
 
