@@ -1,8 +1,5 @@
 {
 .appVersion = "846";
-DisplayStrings = (
-/extender
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Mirza";
 featurePrefixes = (
@@ -359,7 +356,7 @@ position = "{42, -25}";
 },
 {
 name = top;
-position = "{-0, 250}";
+position = "{0, 250}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -80365,6 +80362,7 @@ weightClass = SemiBold;
 },
 {
 interpolationWeight = 700;
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 }
