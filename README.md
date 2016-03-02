@@ -35,6 +35,12 @@ To build the pdf testing documents:
 ## Build the fonts:
 
 ```
+.Path/to/Mirza$ make
+```
+
+or run the build script directly
+
+```
 .Path/to/Mirza$ ./Tools/build.sh
 ```
 This will create all files in the `Build` directory
