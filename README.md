@@ -13,7 +13,7 @@ At the [Live Testing Page](http://tarobish.github.io/Mirza/html/live-testing.htm
 
 If you like the live testing page see [Online Font Project](https://github.com/graphicore/online-font-project).
 
-There are some PDF [Testing documents](./Generated/Documents).
+There are some PDF [Testing documents](./Documents/Testing).
 
 # Building
 
@@ -43,11 +43,11 @@ or run the build script directly
 ```
 .Path/to/Mirza$ ./Tools/build.sh
 ```
-This will create all files in the `Build` directory
+This will create all files in the `Fonts` directory
 
 ## Testing documents
 
-You should have created/updated the fonts in `Build`. See above.
+You should have created/updated the fonts in `Fonts`. See above.
 
 
 ```

@@ -4,10 +4,10 @@ FAMILY=Mirza
 VERSION=1.000
 
 DDT=Sources/Documents
-GEN=Generated
+DOCS=Documents
 FONTDIR=Fonts
 DIST=Releases
-DDTOUT=$(GEN)/Documents
+DDTOUT=$(DOCS)/Testing
 
 RELEASE=$(DIST)/$(FAMILY)-$(VERSION)
 
@@ -50,7 +50,7 @@ $(DDTOUT)/%.pdf: $(DDT)/%.tex
 	@mkdir -p $(DDTOUT)
 	@latexmk --norc --xelatex --quiet --output-directory=${DDTOUT} $<
 
-$(RELEASE)/$(FAMILY)-$(VERSION):$(GEN)/$(NAME).ttf FONTLOG README
+$(RELEASE)/$(FAMILY)-$(VERSION):$(FONTDIR)/$(NAME).ttf FONTLOG README
 	@echo "   GEN	$@"
 
 clean:
