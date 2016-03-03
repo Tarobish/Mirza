@@ -222,7 +222,7 @@ define([
             return false;
 
         allowed = new Set();
-        _default.forEach(allowed.add, allowed)
+        _default.forEach(allowed.add, allowed);
         if(!layout.length
                 || layout.length !== 3
                 || layout.filter(function(item) {
@@ -345,6 +345,7 @@ define([
           , hasRowLabels = !!rowLabels
           , info
           ;
+        // sections are a Map
         sections.forEach(function(value, i) {
             appendChildren(table, [
                     value.renderHead(
