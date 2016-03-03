@@ -2,7 +2,7 @@
     ["achVendID", "GRCR"]
 ],
 "name": [
-    ["Copyright 2015, 2016 KB-Studio (www.k-b-studio.com|tarobish@gmail.com). Copyright 2015, 2016 Lasse Fister (lasse@graphicore.de). Copyright 2015, 2016 Eduardo Tunni(edu@tipo.net.ar)."
+    ["Copyright 2015, 2016 The Mirza Project Authors (lasse@graphicore.de)"
         , 0, 3, 1, "0x409"]
   , ["Version %VERSION%"
         , 5, 3, 1, "0x409"]
